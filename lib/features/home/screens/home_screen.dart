@@ -37,7 +37,9 @@ class HomeScreen extends ConsumerWidget {
           },
           child: Center(
             child: ConstrainedBox(
-              constraints: BoxConstraints(maxWidth: _isDesktop ? 1200 : 600),
+              constraints: BoxConstraints(
+                maxWidth: _isDesktop ? 1200 : (kIsWeb ? 800 : 600),
+              ),
               child: CustomScrollView(
             slivers: [
               // ===== App Bar =====
@@ -99,29 +101,29 @@ class HomeScreen extends ConsumerWidget {
                         children: [
                           Expanded(
                             flex: 3,
-                            child: _buildPassingGradeBanner(context),
+                            child: _buildPassingGradeBanner(context, isWeb: false),
                           ),
                           const SizedBox(width: 12),
                           Expanded(
                             flex: 2,
                             child: statsAsync.when(
-                              data: (stats) => _buildStatsCard(context, stats),
-                              loading: () => _buildStatsSkeleton(context),
+                              data: (stats) => _buildStatsCard(context, stats, isWeb: false),
+                              loading: () => _buildStatsSkeleton(context, isWeb: false),
                               error: (_, __) =>
-                                  _buildStatsCard(context, {'totalSessions': 0, 'streak': 0}),
+                                  _buildStatsCard(context, {'totalSessions': 0, 'streak': 0}, isWeb: false),
                             ),
                           ),
                         ],
                       )
                     else ...[
-                      // Mobile: stacked
-                      _buildPassingGradeBanner(context),
-                      const SizedBox(height: 16),
+                      // Mobile/Web: stacked (lebih compact di web)
+                      _buildPassingGradeBanner(context, isWeb: kIsWeb),
+                      const SizedBox(height: kIsWeb ? 10 : 16),
                       statsAsync.when(
-                        data: (stats) => _buildStatsCard(context, stats),
-                        loading: () => _buildStatsSkeleton(context),
+                        data: (stats) => _buildStatsCard(context, stats, isWeb: kIsWeb),
+                        loading: () => _buildStatsSkeleton(context, isWeb: kIsWeb),
                         error: (_, __) =>
-                            _buildStatsCard(context, {'totalSessions': 0, 'streak': 0}),
+                            _buildStatsCard(context, {'totalSessions': 0, 'streak': 0}, isWeb: kIsWeb),
                       ),
                     ],
                     const SizedBox(height: 16),
@@ -138,14 +140,14 @@ class HomeScreen extends ConsumerWidget {
                     ),
                     const SizedBox(height: 10),
 
-                    // Grid Paket
+                    // Grid Paket - Web lebih compact
                     GridView.count(
                       shrinkWrap: true,
                       physics: const NeverScrollableScrollPhysics(),
-                      crossAxisCount: _isDesktop ? 4 : 2,
-                      mainAxisSpacing: 10,
-                      crossAxisSpacing: 10,
-                      childAspectRatio: _isDesktop ? 1.3 : 0.92,
+                      crossAxisCount: kIsWeb ? 4 : 2,
+                      mainAxisSpacing: kIsWeb ? 8 : 10,
+                      crossAxisSpacing: kIsWeb ? 8 : 10,
+                      childAspectRatio: kIsWeb ? 1.1 : 0.92,
                       children: [
                         PackageCard(
                           title: 'Try Out\nLengkap',
@@ -217,10 +219,10 @@ class HomeScreen extends ConsumerWidget {
     );
   }
 
-  Widget _buildPassingGradeBanner(BuildContext context) {
+  Widget _buildPassingGradeBanner(BuildContext context, {bool isWeb = false}) {
     return Container(
       width: double.infinity,
-      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+      padding: EdgeInsets.symmetric(horizontal: 14, vertical: isWeb ? 10 : 12),
       decoration: BoxDecoration(
         gradient: const LinearGradient(
           colors: [AppTheme.primaryRed, AppTheme.primaryRedDark],
@@ -303,12 +305,12 @@ class HomeScreen extends ConsumerWidget {
     );
   }
 
-  Widget _buildStatsCard(BuildContext context, Map<String, dynamic> stats) {
+  Widget _buildStatsCard(BuildContext context, Map<String, dynamic> stats, {bool isWeb = false}) {
     final totalSessions = stats['totalSessions'] ?? 0;
     final streak = stats['streak'] ?? 0;
 
     return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+      padding: EdgeInsets.symmetric(horizontal: 14, vertical: isWeb ? 10 : 12),
       decoration: BoxDecoration(
         color: Theme.of(context).cardColor,
         borderRadius: BorderRadius.circular(12),
@@ -385,10 +387,10 @@ class HomeScreen extends ConsumerWidget {
     );
   }
 
-  Widget _buildStatsSkeleton(BuildContext context) {
+  Widget _buildStatsSkeleton(BuildContext context, {bool isWeb = false}) {
     return Container(
-      height: 76,
-      padding: const EdgeInsets.all(16),
+      height: isWeb ? 66 : 76,
+      padding: EdgeInsets.all(isWeb ? 12 : 16),
       decoration: BoxDecoration(
         color: Theme.of(context).cardColor,
         borderRadius: BorderRadius.circular(16),

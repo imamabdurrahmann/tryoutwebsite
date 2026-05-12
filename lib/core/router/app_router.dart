@@ -180,8 +180,9 @@ class _ShellScaffold extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final selectedIndex = _getShellIndex(location);
+    final isWeb = kIsWeb;
 
-    // Desktop: NavigationRail (sidebar kiri)
+    // Desktop (non-web native): NavigationRail (sidebar kiri)
     if (_isDesktop) {
       return Scaffold(
         body: Row(
@@ -233,7 +234,43 @@ class _ShellScaffold extends StatelessWidget {
       );
     }
 
-    // Mobile: BottomNavigationBar
+    // Web: Compact navigation di atas dengan jarak rapat
+    if (isWeb) {
+      return Scaffold(
+        body: child,
+        bottomNavigationBar: Container(
+          decoration: BoxDecoration(
+            border: Border(
+              top: BorderSide(color: Colors.grey.shade200, width: 1),
+            ),
+          ),
+          child: NavigationBar(
+            selectedIndex: selectedIndex,
+            onDestinationSelected: (index) => _onItemTapped(context, index),
+            height: 56, // Lebih compact
+            destinations: const [
+              NavigationDestination(
+                icon: Icon(Icons.home_outlined, size: 20),
+                selectedIcon: Icon(Icons.home, size: 20),
+                label: 'Beranda',
+              ),
+              NavigationDestination(
+                icon: Icon(Icons.history_outlined, size: 20),
+                selectedIcon: Icon(Icons.history, size: 20),
+                label: 'Riwayat',
+              ),
+              NavigationDestination(
+                icon: Icon(Icons.person_outlined, size: 20),
+                selectedIcon: Icon(Icons.person, size: 20),
+                label: 'Profil',
+              ),
+            ],
+          ),
+        ),
+      );
+    }
+
+    // Mobile: BottomNavigationBar original
     return Scaffold(
       body: child,
       bottomNavigationBar: NavigationBar(
