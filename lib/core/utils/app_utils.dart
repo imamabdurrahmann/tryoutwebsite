@@ -50,7 +50,7 @@ class AppUtils {
                   color: Colors.grey.shade700,
                 ),
             children: [
-              const TextSpan(text: 'TryOutCPNS 100% Gratis\n'),
+              const TextSpan(text: 'JagoanCPNS 100% Gratis\n'),
               TextSpan(
                 text: 'Crafted by ',
                 style: Theme.of(context).textTheme.bodySmall?.copyWith(

@@ -772,7 +772,7 @@ class ResultScreen extends ConsumerWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  'Peserta TryOutCPNS',
+                  'Peserta JagoanCPNS',
                   style: Theme.of(context).textTheme.titleSmall?.copyWith(
                         fontWeight: FontWeight.bold,
                       ),

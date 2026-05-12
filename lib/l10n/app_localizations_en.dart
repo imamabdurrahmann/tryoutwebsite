@@ -9,7 +9,7 @@ class AppLocalizationsEn extends AppLocalizations {
   AppLocalizationsEn([String locale = 'en']) : super(locale);
 
   @override
-  String get appTitle => 'TryOutCPNS';
+  String get appTitle => 'JagoanCPNS';
 
   @override
   String get home => 'Home';

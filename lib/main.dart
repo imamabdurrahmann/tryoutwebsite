@@ -44,7 +44,7 @@ void main() async {
       size: Size(savedWidth, savedHeight),
       minimumSize: const Size(800, 600),
       center: true,
-      title: 'TryOutCPNS',
+      title: 'JagoanCPNS',
       titleBarStyle: TitleBarStyle.normal,
     );
 
@@ -99,7 +99,7 @@ class _TryOutCPNSAppState extends ConsumerState<TryOutCPNSApp> with WindowListen
     final isDarkMode = ref.watch(darkModeProvider);
 
     return MaterialApp.router(
-      title: 'TryOutCPNS',
+      title: 'JagoanCPNS',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme(),
       darkTheme: AppTheme.darkTheme(),
