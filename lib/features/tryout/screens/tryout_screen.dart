@@ -51,12 +51,15 @@ class _TryoutScreenState extends ConsumerState<TryoutScreen> {
     if (key == LogicalKeyboardKey.keyC) ref.read(tryoutProvider.notifier).selectAnswer('C');
     if (key == LogicalKeyboardKey.keyD) ref.read(tryoutProvider.notifier).selectAnswer('D');
     if (key == LogicalKeyboardKey.keyE) ref.read(tryoutProvider.notifier).selectAnswer('E');
-    // Arrow keys: navigation
+    // Arrow keys: navigation (CAT Real mode: only forward)
     if (key == LogicalKeyboardKey.arrowRight || key == LogicalKeyboardKey.arrowDown) {
       ref.read(tryoutProvider.notifier).nextQuestion();
     }
-    if (key == LogicalKeyboardKey.arrowLeft || key == LogicalKeyboardKey.arrowUp) {
-      ref.read(tryoutProvider.notifier).prevQuestion();
+    // CAT Real mode: DISALLOW going back
+    if (!tryout.isCatRealMode) {
+      if (key == LogicalKeyboardKey.arrowLeft || key == LogicalKeyboardKey.arrowUp) {
+        ref.read(tryoutProvider.notifier).prevQuestion();
+      }
     }
     // F: flag
     if (key == LogicalKeyboardKey.keyF) ref.read(tryoutProvider.notifier).toggleFlag();
@@ -104,10 +107,15 @@ class _TryoutScreenState extends ConsumerState<TryoutScreen> {
     // ✅ PRACTICE mode tidak punya timer, jawaban langsung tampil
     final isPractice = widget.packageType == 'PRACTICE';
 
+    // Get isCatRealMode from existing state (set by preparation_screen)
+    final existingState = ref.read(tryoutProvider);
+    final isCatRealMode = existingState?.isCatRealMode ?? false;
+
     ref.read(tryoutProvider.notifier).startTryout(
       questions: questions,
       packageType: widget.packageType,
       isPractice: isPractice,
+      isCatRealMode: isCatRealMode,
     );
 
     setState(() => _isLoading = false);
