@@ -158,7 +158,29 @@ class _TryoutScreenState extends ConsumerState<TryoutScreen> {
           title: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              Text(_getTitle(), style: const TextStyle(fontSize: 16)),
+              Row(
+                mainAxisSize: MainAxisSize.min,
+                children: [
+                  if (tryout.isCatRealMode)
+                    Container(
+                      margin: const EdgeInsets.only(right: 8),
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                      decoration: BoxDecoration(
+                        color: AppTheme.primaryRed,
+                        borderRadius: BorderRadius.circular(10),
+                      ),
+                      child: const Text(
+                        'CAT REAL',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 10,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                    ),
+                  Expanded(child: Text(_getTitle(), style: const TextStyle(fontSize: 16))),
+                ],
+              ),
               Text(
                 'Soal ${tryout.currentIndex + 1} dari ${tryout.totalCount} · ${tryout.answeredCount} terjawab',
                 style: const TextStyle(fontSize: 11, fontWeight: FontWeight.normal),
@@ -265,7 +287,8 @@ class _TryoutScreenState extends ConsumerState<TryoutScreen> {
                 ),
                 child: Row(
                   children: [
-                    if (tryout.canGoPrev)
+                    // Hide Previous button in CAT Real mode
+                    if (tryout.canGoPrev && !tryout.isCatRealMode)
                       Expanded(
                         child: OutlinedButton.icon(
                           onPressed: () {
@@ -314,9 +337,12 @@ class _TryoutScreenState extends ConsumerState<TryoutScreen> {
             flagged: tryout.flaggedQuestions,
             visited: tryout.visitedQuestions,
             questions: tryout.questions,
-            onQuestionTap: (index) {
-              ref.read(tryoutProvider.notifier).goToQuestion(index);
-            },
+            onQuestionTap: tryout.isCatRealMode
+                ? (_) {} // Disabled in CAT Real mode
+                : (index) {
+                    ref.read(tryoutProvider.notifier).goToQuestion(index);
+                  },
+            isCatRealMode: tryout.isCatRealMode,
           ),
         ),
       ),

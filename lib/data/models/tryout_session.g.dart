@@ -42,7 +42,8 @@ class TryoutSessionAdapter extends TypeAdapter<TryoutSession> {
       ..tkpUnanswered = fields[22] as int
       ..twkQuestionCount = fields[23] as int
       ..tiuQuestionCount = fields[24] as int
-      ..tkpQuestionCount = fields[25] as int;
+      ..tkpQuestionCount = fields[25] as int
+      ..isCatRealMode = fields[26] as bool? ?? false;
   }
 
   @override
@@ -100,7 +101,9 @@ class TryoutSessionAdapter extends TypeAdapter<TryoutSession> {
       ..writeByte(24)
       ..write(obj.tiuQuestionCount)
       ..writeByte(25)
-      ..write(obj.tkpQuestionCount);
+      ..write(obj.tkpQuestionCount)
+      ..writeByte(26)
+      ..write(obj.isCatRealMode);
   }
 
   @override

@@ -83,6 +83,9 @@ class TryoutSession extends HiveObject {
   @HiveField(25)
   late int tkpQuestionCount;
 
+  @HiveField(26)
+  late bool isCatRealMode;
+
   TryoutSession();
 
   TryoutSession.create({
@@ -112,6 +115,7 @@ class TryoutSession extends HiveObject {
     required this.twkQuestionCount,
     required this.tiuQuestionCount,
     required this.tkpQuestionCount,
+    this.isCatRealMode = false,
   });
 
   /// Answers disimpan sebagai label (A/B/C/D/E) — konversi ke teks saat perlu.
@@ -184,4 +188,6 @@ class TryoutSession extends HiveObject {
     if (isTkpOnly) return 'Passing Grade: 166';
     return '';
   }
+
+  String get modeLabel => isCatRealMode ? 'CAT REAL' : 'PRACTICE';
 }

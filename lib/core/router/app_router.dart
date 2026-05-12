@@ -6,6 +6,7 @@ import '../../features/home/screens/home_screen.dart';
 import '../../features/home/screens/splash_screen.dart';
 import '../../features/home/screens/package_selection_screen.dart';
 import '../../features/history/screens/history_screen.dart';
+import '../../features/history/screens/statistics_screen.dart';
 import '../../features/profile/screens/profile_screen.dart';
 import '../../features/tryout/screens/tryout_screen.dart';
 import '../../features/tryout/screens/preparation_screen.dart';
@@ -142,6 +143,16 @@ final GoRouter appRouter = GoRouter(
           transitionsBuilder: _fadeTransition,
         );
       },
+    ),
+
+    // ===== FULL SCREEN: Statistics (tanpa BottomNavigation) =====
+    GoRoute(
+      path: '/statistics',
+      pageBuilder: (context, state) => CustomTransitionPage(
+        key: state.pageKey,
+        child: const StatisticsScreen(),
+        transitionsBuilder: _fadeTransition,
+      ),
     ),
 
     // ===== FULL SCREEN: Practice (tanpa BottomNavigation) =====

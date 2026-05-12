@@ -11,12 +11,14 @@ class ReviewQuestionCard extends StatelessWidget {
   final Question question;
   final String? userAnswer;
   final int questionIndex;
+  final bool isFlagged;
 
   const ReviewQuestionCard({
     super.key,
     required this.question,
     required this.questionIndex,
     this.userAnswer,
+    this.isFlagged = false,
   });
 
   bool get isCorrect => userAnswer == question.answer;
@@ -135,29 +137,55 @@ class ReviewQuestionCard extends StatelessWidget {
         ),
 
         // Status badge
-        Container(
-          padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
-          decoration: BoxDecoration(
-            color: statusColor.withAlpha(15),
-            borderRadius: BorderRadius.circular(20),
-            border: Border.all(color: statusColor.withAlpha(40)),
-          ),
-          child: Row(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Icon(statusIcon, color: statusColor, size: 14),
-              const SizedBox(width: 4),
-              Text(
-                statusText,
-                style: TextStyle(
-                  color: statusColor,
-                  fontSize: 11,
-                  fontWeight: FontWeight.bold,
+        if (isFlagged)
+          Container(
+            margin: const EdgeInsets.only(left: 4),
+            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 5),
+            decoration: BoxDecoration(
+              color: AppTheme.catFlagged.withAlpha(15),
+              borderRadius: BorderRadius.circular(20),
+              border: Border.all(color: AppTheme.catFlagged.withAlpha(40)),
+            ),
+            child: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Icon(Icons.flag, color: AppTheme.catFlagged, size: 14),
+                const SizedBox(width: 4),
+                Text(
+                  'Ragu',
+                  style: TextStyle(
+                    color: AppTheme.catFlagged,
+                    fontSize: 11,
+                    fontWeight: FontWeight.bold,
+                  ),
                 ),
-              ),
-            ],
+              ],
+            ),
+          )
+        else
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+            decoration: BoxDecoration(
+              color: statusColor.withAlpha(15),
+              borderRadius: BorderRadius.circular(20),
+              border: Border.all(color: statusColor.withAlpha(40)),
+            ),
+            child: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                Icon(statusIcon, color: statusColor, size: 14),
+                const SizedBox(width: 4),
+                Text(
+                  statusText,
+                  style: TextStyle(
+                    color: statusColor,
+                    fontSize: 11,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ],
+            ),
           ),
-        ),
       ],
     );
   }

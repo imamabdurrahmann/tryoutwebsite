@@ -26,6 +26,7 @@ class TryoutState {
   final bool isPaused;
   final bool isPractice;
   final bool showAnswerImmediately;
+  final bool isCatRealMode;
 
   const TryoutState({
     required this.sessionId,
@@ -40,6 +41,7 @@ class TryoutState {
     this.isPaused = false,
     this.isPractice = false,
     this.showAnswerImmediately = false,
+    this.isCatRealMode = false,
   });
 
   Question? get currentQuestion =>
@@ -79,6 +81,7 @@ class TryoutState {
     bool? isPaused,
     bool? isPractice,
     bool? showAnswerImmediately,
+    bool? isCatRealMode,
   }) {
     return TryoutState(
       sessionId: sessionId ?? this.sessionId,
@@ -93,6 +96,7 @@ class TryoutState {
       isPaused: isPaused ?? this.isPaused,
       isPractice: isPractice ?? this.isPractice,
       showAnswerImmediately: showAnswerImmediately ?? this.showAnswerImmediately,
+      isCatRealMode: isCatRealMode ?? this.isCatRealMode,
     );
   }
 }
@@ -107,6 +111,7 @@ class TryoutNotifier extends StateNotifier<TryoutState?> {
     required List<Question> questions,
     required String packageType,
     bool isPractice = false,
+    bool isCatRealMode = false,
   }) {
     _timer?.cancel();
 
@@ -124,6 +129,7 @@ class TryoutNotifier extends StateNotifier<TryoutState?> {
       remainingSeconds: duration,
       isPractice: isPractice,
       showAnswerImmediately: isPractice,
+      isCatRealMode: isCatRealMode,
       visitedQuestions: initialVisited,
     );
 
@@ -224,7 +230,7 @@ class TryoutNotifier extends StateNotifier<TryoutState?> {
   }
 
   /// Start practice mode: set questions directly (already filtered/shuffled)
-  void startPracticeWithQuestions(List<Question> questions) {
+  void startPracticeWithQuestions(List<Question> questions, {bool isCatRealMode = false}) {
     _timer?.cancel();
     state = TryoutState(
       sessionId: DateTime.now().millisecondsSinceEpoch.toString(),
@@ -233,6 +239,7 @@ class TryoutNotifier extends StateNotifier<TryoutState?> {
       remainingSeconds: 0,
       isPractice: true,
       showAnswerImmediately: false, // TUGAS 3: Kunci jawaban dimatikan di awal
+      isCatRealMode: isCatRealMode,
       visitedQuestions: questions.isNotEmpty ? {questions.first.questionId} : {},
     );
   }
@@ -294,6 +301,7 @@ class TryoutNotifier extends StateNotifier<TryoutState?> {
       twkQuestionCount: scoreResult.twkQuestionCount,
       tiuQuestionCount: scoreResult.tiuQuestionCount,
       tkpQuestionCount: scoreResult.tkpQuestionCount,
+      isCatRealMode: state!.isCatRealMode,
     );
 
     final resultRepo = _ref.read(resultRepositoryProvider);
@@ -326,6 +334,7 @@ class TryoutNotifier extends StateNotifier<TryoutState?> {
       flaggedQuestions: state!.flaggedQuestions,
       remainingSeconds: state!.remainingSeconds,
       isPractice: state!.isPractice,
+      isCatRealMode: state!.isCatRealMode,
     );
   }
 
@@ -363,6 +372,7 @@ class TryoutNotifier extends StateNotifier<TryoutState?> {
         remainingSeconds: data['remainingSeconds'] ?? 0,
         isPractice: data['isPractice'] ?? false,
         showAnswerImmediately: data['isPractice'] ?? false,
+        isCatRealMode: data['isCatRealMode'] ?? false,
       );
 
       if (!state!.isPractice && state!.remainingSeconds > 0) {
@@ -373,6 +383,22 @@ class TryoutNotifier extends StateNotifier<TryoutState?> {
     } catch (e) {
       await AutoSaveService.clear();
       return false;
+    }
+  }
+
+  /// Set CAT Real mode before starting tryout
+  void setCatRealMode(bool isCatRealMode) {
+    if (state == null) {
+      // No active state, create one with just the mode flag
+      // This will be overridden by startTryout or startPracticeWithQuestions
+      state = TryoutState(
+        sessionId: DateTime.now().millisecondsSinceEpoch.toString(),
+        packageType: 'UNKNOWN',
+        questions: [],
+        isCatRealMode: isCatRealMode,
+      );
+    } else {
+      state = state!.copyWith(isCatRealMode: isCatRealMode);
     }
   }
 }

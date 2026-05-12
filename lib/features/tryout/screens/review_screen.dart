@@ -7,7 +7,7 @@ import '../../../providers/questions_provider.dart';
 import '../../../core/theme/app_theme.dart';
 import '../widgets/review_question_card.dart';
 
-enum ReviewFilter { all, correct, wrong, unanswered }
+enum ReviewFilter { all, correct, wrong, unanswered, flagged }
 
 class ReviewScreen extends ConsumerStatefulWidget {
   final String sessionId;
@@ -69,7 +69,7 @@ class _ReviewScreenState extends ConsumerState<ReviewScreen> {
                     }
 
                     // Filter questions
-                    final filtered = _applyFilter(questions, answers);
+                    final filtered = _applyFilter(questions, answers, session.flaggedQuestions);
                     if (filtered.isEmpty) {
                       return _buildEmptyFilter(context);
                     }
@@ -88,6 +88,7 @@ class _ReviewScreenState extends ConsumerState<ReviewScreen> {
                           question: q,
                           userAnswer: userAnswer,
                           questionIndex: origIndex >= 0 ? origIndex : index,
+                          isFlagged: session.flaggedQuestions.contains(q.questionId),
                         );
                       },
                     );
@@ -131,6 +132,9 @@ class _ReviewScreenState extends ConsumerState<ReviewScreen> {
                 _buildChip(
                     context, 'Kosong', ReviewFilter.unanswered, Icons.remove_circle,
                     Colors.grey),
+                const SizedBox(width: 8),
+                _buildChip(context, 'Ragu', ReviewFilter.flagged, Icons.flag,
+                    AppTheme.catFlagged),
               ],
             ),
           ),
@@ -244,6 +248,10 @@ class _ReviewScreenState extends ConsumerState<ReviewScreen> {
         message = 'Semua soal sudah dijawab';
         icon = Icons.task_alt;
         break;
+      case ReviewFilter.flagged:
+        message = 'Tidak ada soal yang ditandai';
+        icon = Icons.flag_outlined;
+        break;
       default:
         message = 'Tidak ada soal';
         icon = Icons.help_outline;
@@ -292,6 +300,7 @@ class _ReviewScreenState extends ConsumerState<ReviewScreen> {
   List<Question> _applyFilter(
     List<Question> questions,
     Map<String, String> answers,
+    List<String> flaggedQuestions,
   ) {
     var filtered = questions;
 
@@ -316,6 +325,10 @@ class _ReviewScreenState extends ConsumerState<ReviewScreen> {
       case ReviewFilter.unanswered:
         return filtered
             .where((q) => answers[q.questionId] == null || answers[q.questionId]!.isEmpty)
+            .toList();
+      case ReviewFilter.flagged:
+        return filtered
+            .where((q) => flaggedQuestions.contains(q.questionId))
             .toList();
       default:
         return filtered;

@@ -4,6 +4,7 @@ import 'package:go_router/go_router.dart';
 import '../../../core/models/package_metadata.dart';
 import '../../../core/theme/app_theme.dart';
 import '../../../providers/package_metadata_provider.dart';
+import '../../../providers/tryout_provider.dart';
 
 /// PreparationScreen — countdown 3-2-1-GO sebelum exam starts.
 /// Di-trigger sebelum masuk TryoutScreen.
@@ -94,6 +95,7 @@ class _PreparationContentState extends ConsumerState<_PreparationContent>
     with SingleTickerProviderStateMixin {
   bool _agreed = false;
   bool _countdownStarted = false;
+  bool _isCatRealMode = false; // Default: Practice mode
   int _countdown = 3;
   late AnimationController _animController;
   late Animation<double> _scaleAnimation;
@@ -129,6 +131,8 @@ class _PreparationContentState extends ConsumerState<_PreparationContent>
     }
 
     if (mounted) {
+      // Set CAT Real mode in provider before navigating
+      ref.read(tryoutProvider.notifier).setCatRealMode(_isCatRealMode);
       context.go('/tryout/${widget.packageType}');
     }
   }
@@ -210,6 +214,51 @@ class _PreparationContentState extends ConsumerState<_PreparationContent>
                     fontSize: 14,
                     color: Colors.grey.shade600,
                   ),
+                ),
+              ],
+            ),
+          ),
+          const SizedBox(height: 24),
+
+          // Mode Selection Toggle
+          Container(
+            padding: const EdgeInsets.all(16),
+            decoration: BoxDecoration(
+              color: Theme.of(context).cardColor,
+              borderRadius: BorderRadius.circular(12),
+              border: Border.all(color: Colors.grey.shade300),
+            ),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Text(
+                  'Pilih Mode',
+                  style: TextStyle(
+                    fontSize: 16,
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+                const SizedBox(height: 12),
+                Row(
+                  children: [
+                    Expanded(
+                      child: _ModeOption(
+                        title: 'Practice',
+                        subtitle: 'Bisa mundur',
+                        isSelected: !_isCatRealMode,
+                        onTap: () => setState(() => _isCatRealMode = false),
+                      ),
+                    ),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: _ModeOption(
+                        title: 'CAT Real',
+                        subtitle: 'Tanpa mundur',
+                        isSelected: _isCatRealMode,
+                        onTap: () => setState(() => _isCatRealMode = true),
+                      ),
+                    ),
+                  ],
                 ),
               ],
             ),
@@ -319,6 +368,11 @@ class _PreparationContentState extends ConsumerState<_PreparationContent>
       'title': 'Timer habis = auto submit',
       'desc': 'Try out akan dikirim secara otomatis ketika waktu habis.',
     },
+    {
+      'icon': '6',
+      'title': 'Mode CAT Real',
+      'desc': 'Mode CAT Real: tidak bisa mundur ke soal sebelumnya.',
+    },
   ];
 
   Widget _buildTatibItem(int index) {
@@ -377,6 +431,68 @@ class _PreparationContentState extends ConsumerState<_PreparationContent>
   }
 
   }
+
+/// Mode selection option widget
+class _ModeOption extends StatelessWidget {
+  final String title;
+  final String subtitle;
+  final bool isSelected;
+  final VoidCallback onTap;
+
+  const _ModeOption({
+    required this.title,
+    required this.subtitle,
+    required this.isSelected,
+    required this.onTap,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return GestureDetector(
+      onTap: onTap,
+      child: AnimatedContainer(
+        duration: const Duration(milliseconds: 200),
+        padding: const EdgeInsets.all(12),
+        decoration: BoxDecoration(
+          color: isSelected
+              ? AppTheme.primaryRed.withAlpha(15)
+              : Colors.grey.shade100,
+          borderRadius: BorderRadius.circular(10),
+          border: Border.all(
+            color: isSelected ? AppTheme.primaryRed : Colors.grey.shade300,
+            width: isSelected ? 2 : 1,
+          ),
+        ),
+        child: Column(
+          children: [
+            Icon(
+              title == 'CAT Real' ? Icons.timer : Icons.school,
+              color: isSelected ? AppTheme.primaryRed : Colors.grey,
+              size: 28,
+            ),
+            const SizedBox(height: 8),
+            Text(
+              title,
+              style: TextStyle(
+                fontWeight: FontWeight.bold,
+                color: isSelected ? AppTheme.primaryRed : Colors.grey.shade700,
+              ),
+            ),
+            const SizedBox(height: 2),
+            Text(
+              subtitle,
+              style: TextStyle(
+                fontSize: 11,
+                color: isSelected ? AppTheme.primaryRed.withAlpha(180) : Colors.grey.shade500,
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
 
 /// Countdown overlay — menampilkan metadata paket di bawah animasi GO.
 class _CountdownOverlay extends StatelessWidget {

@@ -4,6 +4,7 @@ import 'package:go_router/go_router.dart';
 import '../../../core/theme/app_theme.dart';
 import '../../../core/constants/app_constants.dart';
 import '../../../core/utils/celebration_widget.dart';
+import '../../../core/services/share_service.dart';
 import '../../../providers/tryout_provider.dart';
 
 class ResultScreen extends ConsumerWidget {
@@ -210,13 +211,35 @@ class ResultScreen extends ConsumerWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text(
-                      session.overallPassed ? 'SELAMAT! LULUS!' : 'GAGAL, COBA LAGI',
-                      style: const TextStyle(
-                        color: Colors.white,
-                        fontSize: 20,
-                        fontWeight: FontWeight.bold,
-                      ),
+                    Row(
+                      children: [
+                        Text(
+                          session.overallPassed ? 'SELAMAT! LULUS!' : 'GAGAL, COBA LAGI',
+                          style: const TextStyle(
+                            color: Colors.white,
+                            fontSize: 20,
+                            fontWeight: FontWeight.bold,
+                          ),
+                        ),
+                        if (session.isCatRealMode) ...[
+                          const SizedBox(width: 8),
+                          Container(
+                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                            decoration: BoxDecoration(
+                              color: Colors.white.withAlpha(40),
+                              borderRadius: BorderRadius.circular(10),
+                            ),
+                            child: const Text(
+                              'CAT REAL',
+                              style: TextStyle(
+                                color: Colors.white,
+                                fontSize: 10,
+                                fontWeight: FontWeight.bold,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ],
                     ),
                     Text(
                       session.packageLabel,
@@ -235,9 +258,30 @@ class ResultScreen extends ConsumerWidget {
                   borderRadius: BorderRadius.circular(20),
                   border: Border.all(color: Colors.white24),
                 ),
-                child: Text(
-                  '${session.durationMinutes} menit',
-                  style: const TextStyle(color: Colors.white, fontSize: 12, fontWeight: FontWeight.w500),
+                child: Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Text(
+                      '${session.durationMinutes} menit',
+                      style: const TextStyle(color: Colors.white, fontSize: 12, fontWeight: FontWeight.w500),
+                    ),
+                    const SizedBox(width: 8),
+                    GestureDetector(
+                      onTap: () => _onSharePressed(context, session),
+                      child: Container(
+                        padding: const EdgeInsets.all(6),
+                        decoration: BoxDecoration(
+                          color: Colors.white.withAlpha(40),
+                          shape: BoxShape.circle,
+                        ),
+                        child: const Icon(
+                          Icons.share,
+                          color: Colors.white,
+                          size: 16,
+                        ),
+                      ),
+                    ),
+                  ],
                 ),
               ),
             ],
@@ -741,6 +785,16 @@ class ResultScreen extends ConsumerWidget {
           style: TextStyle(color: Colors.grey.shade500, fontSize: 10),
         ),
       ],
+    );
+  }
+
+  void _onSharePressed(BuildContext context, dynamic session) {
+    ShareService.showShareSheet(
+      context: context,
+      score: '${session.totalScore}',
+      totalScore: '${session.maxTotalScore}',
+      category: session.packageLabel ?? 'CPNS',
+      passed: session.overallPassed,
     );
   }
 

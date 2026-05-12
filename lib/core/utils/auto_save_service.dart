@@ -17,6 +17,7 @@ class AutoSaveService {
     required Set<String> flaggedQuestions,
     required int remainingSeconds,
     required bool isPractice,
+    bool isCatRealMode = false,
   }) async {
     try {
       final prefs = await SharedPreferences.getInstance();
@@ -29,6 +30,7 @@ class AutoSaveService {
         'flaggedQuestions': flaggedQuestions.toList(),
         'remainingSeconds': remainingSeconds,
         'isPractice': isPractice,
+        'isCatRealMode': isCatRealMode,
         'savedAt': DateTime.now().toIso8601String(),
       };
       await prefs.setString(_key, jsonEncode(data));

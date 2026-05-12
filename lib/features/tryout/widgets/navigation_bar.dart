@@ -10,6 +10,7 @@ class QuestionNavBar extends StatefulWidget {
   final Set<String> visited;
   final List<Question> questions;
   final ValueChanged<int> onQuestionTap;
+  final bool isCatRealMode;
 
   const QuestionNavBar({
     super.key,
@@ -20,6 +21,7 @@ class QuestionNavBar extends StatefulWidget {
     required this.visited,
     required this.questions,
     required this.onQuestionTap,
+    this.isCatRealMode = false,
   });
 
   @override
@@ -208,43 +210,46 @@ class _QuestionNavBarState extends State<QuestionNavBar> {
     }
 
     return GestureDetector(
-      onTap: () => widget.onQuestionTap(index),
-      child: Container(
-        width: 36,
-        height: 36,
-        decoration: BoxDecoration(
-          color: bgColor,
-          borderRadius: BorderRadius.circular(8),
-          border: Border.all(
-            color: borderColor,
-            width: isCurrent ? 2 : 1,
-          ),
-        ),
-        child: Stack(
-          children: [
-            Center(
-              child: Text(
-                '${index + 1}',
-                style: TextStyle(
-                  color: isCurrent || isAnswered || isFlagged || isVisited
-                      ? Colors.white
-                      : Colors.grey.shade600,
-                  fontWeight: FontWeight.bold,
-                  fontSize: 12,
-                ),
-              ),
+      onTap: widget.isCatRealMode ? null : () => widget.onQuestionTap(index),
+      child: Opacity(
+        opacity: widget.isCatRealMode ? 0.5 : 1.0,
+        child: Container(
+          width: 36,
+          height: 36,
+          decoration: BoxDecoration(
+            color: bgColor,
+            borderRadius: BorderRadius.circular(8),
+            border: Border.all(
+              color: borderColor,
+              width: isCurrent ? 2 : 1,
             ),
-            if (isFlagged && !isCurrent)
-              Positioned(
-                top: 2,
-                right: 2,
-                child: Icon(
-                  Icons.flag,
-                  size: 10,
-                  color: Colors.white,
+          ),
+          child: Stack(
+            children: [
+              Center(
+                child: Text(
+                  '${index + 1}',
+                  style: TextStyle(
+                    color: isCurrent || isAnswered || isFlagged || isVisited
+                        ? Colors.white
+                        : Colors.grey.shade600,
+                    fontWeight: FontWeight.bold,
+                    fontSize: 12,
+                  ),
                 ),
               ),
-          ],
+              if (isFlagged && !isCurrent)
+                Positioned(
+                  top: 2,
+                  right: 2,
+                  child: Icon(
+                    Icons.flag,
+                    size: 10,
+                    color: Colors.white,
+                  ),
+                ),
+            ],
+          ),
         ),
       ),
     );
