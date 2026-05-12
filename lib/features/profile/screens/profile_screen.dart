@@ -235,13 +235,13 @@ class _ProfileScreenState extends ConsumerState<ProfileScreen> {
     showDialog(
       context: context,
       builder: (context) => AlertDialog(
-        title: const Text('Tentang TryOutCPNSbyIMAM'),
+        title: const Text('Tentang TryOutCPNS'),
         content: const Column(
           mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              'TryOutCPNSbyIMAM adalah aplikasi latihan soal Seleksi Kompetensi Dasar (SKD) untuk persiapan ujian_cpns.',
+              'TryOutCPNS adalah aplikasi latihan soal Seleksi Kompetensi Dasar (SKD) untuk persiapan ujian_cpns.',
             ),
             SizedBox(height: 12),
             Text(
@@ -249,7 +249,7 @@ class _ProfileScreenState extends ConsumerState<ProfileScreen> {
             ),
             SizedBox(height: 12),
             Text(
-              '© 2024 TryOutCPNSbyIMAM',
+              '© 2024 TryOutCPNS',
               style: TextStyle(color: Colors.grey, fontSize: 12),
             ),
           ],

@@ -1,6 +1,6 @@
 class AppConstants {
   // App Info
-  static const String appName = 'TryOutCPNSbyIMAM';
+  static const String appName = 'TryOutCPNS';
   static const String appVersion = '1.0.0';
 
   // Passing Grade 2024 (SKDCPNS)

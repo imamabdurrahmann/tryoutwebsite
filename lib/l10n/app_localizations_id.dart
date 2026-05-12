@@ -9,7 +9,7 @@ class AppLocalizationsId extends AppLocalizations {
   AppLocalizationsId([String locale = 'id']) : super(locale);
 
   @override
-  String get appTitle => 'TryOutCPNSbyIMAM';
+  String get appTitle => 'TryOutCPNS';
 
   @override
   String get home => 'Beranda';

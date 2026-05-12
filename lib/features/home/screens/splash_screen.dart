@@ -126,7 +126,7 @@ class _SplashScreenState extends ConsumerState<SplashScreen>
 
                 // App name
                 const Text(
-                  'TryOutCPNSbyIMAM',
+                  'TryOutCPNS',
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 28,
