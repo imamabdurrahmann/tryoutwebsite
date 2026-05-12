@@ -20,13 +20,18 @@ bool get _isDesktopDevice {
 class HomeScreen extends ConsumerWidget {
   const HomeScreen({super.key});
 
-  bool get _isDesktop => _isDesktopDevice;
+  bool _isDesktopScreen(BuildContext context) {
+    return MediaQuery.of(context).size.width > 900;
+  }
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final statsAsync = ref.watch(statsProvider);
     final theme = Theme.of(context);
     final quote = MotivationQuote.getRandom();
+    final screenWidth = MediaQuery.of(context).size.width;
+    final isWideScreen = screenWidth > 900;
+    final isMediumScreen = screenWidth > 600;
 
     return Scaffold(
       backgroundColor: theme.scaffoldBackgroundColor,
@@ -38,7 +43,7 @@ class HomeScreen extends ConsumerWidget {
           child: Center(
             child: ConstrainedBox(
               constraints: BoxConstraints(
-                maxWidth: _isDesktop ? 1200 : 600,
+                maxWidth: isWideScreen ? 1200 : (isMediumScreen ? 800 : 500),
               ),
               child: CustomScrollView(
             slivers: [
@@ -89,34 +94,34 @@ class HomeScreen extends ConsumerWidget {
 
               // ===== Konten Utama =====
               SliverPadding(
-                padding: const EdgeInsets.symmetric(horizontal: 16),
+                padding: EdgeInsets.symmetric(horizontal: isWideScreen ? 24 : 16),
                 sliver: SliverList(
                   delegate: SliverChildListDelegate([
                     const SizedBox(height: 4),
 
-                    // Desktop: Passing Grade + Statistik horizontal
-                    if (_isDesktop)
+                    // Wide Screen (>900px): Passing Grade + Statistik horizontal
+                    if (isWideScreen)
                       Row(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Expanded(
                             flex: 3,
-                            child: _buildPassingGradeBanner(context, isWeb: false),
+                            child: _buildPassingGradeBanner(context),
                           ),
                           const SizedBox(width: 12),
                           Expanded(
                             flex: 2,
                             child: statsAsync.when(
-                              data: (stats) => _buildStatsCard(context, stats, isWeb: false),
-                              loading: () => _buildStatsSkeleton(context, isWeb: false),
+                              data: (stats) => _buildStatsCard(context, stats),
+                              loading: () => _buildStatsSkeleton(context),
                               error: (_, __) =>
-                                  _buildStatsCard(context, {'totalSessions': 0, 'streak': 0}, isWeb: false),
+                                  _buildStatsCard(context, {'totalSessions': 0, 'streak': 0}),
                             ),
                           ),
                         ],
                       )
                     else ...[
-                      // Mobile: stacked
+                      // Narrow/Medium Screen: stacked
                       _buildPassingGradeBanner(context),
                       const SizedBox(height: 16),
                       statsAsync.when(
@@ -140,14 +145,14 @@ class HomeScreen extends ConsumerWidget {
                     ),
                     const SizedBox(height: 10),
 
-                    // Grid Paket - responsive
+                    // Grid Paket - responsive based on screen width
                     GridView.count(
                       shrinkWrap: true,
                       physics: const NeverScrollableScrollPhysics(),
-                      crossAxisCount: MediaQuery.of(context).size.width > 600 ? 4 : 2,
+                      crossAxisCount: isWideScreen ? 4 : (isMediumScreen ? 3 : 2),
                       mainAxisSpacing: 10,
                       crossAxisSpacing: 10,
-                      childAspectRatio: MediaQuery.of(context).size.width > 600 ? 1.3 : 0.92,
+                      childAspectRatio: isWideScreen ? 1.1 : 0.92,
                       children: [
                         PackageCard(
                           title: 'Try Out\nLengkap',

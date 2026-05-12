@@ -181,10 +181,10 @@ class _ShellScaffold extends StatelessWidget {
   Widget build(BuildContext context) {
     final selectedIndex = _getShellIndex(location);
     final screenWidth = MediaQuery.of(context).size.width;
-    final isNarrowScreen = screenWidth < 600;
+    final isWideScreen = screenWidth > 900;
 
-    // Desktop (non-web native): NavigationRail (sidebar kiri)
-    if (_isDesktop) {
+    // Desktop (non-web native) OR Wide Web Screen (>900px): NavigationRail (sidebar kiri)
+    if (_isDesktop || (kIsWeb && isWideScreen)) {
       return Scaffold(
         body: Row(
           children: [
@@ -235,32 +235,13 @@ class _ShellScaffold extends StatelessWidget {
       );
     }
 
-    // All mobile/small screens: Standard NavigationBar
+    // All mobile/small screens (<=900px): Standard NavigationBar
     return Scaffold(
       body: child,
       bottomNavigationBar: NavigationBar(
         selectedIndex: selectedIndex,
         onDestinationSelected: (index) => _onItemTapped(context, index),
         destinations: const [
-          NavigationDestination(
-            icon: Icon(Icons.home_outlined),
-            selectedIcon: Icon(Icons.home),
-            label: 'Beranda',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.history_outlined),
-            selectedIcon: Icon(Icons.history),
-            label: 'Riwayat',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.person_outlined),
-            selectedIcon: Icon(Icons.person),
-            label: 'Profil',
-          ),
-        ],
-      ),
-    );
-  }
           NavigationDestination(
             icon: Icon(Icons.home_outlined),
             selectedIcon: Icon(Icons.home),
