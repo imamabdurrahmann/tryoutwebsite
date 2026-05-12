@@ -23,11 +23,10 @@ jobs:
       - name: Build for web
         run: flutter build web --web-renderer html
 
-      - name: Deploy to Vercel
+      - name: Deploy to Vercel (pre-built)
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
         run: |
           cd build/web
-          npx vercel --prod --token=$VERCEL_TOKEN --yes
+          # Deploy without triggering rebuild - use --no-bundle to skip build
+          npx vercel --prod --token=$VERCEL_TOKEN --yes --prebuilt
