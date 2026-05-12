@@ -312,7 +312,23 @@ class _TryoutScreenState extends ConsumerState<TryoutScreen> {
                     Expanded(
                       child: ElevatedButton.icon(
                         onPressed: () {
-                          if (tryout.canGoNext) {
+                          // CAT Real mode: must answer first
+                          if (tryout.isCatRealMode) {
+                            if (tryout.isCurrentQuestionAnswered && tryout.canGoNext) {
+                              ref.read(tryoutProvider.notifier).nextQuestion();
+                            } else if (!tryout.isCurrentQuestionAnswered) {
+                              // Show warning that must answer first
+                              ScaffoldMessenger.of(context).showSnackBar(
+                                const SnackBar(
+                                  content: Text('⚠️ Jawab dulu sebelum lanjut!'),
+                                  duration: Duration(seconds: 2),
+                                ),
+                              );
+                            } else {
+                              // Last question, submit
+                              _showSubmitConfirmation(context);
+                            }
+                          } else if (tryout.canGoNext) {
                             ref.read(tryoutProvider.notifier).nextQuestion();
                           } else if (tryout.isPractice) {
                             // ✅ Practice mode: konfirmasi dulu, lalu return ke home
@@ -321,11 +337,25 @@ class _TryoutScreenState extends ConsumerState<TryoutScreen> {
                             _showSubmitConfirmation(context);
                           }
                         },
-                        icon: Icon(tryout.canGoNext
-                            ? Icons.arrow_forward
-                            : (tryout.isPractice ? Icons.check : Icons.check)),
+                        icon: Icon(tryout.isCatRealMode
+                            ? (tryout.isCurrentQuestionAnswered && tryout.canGoNext
+                                ? Icons.arrow_forward
+                                : (tryout.isCurrentQuestionAnswered ? Icons.check : Icons.lock))
+                            : (tryout.canGoNext
+                                ? Icons.arrow_forward
+                                : Icons.check)),
                         label: Text(
-                            tryout.canGoNext ? 'Selanjutnya' : 'Selesai'),
+                          tryout.isCatRealMode
+                              ? (tryout.isCurrentQuestionAnswered
+                                  ? (tryout.canGoNext ? 'Selanjutnya' : 'Selesai')
+                                  : 'Jawab Dulu')
+                              : (tryout.canGoNext ? 'Selanjutnya' : 'Selesai'),
+                        ),
+                        style: tryout.isCatRealMode && !tryout.isCurrentQuestionAnswered
+                            ? ElevatedButton.styleFrom(
+                                backgroundColor: Colors.grey,
+                              )
+                            : null,
                       ),
                     ),
                   ],

@@ -49,8 +49,16 @@ class TryoutState {
           ? questions[currentIndex]
           : null;
 
+  bool get isCurrentQuestionAnswered {
+    final q = currentQuestion;
+    return q != null && answers.containsKey(q.questionId);
+  }
+
   bool get canGoNext => currentIndex < questions.length - 1;
   bool get canGoPrev => currentIndex > 0;
+
+  // CAT Real mode: can't go next unless current question is answered
+  bool get canGoNextCatReal => isCurrentQuestionAnswered && canGoNext;
 
   int get answeredCount => answers.length;
   int get totalCount => questions.length;
