@@ -33,6 +33,10 @@
 
   <title>JagoanCPNS</title>
   <link rel="manifest" href="manifest.json">
+
+  <!-- Preconnect for faster loading -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 </head>
 <body>
   <!--
@@ -43,6 +47,12 @@
     For more details:
     * https://docs.flutter.dev/platform-integration/web/initialization
   -->
+  <script>
+    // Force HTML renderer for faster initial load (smaller bundle)
+    window.flutterConfiguration = {
+      renderer: "html"
+    };
+  </script>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>

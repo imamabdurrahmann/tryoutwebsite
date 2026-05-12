@@ -15,8 +15,6 @@ import '../../features/practice/screens/practice_screen.dart';
 
 final GlobalKey<NavigatorState> _rootNavigatorKey = GlobalKey<NavigatorState>();
 final GlobalKey<NavigatorState> _shellNavigatorKey = GlobalKey<NavigatorState>();
-
-/// Key untuk BottomNavigationBar state di luar shell
 final GlobalKey<NavigatorState> bottomNavKey = GlobalKey<NavigatorState>();
 
 int _getShellIndex(String location) {
