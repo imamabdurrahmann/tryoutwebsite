@@ -1,0 +1,722 @@
+[
+  {
+    "questionId": "tkp_001",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "questionText": "Anda adalah seorang pejabat pemerintah daerah yang menerima amplop berisi uang cash sebesar sepuluh juta rupiah dari rekanan yang sedang mengikuti tender proyek infrastruktur daerah. Amplop tersebut disertai kartu ucapan terima kasih yang menjelaskan bahwa ini adalah tradisi bertahun-tahun dan bukan bagian dari penawaran tender. Rekanan tersebut adalah pemenang tender yang sah berdasarkan evaluasi teknis yang telah dilakukan. Anda sendiri tidak terlibat dalam proses tender. Tindakan Anda adalah...",
+    "options": [
+      "Menerima amplop tersebut dengan ucapan terima kasih karena bukan bagian dari proses tender dan merupakan tradisi perusahaan yang sudah lama berjalan",
+      "Menolak dengan tegas, menjelaskan bahwa menerima apapun dari rekanan berpotensi melanggar ketentuan gratifikasi, lalu menyetorkan uang tersebut ke kas daerah dan membuat berita acara penolakan untuk dokumentasi audit",
+      "Menyimpan amplop di brankas kantor tanpa membuka sampai setelah tender selesai untuk menghindari konflik kepentingan",
+      "Langsung menyerahkan amplop kepada atasan tanpa penjelasan apapun",
+      "Menolak amplop namun tidak melaporkan karena dianggap bukan masalah serius"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Menolak dengan penjelasan hukum yang jelas, menyetorkan ke kas daerah (menjaga kepentingan negara), dan mendokumentasikan untuk audit trail. Ketiga elemen ini menciptakan akuntabilitas menyeluruh. Nilai 4: Menolak tapi tidak menyetorkan atau tidak mendokumentasikan - masih rentan. Nilai 3: Menolak tapi tanpa penjelasan yang mendidik rekanan. Nilai 2: Menyimpan tanpa laporan - masih memiliki risiko. Nilai 1: Menerima gratifikasi terorganisir.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_002",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah kepala divisi di sebuah perusahaan multinasional yang menerima laporan bahwa tim Anda tidak akan mencapai target kinerja kuartalan. Terdapat beberapa faktor: dua staff kunci akan mengambil cuti melahirkan dan paternitas dalam waktu dekat, satu staff mengundurkan diri efektif bulan depan, dan sisa tim mengalami penurunan motivasi yang terlihat dari peningkatan absensi. Anda diminta oleh direktur untuk memberikan proyeksi pencapaian target yang realistis. Tindakan Anda adalah...",
+    "options": [
+      "Memberikan proyeksi berdasarkan data aktual bahwa target tidak akan tercapai dan mengusulkan revisi target yang berbasis analisis risiko dan kapasitas aktual tim disertai program mitigasi untuk memaksimalkan pencapaian",
+      "Menjamin pencapaian target karena Anda tidak ingin mengecewakan direktur dan meminta tim untuk bekerja lebih banyak lembur tanpa kompensasi",
+      "Menyalahkan staff yang akan cuti dan mengundurkan diri sebagai penyebab kegagalan target",
+      "Memberikan proyeksi pencapaian seratus persen target tanpa perubahan apapun dan meminta direktur untuk mempercayai kemampuan tim",
+      "Mengabaikan proyeksi dan membiarkan situasi berjalan sampai akhir kuartal untuk melihat hasil sebenarnya"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Transparan, berbasis data, konstruktif (revisi target + mitigasi), dan bertanggung jawab. Menunjukkan profesionalisme tinggi dan kepemimpinan yang mature. Nilai 4: Proyeksi jujur tapi tanpa solusi mitigasi yang konkret. Nilai 3: Proyeksi jujur tapi tidak disertai solusi improvement. Nilai 2: Memberikan proyeksi tidak realistis demi menyenangkan atasan. Nilai 1: Menyalahkan staff atau memberikan jaminan palsu.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_003",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "questionText": "Anda adalah petugas depan jaga di sebuah gedung pemerintahan yang melayani ratusan warga setiap hari. Seorang lansia datang untuk mengurus perpanjangan dokumen dengan membawa hampir semua persyaratannya. Namun, setelah diperiksa, ternyata ada satu dokumen yang kedaluwarsa sejak satu minggu yang lalu. Lansia tersebut menjelaskan bahwa ia telah mengamati semua informasi di situs resmi dan keterbatasan mobilitasnya menyulitkan untuk mengurus dokumen pengganti dengan cepat. Jadwal operasional pengurusan dokumen di tempat lain memakan waktu lama dan lansia tersebut tinggal sendiri tanpa keluarga yang bisa membantu. Tindakan Anda adalah...",
+    "options": [
+      "Menolak pelayanan karena persyaratan tidak lengkap sesuai regulasi dan menginstruksikan lansia untuk kembali setelah persyaratan dipenuhi",
+      "Membantu lansia dengan menghubungi tempat pengurusan dokumen terkait untuk menjadwalkan kunjungan rumah atau expedited processing, memberikan informasi lengkap tentang persyaratan yang dibutuhkan, dan mengoordinasikan dengan units terkait untuk menemukan solusi percepatan yang tetap berada dalam koridor kebijakan berlaku, dengan follow-up telepon untuk memastikan penyelesaian",
+      "Menginstruksikan lansia untuk datang kembali keesokan hari dengan harapan keluarga bisa membantu pada hari itu",
+      "Melayani tanpa dokumen tersebut dengan alasan kemanusiaan karena lansia dan keterbatasan mobilitas",
+      "Menyarankan lansia untuk mencari bantuan dari tetangga atau organisasi kemasyarakatan tanpa ikut campur lebih jauh"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Service excellence yang melampaui tugas pokok - proaktif menghubungi institusi lain, memberikan solusi terintegrasi (expedited + home visit), mendidik warga tentang persyaratan, dan follow-up untuk memastikan outcome. Semua tetap within the bounds of policy. Nilai 4: Membantu tapi tanpa follow-up atau tanpa solusi terintegrasi. Nilai 3: Membantu sebatas informasi tanpa koordinasi aktif. Nilai 2: Menyalahkan atau menolak tanpa empati. Nilai 1: Melayani di luar kebijakan tanpa dasar yang jelas.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_004",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "questionText": "Anda adalah koordinator program di sebuah organisasi nirlaba yang mengelola bantuan sosial untuk komunitas kurang mampu. Anda mendapat informasi bahwa ada organisasi kemasyarakatan lain yang juga mengelola program serupa di area yang sama namun dengan pendekatan yang sedikit berbeda. Kedua organisasi tidak saling mengenal tetapi memiliki tujuan yang serupa. Dana yang tersedia terbatas. Tindakan Anda adalah...",
+    "options": [
+      "Menghubungi organisasi tersebut untuk mendiskusikan kemungkinan kolaborasi, membagi data tentang klien dan layanan yang sudah diberikan, mengeksplorasi kemungkinan pembagian sumber daya atau koordinasi layanan agar dapat menjangkau lebih banyak keluarga dengan dampak yang lebih besar, sambil menjaga independensi masing-masing organisasi dalam metodologi mereka",
+      "Melanjutkan program sendiri tanpa koordinasi karena khawatir kehilangan kendali atas program dan sumber daya",
+      "Melaporkan keberadaan organisasi tersebut kepada donor sebagai potensi duplikasi program yang perlu dihentikan",
+      "Menuntut eksklusivitas wilayah program agar tidak ada organisasi lain yang beroperasi di area yang sama",
+      "Mengabaikan informasi tersebut dan melanjutkan seperti biasa"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Proaktif membangun jejaring, kolaborasi berbasis data sharing, efisiensi/optimalisasi sumber daya, menjangkau lebih banyak manfaat, tetap menghormati independensi metodologis. Menerapkan prinsip sinergi tanpa memaksakan integrasi. Nilai 4: Koordinasi tapi tanpa data sharing atau tanpa eksplorasi mendalam. Nilai 3: Hanya berbagi informasi kontak tanpa follow-up. Nilai 2: Bersaing atau melaporkan ke donor. Nilai 1: Mengabaikan potensi kolaborasi yang saling menguntungkan.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_005",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah seorang auditor internal di perusahaan yang menemukan bahwa departemen keuangan telah melakukan praktik yang secara teknis legal namun memiliki spirit yang meragukan: mereka mengklasifikasikan beberapa biaya operasional sebagai biaya modal untuk menunda dampak pada laporan laba rugi triwulanan. Ini meningkatkan laba terlihat di triwulan namun dalam jangka panjang mungkin tidak signifikan. Anda diminta untuk memberikan temuan audit dalam laporan kuartaldireksi yang akan datang. Tindakan Anda adalah...",
+    "options": [
+      "Menyatakan dalam laporan bahwa tidak ada pelanggaran karena secara formal tidak ada pelanggaran regulasi dan praktik tersebut umum dilakukan oleh banyak perusahaan sejenis",
+      "Menyajikan temuan secara faktual dan lengkap dalam laporan audit termasuk evaluasi tentang justifikasi manajemen, potensi implikasi jangka panjang, rekomendasi untuk transparansi yang lebih baik dalam klasifikasi biaya, serta perbandingan dengan praktik terbaik industri, dengan tetap objektif tanpa memberikan penilaian tentang niat manajemen",
+      "Menyembunyikan temuan ini dari laporan karena khawatir akan dampak terhadap karyawan keuangan yang mungkin kehilangan pekerjaan jika direktur mengambil tindakan tegas",
+      "Langsung melaporkan temuan ini ke media sebagai skandal akuntansi yang harus dipublikasikan",
+      "Memberikan laporan kepada direktur pribadi dengan peringatan bahwa akan mempublikasikan jika tidak ditindaklanjuti"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Profesionalisme audit tertinggi - transparansi penuh, evaluatif tapi objektif (tanpa penilaian niat), actionable (rekomendasi konkret), benchmarking dengan praktik terbaik industri, tetap within professional standards. Nilai 4: Factually correct tapi tanpa rekomendasi perbaikan yang actionable. Nilai 3: Menyampaikan fakta tapi tidak evaluatif. Nilai 2: Menyembunyikan demi kepentingan karyawan - tidak akuntabel. Nilai 1: Melaporkan langsung ke media tanpa jalur institusional - tidak profesional.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_006",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "questionText": "Anda adalah seorangager proyek di perusahaan konstruksi yang menemukan bahwa subcontractor yang bekerja di proyek Anda secara rutin menggunakan materi yang tidak sesuai dengan spesifikasi teknis yang tertulis dalam kontrak. Penggunaan materi tersebut telah menghasilkan penghematan biaya yang signifikan namun kualitas bangunan berpotensi terpengaruh dalam jangka panjang. subcontractor menjelaskan bahwa praticas ini umum dilakukan di industri dan bangunan tetap aman sesuai standar minimum. Anda tidak memiliki bukti kerusakan actual namun spesifikasi dilanggar. Tindakan Anda adalah...",
+    "options": [
+      "Mengabaikan temuan karena tidak ada bukti kerusakan actual dan subcontractor adalah vendor penting yang perlu dijaga hubungannya",
+      "Meminta subcontractor untuk segera menggati materi sesuai spesifikasi kontrak, issuing a formal non-compliance notice dengan konsekuensi finansial sesuai klausul kontrak, kemudian melakukan inspections acak tambahan pada pekerjaan yang akan datang, dan melaporkan temuan ini kepada klien sebagai transparansi profesional sekaligus melindungi kepentingan semua pihak",
+      "Memberi kesempatan kepada subcontractor untuk memperbaiki secara sukarela tanpa membuat laporan resmi agar hubungan bisnis tetap baik",
+      "Langsung memecat subcontractor dan mencari penggati tanpa konfirmasi apapun",
+      "Mengubah spesifikasi kontrak agar sesuai dengan materi yang sudah digunakan agar tidak ada konkonflik"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Mengambil tindakan korektif yang terstruktur (non-compliance notice), enforce contract terms, meningkatkan oversight (inspections acak), dan transparansi kepada klien. Menerapkan integritas tanpa kompromi tapi tetap profesional. Nilai 4: Tegas tapi tanpa transparansi kepada klien. Nilai 3: Memberi kesempatan tanpa enforcement. Nilai 2: Mengabaikan atau mengubah kontrak - tidak berintegritas. Nilai 1: Memecat tanpa proses yang benar.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_007",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "questionText": "Anda adalah seorang pemimpin proyek di daerah yang mayoritas penduduknya memiliki adat istiadat kuat. program sosial pengembangan yang Anda kelola secara teknis sudah berjalan dengan baik secara kuantitatif. Namun, anea dampak terhadap tradisi adat setempat mulai muncul - beberapa ritual adat mulai ditinggalkan karena waktu dan energi masyarakat terserap ke program. Masyarakat mulai terbelah antara yang mendukung dan yang menolak program. Tindakan Anda adalah...",
+    "options": [
+      "Melanjutkan program sesuai rencana karena secara teknis sudah berhasil dan adaptasi tradiciones bukan  scopes program",
+      "Mengundang tetua adat dan perwakilan masyarakat untuk bersama-sama mengevaluasi program, mengidentifikasi titik-titik konflik dengan tradisi, lalu memodifikasi jadwal  metode implementasi agar tidak interfere dengan ritual adat yang penting, sambil mengeksplorasi peluang mengintegrasikan unsur budaya lokal ke dalam struktur program sehingga adat menjadi bagian dari pengembangan bukan hambatan",
+      "Menghentikan program sepenuhnya karena tidak ingin merusak tradisi adat yang sudah berjalan turun-temurun",
+      "Menyerahkan sepenuhnya kepada tetua adat untuk memutuskan bagaimana program harus berjalan tanpa campur tangan eksternal",
+      "Mengintensifkan promosi program untuk mengubah mindsets masyarakat tentang adaptasi traditions yang dianggap menghambat kemajuan"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Social intelligence tertinggi - melibatkan pemangku kepentingan (tetua adat), solusi adaptif (modifikasi jadwal/metode), integrasi positif (menggunakan budaya lokal sebagai asset), dan diplomasi (kolaborasi daripada konfrontasi). Nilai 4: Dialogue tapi tanpa modifikasi konkret. Nilai 3: Mendengarkan tapi tanpa follow-up perubahan. Nilai 2: Menghentikan atau menyerahkan tanpa keterlibatan profesional. Nilai 1: Memaksakan program tanpa sensitivitas budaya.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_008",
+    "category": "TKP",
+    "subcategory": "TIK",
+    "questionText": "Anda adalah seorang admin sistem di sebuah lembaga pemerintah yang mengelola basis data data sensitif warga negara. Anda menerima email yang berasal dari atasan langsung, meminta Anda untuk memberikan akses login ke sistem basis data data kepada pihak luar yang mengaku sebagai auditor dari agen nasional. Email tersebut memiliki logo resmi lembaga dan ditulis dalam bahasa formal yang meyakinkan. Namun Anda merasa ada yang tidak biasa: permintaan akses biasanya dilakukan melalui official letter dengan nomor surat dan prosedur verifikasi. Tindakan Anda adalah...",
+    "options": [
+      "Segera memberikan akses sesuai permintaan karena email terlihat resmi dan berasal dari atasan langsung",
+      "Mengonfirmasi permintaan tersebut secara langsung kepada atasan melalui telephone atau personlicher meeting, mengecek nomor surat resmi, memverifikasi status auditor melalui saluran official, dan baru memberikan akses untuk verifikasi lengkap dengan membuat jurnal access resmi yang mencatat semua aktivitas auditor dalam sistem",
+      "Menolak memberikan akses karena merasa ada yang tidak biasa tanpa perlu investigasi lebih lanjut",
+      "Meminta auditor untuk menunggu beberapa hari sambil membiarkan email tersebut tanpa tindakan apapun",
+      "Mengirim email balik menanyakan informasi tambahan sebagai verifikasi tanpa kontak langsung"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Security consciousness yang tinggi - verifikasi multi-channel (telepon/personal), validasi formal (surat resmi), authentication melalui saluran official, baru memberikan akses untuk verifikasi, dan documentation lengkap untuk audit trail. Menerapkan zero-trust principle tanpa menghambat tugas oficiales. Nilai 4: Verifikasi tapi tanpa logging sistematis. Nilai 3: Menolak tapi tanpa upaya konfirmasi yang benar. Nilai 2: Membiarkan tanpa tindakan. Nilai 1: Langsung memberikan akses tanpa verifikasi - vulnerabel terhadap phishing.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tkp_009",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah seorang konsultan manajemen yang diundang untuk memberikan presentasi solusi kepada klien potensial. Durante presentasi, Anda menyadari bahwa solusi yang Anda rekomendasikan secara parsial dapat diimplementasikan dengan lebih baik oleh perusahaan konsultan lain yang memiliki metodologi berbeda. klien belum menandatangani kontrak dan masih membandingkan beberapa konsultan. Tindakan Anda adalah...",
+    "options": [
+      "Tidak menyebutkan alternatif karena khawatir kehilangan klien dan pendapatan perusahaan",
+      "Memberikan rekomendasi yang transparan termasuk menunjukkan kelebihan metode konsultan lain yang lebih cocok untuk spesifik situasi klien, sembari menjelaskan mengapa metode Anda tetap relevan untuk sebagian kebutuhan klien, sehingga klien dapat membuat keputusan terinformasi dan Anda membangun kepercayaan yang berkelanjutan",
+      "Langsung mengubah rekomendasi Anda untuk menyerupai metode konsultan lain yang lebih baik tanpa pengakuan",
+      "Menyarankan klien untuk memilih konsultan lain sepenuhnya karena Anda merasa tidak kompeten",
+      "Memberikan informasi yang tidak lengkap tentang metode Anda untuk memastikan klien memilih Anda"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Profesionalisme dan etika bisnis tertinggi - transparansi penuh (merekomendasikan solusi terbaik untuk klien, bukan hanya terbaik untuk perusahaan), objectivity (mengakui kekuatan competitor), dan relationship building (trust sebagai foundation jangka panjang). Nilai 4: Transparan tapi tidak menjelaskan kekuatan metode sendiri. Nilai 3: Tidak menyebutkan alternatif tapi tetap jujur. Nilai 2: Plagiarisme metode competitor. Nilai 1: Memberikan informasi tidak lengkap atau dissuasi diri sendiri.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tkp_010",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "questionText": "Anda adalah kepala layanan imigrasi di bandara internasional yang menghadapi situasi darurat: ratusan WNI repatriasi dari zona konflik datang bersamaan. Mereka termasuk ibu menyusui, anak-anak, lansia, dan orang dengan kebutuhan medis khusus. Fasilitas ya tidak dirancang untuk volume semacam ini dan waktu pemrosesan normal akan menyebabkan antrian selama berjam-jam. Memiliki also terbatas information about their health status dan ada kekhawatiran outbreak penyakit. Tindakan Anda adalah...",
+    "options": [
+      "Menggunakan prosedur standar yang ada karena setiap perubahan terhadap prosedur dapat menimbulkan masalah hukum dan audit",
+      "Mengaktifkan protokol darurat dengan membuka channel komunikasi ke semua agensi terkait (kesehatan, sosial, diplomatik), triase cepat di area terpisah untuk mengidentifikasi prioritas medis dan kebutuhan khusus, mengoordinasikan transportasi lanjutan sebelum mereka meninggalkan area imigrasi, memberikan informasi tentang layanan yang tersedia dalam bahasa yang dipahami, dan melakukan debriefing dengan semua agensi setelah situasi terkendali untuk mengevaluasi respons dan meningkatkan prosedur untuk futuro eventos serupa",
+      "Meminta semua repatriants untuk menunggu dalam antrian standard sampai prosedur normal dapat dilaksanakan satu per satu",
+      "Menghubungi media untuk membantu mendistribusikan informasi tentang situasi dan meminta bantuan sukarelawan",
+      "Mengeluarkan sebagian WNI tanpa pemeriksaan imigrasi bahwa mengosongkan area tunggu dengan cepat"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Crisis management excellence - multi-agency coordination, triage system, proactive transportation arrangement, culturally sensitive communication, dan after-action review untuk perbaikan berkelanjutan. Menerapkan service excellence bahkan dalam kondisi darurat. Nilai 4: Crisis response tapi tanpa debriefing atau evaluasi. Nilai 3: Using standard procedure without adaptation - tidak responsive. Nilai 2: Meminta mediatanpa koordinasi resmi - tidak terstruktur. Nilai 1: Melepaskan pemeriksaan - tidak akuntabel dan potentially dangerous.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tkp_011",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "questionText": "Anda adalah seorang jabatan departemen yang diberi tanggung jawab untuk mengelola anggaran program. Dalam pelaksanaannya, Anda menemukan bahwa salah satu item anggaran yang dianggarkan tidak akan digunakan tahun ini karena perubahan kebutuhan program. Sisa anggaran tersebut ikian besar. Atasan Anda menanyakan apakah anggaran akan digunakan karena jika tidak, dana tersebut akan dikembalikan ke kas negara dan departemen akan mendapatkan alokasi lebih kecil tahun depan. Terdapat pressure untuk menggunakan sisa anggaran meskipun  untuk sesuatu yang terlihat bermanfaat. Tindakan Anda adalah...",
+    "options": [
+      "Mengalokasikan sisa anggaran untuk membeli perangkat kantor yang dibutuhkan meme if not prioritas tertinggi program untuk menjaga alokasi anggaran tahun depan",
+      "Menyampaikan secara transparan bahwa anggaran tidak diperlukan sesuai kebutuhan program actual, mengeksplorasi peluang reprogramming dana untuk kebutuhan mendesak lain di departemen  ke program lain yang lebih membutuhkan, sambil memberikan rekomendasi kepada manajemen untuk impruved budgeting process berbasis kebutuhan aktual program untuk tahmahasiswa yang akan datang",
+      "Mengembalikan anggaran ke kas negara tanpa penjelasan apapun",
+      "Menggunakan anggaran untuk kegiatan sosial yang terlihat baik secara publik tanpa relevance langsung ke program",
+      "Menunda keputusan sampai tahun ajaran baru untuk melihat apakah kebutuhan muncul"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Akuntabilitas tertinggi - transparansi penuh, efisiensi anggaran (reprogramming), advokasi untuk perbaikan proses (improved budgeting), tidak menggunakan anggaran untuk keperluan tidak perlu demi maintain allocation. Nilai 4: Transparan tapi tidak mengeksplorasi reprogramming. Nilai 3: Only mengembalikan tanpa explain atau improve. Nilai 2: Menggunakan anggaran tidak perlu - tidak akuntabel. Nilai 1: Menggunakan untuk pencitraan - tidak etis.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tkp_012",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "questionText": "Anda adalah seorang pemimpin tim dalam di proyek lintas budaya di mana anggota tim berasal dari lima negara berbeda dengan gaya kerja dan ekspektasi yang bervariasi. Beberapa anggota tim dari budaya kolektivistik merasa bahwa keputusan sebaiknya diambil melalui konsensus bulat, sementara anggota dari budaya individualistis lebih memilih cepat decision-making oleh pemimpin. Terdapat tren untuk beberapa anggota untuk mendominasi dalam diskusi sementara yang lain jarang berbicara. Anda memimpin rapat kritikal di mana keputusan harus diambil dengan cepat. Tindakan Anda adalah...",
+    "options": [
+      "Membuat keputusan sendiri untuk menghemat waktu karena perbedaan budaya terlalu kompleks untuk diplomasi tanpa keterlambatan",
+      "Menggunakan facilitation technique yang memastikan setiap representa memiliki setara oportunidades untuk berkontribusi, menerapkan structured decision-making process di mana setiap perspektif didokumentasikan, kemudian mengarahkan diskusi menuju consensus atau tie-breaking decision dengan jelas erklart rationale berdasarkan data dan kebutuhan proyek, sambil memberikan pengakuan specific kepada kontribusi setiap anggota untuk membangun inclusao",
+      "Mengundang semua anggota untuk vote democratically tanpamoderasi dan menerima hasil apapun",
+      "Meminta anggota dari budaya kolektivistik untuk mengakomodasi cepat decision-making karena proyek memiliki deadline",
+      "Membagi keputusan menjadi beberapa keputusan kecil yang dapat diambil  kelompok based on preferences budaya tanpa integrasi"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Cross-cultural leadership excellence - equal participation, structured process, cultural awareness dalam moderasi, accountability (documented rationale), dan inclusion (recognition). Menerapkan prinsip keragaman sebagai asset. Nilai 4: Structured tapi tanpa pengakuan individual yang memadai. Nilai 3: Direct democracy tanpa moderasi profesional. Nilai 2: Memaksakan satu budaya kepada budaya lain. Nilai 1: Fragmentasi keputusan berdasarkan budaya.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tkp_013",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah seorang ilmuan peneliti yang bekerja untuk lembaga penelitian yang  dibiayai sebagian oleh pemerintah. Dalam penelitian yang sedang berlangsung, Anda menemukan hasil yang mengejutkan: utama proyek tidak terbukti dan justru mengarah ke kesimpulan yang bertentangan dengan kepentingan industri yang menjadi salah satu donor utama lembaga. Hasil ini penting secara ilmiah namun dapat mempengaruhi hubungan lembaga dengan donor. Tindakan Anda adalah...",
+    "options": [
+      "Mengubah metode analisis atau parameter untuk mendapatkan hasil yang mendukung dan donor interest",
+      "Menyajikan hasil penelitian apa adanya melalui publikasi ilmiah dan presentasi kepada semua stakeholder, dengan penjelasan metodologis yang lengkap dan transparan tentang keterbatasan serta implikasi hasil, sambil menekankan bahwa ketidakpastian ilmiah adalah bagian normal dari proses penelitian dan bahwa donor memiliki hak untuk mengevaluasi kelanjutan dukungan mereka berdasarkan hasil ini, namun lembaga tidak boleh menyembunyikan atau memanipulasi data demi mempertahankan donor",
+      "Menyembunyikan hasil karena khawatir dana penelitian untuk proyek-proyek mendatang",
+      "Memberikan hasil hanya kepada donor sebelum publikasi bahwa memberi mereka waktu untuk preparation",
+      "Mengubah fokus penelitian tanpa publikasi untuk menghindari konflik"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Integritas ilmiah tertinggi - transparansi penuh, methodological rigor, stakeholder communication yang professional, mengakui ketidakpastian ilmiah sebagai norma, dan clear ethical boundary (tidak manipulasi data). Nilai 4: Publikasi jujur tapi tanpa stakeholder communication yang proaktif. Nilai 3: Menyembunyikan - tidak ilmiah. Nilai 2: Selective disclosure - tidak etis. Nilai 1: Manipulasi data - fraud ilmiah.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tkp_014",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "questionText": "Anda adalah seorang pejabat komunikasi di perusahaan yang mengalami krisis reputasi akibat penyebaran video yang diambil di luar konteks oleh media online. Video menunjukkan seorang manager yang marah terhadap karyawan dalam rapat tertutup yang membahas kinerja. Rekaman pribadi yang tidak disiarkan dengan izin, konteks tentang mengapa manager tersebut marah (masalah kinerja karyawan) tidak ditayangkan. Komentar netizen sangat negatif dan perusahaan mendapat tekanan untuk memberikan respons. Anda sebagai pejabat komunikasi harus membuat pernyataan publik. Tindakan Anda adalah...",
+    "options": [
+      "Tidak memberikan pernyataan apapun karena ini rekaman video pribadi yang sebaiknya tidak dihiraukan secara terbuka",
+      "Mengeluarkan pernyataan resmi yang menjelaskan konteks lengkap termasuk rekaman yang tidak sah, menegaskan bahwa perusahaan menangani pertanyaan kinerja melalui jalur yang benar, bahwa privasi karyawan dilindungi, dan bahwa perusahaan akan mengambil tindakan hukum terhadap pihak yang mengunggah tanpa izin, sambil menunjukkan komitmen terhadap perbaikan lingkungan kerja melalui program dukungan karyawan dan kebijakan yang sudah ada",
+      "Meminta manager yang terlibat untuk meminta maaf secara terbuka di media sosial",
+      "Mengunggah video lengkap tanpa penyuntingan untuk menunjukkan konteks yang diklaim",
+      "Menghubungi media yang menyebarkan untuk menandatangani perjanjian kerahasiaan sebelum memberikan informasi"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan komunikasi krisis - keseimbangan antara transparansi (konteks), perlindungan privasi (menghormati karyawan), tindakan hukum (penegakan), dan pembingkaian positif (komitmen terhadap perbaikan lingkungan kerja). Melindungi kepentingan semua pihak tanpa konfrontasi yang tidak perlu. Nilai 4: Pernyataan tapi tanpa menyebutkan tindakan hukum atau tanpa pembingkaian positif. Nilai 3: Tidak ada pernyataan - tidak sesuai. Nilai 2: Meminta maaf individual - tidak proporsional. Nilai 1: Mengunggah video lengkap - pelanggaran privasi dan tidak profesional.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tkp_015",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "questionText": "Anda adalah seorang operator call center layanan publik pemerintah yang menerima panggilan dari warga yang sangat kesal karena sudah menunggu respons atas pengajuannya selama lebih dari dua bulan. Warga tersebut berbicara dengan nada tinggi dan menuduh bahwa system pelayanan Anda tidak bekerja. anea informasi yang warga minta memang masih dalam proses verifikasi karena masalah teknis yang sistem. warga mengancam akan mengunggah keluhan di media sosial dan melapor ke lintas batas. Tindakan Anda adalah...",
+    "options": [
+      "Menjelaskan bahwa keluhan harus disampaikan melalui saluran resmi karena media sosial bukan tempat untuk pengaduan negara layanan",
+      "Membangunrapport dengan aktif mendengarkan keluhan secara penuh tanpa interrupt, menyampaikan desculpa yang tulus atas waktu tunggu yang lama, memberikan proyeksi yang jelas tentang waktu penyelesaian termasuk penyebab keterlambatan sistem, memberikan nomor referensi unik untuk tracking, dan mengikuti melalui pelacakan status pengajuan melalui beberapa hari untuk memastikan warga tetap terinformasi sampai resolusi akhir",
+      "Meng.transfer panggilan ke supervisor karena situasi sudah di atas Anda kewenangan",
+      "Menjelaskan bahwa keterlambatan adalah tanggung jawab systems IT  bukan Anda kesalahan pessoais",
+      "Meminta warga untuk tenang dan mengontrol emosi sebelum bisa dibantu lebih lanjut"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Service excellence yang luar biasa - active listening (tidak defensive), empathy (tulus), accountability (own the problem), transparency ( proyeksi + penyebab), follow-up system (tracking + pemeriksaan berkala), dan professional communication throughout. Nilai 4: Empathetic tapi tanpa follow-up yang proaktif. Nilai 3: Menjelaskan tapi tanpa empati atau proyeksi. Nilai 2: Transfer tanpa ownership. Nilai 1: Blame game atau permintaan untuk mengontrol emosi - tidak empati.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_016",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "questionText": "Anda adalah seorangHR manager yang diberi tugas untuk merampingkan struktur organisasi perusahaan. Dalam proses ini, Anda harus memutuskan siapa yang akan terdampak. Terdapat beberapa kriteria: beberapa karyawan memiliki kinerja baik tapi biaya tinggi karena level salary sudah tidak sesuai pasar, beberapa memiliki kinerja sedang tapi merupakan tulang punggung operasional karena pengalaman panjang, dan beberapa memiliki kinerja rendah tapi memiliki keluarga besar dan satu-satunya sumber penghasilan. Anda harus membuat rekomendasi kepadadireksi. Tindakan Anda adalah...",
+    "options": [
+      "Membuat matriks keputusan yang objektif based on data kinerja, kontribusi terhadap operasional, analisis biaya-keuntungan, dan potensi pengembangan, memberikan rekomendasi yang transparan kedireksi dengan berbagai pilihan including dukungan transisi untuk yang terdampak (reskilling, outplacement), sambil menekankan bahwa keputusan akhir harus memperhitungkan semua faktor tidak hanya finansial tetapi juga sosial dan etis",
+      "Memprioritaskan karyawan dengan kinerja rendah untuk dirampingkan karena tidak produktif regardless of personal circumstances",
+      "Mempertahankan semua karyawan karena tidak ingin ada yang kehilangan pekerjaan",
+      "Memberikan keputusan kepadadireksi tanpa rekomendasi konkret karena terlalu rumit secara etis",
+      "Memilih yang memiliki biaya tertinggi regardless of kinerja karena akan memberikan penghematan maksimum"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: HR professionalism tertinggi - objective criteria (matriks keputusan), multi-stakeholder consideration (kinerja, operasional, finansial, sosial), actionable recommendations (ukung transisi), dan ethical framing (jangan hanya finansial). Menerapkan prinsip that employees are stakeholders not just costs. Nilai 4: Objective tapi tanpa dukungan transisi. Nilai 3: Only based on one criterion (performance or cost). Nilai 2: tidak mau deciden - tidak profesional. Nilai 1: Menyimpan semua - tidak realistis.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_017",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah seorang pemimpin proyek informasi sistem  where the project deadline sudah sangat mendesak. Tim pengembangan melaporkan bahwa mereka butuh tambahan satu minggu untuk menyelesaikan testing kualitas yang memadai karena terungkap dalam fase akhir. Jika langsung launch tanpa testing lengkap, riesgo operasional sangat tinggi. Namun klien sudah sangat  demanding immediate launch. Anda memiliki presentasi  kepada direktur dalam dua jam. Tindakan Anda adalah...",
+    "options": [
+      "Menyarankan launch sesuai jadwal klien bahwa tidak mengabaikan  persyaratan meskipun dengan riesgo tinggi",
+      "Menyiapkan presentasi yang objektif menunjukkan trade-off antara kecepatan  risiko, termasuk konkret data tentang jumlah kesalahan yang mungkin terjadi tanpa testing lengkap, implikasi finansial  operasional dari setiap pilihan, serta pilihan intermediate seperti phased launch atau parallel run, dengan rekomendasi yang jelas mengapa quality testing tidak boleh di-skip dan meminta keputusan dari direktur berdasarkan data lengkap yang sudah anda sampaikan dengan Transparan",
+      "Mengatakan bahwa tim pengembangan tidak kompeten  membutuhkan lebih banyak waktu untuk belajar",
+      "Menunda presentasi tanpa penjelasan karena Anda tidak ingin ada responsible for the decision",
+      "Launch saja karena semua informasi sistem memiliki kesalahan dan ini normal"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Project management professionalism - data-driven decision making (konkret data), risk analysis (trade-off analysis), intermediate solutions (phased/parallel), professional recommendation (quality non-negotiable),  accountable (mengembalikan keputusan ke direktur based on complete information). Nilai 4: Trade-off tapi tanpa solusi intermediate. Nilai 3: Menyalahkan tim. Nilai 2: Avoidance. Nilai 1: Mengabaikan risiko - tidak profesional.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_018",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "questionText": "Anda adalah koordinator program kesehatan ibu dan anak di daerah yang memiliki tren untuk rendahnya partisipasi dari komunitas tertentu. Setelah analisis, Anda menemukan bahwa komunitas tersebut memiliki pandangan yang berbeda tentang kedokteran modern dan lebih memilih pengobatan tradisional. Mereka juga memiliki kekhawatiran tentang kesesuaian budaya dengan program kesehatan. Para pemimpin komunitas memiliki pengaruh besar dalam keputusan keluarga tentang kesehatan. Tindakan Anda adalah...",
+    "options": [
+      "Menerapkan program kesehatan sesuai standar protokol karena kesehatan adalah prioritas yang tidak boleh dikompromikan dengan budaya",
+      "Mengundang para pemimpin komunitas yang kritis dan penyembuh tradisional untuk dialog di mana Anda mendengarkan kekhawatiran mereka, mengevaluasi peluang integrasi praktik tradisional yang tidak bertentangan dengan bukti medis, menjelaskan manfaat kedokteran modern dalam bahasa yang relevan secara budaya, dan secara kolaboratif merancang model penyampaian yang peka budaya di mana keduanya dapat saling melengkapi, dengan tetap menjaga keamanan sebagai garis bawah yang tidak dapat dinegosiasikan",
+      "Memberikan materi promosi kesehatan dalam bahasa daerah tanpa penyesuaian budaya lainnya",
+      "Menyerahkan sepenuhnya kepada para pemimpin komunitas untuk memutuskan apakah program akan diterima atau tidak",
+      "Menggunakan insentif material untuk meningkatkan partisipasi secara independen dari budaya"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan kompetensi budaya - mendengarkan (tidak defensif), kerendahan hati budaya (mengakui keterbatasan pemahaman), integrasi berbasis bukti (praktik tradisional yang tidak berbahaya), perancangan kolaboratif (kepemilikan komunitas), dan keselamatan (tidak dapat dinegosiasikan). Menerapkan prinsip bahwa budaya dan kesehatan dapat coexisting. Nilai 4: Dialog tapi tanpa perancangan kolaboratif atau tanpa garis bawah yang jelas. Nilai 3: Terjemahan saja - tidak peka. Nilai 2: Pelepasan tanggung jawab. Nilai 1: Paternalistik.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_019",
+    "category": "TKP",
+    "subcategory": "TIK",
+    "questionText": "Anda adalah seorang pejabat keamanan TI yang menemukan bahwa beberapa karyawan secara rutin mengakses situs web yang tidak terkait dengan pekerjaan selama jam kerja. Fenomena ini terdeteksi dari analitika penggunaan bandwidth. Beberapa situs web termasuk kategori hiburan dan media sosial, beberapa termasuk kategori yang lebih serius seperti belanja online dan portal berita. Produktivitas tim secara keseluruhan mulai terlihat menurun. Anda harus memberikan rekomendasi kepada manajemen. Tindakan Anda adalah...",
+    "options": [
+      "Menggunakan sarana teknis untuk memblokir semua situs web yang tidak terkait dengan pekerjaan secara mutlak untuk meningkatkan produktivitas",
+      "Mengumpulkan data yang lebih lengkap termasuk korelasi antara penggunaan web dan produktivitas individu, mengidentifikasi apakah masalah bersifat universal atau terbatas pada beberapa individu, mengevaluasi kemungkinan untuk kebijakan yang mengizinkan penggunaan pribadi terbatas saat istirahat, merekomendasikan solusi penggunaan pribadi yang seimbang pada jam tidak sibuk dengan pedoman yang jelas dan pemantauan yang tidak invasif, sambil membuat program edukasi tentang produktivitas dan kesejahteraan untuk membantu karyawan mengelola waktu mereka lebih baik",
+      "Mengirim email peringatan ke semua karyawan tentang penggunaan internet yang tidak terkait pekerjaan",
+      "Melaporkan masalah ini ke bagian SDM untuk tindakan disipliner terhadap semua yang melanggar",
+      "Mengabaikan karena semua karyawan memiliki hak untuk privasi dalam penggunaan internet yang tidak terkait"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Tata kelola TI yang berimbang - berbasis data (analisis korelasi), respons proporsional (individu vs universal), kebijakan bernuansa (penggunaan terkontrol diizinkan), ramah karyawan (pemantauan tidak invasif), dan pengembangan (edukasi). Menerapkan prinsip bahwa kepercayaan dan akuntabilitas dapat seiring. Nilai 4: Berbasis data tapi tanpa solusi yang berimbang atau edukasi. Nilai 3: Peringatan generik - tidak dapat ditindaklanjuti. Nilai 2: Melaporkan ke SDM tanpa analisis. Nilai 1: Mengabaikan - tidak profesional.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_020",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "questionText": "Anda adalah seorang pengembang perangkat lunak penyediaan who has access to confidential company data. Anda ditawari pekerjaan baru oleh kompetitor  during exit interview, Anda menyadari bahwa perusahaan menawarkan Anda bonus penaltung Anda membawa some proprietary kode atau metodologies to the new company. Anda belum menandatangani kode etik perilaku baru perusahaan, tetapi processes tersebut masih dalam tahap Negosiasi. Anda memiliki keluarga dengan kebutuhan finansial mendesak. Tindakan Anda adalah...",
+    "options": [
+      "Menerima bonus tersebut karena Anda belum terikat kontrak baru dan memiliki kebutuhan finansial yang mendesak keluarga",
+      "Menolak dengan jelas apapun solicited access to proprietary kode atau informasi, mengevaluasi semua contract terms dari perusahaan baru dengan sangat dengan teliti before accepting untuk memastikan tidak ada conflito interest atau confidentiality breach, menjelaskan kepada perusahaan baru bahwa Anda tidak dapat menggunakan atau membawa any proprietary information dari perusahaan lama irrespective of bonus  an,  menjaga professionalism throughout transition untuk membangun reputasi jangka panjang sebagai profesional yang memiliki integritas yang tidak dapat digangguguat dengan insentif finansial jangka pendek",
+      "Mengambil some kode untuk reference karena Anda mengembangkan program tersebut sendiri dan merasa memiliki parsial ownership",
+      "Menolak pekerjaan baru karena terlalu banyak konpleksi etis yang perlu dipertimbangkan",
+      "Mengatakan bahwa Anda tidak dapat menerima bonus tapi masih bekerja dengan knowledge dari perusahaan lama karena informasi disimpan di otak Anda"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Integritas profesional yang tidak dapat diganggu gugat oleh insentif finansial atau kebutuhan personal - menolak segala bentuk akses milik perusahaan, mengevaluasi konflik secara menyeluruh, mengomunikasikan batasan dengan jelas kepada pemberi kerja baru, dan berfokus pada reputasi profesional jangka panjang. Nilai 4: Menolak tapi tanpa evaluasi kontrak secara menyeluruh. Nilai 3: Menolak sebagian (mengambil kode). Nilai 2: Menerima bonus tidak sah. Nilai 1: Menolak pekerjaan baru sepenuhnya karena kompleksitas.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_021",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah seorang jabatan berkualitas departemen yang akan melakukan audit terhadap supplier kritischer di mana Anda memiliki hubungan pribadi dengan salah satu manager senior. Supplier tersebut telah menjadi vendor utama selama lebih dari decade  personal dengan manager telah terbangun selama bertahun-tahun melalui sosial kejadian dan kegiatan professional bersama. Anda tahu bahwa jika audit menemukan masalah serius, ini akan memiliki dampak terhadap hubungan bisnis yang panjang dan potentially terhadap manager personal yang Anda hormati. Tindakan Anda adalah...",
+    "options": [
+      "Melakukan audit normal karena hubungan personal seharusnya tidak mempengaruhi profesional kerja karena standar kualitas adalah tidak dapat digoyahkan",
+      "Melakukan audit dengan penuh integritas di mana Anda mengumumkan conflito interest kepada semua pihak terkait termasuk akuntan and panduan, memastikan bahwa audit dilakukan oleh tim yang tidak memiliki hubungan dengan supplier tersebut, dengan tetap objektif memberikan hasil audit apa adanya termasuk masalah yang ditemukan, sambil mengeksplorasi constructive solutions untuk supplier yang bermasalah ya maintain the business relationship based on improvement capabilities,  mendokumentasikan semua proses untuk transparansi lengkap",
+      "Meminta lain akuntan untuk melakukan audit because Anda merasa tidak nyaman untuk objectively audit supplier ya hubungan personal",
+      "Melakukan audit tapi lebih lenient ya supplier karena hubungan personal yang sudah terbangun lama",
+      "Menyarankan auditor untuk memberikan hasil yang sedikit lebih baik dari kenyataan untuk menjaga hubungan bisnis"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Integrity yang sophisticated - declares conflict proaktif, delegates audit appropriately, maintains objectivity (results apa adanya), constructive (solutions, not just penalties),  documents everything. Mengelola konflik kepentingan dengan transparansi penuh. Nilai 4: Declares conflict tapi tidak delegasikan audit. Nilai 3: Delegates tanpa objektivitas sendiri - still biased. Nilai 2: Lenient audit karena personal relationship - tidak berintegritas. Nilai 1: Manipulation hasil audit.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_022",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "questionText": "Anda adalah seorang medis pekerja di puskesmas yang menghadapi situasi di mana pasien secara kategoris menolak untuk menerima domisili obat dari dokter karena memiliki kekhawatiran tentang efectos secundarios yang dibaca di internet. Pasien sebelumnya telah mendapatkan penjelasan dari dokter tentang manfaat dan risiko obat, namun tetap menolak dengan sangat tegas. Pasien memiliki kondisi medis yang serius  akan menyebabkan komplikasi berat. Keluarga pasien juga terbelah dalam pendirian mereka. Tindakan Anda adalah...",
+    "options": [
+      "Menghormati keputusan pasien karena setiap orang memiliki hak untuk menolak medis treatment after being informed about risks  manfaat",
+      "Melakukan masih satu sesi counseling di mana Anda mendengarkan kekhawatiran spesifik pasien tentang efek samping, providing factual information yang address each concern dengan bahasa yang dipahami pasien, exploring alternative treatment options yang mungkin memiliki profile risiko yang berbeda, involving keluarga dalam discussion untuk mendukung pasien dalam pengambilan keputusan,  mendokumentasikan semua sesi counseling dan keputusan akhir pasien dengan jelas untuk untuk hukum semua pihak while tetap respecting pasien autonomy",
+      "Memaksa pasien untuk menerima obat demi kesehatan mereka sendiri karena dokter sudah memutuskan",
+      "Menghubungi authorities untuk memberikan perawatan tanpa persetujuan pasien karena kondisi serius",
+      "Menyarankan pasien untuk mencari second opinion dari dokter lain tanpa terlibat lebih jauh"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Bioethics excellence - respects patient autonomy (informed consent principle), addresses specific concerns (personalized counseling), explores alternatives (shared decision-making), involves family appropriately (support, not coercion), dan documents thoroughly (legal protection + professionalism). Mengimplementasikan principle that patient autonomy and beneficence can coexist. Nilai 4: Counseling tapi tanpa alternative exploration atau documentation. Nilai 3: Menghormati tanpa follow-up. Nilai 2: Forced treatment - violates autonomy principle. Nilai 1: Abandonment - tidak etis.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_023",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "questionText": "Anda adalah seorang manajer proyek yang baru dipindahkan ke tim dengan budaya organisasi yang sangat berbeda dari tim sebelumnya.  di tim ini, banyak keputusan diambil melalui processos informal yang tidak terdokumentasi, hierarki sangat datar dan hierarki tidak resmi,  kritik sering disampaikan secara langsung tanpa diplomatic.  juga waktu Anda memiliki gaya management yang lebih formal  terstruktur. Rekan-rekan mulai mengeluhkan bahwa Anda terlalu banyak documentation  terlalu resmi dalam komunikasi. Tindakan Anda adalah...",
+    "options": [
+      "Mempertahankan gaya management Anda karena ini adalah profesional Anda ya Anda tidak perlu mengubah untuk kepuasan everyone",
+      "Beradaptasi dengan budaya tim sambil mengevaluasi secara objektif apakah beberapa unsur dari metode Anda dapat dipertahankan because they provide genuine value such as documentation untuk compliance atau decisoes importantes, secara terbuka mendiskusikan gaya kerja yang berbeda dengan tim ya mencari kompromi di mana Anda mengurangi formalitas dalam komunikasi sehari-hari while tetap maintain some struktur for critical decisions, showing vulnerability ya openness to learn dari tim sambil tetap menjadi autentik sebagai pemimpin",
+      "Sepenuhnya mengubah gaya Anda menjadi seperti budaya tim ya tidak menggunakan documentation atau struktur lagi",
+      "Menghubungkan semua perbedaan budaya  HR untuk mediation tanpa berbicara langsung dengan tim",
+      "Membuat dokumentasi rahasia tentang kelemahan budaya tim untuk digunakan sebagai leverage"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Cultural intelligence dan leadership agility - adapts appropriately (contextual flexibility), maintains critical values (compliance, structure for important decisions), open dialogue (tidak defensif), compromise (collaborative adaptation), vulnerability as strength (authenticity + learning). Menerapkan prinsip bahwa pemimpin effective dapat memimpin berbagai budaya. Nilai 4: Adapts tapi tanpa diskusi terbuka atau compromise. Nilai 3: Rigid maintenance of own style. Nilai 2: Full assimilation - loss of authentic leadership. Nilai 1: HR mediation tanpa self-effort - avoidance.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_024",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "questionText": "Anda adalah seorang guru  di sekolah sedang di mana satu siswa diketahui telah mencontek during ujian akhir yang high-stakes. Situasi rumit karena siswa ini adalah salah satu siswa terbaik sekolah ya rappresentasi sekolah dalam kompetisi akademik tingkat nasional bulan depan. Jika mendiskualifikasi siswa dari ujian, sekolah akan kehilangan kans untuk menang kompetisi ya siswa kehilanganBeasiswa secara kritikal diperlukan untuk keluarga mereka. Orang tua siswa telah memberikan tekanan besar kepada sekolah untuk tidak memberikan sankcii. Tindakan Anda sebagai penjamin adalah...",
+    "options": [
+      "Mengabaikan insiden karena tekanan orang tua dan dampak terhadap reputasi sekolah serta siswa terlalu besar untuk dipertimbangkan",
+      "Memberikan sangsi akademic sesuai yang berlaku kepada siswa ya menjelaskan dengan tulus mengapa integritas tidak dapat dikompromikan irrespective of external factors, sambil bekerja sama dengan siswa untuk membuat rencana belajar yang memungkinkan siswa still memiliki kesempatan untuk perbaikan ya pertumbuhan, memberikan dukungan tambahan kepada siswa untuk mengatasi rasa malu ya menyimpan motivation,  mengevaluasi sistem pengawan ujian untuk mencegah terulangnya serupa kejadian di masa depan",
+      "Mengeluarkan siswa dari sekolah untuk memberikan pelajaran kepada semua siswa tentang konsekuensi ketidakjujuran",
+      "Memindahkan tanggung jawab keputusan kepada kepala sekolah karena itu bukan wewenang Anda sebagai penjamin",
+      "Mengurangi sankcii menjadi teguran lisan agar siswa tetap bisa mewakili sekolah tanpa kehilangan Beasiswa"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Edukatif-integritas - menerapkan aturan (integritas tidak dapat dinegosiasikan), tulus menjelaskan mengapa (pembentukan karakter), mendukung perbaikan siswa (kebaikan), dan sistem perbaikan (mencegah terulangan). Menerapkan prinsip bahwa konsekuensi dan kasih sayang dapat seiring dalam pendidikan. Nilai 4: Sanksi tapi tanpa dukungan perbaikan. Nilai 3: Pengusiran - tidak edukatif. Nilai 2: Pelepasan tanggung jawab. Nilai 1: Mengurangi sanksi - tidak berintegritas karena tekanan.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_025",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah seorang akuntan di besar perusahaan di mana Anda diminta oleh CFO untuk membuat beberapa penyesuaian entri keuangan laporan terakhir kuartal yang akan membuat labarugi terlihat lebih baik dari kenyataan untuk presentasi kepada nasihat direktur. CFO menjelaskan bahwa ini tidak ilegal dan hanya merupakan praktik biasa dalam penyajian laporan keuangan. Anda memahami bahwa permintaan tersebut secara teknis berada dalam area abu-abu dan dapat mempengaruhi keputusan investasi. Anda memiliki utang besar ke bank yang harus lunas bulan depan dan pekerjaan Anda tergantung pada niat baik CFO. Tindakan Anda adalah...",
+    "options": [
+      "Menolak dengan secara kategoris dan menjelaskan bahwa meskipun secara teknis legal, praktik tersebut melanggar standar etika profesional dan dapat memiliki implikasi serius terhadap investor dan pemangku kepentingan lain, bahwa Anda tidak dapat membuat entri yang menyesatkan secara independen dari akibat pribadi, justru akan menggunakan keahlian Anda untuk menyajikan laporan yang akurat dan memberikan alternatif penyajian yang menonjolkan hal positif perusahaan tanpa manipulasi dan secara profesional menyampaikan kekhawatiran Anda kepada CFO dalam bentuk terdokumentasi untuk melindungi diri Anda sendiri",
+      "Melakukan penyesuaian entri sesuai permintaan CFO karena pekerjaan Anda bergantung pada niat baik CFO dan ini secara teknis legal",
+      "Mengancam CFO dengan akan melaporkan ke akuntan publik jika dia memaksa Anda untuk membuat entri tersebut",
+      "Mengabaikan permintaan tanpa penjelasan atau alternatif dan membiarkan situasi terbuka",
+      "Membuat entries yang sedikit dimanipulasi tapi tidak separah yang CFO minta bahwa menjadi kompromi"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Integritas profesional yang tidak dapat diganggu gugat oleh tekanan pribadi atau pekerjaan - menolak secara kategoris (batasan jelas), menjelaskan alasan (tidak defensif), menawarkan alternatif konstruktif (akurasi + pembingkaian positif), dan mendokumentasikan kekhawatiran (perlindungan diri). Menerapkan prinsip bahwa integritas profesional adalah aset jangka panjang. Nilai 4: Menolak tapi tanpa dokumentasi atau alternatif. Nilai 3: Mengikuti karena tidak mau konflik. Nilai 2: Mengancam - tidak profesional. Nilai 1: Kompromi dalam manipulasi - tetap tidak berintegritas.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_026",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "questionText": "Anda adalah seorang di daerah di mana terjadi bencana alam yang mempengaruhi ribuan orang. Anda bertanggung jawab untuk koordinasi distribusi bantuan. Resources sangat terbatas  Anda harus membuat keputusan yang sangat sulit tentang siapa yang mendapat bantuan lebih dulu. Beberapa kelompok memerlukan perhatian segera (luka berat, anak-anak, ibu menyusui)  beberapa kelompok lain telah terlantar selama lebih lama dan kondisi mereka juga serius. Terdapat juga tekanan politik dari pejabat daerah yang meminta agar desa tertentu mendapat prioritas. Tindakan Anda adalah...",
+    "options": [
+      "Memberikan bantuan kepada semua kelompok secara merata tanpa prioritas karena semua korban bencana memiliki hak yang sama",
+      "Menggunakan prinsip triase yang objektif berdasarkan tingkat'urgence medis  kritikalitas kebutuhan, membuat assessment cepat untuk kategorisasi semua kelompok berdasarkan prioritas, allocating resources sesuai dengan medis necessity dan humanitarian principles ya independen from political pressure, transparan menjelaskan kriteria kepada semua pihak ya mengomunikasikan bahwa kebijakan akan memiliki dampak negatif terhadap distribusi yang adil, sambil terus memperbarui penilaian seiring perkembangan situasi ya mengevaluasi efektivitas distribusi untuk penyesuaian real-time",
+      "Memberikan prioritas kepada kelompok yang paling banyak jumlah ya memiliki suara politik terbesar untuk menjaga stabilitas sosial",
+      "Menyerahkan semua keputusan distribusi kepada kepala daerah tanpa ikut campur karena itu bukan wewenang Anda",
+      "Menunda distribusi sampai semua kelompok mendapat assessment lengkap tanpa prioritas untuk memastikan keadilan sempurna"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Disaster management excellence - objective triage principle (evidence-based), systematic assessment (categorization), humanitarian priority (medis necessity), transparent communication (kriteria), undeterred by political pressure (integritas), dan adaptive management (real-time adjustment). Menerapkan prinsip bahwa humanitarian response must be impartial. Nilai 4: Triage tapi tanpa transparent communication atau tanpa adaptive adjustment. Nilai 3: Even distribution - tidak practical in disaster. Nilai 2: Politically driven - tidak humanitarian. Nilai 1: Delayed distribution - tidak responsif.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tkp_027",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "questionText": "Anda adalah koordinator program ban kepada daerah terpencil dimana Anda bahwa alcuni dana telah digunakan oleh kepala desa untuk keperluan yang tidak sesuai dengan proposal program yang disetujui. Penggunaan termasuk proyek pembangunan yang berbeda dari yang direncanakan dan beberapa expenditures that appear personal. Namun kepala desa adalah figur yang sangat dihormati ya memiliki pengaruh besar dalam komunitas, dan menggantinya akan menyebabkan konkonflik sosial yang serius. warga komunitas mendukung kepala desa ya tidak memahami bahwa penggunaan dana tersebut bermasalah. Tindakan Anda adalah...",
+    "options": [
+      "Mengabaikan karena penggantian kepala desa akan menyebabkan konflik sosial yang lebih besar ya ini tidak Anda masalah",
+      "Membangun dialog dengan kepala desa ya masyarakat donde Anda menjelaskan secara jujur ya dengan penuh empati bahwa penggunaan dana tidak sesuai dengan proposal dan implikasinya terhadap akuntabilitas ya kepercayaan donors, memberikan ruang bagi kepala desa untuk memberikan penjelasan ya mungkin rectification, jika memungkinkan involving masyarakat dalam monitoring future expenditures ya membangun systems transparansi baru yang melibatkan komunitas dalam pelacakan over penggunaan dana ya menyediakan pelatihan tentang gestao publica untuk meningkatkan kapasitas kepala desa ya masyarakat dalam gestion yang akuntabel, sambil tetap menjaga hubungan baik ya memberikan kesempatan untuk perbaikan tanpa langsung memberikan sanksi unless necessary",
+      "Langsung melaporkan ke akuntan  untuk tindakan hukum terhadap kepala desa ya keluarga",
+      "Meminta donor untuk membatalkan program ya menarik semua sisa dana karena tidak ada trust kepada manajemen desa",
+      "Menyetujui penggunaan dana yang berbeda dari proposal retrospectively karena sudah terlanjur terjadi dan sulit untuk dikembalikan"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Development partnership excellence - dialogic approach (tidak accusatory), empathetic explanation (full context), corrective action (rectification + training), community ownership (monitoring), dan proportionality (sanksi last resort). Menerapkan prinsip bahwa accountability and relationship dapat dibangun gleichzeitig. Nilai 4: Dialog tapi tanpa community involvement atau training. Nilai 3: Immediate reporting - tidak memberikan kesempatan perbaikan. Nilai 2: Canceling program - punitive tanpa educational approach. Nilai 1: Retroactive approval - tidak berintegritas.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tkp_028",
+    "category": "TKP",
+    "subcategory": "TIK",
+    "questionText": "Anda adalah seorang pemimpin tim IT yang mengelola sistem kritikal untuk perusahaan. Selama krisis sistem beberapa hari lalu, satu anggota tim yanamely paling berpengalaman dan kritikal untuk resolve masalah, membuat beberapa keputusan teknis yang secara efektif mengubah arsitektur sistem tanpa persetujuan dari Anda atau lain anggota tim. Krisis berhasil diselesaikan berkat keputusan tersebut, namun processo tidak mengikuti protocols yang ada ya beberapa team members merasa di- linhas karena tidak dilibatkan. Yaape keputusan teknis tersebut mungkin mengandung risiko yang tidak terdeteksi. Tindakan Anda adalah...",
+    "options": [
+      "Memberikan pujian pubblicamente kepada anggota tim tersebut sebagai pengakuan atas kontribusinya dalam krisis karena hasil adalah yang terpenting",
+      "Mengakui kontribusi anggota tim ya ucapan terima kasih sambil secara pribadi mendiskusikan bahwa ada proses yang tidak diikuti ya Implikasinya, memimpin sesi refleksi dengan seluruh tim untuk mengevaluasi keputusan teknis yang dibuat termasuk risiko yang mungkin ada, mengevaluasi apakah protocols yang ada sudah memadai atau perlu diperbaiki untuk situasi darurat, ya secara secara kolektif membuat improved protocol untuk future crises yang memberikan flexibility yang diperlukan sambil tetap maintain appropriate pengawasan, sambil tetap mendokumentasikan lessons learned ya memastikan bahwa semua anggota tim merasa valued dan dilibatkan dalam-improvement process",
+      "Memberikan teguran tertulis kepada anggota tim ya menerapkan disipliner tindakan untuk pelanggaran protocol",
+      "Mengabaikan insiden karena krisis sudah berakhir dan tidak ada waktu untuk prosesistische yang tidak perlu",
+      "Meminta anggota tim tersebut untuk mengundurkan diri karena tidak mengikuti protocolos yang ada"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Leadership excellence dalam situasi kompleks - recognizes contributions (fairness), addresses process violations (accountability), facilitates team reflection (learning culture), improves systems (systemic improvement), dan builds inclusion (valued + involved). Menerapkan prinsip bahwa accountability and appreciation dapat coexist. Nilai 4: Acknowledge tapi tanpa team reflection atau systemic improvement. Nilai 3: Disciplinary action - tidak proporcional. Nilai 2: Ignoring - tidak ada learning. Nilai 1: Termination - terlalu ekstrem untuk situasi krisis.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tkp_029",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah seorang pejabat lepas dari sebuah lembaga rekrutmen di mana Anda baru ditugaskan di sebuah perusahaan klien untuk posisi manajerial yang menantang. Anda menyadari bahwa perusahaan klien memiliki budaya kerja yang sangat berbeda dari apa yang Anda bayangkan saat rekrutmen. Juga Anda memahami bahwa jika Anda jujur kepada perusahaan tentang ketidaksesuaian budaya ini, Anda berisiko kehilangan komisi dan pesan tentang ekspektasi yang tidak cocok. Namun jika Anda diam, Anda berisiko untuk menjadi tidak bahagia dan pada akhirnya tidak berkinerja baik. Tindakan Anda adalah...",
+    "options": [
+      "Diam tentang ketidaksesuaian dan memulai pekerjaan dengan harapan bahwa Anda dapat beradaptasi seiring waktu",
+      "Berbicara secara terbuka dengan perusahaan klien tentang observasi Anda terhadap budaya kerja di mana Anda memberikan contoh konkret apa yang berbeda dari ekspektasi, menjelaskan bahwa Anda memiliki rekam jejak keberhasilan adaptasi dalam berbagai budaya sebelumnya dan memiliki kekuatan kunci yang dapat berkontribusi positif terlepas dari perbedaan budaya, menanyakan tentang ekspektasi spesifik dan kemungkinan untuk Anda berasimilasi sambil juga autentik tentang kebutuhan Anda untuk dukungan dan umpan balik dalam proses adaptasi, bersama-sama mengevaluasi apakah posisi ini adalah kecocokan yang baik untuk kedua belah pihak atau apakah posisi alternatif mungkin lebih sesuai, dan tetap menjaga integritas Anda sebagai konsultan yang membangun kepercayaan jangka panjang dengan klien berdasarkan kejujuran",
+      "Meminta perusahaan klien untuk mengubah budaya kerja mereka agar sesuai dengan gaya Anda",
+      "Langsung mengundurkan diri dari penugasan karena tidak cocok",
+      "Menyalahkan lembaga rekrutmen atas ketidaksesuaian dan meminta kompensasi dari mereka"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Integritas profesional dalam rekrutmen - kesadaran diri (deskripsi ketidaksesuaian), kepercayaan diri (kekuatan), pola pikir adaptif (dapat beradaptasi), komunikasi autentik (kebutuhan), evaluasi kolaboratif (kesesuaian mutual), dan pembangunan hubungan jangka panjang (kepercayaan melalui kejujuran). Menerapkan prinsip bahwa kejujuran lebih berharga daripada komisi jangka pendek. Nilai 4: Jujur tapi tanpa evaluasi kolaboratif. Nilai 3: Meminta perubahan budaya - tidak realistis. Nilai 2: Pengunduran diri segera tanpa dialog. Nilai 1: Menyalahkan lembaga - tidak akuntabel.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tkp_030",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "questionText": "Anda adalah seorang pengacara di mana salah satu klien adalah perusahaan besar yang telah menjadi sumber pengangguran bagi masyarakat sekitar karena praktik bisnis yang dipertanyakan. Klien ini secara hukum berhak diwakili dan Anda sebagai pengacara memiliki kewajiban etis untuk memberikan pembelaan yang terbaik. Masyarakat sekitar mulai mengunjuk protes di kantor Anda dan keluarga Anda mulai merasakan tekanan sosial. Pihak-pihak tertentu juga telah mulai mempertanyakan independensi Anda sebagai pengacara. Tindakan Anda adalah...",
+    "options": [
+      "Menolak mewakili perusahaan dan menjelaskan bahwa nilai-nilai Anda tidak sejalan dengan praktik bisnis mereka meskipun ini berarti kehilangan klien besar",
+      "Melanjutkan representasi sesuai kewajiban etis dan legal Anda di mana Anda memberikan pembelaan berdasarkan hukum dan fakta-fakta yang mendukung klien, sambil secara independen mengevaluasi apakah terdapat unsur-unsur kasus yang dapat diselesaikan melalui mediasi atau kesepakatan yang dapat mengakomodasi kepentingan masyarakat sekitar dan perusahaan secara bersamaan, transparan kepada klien tentang peluang tersebut dan memberikan nasihat hukum yang berguna dan bertanggung jawab yang tidak hanya fokus pada kemenangan dalam kasus tetapi juga pada solusi yang dapat mengurangi dampak sosial, dan jika pada akhirnya perusahaan tidak memiliki dasar hukum yang kuat, Anda akan memberikan nasihat jujur bahwa mereka harus mempertimbangkan kesepakatan dan jangan melanjutkan kasus ke pengadilan untuk menghindari publisitas negatif lebih lanjut dan dampak sosial",
+      "Memberikan pembelaan penuh tanpa mempertimbangkan dampak sosial karena Anda hanya fokus pada hukum",
+      "Menghentikan representasi karena tekanan dari masyarakat sekitar tanpa penjelasan yang profesional",
+      "Memberikan pembelaan setengah hati yang membuat masyarakat puas tetapi klien tidak senang"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan etika hukum - memenuhi kewajiban profesional (representasi), mengevaluasi solusi sistemik (mediasi), menjaga kepercayaan klien (transparansi), advokasi yang bertanggung jawab (pemenang), dan nasihat etis (menyarankan kesepakatan bila tepat). Menerapkan prinsip bahwa pengacara dapat menjadi advokat yang gigih sambil tetap menjadi anggota sistem peradilan yang bertanggung jawab. Nilai 4: Mewakili tapi tanpa mengeksplorasi kesepakatan atau tanggung jawab. Nilai 3: Advokasi murni tanpa mempertimbangkan dampak sosial. Nilai 2: Menyerah pada tekanan - tidak profesional. Nilai 1: Representasi setengah hati - tidak adil untuk klien.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tkp_031",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "questionText": "Anda adalah seorang pemimpin pusat layanan warga negara di mana warga datang untuk berbagai keperluan. Hari ini, seorang warga marah harus menunggu lebih dari dua jam untuk dilayani dan ketika akhirnya dilayani, ternyata ada kesalahan dalam sistem yang menyebabkan data mereka hilang dan proses harus dimulai dari awal. Warga tersebut dalam tinggi derajat emosi dan mulai berbicara dengan sangat keras dan menarik perhatian semua warga lain yang antri. Suhu ruangan mulai naik dan warga negara lain mulai merasa tidak nyaman. Tindakan Anda adalah...",
+    "options": [
+      "Meminta keamanan untuk mengeluarkan warga tersebut dari gedung karena mengganggu warga lain dan menciptakan suasana tidak nyaman",
+      "Beradaptasi pendekatan Anda secara langsung dengan mengenali bahwa warga tersebut memiliki alasan yang valid untuk marah dan dengan tenang memohon maaf dengan tulus, bergerak lebih dekat untuk percakapan privat dan menunjukkan bahwa Anda secara pribadi mengambil alih kasus mereka, cepat memperbaiki kesalahan dengan prioritas yang jelas, memberikan timeline konkret untuk penyelesaian dan nomor referensi untuk pelacakan, kemudian mendatanggi warga lain yang menunggu dengan pembaruan tentang waktu tunggu dan menawarkan kompensasi kecil seperti layanan prioritas untuk menghargai kesabaran mereka, sambil tetap mempertahankan kendali yang tegas atas situasi dan mendokumentasikan semua untuk perbaikan proses",
+      "Menyalahkan sistem TI dan berjanji untuk memperbaiki tanpa tindakan nyata",
+      "Mengabaikan situasi dan membiarkan warga marah sampai mereka tenang sendiri",
+      "Meminta warga tersebut untuk tenang terlebih dahulu sebelum dapat dilayani"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan pemulihan layanan - pengakuan empatik (kemarahan valid), kepemilikan personal (mengambil alih kasus), tindakan cepat (perbaikan prioritas), komunikasi jelas (timeline + referensi), pemulihan proaktif untuk pelanggan lain (kompensasi), mempertahankan kendali (ketenangan tegas), perbaikan sistemik (dokumentasi). Menerapkan prinsip bahwa pemulihan layanan dapat mengubah pelanggan marah menjadi pelanggan setia. Nilai 4: Empatik tapi tanpa kompensasi untuk pelanggan lain atau tanpa dokumentasi. Nilai 3: Menyalahkan sistem tanpa tindakan. Nilai 2: Mengabaikan - pasif. Nilai 1: Memanggil keamanan - eskalasi, bukan de-eskalasi.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tkp_032",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "questionText": "Anda adalah seorang jabatan administrasi  perusahaan where Anda bermaksud untuk membangun program kesehatan mental untuk karyawan. penelitian menunjukkan bahwa program ini memiliki potensi untuk meningkatkan produktivitas dan mengurangi absentisme. Namun Anda menghadapi tantangan: beberapa manajer melihat program ini sebagai tidak perlu ya sumber daya, beberapa karyawan merasa bahwa program ini akan interfere dengan produktivitas kerja ya beberapa lagi memiliki kekhawatiran tentang privasi ya stigma terkait kesehatan mental. Anda memiliki anggaran terbatas  harus membangun bisnis kasus untuk meyakinkan stakeholder. Tindakan Anda adalah...",
+    "options": [
+      "Membuat presentasi ya bisnis-rencana yang objektif containing hasil penelitian tentang manfaat program kesehatan mental ya potensial ROI untuk perusahaan, mengidentifikasi secara spesifik kekhawatiran dari setiap grupo stakeholder ya addressing them dengan evidence-based solutions, seperti confidential access untuk mengatasi privacy concerns, flexible delivery format untuk menjawab produktivitas concerns, ya demonstrasi pilot program dengan kecil kelompok untuk menunjukkan feasibility  results sebelum berskala besar rollout, sambil membangun coalition dukungan dari beberapa manajer yang terbuka ya employee champions yang dapat membantu socialize program within their teams, ya melakukan evaluasi berkala untuk menyesuaikan program based on feedback  indikator hasil kerja",
+      "Membujuk beberapa manajer untuk mendukung dengan janji bahwa program akan meningkatkan produktivitas tanpa perlu penjelasan evidence",
+      "Menunggu sampai semua manajer dan karyawan memiliki persetujuan penuh sebelum peluncuran program",
+      "Menggunakan anggaran untuk program lain yang lebih populer dan weniger kontroversial",
+      "Memaksakan program melalui direktur without addressing kekhawatiran manajer ya karyawan"
+    ],
+    "answer": "A",
+    "explanation": "Opsi A menunjukkan pendekatan profesional dalam mengelola program kesehatan mental di tempat kerja. Penjelasan mencakup: business case berbasis evidence (ROI research), identifikasi kekhawatiran stakeholder spesifik (privacy, produktivitas), solusi berbasis bukti (confidential access, flexible delivery), pilot program (feasibility demonstration), coalition building (manager champions, employee champions), dan evaluasi iteratif (feedback-based adjustment, outcome indicators). Nilai 5: Pendekatan berbasis bukti dengan solusi terstruktur untuk setiap kekhawatiran stakeholder. Nilai 4: Business case tapi tanpa solusi spesifik untuk kekhawatiran utama. Nilai 3: Membujuk tanpa evidence - tidak sustainable. Nilai 2: Menunda tanpa batas waktu - tidak mengambil tindakan. Nilai 1: Memaksakan program tanpa dialog.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tkp_033",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "questionText": "Anda adalah seorang jurnalis ya pada suatu ketika Anda menerima dokumen dari anonim sumber yang mengandung informasi bahwa berkuasa politikus memiliki hubungan with organized crime. Dokumen appear to be legitimate  mengandung cukup detail untuk investigate selanjutnya. Namun Anda tidak dapat memverifikasi sepenuhnya keaslian dokumen  sumber tanpa menempatkan mereka dalam bahaya. Publikasi ya investigate dapat memiliki dampak besar terhadap masyarakat luas ya politik lanskap. Namun jika Anda salah, ini dapat menghancurkan karir Anda ya menciptakan palsu narasi. Tindakan Anda adalah...",
+    "options": [
+      "mempublikasikan cerita berdasarkan dokumen ya sumber karena sosial minat di atas semua",
+      "Melakukan investigation yang menyeluruh dengan independen verifikasi from multiple sources, engaginghukum dan ahli untuk authentify dokumen, memberikan kebijakan peluang untuk respond sebelum publikasi, mengevaluasi secara hati-hati apakah sosial interesse outweighs potential risiko dari publikasi ya apakah  risiko dapat dimitigasi dengan responsible reporting practices, transparan kepada audiens tentang level verifikasi yang telah dilakukan ya limitations dari informasi yang Anda miliki, ya jika untuk investigation menyeluruh Anda memiliki cukup confidence bahwa dokumen adalah autentik dan masyarakat luas memiliki hak untuk mengetahui, baru mempublikasikan dengan penuh bertanggung jawab ya balanced, dengan tetap melindungi identitas sumber sebagai jauh mungkin",
+      "Menyimpan dokumen ya tidak mempublikasikan karena tidak ada cara untuk memverifikasi sepenuhnya",
+      "Menghubungi politikus tersebut ya memberitahu mereka tentang dokumen untuk memberikan mereka ",
+      "Media o mempublikasikan tanpa investigation apapun untuk menjadi pertama media yang berita"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Journalism ethics excellence - thorough investigation (verification), expert consultation (authentication), due process (right of reply), proportional assessment (public interest vs risk), transparency about limitations (honest to audience), responsible publication (balanced),  source protection (ethics). Menerapkan prinsip bahwa press freedom membawa tanggung jawab yang besar. Nilai 4: Investigation tapi kurang transparan tentang limitations. Nilai 3: Not publishing - abdication of journalistic responsibility. Nilai 2: Alerting politician - breach of source protection. Nilai 1: Publishing without verification - irresponsible journalism.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tkp_034",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah seorang jabatan pengelolaan proyek di mana  waktu execution Anda menemukan bahwa salah satu vendor kritis memiliki serious keuangan masalah  kemungkinan tidak akan mampu menyelesaikan kontrak. Ini akan memiliki dampak langsung terhadap timeline proyek. Anda memiliki hubungan kerja baik dengan pemimpin vendor dan mengetahui bahwa mereka memiliki keluarga yang bergantung pada bisnis ini. Terdapat juga kewajiban kontrak yang mengikat dengan client ya konsekuensi keuangan jika proyek terlambat. Tindakan Anda adalah...",
+    "options": [
+      "Segera terminate kontrak ya mencari vendor pengganti bahwa melindungi kepentingan proyek Anda ya client",
+      "Berbicara secara terbuka dengan pemimpin vendor untuk memahamifull picture dari situacion keuangan mereka, mengevaluasi apakah masih ada peluang untuk recovery atau alternatif solusi seperti partial delivery, pivot  internal resources atau mencari vendor penggantu untuk sebagian pekerjaan, membuat risk assessment yang objektif tentang setiap opcao ya implikasinya terhadap proyek timeline, biaya, ya kualitas, memberikan transparan update kepada client tentang potensi masalah ya pilihan yang sedang dievaluasi, ya membuat keputusan berdasarkan analisis yang terbaik untuk semua pihak termasuk contingency plans untuk mitigate dampak jika vendor tidak dapat melanjutkan, sambil tetap maintain empati manusiawi terhadap vendor ya keluarga mereka ya mungkin memberikan referensi atau connections ke peluang bisnis lain jika contract harus berakhir",
+      "Memberikan vendor perpanjangan waktu kontrak tanpa penilaian karena hubungan baik yang sudah terbangun",
+      "Mengabaikan masalah ya berharap bahwa vendor akan dapat mengatasi masalah mereka sendiri",
+      "Meminta client untuk lebih banyak dana untuk menutupi risiko tanpa transparansi penuh tentang situasi vendor"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan dalam pengadaan dan manajemen proyek yang etis - komunikasi terbuka (pemahaman), solusi kreatif dalam batasan anggaran, dan menjaga kualitas sambil tetap transparan. Nilai 4: Negosiasi dengan vendor sambil mempertahankan standar kualitas. Nilai 3: Kompromi yang wajar dengan dokumentasi yang jelas. Nilai 2: Memotong anggaran tanpa mempertimbangkan dampak kualitas. Nilai 1: Mengabaikan prosedur pengadaan demi kecepatan.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tkp_035",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "questionText": "Anda adalah seorang consular officer di kedutaan di mana WNI datang untuk keperluan dokumen. Hari ini, seorang WNI datang dengan dokumen yang hampir semua persyaratan sudah lengkap kecuali satu: satu dokumen diperlukan dalam bahasa Inggris ya dia hanya memiliki versi bahasa Indonesia. terjemahan already available online namun tidak tersertifikasi. Pada normal circumstances proses pengurusan memakan waktu sampai satu bulan  WNI memiliki berlaku visa yang akan segera expire. perpustdari informasi bahwa menunggu satu bulan akan menyebabkan WNI tersebut kehilangan pekerjaan secara kritikal diperlukan ya visa overstay akan memiliki implikasi serius terhadap imigrasi status. Tindakan Anda adalah...",
+    "options": [
+      "Menolak karena peraturan adalah peraturan ya tidak ada pengecualian untuk siapapun secara independen dari circumstances",
+      "Mengevaluasi apakah yang ada terjemahan dapat diverifikasi keakuratannya dengan bantuan standar translation tools atau jika consular officer dapat melakukan verifikasi basic, exploring peluang untuk expedited processing berdasarkan'urgence situation, memberikan informasi yang jelas kepada WNI tentang semua alternatif available termasuk potentially contacting employer untuk visa extension, working collaboratively untuk mencari keputusan yang within yang ada regulations sambil tetap maintaining integrity dari consular process, ya jika absolutely necessary  memungkinkan dalam kerangka regulations, memberikan provisional approval dengan condition that proper certified translation submitted within certain timeframe, sambil mendokumentasikan semua untuk accountability",
+      "Mengabaikan persyaratan ya langsung memberikan dokumen tanpa verification dengan dasar kemanusiaan",
+      "Menyarankan WNI untuk kembali berikutnya bulan ketika semua persyaratan dapat dipenuhi ya mengabaikan deadline pekerjaan mereka",
+      "Menghubungkan WNI ke organisasi lain tanpa ikut membantu lebih jauh"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan layanan konsuler - pola pikir pemecahan masalah (verifikasi cepat), respons darurat (koordinasi langsung), dan empati profesional dengan batasan yang jelas. Nilai 4: Membantu dengan prosedur standar yang dipercepat. Nilai 3: Memberikan informasi yang memadai dan arahan yang benar. Nilai 2: Merujuk tanpa bantuan aktif. Nilai 1: Menolak membantu di luar jam kerja.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tkp_036",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "questionText": "Anda adalah seorang spesialis untuk pengembangan dalam program community development di mana Anda bekerja dengan komunitas adat yang memiliki praktik bisnis dan ekonomi yang unik. Anda perlu memperkenalkan program yang akan membantu meningkatkan ekonomi komunitas melalui pelatihan  access ke pasar. Namun beberapa praktik adat dalam komunitas tersebut memiliki tren untuk eksploitasi tenaga kerja anak dalam bisnis keluarga mereka. Anak-anak berpartisipasi dalam production ya tidak. Terdapat tegangan antara preserve budaya ya melawan dzieciecej pemanfaatan. Praktik ini sudah lama ada ya considered normal by community. Tindakan Anda adalah...",
+    "options": [
+      "Tidak menyinggung sensitive budaya ya menyesuaikan program untuk tidak menyentuh issue pemanfaatan anak-anak ya meninggalkan children dalam situasi pemanfaatan untuk menjaga hubungan baik dengan komunitas",
+      "Membangun dialog dengan tetua adat ya community leaders dimana Anda mendengarkan perspektif mereka tentang praktik ya tradicao, Explaining gently ya dengan contoh nyata tentang dampak pemanfaatan anak-anak terhadap kesehatan, pendidikan dan future opportunities anak-anak ya keluarga secara keseluruhan, bekerja sama dengan komunitas untuk mencari creative solutions yang respect budaya sambil memberikan alternatif untuk ekonomi keluarga yang tidak bergantung pada tenaga kerja anak, seperti program dukungan anak untuk tetap bersekolah sambil keluarga menerima  pendapatan ya providing access ke markets dimana products tidak diproduksi dengan pemanfaatan anak-anak dapat dijual dengan premium price, mengevaluasi progress secara berkala ya adjusting approach based on community feedback ya willingness to change, sambil tetap maintain prinsip bahwa anak-anak memiliki hak untuk pendidikan ya perlindungan yang tidak dapat dikompromikan irrespective of cultural practices",
+      "Langsung menuntut penghapusan praktik pemanfaatan anak-anak ya menghubungkan authorities untuk enforcement tanpa dialog dengan komunitas",
+      "Menunda semua programming sampai komunitas sendiri meminta bantuan untuk masalah ini",
+      "Membuat program yang terpisah untuk anak-anak ya keluarga dengan tetap tidak menyentuh praktik bisnis adat"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Cultural ethics excellence - dialogic (tidak accusatory), culturally sensitive explanation (concrete examples), creative solutions (economic alternatives), child rights as non-negotiable (pendidikan + perlindungan), gradual change (community-driven), evaluation (iterative). Menerapkan prinsip bahwa human rights and cultural sensitivity tidak mutually exclusive. Nilai 4: Dialog tapi kurang solution-oriented atau kurang clear tentang non-negotiable. Nilai 3: Demanding enforcement - tidak culturally sensitive. Nilai 2: Delayed approach - tidak responsible. Nilai 1: Separate program - tidak address root cause.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tkp_037",
+    "category": "TKP",
+    "subcategory": "TIK",
+    "questionText": "Anda adalah seorang informasi keamanan specialist di mana Anda menemukan bahwa beberapa karyawan telah berulang kali violates informasi keamanan policies despite previous trainings dan warnings. Pelanggaran termasuk sharing passwords, menggunakan -penyimpan untuk transferencia file,  accesses to websites tidak diperbolehkan penggunan company device. Beberapa pelanggaran ya baru dan tidak serius ya beberapa dapat potencialmente menyebabkan serius kerugian. Employee aju tingkat seniority  beberapa dari mereka adalah sangat berkualitas tinggi spesialis yang secara kritikal diperlukan untuk proyek penting. Sanksi berkisar dari teguran hingga pemecatan. Tindakan Anda adalah...",
+    "options": [
+      "Memberikan teguran tertulis kepada semua yang melanggar ya memerintahkan segera termination jika ada pelanggaran ketiga kalinya tanpa pengecualian termasuk senior staff",
+      "Membedakan tingkat sanksi berdasarkan tingkat seriustetapi pelanggaran ya implikasi keamanan, memberikan education yang lebih intensive ya personalized untuk setiap individu based on their violations patterns, implementing additional kontrol like teknis restrictions yang tidak dapat di-skip for high-risk activities, mengevaluasi apakah yang ada policies sudah jelas dan realistis atau apakah perlu disesuaikan based on user feedback, transparan kepada semua karyawan tentang konsekuensi yang jelas ya diterapkan secara konsisten ya fairness regardless of seniority, ya jika setelah interventions berulang ya documentacao yang jelas pelanggaran tetap terjadi dan merupakan secara kritikaldangerous, hanya maka mempertimbangkan lebih tegas sanctions termasuk untuk senior staff ya documented accordingly untuk melindungi perusahaan dari risiko hukum",
+      "Mengabaikan karena high performers terlalu berharga untuk perusahaan ya risiko kehilangan mereka outweighs security concerns",
+      "Langsung memecat semua yang melanggar secara independen dari severity atau seniority ya membuat contoh untuk semua",
+      "Mengubah policies ya memberi tahu employees bahwa sekarang tidak ada sanksi untuk primeira pelanggaran ya hanya untuk serius violations"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Information security governance excellence - proportional response (serious vs minor), education-focused (personalized training), technical controls (layered defense), policy improvement (user feedback), consistent application (fairness + seniority-neutral), documented escalation (due process),  legal protection (company). Menerapkan prinsip bahwa security must be both firm and fair. Nilai 4: Differentiated tapi kurang pada policy improvement atau fairness. Nilai 3: Overlooking high performers - tidak professional. Nilai 2: Uniform termination - tidak proportional. Nilai 1: Policy change to accommodate violators - tidak security-conscious.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_038",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah seorang manajer untuk para staff di mana setelah merger dan akuisisi, Anda harus mengintegrasikan dua budaya perusahaan yang sangat berbeda. Perusahaan pertama memiliki budaya kolektivistik di mana pengambilan keputusan berdasarkan konsensus dan kesetiaan jangka panjang adalah norma. Perusahaan kedua memiliki budaya individualistis di mana keputusan cepat dan promosi berbasis kinerja adalah standar. Beberapa karyawan dari kedua perusahaan memiliki kekhawatiran tentang masa depan mereka dan beberapa sudah mulai menunjukkan perilaku defensif dan mentalitas silo. Anda harus membuat rekomendasi kepada direksi. Tindakan Anda adalah...",
+    "options": [
+      "Membuat budaya baru yang menggabungkan semua unsur dari kedua budaya perusahaan dan diterapkan secara merata ke semua karyawan tanpa pengecualian dengan timeline yang tegas",
+      "Mengadakan seri dialog dengan karyawan dari kedua perusahaan untuk memahami kekhawatiran dan aspirasinya secara mendalam, mengevaluasi secara objektif unsur terbaik dari setiap budaya yang dapat diintegrasikan untuk budaya perusahaan baru yang menggabungkan kecepatan dan inovasi dengan stabilitas dan kesetiaan, membuat proses transparan untuk integrasi dan timeline yang realistis, memberikan dukungan berbeda untuk karyawan dalam beradaptasi seperti pelatihan untuk yang berasal dari budaya kolektivistik dan jalur cepat untuk yang berasal dari budaya individualistis, menetapkan nilai dan ritual bersama yang dapat menyatukan kedua kelompok, mengevaluasi kemajuan secara berkala dan menyesuaikan pendekatan berdasarkan umpan balik, dan membuat keputusan struktural yang sulit tentang organisasi yang diperlukan untuk efektivitas operasional sambil tetap adil dalam distribusi peluang",
+      "Biarkan budaya perusahaan pertama menjadi budaya dominan karena mereka lebih besar dalam merger",
+      "Membiarkan kedua budaya existir secara paralel tanpa integrasi karena terlalu sulit untuk mengubah budaya",
+      "Meminta semua karyawan untuk memilih salah satu budaya dan beradaptasi atau pergi"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan integrasi budaya pasca-merger - mendengarkan mendalam (pemahaman), evaluasi objektif (terbaik dari keduanya), proses transparan (adil), dukungan berbeda (pelatihan + jalur cepat), nilai bersama (persatuan), penyesuaian iteratif (pembelajaran), dan membuat keputusan struktural yang sulit secara adil. Menerapkan prinsip bahwa integrasi budaya adalah perjalanan, bukan mandat. Nilai 4: Dialog tapi kurang dukungan berbeda atau kurang transparan dalam keputusan struktural. Nilai 3: Pendekatan budaya dominan - tidak adil. Nilai 2: Budaya paralel - kegagalan integrasi. Nilai 3: Ultimatum pilihan - tidak mendukung.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_039",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "questionText": "Anda adalah seorang petugas pemadam kebakaran di mana selama operasi penyelamatan Anda harus membuat keputusan detik-detik tentang siapa yang akan diselamatkan lebih dulu ketika sumber daya terbatas dan beberapa nyawa dipertaruhkan. Anda harus memilih antara menyelamatkan anak-anak yang terjebak dan seorang lansia yang juga dalam bahaya serius. Keduanya tidak dapat diselamatkan secara bersamaan karena struktur bangunan runtuh dan keterbatasan waktu. Anda memiliki keluarga sendiri dan tahu bahwa setiap keputusan akan mempengaruhi Anda secara emosional dan dapat mempengaruhi penilaian Anda. Tindakan Anda adalah...",
+    "options": [
+      "Menggunakan prosedur operasi standar yang objektif di mana prioritas diberikan kepada mereka yang paling mungkin bertahan dan memiliki probabilitas penyelamatan lebih tinggi mengingat sumber daya yang tersedia, memberikan penjelasan yang cepat dan penuh hormat kepada semua pihak dan keluarga mereka, dan mendokumentasikan semua keputusan untuk tinjauan dan perbaikan protokol dan dukungan psikologis untuk Anda dan tim setelah operasi dan konsultasi dengan psikolog untuk memproses dampak emosional dari keputusan yang Anda buat",
+      "Menyelamatkan anak-anak terlebih dahulu karena mereka memiliki masa depan di depan dan lebih muda",
+      "Menyelamatkan lansia terlebih dahulu karena mereka tidak memiliki banyak waktu tersisa dan lebih rentan",
+      "Meminta keluarga mereka untuk memilih siapa yang diselamatkan lebih dulu",
+      "Membeku karena tidak dapat membuat keputusan dan membiarkan waktu habis tanpa tindakan"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan pengambilan keputusan darurat - SOP objektif (kriteria berbasis bukti), komunikasi penuh hormat (harkat), dokumentasi (akuntabilitas + pembelajaran), dan dukungan psikologis (perawatan diri + perawatan tim). Mengakui bahwa dampak emosional adalah nyata dan memerlukan perhatian. Menerapkan prinsip bahwa petugas pemadam kebakaran harus mengikuti protokol sambil menjaga Kemanusiaan. Nilai 4: Menggunakan SOP tapi kurang dukungan psikologis. Nilai 2: Prioritas berdasarkan usia - bukan kriteria profesional. Nilai 3: Lansia terlebih dahulu - tidak profesional. Nilai 2: Pilihan keluarga - tidak bertanggung jawab. Nilai 1: Membeku - tidak dapat diterima untuk petugas darurat.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_040",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "questionText": "Anda adalah seorang manajer program di mana Anda perlu membangun kemitraan dengan beberapa organisasi untuk keberhasilan program. Beberapa mitra potensial memiliki reputasi yang baik dan beberapa memiliki catatan kontroversial dalam beberapa area namun memiliki sumber daya yang unik yang Anda butuhkan. Terdapat juga tekanan dari donor untuk menggunakan organisasi tertentu karena mereka lebih mudah diajak bekerja sama dan memberikan lebih banyak fleksibilitas dalam penggunaan dana. Di sisi lain, Anda tahu bahwa beberapa organisasi dengan reputasi baik dapat memberikan legitimasi kepada program dan mengurangi risiko reputasi untuk Anda dan donor. Tindakan Anda adalah...",
+    "options": [
+      "Memilih semua organisasi yang menawarkan sumber daya dan ingin bekerja sama karena program membutuhkan semua dukungan yang tersedia secara independen dari reputasi",
+      "Melakukan uji tuntas yang menyeluruh terhadap semua mitra potensial termasuk verifikasi rekam jejak, struktur tata kelola, stabilitas keuangan, dan dampak yang telah mereka berikan dalam program sebelumnya, mengevaluasi secara objektif setiap mitra terhadap tujuan program dan profil risiko, membuat keputusan berdasarkan informasi tentang siapa yang akan menjadi mitra yang tepat untuk komponen spesifik program berdasarkan kekuatan dan kelemahan mereka, menetapkan ekspektasi yang jelas dan mekanisme pemantauan untuk semua mitra terlepas dari ukuran atau reputasi, transparan kepada donor tentang kriteria dan alasan seleksi Anda, dan jika organisasi dengan reputasi kontroversial memiliki kontribusi yang unik dan kritis untuk keberhasilan program, mengevaluasi dengan sangat hati-hati apakah risiko dapat dimitigasi dengan penjagaan yang tepat dan pemantauan ketat atau apakah mereka tidak cocok dan mencari solusi alternatif",
+      "Hanya memilih organisasi dengan reputasi baik dan menolak bekerja sama dengan siapapun yang memiliki kontroversi meskipun mereka memiliki sumber daya yang unik",
+      "Menggunakan hanya organisasi yang donor rekomendasikan untuk menjaga hubungan baik dengan donor",
+      "Menunda keputusan sampai semua kekhawatiran dapat diselesaikan melalui negosiasi panjang"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan pengembangan kemitraan - uji tuntas (seleksi berbasis bukti), evaluasi objektif (kekuatan + kelemahan), kemitraan yang disesuaikan (komponen spesifik), mekanisme pemantauan (akuntabilitas), transparansi donor (kepercayaan), dan penilaian risiko yang berimbang (kontribusi unik). Menerapkan prinsip bahwa kemitraan harus strategis, bukan oportunistik. Nilai 4: Uji tuntas tapi kurang kemitraan yang disesuaikan atau kurang transparan ke donor. Nilai 3: Hanya reputasi - tidak pragmatis. Nilai 2: Didorong donor - tidak independen. Nilai 3: Menunda berlebihan - tidak tegas.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_041",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah seorang pengacara di mana Anda mewakili klien yang telah dituntut oleh perusahaan besar untuk kerugian yang besar. Di waktu persiapan pembelaan, Anda menemukan beberapa dokumen yang merupakan bukti bahwa klien Anda mungkin telah melanggar beberapa peraturan yang ada dan bahwa perusahaan yang menggugat mungkin merupakan korban dalam situasi ini. Klien Anda memiliki keluarga dengan anak kecil dan jika Anda kalah, keluarga mereka akan sangat kesulitan. Terdapat juga tekanan dari pengacara majelis untuk menjaga profesionalisme dan dari keluarga untuk melakukan segalanya untuk menang. Tindakan Anda adalah...",
+    "options": [
+      "Menggunakan semua argumen yang tersedia untuk membela klien termasuk kemungkinan menonjolkan kelemahan dalam kasus perusahaan meskipun tidak sepenuhnya relevan untuk menang dan tidak peduli tentang kebenaran",
+      "Memberikan nasihat jujur kepada klien bahwa dokumen menunjukkan bahwa mereka mungkin memiliki kewajiban hukum, menjelaskan dengan jelas opsi yang tersedia dan risiko dari setiap pilihan lain, menghormati otonomi klien dalam pengambilan keputusan tentang apakah menyelesaikan atau melanjutkan ke pengadilan, sambil mempertahankan kewajiban profesional Anda untuk memberikan pembelaan terbaik yang mungkin berdasarkan fakta yang ada dan hukum yang berlaku, transparan kepada klien tentang kewajiban profesional dan keterbatasan Anda dan jika klien ingin melanjutkan ke pengadilan meskipun ada risiko, Anda akan memberikan pembelaan yang kompeten dan profesional berdasarkan fakta yang ada dan hukum yang berlaku, dan tidak akan menggunakan argumen yang tidak beriktikad baik atau menyesatkan meskipun tekanan dari keluarga atau klien untuk menang dengan segala cara",
+      "Menarik diri dari kasus karena terlalu banyak konflik etis dan tekanan dari semua pihak",
+      "Menggunakan kelemahan dalam bukti lawan untuk menang terlepas dari kebenaran karena itu adalah tugas pengacara untuk menjadi advokat yang gigih",
+      "Memberitahu perusahaan tentang kelemahan kasus klien Anda dan memberikan semua dokumen kepada mereka karena ini adalah hal yang benar untuk dilakukan"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan etika hukum - nasihat jujur (otonomi klien), opsi dan risiko yang jelas (keputusan terinformasi), batasan profesional (advokasi gigih tapi etis), tidak ada penyesatan (integritas di bawah tekanan), dan menghormati otonomi klien (pilihan). Menerapkan prinsip bahwa advokasi gigih dan praktik etis dapat seiring. Nilai 4: Nasihat jujur tapi kurang jelas tentang keterbatasan profesional. Nilai 3: Penarikan diri - tidak memenuhi kewajiban profesional. Nilai 2: Advokasi tidak etis - melanggar standar profesional. Nilai 3: Membocorkan kerahasiaan klien - melanggar hak istimewa pengacara-klien.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_042",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "questionText": "Anda adalah seorang tenaga medis pekerja rumah sakit di mana terjadi situasi di mana seorang pasien telah divonis tidak memiliki jaminan pembayaran dan tidak mampu untuk membayar tagihan medis yang sangat besar. Pasien tersebut adalah satu-satunya pencari nafkah keluarga dengan anak-anak dan pada ujungnya memiliki kondisi medis yang membutuhkan pemantauan tetap dan obat untuk masa depan yang dapat diprediksi. Tim medis merasa bahwa secara etis tidak dapat menuliskan resep pasien dan keluarga akan tanpa dukungan medis jika mereka pergi. Namun rumah sakit juga memiliki kewajiban keuangan dan tidak dapat menyediakan layanan gratis kepada semua orang tanpa masalah struktural. Tindakan Anda adalah...",
+    "options": [
+      "Menyediakan layanan penuh gratis kepada pasien dan seluruh tagihan ditanggung rumah sakit karena etika medis di atas semua",
+      "Berkoordinasi dengan pekerja sosial dan berbagai pihak untuk mengevaluasi semua peluang pembiayaan termasuk program bantuan pemerintah, program perawatan amal, rencana pembayaran berdasarkan kemampuan keluarga untuk membayar, dan kemungkinan rujukan ke fasilitas dengan biaya lebih rendah tetapi kualitas memadai, membuat rencana pembayaran individual yang berkelanjutan untuk keluarga dan membantu mereka mendaftar di semua program bantuan yang berlaku, transparan kepada keluarga tentang keterbatasan sumber daya rumah sakit dan kendala yang ada sambil tetap berkomitmen untuk memberikan kualitas layanan selama periode transisi, dan melakukan tindak lanjut secara teratur untuk memastikan keluarga dapat terus mendapatkan obat dan pemantauan yang diperlukan dengan cara yang mereka mampu, sambil mendorong keluarga untuk aktif berpartisipasi dalam mengelola kondisi mereka sendiri dan sumber daya yang tersedia untuk mereka",
+      "Menyarankan pasien untuk dirujuk ke rumah sakit sosial yang lebih murah karena tidak mampu membayar di sini",
+      "Meminta pasien untuk menandatangani janji pembayaran meskipun tidak mampu karena ini akan melindungi rumah sakit secara hukum",
+      "Menghubungi media untuk menggalang dana dari masyarakat karena ini adalah tanggung jawab masyarakat luas"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan etika medis-sosial - pemetaan sumber daya komprehensif (pekerja sosial + berbagai program), solusi pembayaran berkelanjutan (rencana individual), komunikasi transparan (keterbatasan), dukungan berkelanjutan (tindak lanjut), dan pemberdayaan pasien (manajemen diri). Menerapkan prinsip bahwa rumah sakit memiliki tanggung jawab sosial tetapi juga kendala operasional. Nilai 4: Evaluasi sumber daya tapi kurang tindak lanjut atau kurang transparan tentang keterbatasan. Nilai 3: Transfer tanpa dukungan - pengabaian. Nilai 2: Janji tanpa kemampuan - tidak jujur. Nilai 3: Media tanpa solusi sistematis - tidak berkelanjutan.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_043",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "questionText": "Anda adalah seorang jabatan keuangan where Anda diminta oleh atas langsung untuk memanipulasi beberapa angka dalam laporan keuangan kuartal yang akan datang untuk membuat penampilan lebih baik. Atas langsung menjelaskan bahwa ini diperlukan untuk menjaga investor confidence  bahwa ini tidak ilegal ya umum dilakukan oleh banyak perusahaan. Anda memiliki bukti bahwa atasan Anda sendiri memiliki keuangan masalah pribadi  mungkin memiliki motive beyond investor confidence. Anda baik memahami, bahwa ini manipulasi namun Anda sangat membutuhkan pekerjaan ini karena anggota keluarga dengan kondisi medis yang membutuhkan membantu. Tindakan Anda adalah...",
+    "options": [
+      "Melakukan manipulasi sesuai diminta karena ini umum dilakukan ya Anda membutuhkan pekerjaan ya keluarga Anda tergantung pada pendapatan ini",
+      "Menolak dengan tegas ya menjelaskan bahwa manipulasi pelaporan merupakan pelanggaran etika profissional secara independen dari , apakah tersebut merupakan pelanggaran hukum atau tidak, bahwa sebagai profesional keuangan Anda memiliki tanggung jawab terhadap investor, stakeholders, ya masyarakat luas, memberikan kepada atasans alternatif untuk meningkatkan numbers secara legitimate melalui operational improvements atau transparan disclosure tentang situasi perusahaan, mendokumentasikan penolakan Anda ya conversations dengan atasans ya membuat mereka aware bahwa Anda akan mempertahankan posisi ini regardless of consequences, ya jika tekanan continues, escalating to appropriate parties seperti akuntan atau board directors untuk protection ya untuk menjaga integrity keuangan pelaporan",
+      "Melakukan sebagian manipulasi yang sedikit ya tidak separah diminta untuk menjadi compromise",
+      "Mengancam akan melapor ke organ pemerintah jika atasan memaksa karena ini merupakan Anda satu-satunya leverage",
+      "Mengabaikan ya tidak melakukan manipulasi namun juga tidak menolak secara aktif  membiarkan situasi berkembang tanpa posisi"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Financial integrity excellence - firm refusal (clear boundary), ethical rationale (stakeholder responsibility), constructive alternatives (legitimate improvement), documentation (self-protection), undeterred by personal consequences (integritas), dan appropriate escalation (proper channels). Menerapkan prinsip bahwa personal hardship does not justify unethical behavior. Nilai 4: Firm refusal tapi tanpa alternatives atau documentation. Nilai 2: Partial manipulation - tetap tidak berintegritas. Nilai 2: Threatening - tidak professional. Nilai 3: Passive - tidak berprinsipip.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_044",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "questionText": "Anda adalah seorang koordinator program gender equality di mana Anda mengevaluasi program untuk mempromosikan kesetaraan gender  kerja lingkungan. penelitian menunjukkan bahwa program memiliki beberapa pencapaian access untuk perempuan  tertinggi posisi namun juga memiliki tidakintended dampak: beberapa program affirmative action telah ya lingkungan kerja yang tidak nyaman untuk beberapa laki-laki ya menyebabkan sentiment terbalik diskriminasi. beberapa laki-laki merasa bahwa peluang mereka berkurang tanpa alasan yang adil. komunitas mulai terbelah. Tindakan Anda adalah...",
+    "options": [
+      "Menganjutkan program ya mengabaikan kekhawatiran laki-laki ya karena  masih memiliki keprivilegian struktural ya membutuhkan untuk redress this inequality",
+      "Mengadakan dialog dengan kedua kelompok untuk memahami kekhawatiran masing-masing secara mendalam, mengevaluasi secara objektif dampak nyata dari program termasuk data tentang terbalik diskriminasi ya real existing inequality, mengevaluasi program components untuk adjust di mana needed such as ensuring bahwa selection criteria adalah merit-based ya tidak mengabaikan kualifikasi kritis for any gender, membangun lebih inclusive narrative di mana kesetaraan bukan permainan total tetapi ya di mana programs untuk satu group tidak seharusnya berarti melawan  group, memberikan training untuk membantu semua employees memahami kompleksitas kesetaraan ya membangun empati lintas gender, transparan tentang data  rationale behind decisions, dan secara berkelanjutan mengevaluasi  adjust program based on hasil dan feedback bahwa memastikan bahwa  memiliki positif impact for semua employees ya keadilan merupakan nyata dan tidak hanya statistically",
+      "Menghentikan semua program affirmative action karena  menyebabkan lebih masalah dari yang mereka selesaikan",
+      "Menyerahkan evaluasi kepada eksternal consultants tanpa campur tangan intern untuk menghindari bias",
+      "Mengabaikan kekhawatiran ya melanjutkan karena masalah reverse discrimination sering membesar-besarkan"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Gender equity program excellence - inclusive dialogue (all voices), objective evaluation (data-driven), program adjustment (merit-based criteria), inclusive narrative (zero-sum fallacy addressed), empathy building (training), transparency (data + rationale), iterative improvement (ongoing evaluation). Menerapkan prinsip bahwa equity programs harus benefit all dan continually refined. Nilai 4: Dialogue tapi kurang inclusive narrative atau kurang ongoing evaluation. Nilai 3: Removing all programs - throwing baby with bathwater. Nilai 2: External delegation - responsibility. Nilai 3: Ignoring concerns - tidak inclusif.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tkp_045",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "questionText": "Anda adalah seorang dosen di universitas di mana Anda tengah mengevaluasi kinerja mahasiswa akhir yang akan lulus. Satu mahasiswa memiliki kemampuan akademik yang luar biasa dan potensi riset, namun selama proyek kelompok telah menunjukkan perilaku sangat egoistis dan tidak menghargai kontribusi orang lain. Secara terpisah, mahasiswa juga telah melakukan plagiarisme dalam sebuah tugas akhir pekerjaan yang meskipun minor dan mungkin tidak sengaja, masih merupakan pelanggaran akademik. Mahasiswa tersebut juga adalah satu-satunya dari keluarga mereka yang bisa lulus karena kondisi keuangan keluarga sangat terbatas. Dekan telah memberikan Anda diskresi untuk memutuskan tentang kelulusan mahasiswa tersebut. Tindakan Anda adalah...",
+    "options": [
+      "Memberikan kelulusan karena kemampuan akademik dan potensi riset dan mengabaikan perilaku kelompok dan plagiarisme sebagai insiden terisolasi karena mahasiswa membutuhkan untuk keluarga mereka dan masa depan",
+      "Melakukan investigasi yang menyeluruh untuk memahami apakah plagiarisme adalah sengaja atau hasil dari kurangnya pemahaman tentang praktik sitasi, berbincang dengan mahasiswa untuk memberikan umpan balik yang konstruktif tentang kedua masalah perilaku (plagiarisme dan perilaku egoistis dalam grup), mengevaluasi apakah mahasiswa dapat diberikan kesempatan untuk memperbaiki termasuk pengajuan ulang tugas dengan sitasi yang benar dan membuat refleksi tertulis tentang kerja kolaboratif, memberikan keputusan akhir yang objektif berdasarkan apakah mahasiswa telah menunjukkan perbaikan yang cukup dan pemahaman tentang standar akademik dan profesional yang diperlukan untuk menjadi lulusan, dan jika setelah semua intervensi mahasiswa masih menunjukkan perilaku yang tidak sesuai dengan ekspektasi profesional, merekomendasikan untuk tidak meluluskan pada periode ini dengan memberikan penjelasan yang jelas dan kesempatan untuk mencoba lagi dengan dukungan yang sesuai",
+      "Memecat mahasiswa dari program karena plagiarisme adalah pelanggaran serius dan tidak dapat ditoleransi terlepas dari keadaan",
+      "Meluluskan mahasiswa karena kinerja akademik telah memenuhi dan meninggalkan keputusan tentang perilaku untuk diplomatik atauu dekanat",
+      "Menunda keputusan tanpa batas karena terlalu banyak faktor yang perlu dipertimbangkan"
+    ],
+    "answer": "B",
+    "explanation": "Nilai 5: Keunggulan integritas akademik + kasih sayang - investigasi (sengaja vs tidak sengaja), umpan balik konstruktif (kedua masalah), kesempatan perbaikan (pengajuan ulang + refleksi), keputusan objektif (berdasarkan bukti perbaikan), keadilan (standar konsisten), dan pendekatan pengembangan (kesempatan kedua dengan dukungan). Menerapkan prinsip bahwa lembaga pendidikan harus menjaga standar sambil mendukung pertumbuhan mahasiswa. Nilai 4: Investigasi tapi kurang jelas tentang syarat kesempatan kedua. Nilai 2: Pemecatan langsung - tidak edukatif. Nilai 2: Lulus tanpa mengatasi masalah - tidak bertanggung jawab. Nilai 3: Penundaan tanpa batas - tidak tegas.",
+    "difficulty": "hard"
+  }
+]

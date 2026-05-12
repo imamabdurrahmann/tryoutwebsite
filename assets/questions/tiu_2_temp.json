@@ -1,0 +1,32 @@
+[
+  {
+    "questionId": "tiu_2_001",
+    "category": "TIU",
+    "subcategory": "Analogi",
+    "questionText": "Guru : Mengajar = Dokter : ...",
+    "options": [
+      {
+        "key": "A",
+        "text": "Merawat pasien"
+      },
+      {
+        "key": "B",
+        "text": "Menjual obat"
+      },
+      {
+        "key": "C",
+        "text": "Membuat resep"
+      },
+      {
+        "key": "D",
+        "text": "Merawat diri sendiri"
+      },
+      {
+        "key": "E",
+        "text": "Mengikuti seminar"
+      }
+    ],
+    "answer": "A",
+    "explanation": "Hubungan guru-mengajar ekuivalen dengan dokter-merawat pasien. Kedua hubungan menunjukkan profesijenis yang ekuivalen dengan aktivitas utama."
+  }
+]

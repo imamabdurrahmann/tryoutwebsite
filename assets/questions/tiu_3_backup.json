@@ -1,0 +1,600 @@
+[
+  {
+    "questionId": "tiu3_001",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Tidak semua pejabat yang menangani pengadaan di atas 1 miliar secara otomatis dituntut secara hukum.\n2. Setiap pejabat yang menangani pengadaan barang dan jasa pemerintah dengan nilai di atas 1 miliar termasuk kategori rawan korupsi.\n3. Pejabat yang menangani anggaran infrastruktur berisiko tinggi untuk terlibat penyuapan.\n4. Berdasarkan evaluasi, sebagian besar kasus korupsi melibatkan unsur penyuapan yang terjadi secara sistematis.\n5. Pejabat yang terbukti melakukan korupsi akan dikenakan sanksi pemberhentian dengan tidak hormat.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling dapat dipertanggungjawabkan secara logis adalah...",
+    "options": [
+      "Pejabat yang menangani anggaran infrastruktur pasti akan terlibat penyuapan karena risikonya tinggi",
+      "Pejabat yang menangani anggaran infrastruktur berpeluang terlibat kasus korupsi karena berisiko tinggi, namun bukan kepastian karena tidak semua pejabat berisiko tinggi secara otomatis menjadi koruptor",
+      "Semua UU korupsi mengatur tentang penyuapan sehingga semua kasus korupsi melibatkan penyuapan",
+      "Korupsi hanya terjadi pada pejabat yang menangani anggaran infrastruktur",
+      "KPK harus menangkap semua pejabat yang menangani anggaran infrastruktur"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 3: pejabat infrastruktur berisiko tinggi. Dari premis 4: sebagian besar korupsi melibatkan penyuapan sistematis. Dari premis 2: pejabat pengadaan di atas 1 miliar = rawan korupsi. Dari premis 1: tidak semua pejabat rawan korupsi dituntut otomatis. Dari premis 5: yang terbukti korup = sanksi berat. Jadi pejabat infrastruktur berpeluang tapi bukan kepastian.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_002",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Tidak semua daerah yang memiliki potensi bencana alam memiliki sistem evakuasi yang memadai.\n2. Setiap daerah rawan gempa wajib memiliki bangunan tahan gempa sesuai standar bangunan nasional.\n3. Beberapa daerah di Pantai Selatan Jawa memiliki potensi tsunami tinggi namun belum memiliki sistem peringatan dini yang efektif.\n4. Sistem peringatan dini tsunami memerlukan infrastruktur sensor yang tersebar di sepanjang pantai.\n5. Biaya pemasangan sensor peringatan dini tsunami sangat mahal dan bergantung pada dana pusat.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling logis adalah...",
+    "options": [
+      "Semua daerah rawan gempa harus memiliki bangunan tahan gempa tanpa kecuali",
+      "Daerah di Pantai Selatan Jawa wajib memiliki sistem peringatan dini tsunami karena berpotensi tsunami tinggi dan sistem belum efektif",
+      "Bencana alam tidak dapat dicegah sehingga sistem peringatan dini tidak diperlukan",
+      "Biaya pemasangan sensor terlalu mahal sehingga daerah rawan tsunami tidak wajib memiliki peringatan dini",
+      "Hanya daerah yang sudah memiliki bangunan tahan gempa yang boleh memiliki sistem peringatan dini"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 3: Pantai Selatan Jawa berpotensi tsunami tinggi dan belum punya sistem efektif. Dari premis 2: daerah rawan gempa wajib bangun tahan gempa - analogi dengan kewajiban punya sistem mitigasi. Dari premis 5: biaya mahal tapi dari premis 1, tidak semua daerah punya sistem memadai. Jadi daerah berpotensi tinggi seperti Pantai Selatan Jawa wajib punya peringatan dini.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_003",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Semua program bantuan sosial yang dicairkan oleh pemerintah daerah wajib melalui proses persetujuan yang ketat.\n2. Program Keluarga Harapan (PKH) merupakan program bantuan sosial berbasis langsung tunai yang menyasar warga miskin.\n3. Berdasarkan data kesejahteraan sosial, tidak semua keluarga yang terdaftar sebagai keluarga miskin secara otomatis terverifikasi sebagai penerima bantuan.\n4. Verifikasi data keluarga miskin memerlukan kunjungan langsung oleh petugas kesejahteraan sosial.\n5. Jumlah petugas kesejahteraan sosial yang tersedia tidak sebanding dengan jumlah keluarga yang harus diverifikasi.\n6. Program bantuan sosial yang tidak terverifikasi dengan baik berpotensi mempengaruhi efektivitas dan menimbulkan masalah sosial.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling mungkin adalah...",
+    "options": [
+      "PKH pasti tidak efektif karena tidak semua keluarga miskin terverifikasi",
+      "Keterbatasan petugas kesejahteraan sosial menyebabkan tidak semua keluarga miskin dapat diverifikasi sehingga program bantuan berpotensi tidak tepat sasaran",
+      "Semua keluarga miskin pasti memperoleh bantuan karena program memiliki prosedur yang ketat",
+      "Hanya keluarga yang telah diverifikasi oleh petugas kesejahteraan sosial yang boleh menerima bantuan",
+      "Program bantuan sosial harus dihentikan sampai semua keluarga miskin terverifikasi"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 5: jumlah petugas tidak sebanding dengan keluarga yang harus diverifikasi. Dari premis 3: tidak semua keluarga miskin terverifikasi otomatis. Dari premis 4: verifikasi memerlukan kunjungan langsung. Dari premis 6: program tidak terverifikasi = tidak efektif. Jadi keterbatasan petugas menyebabkan verifikasi tidak lengkap, berpotensi tidak tepat sasaran.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_004",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Setiap Pegawai Negeri Sipil yang berperingkat wajib mematuhi kode etik dan bekerja sesuai standar kinerja.\n2. Pegawai Negeri Sipil yang berperingkat di atas 1 memiliki lebih banyak tugas dan tekanan.\n3. Tidak semua PNS yang memiliki banyak tugas dan tekanan memperoleh penghargaan atau pengakuan yang sebanding.\n4. Beban kerja yang berlebihan tanpa reward yang memadai berpotensi menyebabkan tekanan tinggi dan kelelahan kerja.\n5. Kelelahan kerja di tempat kerja berpotensi menurunkan kualitas layanan dan produktivitas organisasi.\n6. Produktivitas organisasi berpotensi mempengaruhi pencapaian tujuan dan indikator kinerja daerah.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling logis adalah...",
+    "options": [
+      "Semua PNS yang memiliki banyak tugas pasti mengalami kelelahan karena tekanan tinggi",
+      "Beban kerja berlebihan tanpa reward yang memadai berpotensi menurunkan kualitas layanan sehingga berpotensi menurunkan kinerja organisasi dan pencapaian tujuan daerah",
+      "PNS berperingkat tinggi pasti mendapatkan reward karena kontribusinya lebih besar",
+      "Kinerja organisasi berpotensi turun jika PNS mengalami tekanan tinggi berkepanjangan",
+      "Semua organisasi pemerintah pasti menghadapi masalah kinerja"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 3: tidak semua PNS dengan tekanan tinggi dapat reward. Dari premis 4: tekanan tanpa reward dapat menyebabkan kelelahan kerja. Dari premis 5: kelelahan berpotensi menurunkan kualitas layanan. Dari premis 6: turun layanan berpotensi menurunkan kinerja daerah. Rangkaian premis 3-4-5-6 menunjukkan beban berlebihan tanpa reward berpotensi menurunkan layanan lalu menurunkan kinerja daerah.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_005",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Setiap kebijakan publik yang berdampak pada masyarakat wajib melalui proses konsultasi publik untuk mendapatkan umpan balik.\n2. Tidak semua umpan balik dari masyarakat mencerminkan kebutuhan sebenarnya karena beberapa peserta mungkin memiliki pandangan tertentu atau kepentingan khusus.\n3. Kebijakan di bidang lingkungan hidup yang berdampak pada industri berpotensi berhadapan dengan pertentangan antara kepentingan ekonomi dan kelestarian lingkungan.\n4. Industri yang terkena dampak kebijakan lingkungan berpotensi meminta kompensasi atau keringanan dari kewajiban.\n5. Jika tidak mempertimbangkan umpan balik dari pelaku industri, dapat menyebabkan pengangguran atau kerugian ekonomi.\n6. Jika tidak mempertimbangkan kelestarian lingkungan, dapat menyebabkan kerusakan ekosistem.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling dapat dipertanggungjawabkan adalah...",
+    "options": [
+      "Kebijakan lingkungan berpotensi mengganggu operasional industri namun tidak semua industri akan gulur",
+      "Kebijakan lingkungan berpotensi memengaruhi operasional perusahaan sehingga perlu keseimbangan antara kelestarian lingkungan dan keberlangsungan industri untuk menghindari dampak negatif terhadap tenaga kerja",
+      "Semua industri berpotensi gulur bila kebijakan lingkungan terlalu ketat diterapkan tanpa transisi",
+      "Lingkungan tetap penting karena pelestarian lingkungan adalah fondasi pembangunan berkelanjutan",
+      "Pemerintah harus mempertimbangkan keduanya: kelestarian lingkungan dan keberlangsungan ekonomi industri"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 3: kebijakan lingkungan terhadap industri berpotensi menimbulkan trade-off antara ekonomi dan lingkungan. Dari premis 4: industri berpotensi meminta kompensasi. Dari premis 5: tanpa mempertimbangkan industri berarti potensi pengangguran dan kerugian ekonomi. Dari premis 6: tanpa lingkungan berarti potensi kerusakan ekosistem. Jadi diperlukan keseimbangan: keduanya harus dipertimbangkan untuk menghindari pengangguran dan kerusakan lingkungan.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_006",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Jika hujan turun, maka jalanan basah.\n2. Jika jalanan basah, maka kecepatan kendaraan melambat.\n3. Jika kecepatan kendaraan melambat, maka kemacetan terjadi di jalan utama.\n4. Jika kemacetan terjadi di jalan utama, maka waktu tempuh perjalanan meningkat signifikan.\n5. Jika waktu tempuh meningkat, maka konsumsi bahan bakar meningkat dan biaya transportasi naik.\n6. Jika biaya transportasi naik, maka harga barang di pasar tradisional berpotensi naik.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling logis adalah...",
+    "options": [
+      "Hujan berpotensi menyebabkan kemacetan di beberapa jalan karena tidak setiap hujan secara otomatis membuat semua jalan macet total",
+      "Jika hujan turun, maka berpotensi menyebabkan kenaikan biaya transportasi karena waktu tempuh meningkat dan konsumsi bahan bakar naik sehingga harga barang berpotensi naik",
+      "Jika hujan turun, berpotensi hanya memengaruhi kemacetan di jalan utama dan tidak selalu memengaruhi rute alternatif di jalan kecil",
+      "Harga barang berpotensi naik hanya jika hujan turun sangat deras selama berhari-hari sehingga biaya transportasi meningkat secara signifikan",
+      "Kemacetan tidak terlalu mengganggu individu karena masyarakat pada umumnya dapat beradaptasi dengan perubahan waktu tempuh perjalanan"
+    ],
+    "answer": "B",
+    "explanation": "Dari perangkaiian premis: hujan -> jalanan basah -> kecepatan turun -> macet -> waktu tempuh naik -> konsumsi bahan bakar naik -> biaya transportasi naik -> harga barang berpotensi naik. Ini adalah rangkaian konsekuensi logis. Namun setiap langkah bersifat potensi, bukan kepastian absolut karena masih ada faktor lain seperti infrastruktur drainase, moda transportasi alternatif, dan kebijakan lalu lintas.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_007",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Tidak semua mahasiswa yang rajin belajar akan lulus ujian dengan predikat cumlaude.\n2. Sebagian mahasiswa mengambil program bimbingan tambahan dari lembaga kursus terakreditasi.\n3. Program bimbingan tambahan dari lembaga kursus terakreditasi memiliki tingkat keberhasilan tinggi dan hasil yang terbukti nyata.\n4. Tidak semua mahasiswa yang mengikuti bimbingan pasti lulus ujian karena keberhasilan juga bergantung pada usaha individu dan faktor lain.\n5. Mahasiswa yang lulus ujian dengan predikat cumlaude berpeluang memperoleh kesempatan kerja yang lebih baik.\n\nJika semua mahasiswa Program Studi Hukum harus mengikuti ujian untuk menjadi pengacara, Simpulan yang paling tepat adalah...",
+    "options": [
+      "Semua mahasiswa hukum yang mengikuti bimbingan pastilah lulus ujian pengacara",
+      "Mahasiswa hukum yang mengikuti bimbingan berpeluang lulus ujian pengacara karena program terakreditasi memiliki tingkat keberhasilan tinggi, meskipun bukan kepastian karena keberhasilan juga bergantung pada usaha individu dan faktor lain",
+      "Mahasiswa hukum tidak perlu mengikuti ujian pengacara karena bimbingan sudah cukup untuk menjadi pengacara",
+      "Bimbingan dari lembaga kursus terakreditasi menjamin kesuksesan dalam pekerjaan",
+      "Hanya mahasiswa yang tidak mengikuti bimbingan yang dapat lulus ujian pengacara"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 3: bimbingan terakreditasi memiliki tingkat keberhasilan tinggi dan terbukti nyata. Dari premis 4: meskipun efektif, keberhasilan juga bergantung pada usaha individu dan faktor lain. Dari premis 2: sebagian mahasiswa mengambil bimbingan. Jadi mahasiswa hukum yang mengambil bimbingan berpeluang lulus ujian pengacara, tapi bukan kepastian karena ada faktor lain yang memengaruhi.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_008",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Tidak semua mahasiswa membutuhkan kegiatan di luar jam kuliah karena sebagian lebih memilih belajar secara mandiri.\n2. Beberapa mahasiswa mengambil program multitasking yang memengaruhi kualitas pembelajaran.\n3. Program multitasking yang memengaruhi kualitas pembelajaran berpotensi menurunkan prestasi akademik.\n4. Mahasiswa yang mengambil program multitasking berpotensi menghadapi tekanan yang lebih besar dan tantangan yang lebih berat.\n5. Tekanan yang besar berpotensi menurunkan kesehatan mental dan produktivitas.\n6. Jika kesehatan mental terpengaruh, maka kualitas hidup berpotensi menurun.\n\nSimpulan yang tepat adalah...",
+    "options": [
+      "Semua mahasiswa berpotensi waktunya terbuang karena multitasking tidak diperlukan dalam menuntut ilmu",
+      "Mahasiswa yang mengambil program multitasking berpeluang mengalami tekanan lebih besar sehingga berpotensi menurunkan kesehatan mental dan kualitas hidup, meskipun ada sebagian yang mampu menyeimbangkan",
+      "Program multitasking tidak penting karena tidak menurunkan prestasi akademik secara signifikan",
+      "Kualitas hidup berpotensi menurun hanya jika mahasiswa mengambil program multitasking secara berlebihan tanpa jeda",
+      "Mahasiswa sebaiknya tidak mengikuti kegiatan ekstrakurikuler agar bisa fokus sepenuhnya pada akademik"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 4: multitasking berpotensi menimbulkan tekanan lebih besar. Dari premis 5: tekanan besar berpotensi menurunkan kesehatan mental dan produktivitas. Dari premis 6: kesehatan mental terpengaruh berpotensi menurunkan kualitas hidup. Dari premis 1: tidak semua mahasiswa memiliki preferensi yang sama. Jadi ada yang mampu mengelola keseimbangan, namun ada juga yang terpengaruh tekanan dan mengalami penurunan kualitas hidup.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_009",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Semua jenis buah yang berwarna merah mengandung antioksidan tinggi yang baik untuk kesehatan.\n2. Mangga berwarna hijau dan memiliki rasa manis yang khas namun tidak mengandung antioksidan tinggi sesuai standar laboratorium.\n3. Makanan yang kaya antioksidan berpotensi meningkatkan kesehatan dan meningkatkan sistem imun tubuh.\n4. Jika sistem imun tubuh meningkat, maka tubuh lebih mampu menangkal berbagai penyakit infeksi.\n5. Namun, tidak semua orang bersedia mengonsumsi buah karena preferensi rasa atau ketersediaan.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling tepat adalah...",
+    "options": [
+      "Mangga bukan buah yang baik untuk kesehatan karena berwarna hijau",
+      "Buah berwarna merah yang kaya antioksidan berpotensi meningkatkan kesehatan namun tidak semua orang bersedia mengonsumsi buah sehingga manfaat tersebut tidak dirasakan semua orang",
+      "Semua buah berpotensi meningkatkan kesehatan karena semua buah mengandung antioksidan dalam kadar berbeda",
+      "Mengonsumsi buah saja tidak cukup karena tubuh juga membutuhkan sumber nutrisi lain yang beragam",
+      "Mangga tidaklayak dikonsumsi karena kurang memiliki zat gizi penting yang dibutuhkan tubuh"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 1 dan 3: buah berwarna merah kaya antioksidan berpotensi meningkatkan kesehatan. Dari premis 5: tidak semua orang bersedia mengonsumsi buah karena preferensi rasa atau ketersediaan. Dari premis 2: mangga hijau tidak kaya antioksidan tapi tetap manis. Jadi meskipun buah merah kaya antioksidan, tidak semua orang bersedia mengonsumsinya. Kesimpulan: buah merah berpotensi meningkatkan kesehatan namun penerima manfaatnya terbatas karena keterbatasan konsumsi.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_010",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Setiap mahasiswa yang rajin belajar berpeluang memperoleh nilai yang lebih baik.\n2. Sebagian mahasiswa tidak mengikuti kelas secara teratur meskipun jadwal sudah ditetapkan.\n3. Kelas yang tidak teratur diikuti berpotensi memengaruhi pemahaman materi kuliah.\n4. Pemahaman materi kuliah yang baik berpotensi menghasilkan prestasi akademik yang optimal.\n5. Prestasi akademik yang optimal berpotensi membuka peluang kerja yang lebih baik.\n6. Namun, belajar tekun tidak menjamin keberhasilan karena juga bergantung pada faktor-faktor lain seperti koneksi, kondisi kesehatan, dan kondisi pasar kerja.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling mungkin adalah...",
+    "options": [
+      "Semua mahasiswa yang rajin belajar berpeluang memperoleh nilai lebih baik dan berpotensi sukses dalam karier",
+      "Mahasiswa yang rajin belajar berpeluang memperoleh nilai lebih baik namun bukan jaminan kesuksesan karena ada faktor lain yang juga berpengaruh seperti koneksi, kesehatan, dan kondisi pasar kerja",
+      "Mahasiswa yang tidak rajin belajar berpotensi gagal dan tidak akan memperoleh pekerjaan yang layak",
+      "Hanya nilai akademik yang menentukan kesuksesan seseorang di dunia kerja",
+      "Belajar tidak penting karena ada banyak orang yang berhasil tanpa pendidikan formal"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 1: rajin belajar memberikan peluang memperoleh nilai lebih baik. Dari premis 6: namun belajar tekun tidak menjamin keberhasilan karena juga bergantung pada faktor-faktor lain seperti koneksi, kesehatan, dan kondisi pasar kerja. Jadi rajin belajar memberikan peluang nilai lebih baik tapi bukan jaminan kesuksesan karena ada banyak faktor lain yang juga berpengaruh.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_011",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "questionText": "4 siswa W, X, Y, dan Z memiliki tinggi badan berbeda yang diukur dalam sentimeter. Diketahui:\n- W lebih tinggi dari X.\n- Y lebih tinggi dari W.\n- Z tidak lebih tinggi dari X.\n- Selisih tinggi antara Y dan Z adalah 15 cm.\n- Rata-rata tinggi keempat siswa adalah 158 cm.\n\nBerdasarkan informasi tersebut, tinggi siswa tertinggi adalah...",
+    "options": [
+      "165 cm",
+      "168 cm",
+      "170 cm",
+      "172 cm",
+      "175 cm"
+    ],
+    "answer": "B",
+    "explanation": "Dari constraint: Y lebih tinggi dari W, W lebih tinggi dari X, dan Z tidak lebih tinggi dari X. Jadi urutan: Y > W > X >= Z. Rata-rata = 158, jumlah = 632. Selisih Y dan Z = 15 cm. Dari semua kemungkinan yang memenuhi constraint: Y=165, W=161, X=160, Z=150.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_012",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "questionText": "5 orang pedagang yaitu Andri, Budi, Candra, Dimas, dan Erik memiliki modal usaha berbeda yang dinyatakan dalam juta rupiah. Diketahui:\n- Modal Andri lebih besar dari Budi.\n- Modal Candra lebih kecil dari Dimas.\n- Modal Dimas lebih kecil dari Andri.\n- Modal Erik sama dengan modal Budi.\n- Modal terbesar adalah modal yang dimiliki oleh Andri.\n- Modal terkecil adalah modal yang dimiliki oleh Candra.\n\nJika total modal 5 pedagang adalah 125 juta rupiah, maka modal Dimas adalah...",
+    "options": [
+      "20 juta",
+      "22 juta",
+      "25 juta",
+      "28 juta",
+      "30 juta"
+    ],
+    "answer": "E",
+    "explanation": "Urutan modal: Andri terbesar, Candra terkecil. Total = 125 juta. Diketahui Andri > Dimas > Budi = Erik > Candra. Jika Budi = Erik = x, Candra = y, Dimas = z, Andri = a. Total = a + z + 2x + y = 125. Coba x = 20, y = 10, z = 30, a = 45: 45+30+40+10 = 125. Urutan: A=45, D=30, B=20, E=20, C=10.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_013",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "questionText": "Dalam perlombaan lari marathon, Andi finish lebih cepat dari Budi. Chris finish lebih cepat dari Andi. Dodi finish lebih cepat dari Chris. Edo finish lebih lambat dari Dodi. Farhan finish lebih cepat dari Galang. Galang finish lebih lambat dari Edo. Urutan finish dari yang tercepat adalah...",
+    "options": [
+      "Dodi - Chris - Andi - Budi - Farhan - Galang - Edo",
+      "Chris - Dodi - Andi - Budi - Farhan - Galang - Edo",
+      "Dodi - Chris - Farhan - Andi - Galang - Budi - Edo",
+      "Farhan - Galang - Dodi - Chris - Andi - Budi - Edo",
+      "Dodi - Chris - Andi - Budi - Galang - Farhan - Edo"
+    ],
+    "answer": "D",
+    "explanation": "Dari constraint: Dodi > Chris > Andi > Budi (urutan finish). Edo lebih lambat dari Dodi. Farhan > Galang. Galang lebih lambat dari Edo. Jadi antara Galang dan Edo: Edo lebih cepat dari Galang. Farhan > Galang. Posisi Farhan dan Edo relatif terhadap Dodi, Chris, Andi, Budi tidak bisa ditentukan. Opsi D: D - C - A - B - G - F - E memenuhi semua constraint: D>C>A>B, B sebelum G tidak ada info tapi mungkin, Edo setelah Galang benar, Farhan > Galang benar.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_014",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "questionText": "Diketahui:\n- Semua X adalah Y.\n- Sebagian Y adalah Z.\n- Tidak ada Z yang merupakan X.\n\nSimpulan yang sah adalah...",
+    "options": [
+      "Semua X adalah Z",
+      "Sebagian X adalah Z",
+      "Tidak ada X yang Z",
+      "Semua Z adalah Y",
+      "Tidak dapat disimpulkan"
+    ],
+    "answer": "C",
+    "explanation": "Dari premis 1: semua X adalah Y (X subset Y). Dari premis 2: sebagian Y adalah Z (ada irisan Y dan Z). Dari premis 3: tidak ada Z yang merupakan X (X dan Z saling lepas). Jadi X dan Z tidak beririsan sama sekali. Jawaban yang sah: tidak ada X yang merupakan Z.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_015",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "questionText": "3 anak A, B, dan C memiliki tinggi badan berbeda. A lebih tinggi dari B. B lebih tinggi dari C. Jika D lebih tinggi dari A, siapa yang paling rendah?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "Tidak dapat ditentukan"
+    ],
+    "answer": "C",
+    "explanation": "Diketahui: C < B < A (A lebih tinggi dari B, B lebih tinggi dari C) dan D > A. Urutan tinggi: D > A > B > C. Jadi yang paling rendah adalah C.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_016",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "questionText": "3, 8, 15, 24, 35, ..., 63. Nilai yang tepat untuk titik-titik adalah...",
+    "options": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52"
+    ],
+    "answer": "E",
+    "explanation": "Beda: 5, 7, 9, 11, 13. Beda berikutnya 13. 35 + 13 = 48.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_017",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "questionText": "100, 95, 85, 70, 50, ..., 5. Nilai yang tepat untuk titik-titik adalah...",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "answer": "E",
+    "explanation": "Beda: -5, -10, -15, -20. Beda berikutnya -25. 50 - 25 = 25.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_018",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "questionText": "2, 6, 14, 30, 62, ..., 254. Nilai yang tepat untuk titik-titik adalah...",
+    "options": [
+      "126",
+      "128",
+      "130",
+      "132",
+      "134"
+    ],
+    "answer": "E",
+    "explanation": "Pola: dikali 2 lalu ditambah 2. 2x2+2=6, 6x2+2=14, 14x2+2=30, 30x2+2=62, 62x2+2=126, 126x2+2=254.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_019",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "questionText": "5, 11, 23, 47, 95, ... Nilai yang tepat adalah...",
+    "options": [
+      "190",
+      "191",
+      "192",
+      "193",
+      "194"
+    ],
+    "answer": "E",
+    "explanation": "Pola: dikali 2 lalu ditambah 1. 5x2+1=11, 11x2+1=23, 23x2+1=47, 47x2+1=95, 95x2+1=191.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_020",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "questionText": "1, 4, 9, 16, 25, ..., 49. Nilai yang tepat untuk titik-titik adalah...",
+    "options": [
+      "30",
+      "34",
+      "36",
+      "38",
+      "42"
+    ],
+    "answer": "E",
+    "explanation": "Pola kuadrat: 1 kuadrat=1, 2 kuadrat=4, 3 kuadrat=9, 4 kuadrat=16, 5 kuadrat=25, 6 kuadrat=36, 7 kuadrat=49.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_021",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "questionText": "Harga barang setelah diskon 20% adalah Rp480.000,00. Harga barang sebelum diskon adalah...",
+    "options": [
+      "Rp560.000,00",
+      "Rp580.000,00",
+      "Rp600.000,00",
+      "Rp620.000,00",
+      "Rp640.000,00"
+    ],
+    "answer": "E",
+    "explanation": "Harga setelah diskon = 80% dari harga awal. Harga awal = 480.000 / 0,8 = 600.000.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_022",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "questionText": "Sebuah bus membawa 48 penumpang. Di halte pertama turun 12 orang dan naik 8 orang. Di halte kedua turun 15 orang dan naik 5 orang. Jumlah penumpang bus setelah halte kedua adalah...",
+    "options": [
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "answer": "E",
+    "explanation": "Mula-mula 48. Halte 1: turun 12 -> 36, naik 8 -> 44. Halte 2: turun 15 -> 29, naik 5 -> 34.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_023",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "questionText": "Jika 3x + 7 = 22, maka nilai dari 5x - 3 adalah...",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "answer": "E",
+    "explanation": "3x + 7 = 22 -> 3x = 15 -> x = 5. Maka 5x - 3 = 25 - 3 = 22.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu3_024",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "questionText": "Perbandingan uang Anton dan Budi adalah 5:3. Jumlah uang mereka adalah Rp400.000,00. Selisih uang Anton dan Budi adalah...",
+    "options": [
+      "Rp80.000,00",
+      "Rp100.000,00",
+      "Rp120.000,00",
+      "Rp150.000,00",
+      "Rp200.000,00"
+    ],
+    "answer": "E",
+    "explanation": "Jumlah perbandingan = 5+3 = 8 bagian. 1 bagian = 400.000/8 = 50.000. Selisih = 5-3 = 2 bagian = 2 x 50.000 = 100.000.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu3_025",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "questionText": "Sebuah proyek dikerjakan oleh 12 orang dalam 20 hari. Jika proyek yang sama harus selesai dalam 15 hari, maka tambahan pekerja yang dibutuhkan adalah...",
+    "options": [
+      "4 orang",
+      "6 orang",
+      "8 orang",
+      "10 orang",
+      "12 orang"
+    ],
+    "answer": "E",
+    "explanation": "Total pekerjaan = 12 x 20 = 240 orang-hari. Untuk 15 hari: butuh 240/15 = 16 orang. Tambahan = 16-12 = 4.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_026",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "questionText": "Pak Hasan mengecat pagar sepanjang 60 meter. Setiap hari ia mengecat 15 meter. Setelah 3 hari, berapa meter pagar yang belum dicat?",
+    "options": [
+      "15 meter",
+      "20 meter",
+      "25 meter",
+      "30 meter",
+      "35 meter"
+    ],
+    "answer": "E",
+    "explanation": "Total 60 meter. Sudah dicat 3 x 15 = 45 meter. Belum dicat = 60 - 45 = 15 meter.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_027",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "questionText": "1 liter bensin mampu menempuh 12 km. Dengan bensin 5 liter, seorang sopir menempuh jarak pulang-pergi 40 km. Berapa km jarak rumah ke tempat kerja?",
+    "options": [
+      "20 km",
+      "25 km",
+      "30 km",
+      "35 km",
+      "40 km"
+    ],
+    "answer": "E",
+    "explanation": "5 liter x 12 km/liter = 60 km total. Jarak pulang-pergi = 40 km. Sisa bensin menempuh 60 - 40 = 20 km. Jarak rumah ke tempat kerja = 40/2 = 20 km.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu3_028",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "questionText": "1 kantong beras berharga Rp72.000,00 dan beratnya 6 kg. Jika Ibu membeli 10 kg beras dengan uang Rp200.000,00, berapa kembalian yang diterima?",
+    "options": [
+      "Rp60.000,00",
+      "Rp80.000,00",
+      "Rp100.000,00",
+      "Rp120.000,00",
+      "Rp140.000,00"
+    ],
+    "answer": "E",
+    "explanation": "Harga per kg = 72.000/6 = 12.000 per kg. Beli 10 kg = 10 x 12.000 = 120.000. Bayar 200.000, kembalian = 80.000.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu3_029",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "questionText": "Untuk membuat 4 kue dibutuhkan 600 gram tepung. Jika ingin membuat 10 kue, berapa gram tepung yang dibutuhkan?",
+    "options": [
+      "1.200 gram",
+      "1.350 gram",
+      "1.500 gram",
+      "1.650 gram",
+      "1.800 gram"
+    ],
+    "answer": "E",
+    "explanation": "4 kue butuh 600 gram. Per kue = 600/4 = 150 gram. 10 kue butuh 10 x 150 = 1.500 gram.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu3_030",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "questionText": "Jarak kota A ke kota B adalah 240 km. Sebuah mobil berangkat dari A ke B dengan kecepatan 60 km/jam. Setelah 2 jam, mobil istirahat 30 menit. Pukul berapa mobil tiba di B jika berangkat pukul 11.30?",
+    "options": [
+      "14.30",
+      "15.00",
+      "15.30",
+      "16.00",
+      "16.30"
+    ],
+    "answer": "E",
+    "explanation": "Waktu tempuh normal: 240/60 = 4 jam. Mobil jalan 2 jam -> 120 km. Sisa 120 km. Istirahat 30 menit. Waktu tempuh sisa = 120/60 = 2 jam. Total = 2 jam perjalanan + 0,5 jam istirahat + 2 jam perjalanan = 4,5 jam. Berangkat 11.30, tiba 16.00.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_031",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "isFigural": true,
+    "figuralData": "{\"type\":\"matriks\",\"gridData\":[[\"circle\",\"square\",\"triangle\"],[\"square\",\"triangle\",\"circle\"],[\"triangle\",\"circle\",\"?\"]],\"answerShapes\":[\"black-square\",\"black-circle\",\"black-triangle\",\"black-square\",\"black-circle\"],\"pattern\":\"setiap baris bergeser searah jarum jam\",\"correctIndex\":4}",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Segiempat",
+      "B. Lingkaran",
+      "C. Segitiga",
+      "D. Segiempat",
+      "E. Lingkaran"
+    ],
+    "answer": "E",
+    "explanation": "Tidak ada penjelasan naratif. Jawab berdasarkan pola matriks/deret visual.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_032",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "isFigural": true,
+    "figuralData": "{\"type\":\"matriks\",\"gridData\":[[\"filled-square\",\"empty-circle\",\"half-triangle\"],[\"empty-circle\",\"half-triangle\",\"filled-square\"],[\"half-triangle\",\"filled-square\",\"?\"]],\"answerShapes\":[\"black-square\",\"black-circle-empty\",\"black-triangle\",\"black-square-empty\",\"black-circle\"],\"pattern\":\"setiap baris berisi tiga jenis isian dan tiga bentuk yang berputar berlawanan arah jarum jam\",\"correctIndex\":1}",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Segiempat berisi penuh",
+      "B. Lingkaran kosong",
+      "C. Segitiga setengah bayangan",
+      "D. Segiempat kosong",
+      "E. Lingkaran berisi penuh"
+    ],
+    "answer": "B",
+    "explanation": "Tidak ada penjelasan naratif. Jawab berdasarkan pola matriks/deret visual.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_033",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "isFigural": true,
+    "figuralData": "{\"type\":\"deret\",\"sequence\":[\"filled-circle\",\"empty-square\",\"filled-triangle\",\"empty-circle\",\"filled-square\",\"?\"],\"answerShapes\":[\"black-square\",\"black-circle-empty\",\"black-triangle-empty\",\"black-triangle\",\"black-circle\"],\"pattern\":\"bentuk: isi-hitam, garis, isi-hitam, garis, isi-hitam, ?. Pola berulang: isi -> garis -> isi -> garis -> isi -> garis\",\"correctIndex\":2}",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Segiempat berisi penuh",
+      "B. Lingkaran kosong",
+      "C. Segitiga kosong",
+      "D. Segitiga berisi penuh",
+      "E. Lingkaran berisi penuh"
+    ],
+    "answer": "C",
+    "explanation": "Tidak ada penjelasan naratif. Jawab berdasarkan pola matriks/deret visual.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_034",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "isFigural": true,
+    "figuralData": {
+      "type": "matriks",
+      "gridData": [
+        [
+          "large-red-circle",
+          "small-blue-square",
+          "large-green-triangle"
+        ],
+        [
+          "small-blue-square",
+          "large-green-triangle",
+          "large-red-circle"
+        ],
+        [
+          "large-green-triangle",
+          "large-red-circle",
+          "?"
+        ]
+      ],
+      "answerShapes": [
+        "blue-square",
+        "green-triangle",
+        "red-circle",
+        "green-circle",
+        "red-circle"
+      ],
+      "pattern": "setiap baris berisi kombinasi ukuran dan warna yang bergeser",
+      "correctIndex": 0
+    },
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Segiempat biru kecil",
+      "B. Segitiga hijau besar",
+      "C. Lingkaran merah besar",
+      "D. Lingkaran hijau kecil",
+      "E. Lingkaran merah besar"
+    ],
+    "answer": "A",
+    "explanation": "Tidak ada penjelasan naratif. Jawab berdasarkan pola matriks/deret visual.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_035",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "isFigural": true,
+    "figuralData": "{\"type\":\"deret\",\"sequence\":[\"arrow-right\",\"arrow-down\",\"arrow-left\",\"arrow-up\",\"arrow-right\",\"?\"],\"answerShapes\":[\"black-arrow_up\",\"black-arrow_down\",\"black-arrow_right\",\"black-arrow_left\",\"black-arrow_up\"],\"pattern\":\"arah panah berputar berlawanan arah jarum jam: kanan, bawah, kiri, atas, kanan, bawah, kiri, atas...\",\"correctIndex\":1}",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Panah ke atas",
+      "B. Panah ke bawah",
+      "C. Panah ke kanan",
+      "D. Panah ke kiri",
+      "E. Panah ke atas"
+    ],
+    "answer": "B",
+    "explanation": "Tidak ada penjelasan naratif. Jawab berdasarkan pola matriks/deret visual.",
+    "difficulty": "medium"
+  }
+]

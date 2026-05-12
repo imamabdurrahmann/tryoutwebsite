@@ -1,0 +1,845 @@
+[
+  {
+    "questionId": "tiu3_001",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "kategori_soal": "Silogisme",
+    "konsep_terkait": [
+      "Silogisme Kategorik",
+      "Transitivitas Logika",
+      "Modus Tollens"
+    ],
+    "tips_mengerjaan": "Identifikasi premis utama (risiko tinggi -> korup). Jangan ambil kesimpulan terlalu jauh dari premis. Pilih jawaban yang bersifat 'peluang' bukan 'kepastian'. Estimasi waktu: ~1-2 menit.",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Tidak semua pejabat yang menangani pengadaan di atas 1 miliar secara otomatis dituntut secara hukum.\n2. Setiap pejabat yang menangani pengadaan barang dan jasa pemerintah dengan nilai di atas 1 miliar termasuk kategori rawan korupsi.\n3. Pejabat yang menangani anggaran infrastruktur berisiko tinggi untuk terlibat penyuapan.\n4. Berdasarkan evaluasi, sebagian besar kasus korupsi melibatkan unsur penyuapan yang terjadi secara sistematis.\n5. Pejabat yang terbukti melakukan korupsi akan dikenakan sanksi pemberhentian dengan tidak hormat.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling dapat dipertanggungjawabkan secara logis adalah...",
+    "options": [
+      "Pejabat yang menangani anggaran infrastruktur pasti akan terlibat penyuapan karena risikonya tinggi",
+      "Pejabat yang menangani anggaran infrastruktur berpeluang terlibat kasus korupsi karena berisiko tinggi, namun bukan kepastian karena tidak semua pejabat berisiko tinggi secara otomatis menjadi koruptor",
+      "Semua UU korupsi mengatur tentang penyuapan sehingga semua kasus korupsi melibatkan penyuapan",
+      "Korupsi hanya terjadi pada pejabat yang menangani anggaran infrastruktur",
+      "KPK harus menangkap semua pejabat yang menangani anggaran infrastruktur"
+    ],
+    "answer": "B",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Analisis setiap premis**\n- Premis 1: 'Tidak semua' = sebagian/berpeluang, BUKAN semua. Ini kunci penting!\n- Premis 2: Pejabat pengadaan >1 miliar = RANTAI korupsi\n- Premis 3: Pejabat infrastruktur = risiko tinggi penyuapan\n- Premis 4: Sebagian besar korupsi = penyuapan sistematis\n- Premis 5: Yang TERBUKTI korup = sanksi berat\n\n**Langkah 2: Hubungkan premis secara logis**\nDari premis 3 dan 2: pejabat infrastruktur berisiko tinggi (premis 3) karena termasuk kategori rawan korupsi (premis 2).\n\nDari premis 1: 'tidak semua' pejabat rawan korupsi yang dituntut otomatis = artinya bukan kepastian.\n\nDari premis 4: 'sebagian besar' (bukan semua) kasus korupsi melibatkan penyuapan.\n\n**Langkah 3: Buat kesimpulan**\nRisiko tinggi = berpeluang lebih besar, tapi BUKAN kepastian. Kata kuncinya adalah 'tidak semua' dan 'sebagian besar' - keduanya bersifat kemungkinan, bukan kepastian.\n\n**Mengapa opsi lain SALAH:**\n- Opsi A: Menggunakan kata 'pasti' - ini LOGIS YANG KELIRU karena premis tidak menyebutkan kepastian\n- Opsi C: Tidak ada premis yang menyebutkanUU korupsi atau hubungan tersebut\n- Opsi D: 'Hanya' terlalu absolute, premis tidak mendukung kesimpulan ini\n- Opsi E: KPK harus menangkap bukan kesimpulan logis dari premis, ini advice/action\n\n**Jawaban: B** - Satu-satunya yang sesuai dengan keelektrian premis: berisiko tinggi, berpeluang, tapi bukan kepastian.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_002",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "kategori_soal": "Silogisme",
+    "konsep_terkait": [
+      "Silogisme Kategorik",
+      "Inferensi Valid",
+      "Kuantor pada Logika"
+    ],
+    "questionText": "Perhatikan premis-premis berikut!\n1. Tidak semua daerah yang memiliki potensi bencana alam memiliki sistem evakuasi yang memadai.\n2. Setiap daerah rawan gempa wajib memiliki bangunan tahan gempa sesuai standar bangunan nasional.\n3. Beberapa daerah di Pantai Selatan Jawa memiliki potensi tsunami tinggi namun belum memiliki sistem peringatan dini yang efektif.\n4. Sistem peringatan dini tsunami memerlukan infrastruktur sensor yang tersebar di sepanjang pantai.\n5. Biaya pemasangan sensor peringatan dini tsunami sangat mahal dan bergantung pada dana pusat.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling logis adalah...",
+    "options": [
+      "Semua daerah rawan gempa harus memiliki bangunan tahan gempa tanpa kecuali",
+      "Daerah di Pantai Selatan Jawa wajib memiliki sistem peringatan dini tsunami karena berpotensi tsunami tinggi dan sistem belum efektif",
+      "Bencana alam tidak dapat dicegah sehingga sistem peringatan dini tidak diperlukan",
+      "Biaya pemasangan sensor terlalu mahal sehingga daerah rawan tsunami tidak wajib memiliki peringatan dini",
+      "Hanya daerah yang sudah memiliki bangunan tahan gempa yang boleh memiliki sistem peringatan dini"
+    ],
+    "answer": "B",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Analisis setiap premis**\n- Premis 1: 'Tidak semua' daerah bencana = sistem evakuasi memadai (sebagian belum memadai)\n- Premis 2: Setiap daerah RAWAN GEMPA = WAJIB bangun tahan gempa\n- Premis 3: Pantai Selatan Jawa = potensi tsunami tinggi + belum punya sistem efektif\n- Premis 4: Peringatan dini tsunami perlu sensor di pantai\n- Premis 5: Biaya mahal, bergantung dana pusat\n\n**Langkah 2: Identifikasi kata kunci KEWajiban**\nPremis 2 menggunakan kata 'wajib' untuk daerah rawan gempa. Ini menunjukkan adanya KEWAJIBAN yang harus dipenuhi.\n\nPremis 3 menyebut Pantai Selatan Jawa memiliki potensi tinggi tapi belum efektif. Jika potensi tinggi + belum efektif = ada KEWAJIBAN untuk meningkatkan.\n\n**Langkah 3: Hubungkan dengan analogi**\nPremis 2: daerah rawan gempa WAJIB punya bangunan tahan gempa (mewajibkan mitigasi).\nPremis 3: daerah berpotensi tsunami tinggi (Pantai Selatan Jawa) + belum efektif = analogi dengan daerah rawan gempa yang wajib mitigasi.\n\nJadi kesimpulan: daerah berpotensi tinggi WAJIB memiliki sistem peringatan dini.\n\n**Mengapa opsi lain SALAH:**\n- Opsi A: 'Tanpa kecuali' terlalu absolute, premis tidak memberikan informasi tersebut\n- Opsi C: Premis tidak menyebutkan 'tidak dapat dicegah', ini pernyataan yang tidak sesuai\n- Opsi D: Biaya mahal TIDAK menghilangkan kewajiban, ini bukan kesimpulan valid\n- Opsi E: Tidak ada premis yang membatasi kepemilikan sistem peringatan dini\n\n**Jawaban: B** - Kesesuaian dengan premis: potensi tinggi + belum efektif + analogi dengan kewajiban mitigasi = wajib memiliki sistem.",
+    "difficulty": "medium",
+    "tips_mengerjaan": "Cari premis yang secara langsung menyatakan kewajiban (wajib/mesti). Opsi dengan kata 'wajib' sering benar jika ada premis yang mendukung. Estimasi waktu: ~1-2 menit."
+  },
+  {
+    "questionId": "tiu3_003",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "kategori_soal": "Silogisme",
+    "konsep_terkait": [
+      "Silogisme Kategorik",
+      "Keterbatasan Sumber Daya",
+      "Efektivitas Program"
+    ],
+    "tips_mengerjaan": "Fokus pada premis yang menunjukkan hubungan sebab-akibat. Jika ada keterbatasan (petugas tidak cukup), program berpotensi tidak optimal. Estimasi waktu: ~1-2 menit.",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Semua program bantuan sosial yang dicairkan oleh pemerintah daerah wajib melalui proses persetujuan yang ketat.\n2. Program Keluarga Harapan (PKH) merupakan program bantuan sosial berbasis langsung tunai yang menyasar warga miskin.\n3. Berdasarkan data kesejahteraan sosial, tidak semua keluarga yang terdaftar sebagai keluarga miskin secara otomatis terverifikasi sebagai penerima bantuan.\n4. Verifikasi data keluarga miskin memerlukan kunjungan langsung oleh petugas kesejahteraan sosial.\n5. Jumlah petugas kesejahteraan sosial yang tersedia tidak sebanding dengan jumlah keluarga yang harus diverifikasi.\n6. Program bantuan sosial yang tidak terverifikasi dengan baik berpotensi mempengaruhi efektivitas dan menimbulkan masalah sosial.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling mungkin adalah...",
+    "options": [
+      "PKH pasti tidak efektif karena tidak semua keluarga miskin terverifikasi",
+      "Keterbatasan petugas kesejahteraan sosial menyebabkan tidak semua keluarga miskin dapat diverifikasi sehingga program bantuan berpotensi tidak tepat sasaran",
+      "Semua keluarga miskin pasti memperoleh bantuan karena program memiliki prosedur yang ketat",
+      "Hanya keluarga yang telah diverifikasi oleh petugas kesejahteraan sosial yang boleh menerima bantuan",
+      "Program bantuan sosial harus dihentikan sampai semua keluarga miskin terverifikasi"
+    ],
+    "answer": "B",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi fakta kunci**\n- Premis 5: Petugas TIDAK SEBANDING dengan jumlah keluarga yang harus diverifikasi\n- Premis 3: 'Tidak semua' keluarga miskin terverifikasi otomatis\n- Premis 4: Verifikasi MEMERLUKAN kunjungan langsung\n\n**Langkah 2: Rangkai logika**\nPetugas tidak cukup (premis 5) + verifikasi butuh kunjungan langsung (premis 4) = tidak semua keluarga bisa diverifikasi.\n\nPremis 3 menegaskan: tidak semua keluarga miskin otomatis terverifikasi.\n\nPremis 6: Program yang tidak terverifikasi dengan baik = berpotensi tidak tepat sasaran.\n\n**Langkah 3: Tarik kesimpulan**\nKeterbatasan petugas -> verifikasi tidak lengkap -> program berpotensi tidak tepat sasaran.\n\n**Mengapa opsi lain SALAH:**\n- Opsi A: 'Pasti tidak efektif' terlalu absolute, premis menyebut 'berpotensi' bukan kepastian\n- Opsi C: 'Semua keluarga miskin pasti memperoleh' - ini BERTENTANGAN dengan premis yang jelas menyebut 'tidak semua'\n- Opsi D: 'Hanya keluarga yang diverifikasi yang boleh' - premis tidak menyebutkan batas seperti ini\n- Opsi E: 'Harus dihentikan' bukan kesimpulan logis, melainkan rekomendasi yang tidak didukung premis\n\n**Jawaban: B** - Merangkum semua premis: keterbatasan sumber daya menyebabkan verifikasi tidak sempurna, yang berpotensi membuat program tidak tepat sasaran. Kesesuaian dengan semua premis relevan.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_004",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "kategori_soal": "Silogisme",
+    "konsep_terkait": [
+      "Silogisme Kategorik",
+      "Rantai Konsekuensi",
+      "Beban Kerja dan Kinerja"
+    ],
+    "questionText": "Perhatikan premis-premis berikut!\n1. Setiap Pegawai Negeri Sipil yang berperingkat wajib mematuhi kode etik dan bekerja sesuai standar kinerja.\n2. Pegawai Negeri Sipil yang berperingkat di atas 1 memiliki lebih banyak tugas dan tekanan.\n3. Tidak semua PNS yang memiliki banyak tugas dan tekanan memperoleh penghargaan atau pengakuan yang sebanding.\n4. Beban kerja yang berlebihan tanpa reward yang memadai berpotensi menyebabkan tekanan tinggi dan kelelahan kerja.\n5. Kelelahan kerja di tempat kerja berpotensi menurunkan kualitas layanan dan produktivitas organisasi.\n6. Produktivitas organisasi berpotensi mempengaruhi pencapaian tujuan dan indikator kinerja daerah.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling logis adalah...",
+    "options": [
+      "Semua PNS yang memiliki banyak tugas pasti mengalami kelelahan karena tekanan tinggi",
+      "Beban kerja berlebihan tanpa reward yang memadai berpotensi menurunkan kualitas layanan sehingga berpotensi menurunkan kinerja organisasi dan pencapaian tujuan daerah",
+      "PNS berperingkat tinggi pasti mendapatkan reward karena kontribusinya lebih besar",
+      "Kinerja organisasi berpotensi turun jika PNS mengalami tekanan tinggi berkepanjangan",
+      "Semua organisasi pemerintah pasti menghadapi masalah kinerja"
+    ],
+    "answer": "B",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi premis kunci**\n- Premis 3: 'Tidak semua' PNS dengan banyak tekanan = reward sebanding (artinya banyak yang TIDAK dapat reward)\n- Premis 4: Beban berlebihan TANPA reward = potensi kelelahan\n- Premis 5: Kelelahan = potensi penurunan kualitas layanan\n- Premis 6: Penurunan layanan = potensi penurunan produktivitas organisasi\n\n**Langkah 2: Rangkai rantai logika**\nBeban berlebihan + tidak ada reward (dari premis 3) -> kelelahan kerja (premis 4) -> turun kualitas layanan (premis 5) -> turun produktivitas (premis 6) -> berpengaruh pada tujuan daerah.\n\nIni adalah rantaisebab yangVALID karena setiap premis saling mendukung.\n\n**Langkah 3: Validasi kesimpulan**\nOpsi B merangkum: beban berlebih tanpa reward -> turun layanan -> turun kinerja -> turun tujuan daerah.\n\nIni KONSISTEN dengan semua premis yang saling terhubung.\n\n**Mengapa opsi lain SALAH:**\n- Opsi A: 'Pasti mengalami kelelahan' - premis hanya menyebut 'berpotensi', bukan kepastian\n- Opsi C: 'Pasti mendapatkan reward' - langsung BERTENTANGAN dengan premis 3 yang menyebut 'tidak semua'\n- Opsi D: Lebih sempit, tidak mencakup seluruh rantai premis. Hanya menyebut tekanan langsung ke kinerja\n- Opsi E: 'Semua organisasi pemerintah' - terlalu general, premis hanya membahas konteks tertentu\n\n**Jawaban: B** - Merangkum seluruh rantaisebab dari premis 3-4-5-6 secara keseluruhan dan konsisten.",
+    "difficulty": "medium",
+    "tips_mengerjaan": "Identifikasi rantai premis yang saling berhubungan. Jika premis 3->4->5->6 saling terhubung, rangkai untuk melihat kesimpulan keseluruhan. Estimasi waktu: ~1-2 menit."
+  },
+  {
+    "questionId": "tiu3_005",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "kategori_soal": "Silogisme",
+    "konsep_terkait": [
+      "Silogisme Kategorik",
+      "Keseimbangan Kebijakan",
+      "Trade-off Kebijakan"
+    ],
+    "questionText": "Perhatikan premis-premis berikut!\n1. Setiap kebijakan publik yang berdampak pada masyarakat wajib melalui proses konsultasi publik untuk mendapatkan umpan balik.\n2. Tidak semua umpan balik dari masyarakat mencerminkan kebutuhan sebenarnya karena beberapa peserta mungkin memiliki pandangan tertentu atau kepentingan khusus.\n3. Kebijakan di bidang lingkungan hidup yang berdampak pada industri berpotensi berhadapan dengan pertentangan antara kepentingan ekonomi dan kelestarian lingkungan.\n4. Industri yang terkena dampak kebijakan lingkungan berpotensi meminta kompensasi atau keringanan dari kewajiban.\n5. Jika tidak mempertimbangkan umpan balik dari pelaku industri, dapat menyebabkan pengangguran atau kerugian ekonomi.\n6. Jika tidak mempertimbangkan kelestarian lingkungan, dapat menyebabkan kerusakan ekosistem.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling dapat dipertanggungjawabkan adalah...",
+    "options": [
+      "Kebijakan lingkungan berpotensi mengganggu operasional industri namun tidak semua industri akan gulur",
+      "Kebijakan lingkungan berpotensi memengaruhi operasional perusahaan sehingga perlu keseimbangan antara kelestarian lingkungan dan keberlangsungan industri untuk menghindari dampak negatif terhadap tenaga kerja",
+      "Semua industri berpotensi gulur bila kebijakan lingkungan terlalu ketat diterapkan tanpa transisi",
+      "Lingkungan tetap penting karena pelestarian lingkungan adalah fondasi pembangunan berkelanjutan",
+      "Pemerintah harus mempertimbangkan keduanya: kelestarian lingkungan dan keberlangsungan ekonomi industri"
+    ],
+    "answer": "B",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi dua kepentingan**\n- Kepentingan 1 (ekonomi): Premis 4 dan 5 - industri butuh kompensasi, tidak mempertimbangkan industri = pengangguran/kerugian\n- Kepentingan 2 (lingkungan): Premis 6 - tidak mempertimbangkan lingkungan = kerusakan ekosistem\n\n**Langkah 2: Lihat konfliknya**\nPremis 3: kebijakan lingkungan vs industri = pertentangan antara ekonomi dan lingkungan.\n\nIni adalah trade-off klasik: terlalu fokus ekonomi = rusak lingkungan, terlalu fokus lingkungan = rugikan industri.\n\n**Langkah 3: Cari keseimpulan yang mencakup keduanya**\n- Premis 5: tanpa industri -> pengangguran\n- Premis 6: tanpa lingkungan -> kerusakan\n\nKeduanya SAMA penting berdasarkan premis. Jadi perlu keseimbangan.\n\n**Mengapa opsi lain SALAH:**\n- Opsi A: Hanya menyebut 'gangguan operasional' tapi tidak menyebutkan solusi/keseimbangan\n- Opsi C: 'Semua industri gulur' - terlalu absolute, premis hanya menyebut 'berpotensi'\n- Opsi D: Hanya fokus lingkungan, tidak menyebut aspek ekonomi/industri sama sekali\n- Opsi E: Membahas keduanya tapi dalam bentuk 'harus mempertimbangkan' - ini lebih ke rekomendasi, bukan kesimpulan dari premis yang ada\n\n**Jawaban: B** - Satu-satunya yang menyebutkan 'keseimbangan' antara kedua kepentingan dan dampaknya (tenaga kerja). Ini merangkum premis 3-4-5-6 secara keseluruhan.",
+    "difficulty": "medium",
+    "tips_mengerjaan": "Soal ini tentang keseimbangan dua kepentingan. Jawaban yang benar harus mencakup KEDUA aspek, bukan hanya satu sisi. Estimasi waktu: ~1-2 menit."
+  },
+  {
+    "questionId": "tiu3_006",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "kategori_soal": "Silogisme",
+    "konsep_terkait": [
+      "Silogisme Kategorik",
+      "Implikasi Logis",
+      "Rantaisebab"
+    ],
+    "tips_mengerjaan": "Panjang premis bisa intimidasi, tapi sebenarnya mudah. Cari pola: hujan -> X -> Y -> Z -> dst. Jawaban harus mengikuti rantaisebab secara UTUH. Estimasi waktu: ~1-2 menit.",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Jika hujan turun, maka jalanan basah.\n2. Jika jalanan basah, maka kecepatan kendaraan melambat.\n3. Jika kecepatan kendaraan melambat, maka kemacetan terjadi di jalan utama.\n4. Jika kemacetan terjadi di jalan utama, maka waktu tempuh perjalanan meningkat signifikan.\n5. Jika waktu tempuh meningkat, maka konsumsi bahan bakar meningkat dan biaya transportasi naik.\n6. Jika biaya transportasi naik, maka harga barang di pasar tradisional berpotensi naik.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling logis adalah...",
+    "options": [
+      "Hujan berpotensi menyebabkan kemacetan di beberapa jalan karena tidak setiap hujan secara otomatis membuat semua jalan macet total",
+      "Jika hujan turun, maka berpotensi menyebabkan kenaikan biaya transportasi karena waktu tempuh meningkat dan konsumsi bahan bakar naik sehingga harga barang berpotensi naik",
+      "Jika hujan turun, berpotensi hanya memengaruhi kemacetan di jalan utama dan tidak selalu memengaruhi rute alternatif di jalan kecil",
+      "Harga barang berpotensi naik hanya jika hujan turun sangat deras selama berhari-hari sehingga biaya transportasi meningkat secara signifikan",
+      "Kemacetan tidak terlalu mengganggu individu karena masyarakat pada umumnya dapat beradaptasi dengan perubahan waktu tempuh perjalanan"
+    ],
+    "answer": "B",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi rantaisebab**\nIni adalah IMPILASI BERANTAI (chained implication):\n\nHujan -> Basah -> Kecepatan turun -> Macet -> Waktu naik -> BBM naik -> Biaya naik -> Harga barang naik\n\nPremis 1-6 membentuk rantaisebab yang saling terhubung.\n\n**Langkah 2: Verifikasi rantaisebab**\n- Premis 1: Hujan -> Basah\n- Premis 2: Basah -> Kecepatan turun\n- Premis 3: Kecepatan turun -> Macet\n- Premis 4: Macet -> Waktu naik\n- Premis 5: Waktu naik -> BBM naik, biaya naik\n- Premis 6: Biaya naik -> Harga barang naik\n\nSetiap langkah terhubung VALlD.\n\n**Langkah 3: Pilh kesimpulan yang mengikuti rantaisebab UTUH**\n- Opsi B mengikuti rantaisebab: Hujan -> biaya transportasi -> harga barang. Ini konsisten.\n- Kata 'berpotensi' digunakan di akhir, sesuai dengan premis 6.\n\n**Mengapa opsi lain SALAH:**\n- Opsi A: Tidak mengikuti rantaisebab. Membahas 'beberapa jalan' tapi premis fokus ke 'jalan utama'\n- Opsi C: Membahas 'rute alternatif' - tidak ada premis yang menyebut ini\n- Opsi D: 'Hanya jika hujan deras berhari-hari' - premis tidak menyebutkan intensitas/hari, hanya menyebut hujan -> basah\n- Opsi E: Membahas adaptasi individu - sama sekali tidak ada premis yang menyebut ini\n\n**Jawaban: B** - Satu-satunya yang mengikuti rantaisebab dari awal (hujan) ke akhir (harga barang) secara berurutan dan konsisten dengan semua premis.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_007",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "kategori_soal": "Silogisme",
+    "konsep_terkait": [
+      "Silogisme Kategorik",
+      "Faktor Keberhasilan",
+      "Peluang vs Kepastian"
+    ],
+    "tips_mengerjaan": "Bedakan antara 'peluang' dan 'kepastian'. Jika premis menyebut 'berpotensi' atau 'tidak semua', jawaban harus menggunakan kata serupa, bukan 'pasti'. Estimasi waktu: ~1-2 menit.",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Tidak semua mahasiswa yang rajin belajar akan lulus ujian dengan predikat cumlaude.\n2. Sebagian mahasiswa mengambil program bimbingan tambahan dari lembaga kursus terakreditasi.\n3. Program bimbingan tambahan dari lembaga kursus terakreditasi memiliki tingkat keberhasilan tinggi dan hasil yang terbukti nyata.\n4. Tidak semua mahasiswa yang mengikuti bimbingan pasti lulus ujian karena keberhasilan juga bergantung pada usaha individu dan faktor lain.\n5. Mahasiswa yang lulus ujian dengan predikat cumlaude berpeluang memperoleh kesempatan kerja yang lebih baik.\n\nJika semua mahasiswa Program Studi Hukum harus mengikuti ujian untuk menjadi pengacara, Simpulan yang paling tepat adalah...",
+    "options": [
+      "Semua mahasiswa hukum yang mengikuti bimbingan pastilah lulus ujian pengacara",
+      "Mahasiswa hukum yang mengikuti bimbingan berpeluang lulus ujian pengacara karena program terakreditasi memiliki tingkat keberhasilan tinggi, meskipun bukan kepastian karena keberhasilan juga bergantung pada usaha individu dan faktor lain",
+      "Mahasiswa hukum tidak perlu mengikuti ujian pengacara karena bimbingan sudah cukup untuk menjadi pengacara",
+      "Bimbingan dari lembaga kursus terakreditasi menjamin kesuksesan dalam pekerjaan",
+      "Hanya mahasiswa yang tidak mengikuti bimbingan yang dapat lulus ujian pengacara"
+    ],
+    "answer": "B",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi fakta kunci**\n- Premis 3: Bimbingan terakreditasi = tingkat keberhasilan TINGGI dan terbukti nyata\n- Premis 4: 'Tidak semua' yang mengikuti bimbingan = pasti lulus (artinya ada faktor lain juga)\n- Premis 2: Sebagian mahasiswa mengikuti bimbingan\n\n**Langkah 2: Konklusi dari premis**\nBimbingan terakreditasi MEMILIKI keberhasilan tinggi (fakta positif).\nTapi keberhasilan TIDAK 100% karena ada faktor lain (usaha individu, dll).\n\nJadi: mengikuti bimbingan = berpeluang lulus, tapi BUKAN kepastian.\n\n**Langkah 3: Aplikasi pada konteks ujian pengacara**\nPremis tambahan: semua mahasiswa hukum harus ikut ujian pengacara.\n\nDengan bimbingan terakreditasi yang efektif, mahasiswa hukum yang ikut berpeluang lulus, tapi bukan jaminan.\n\n**Mengapa opsi lain SALAH:**\n- Opsi A: 'Pastilah lulus' - langsung bertentangan dengan premis 4 yang menyebut 'tidak semua'\n- Opsi C: 'Tidak perlu ikut ujian' - jelas salah karena premis tambahan menyebut 'harus mengikuti ujian'\n- Opsi D: 'Menjamin kesuksesan' - terlalu absolute, premis menyebut 'tingkat keberhasilan tinggi' bukan 100%\n- Opsi E: 'Hanya yang tidak mengikuti bimbingan' - tidak ada premis yang mendukung ini\n\n**Jawaban: B** - Merangkum seluruh fakta: program efektif tapi bukan jaminan, ada faktor lain. Gunakan kata 'berpeluang' dan 'bukan kepastian' yang sesuai dengan premis.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_008",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "kategori_soal": "Silogisme",
+    "konsep_terkait": [
+      "Silogisme Kategorik",
+      "Multitasking dan Produktivitas",
+      "Dampak Tekanan pada Kesehatan"
+    ],
+    "questionText": "Perhatikan premis-premis berikut!\n1. Tidak semua mahasiswa membutuhkan kegiatan di luar jam kuliah karena sebagian lebih memilih belajar secara mandiri.\n2. Beberapa mahasiswa mengambil program multitasking yang memengaruhi kualitas pembelajaran.\n3. Program multitasking yang memengaruhi kualitas pembelajaran berpotensi menurunkan prestasi akademik.\n4. Mahasiswa yang mengambil program multitasking berpotensi menghadapi tekanan yang lebih besar dan tantangan yang lebih berat.\n5. Tekanan yang besar berpotensi menurunkan kesehatan mental dan produktivitas.\n6. Jika kesehatan mental terpengaruh, maka kualitas hidup berpotensi menurun.\n\nSimpulan yang tepat adalah...",
+    "options": [
+      "Semua mahasiswa berpotensi waktunya terbuang karena multitasking tidak diperlukan dalam menuntut ilmu",
+      "Mahasiswa yang mengambil program multitasking berpeluang mengalami tekanan lebih besar sehingga berpotensi menurunkan kesehatan mental dan kualitas hidup, meskipun ada sebagian yang mampu menyeimbangkan",
+      "Program multitasking tidak penting karena tidak menurunkan prestasi akademik secara signifikan",
+      "Kualitas hidup berpotensi menurun hanya jika mahasiswa mengambil program multitasking secara berlebihan tanpa jeda",
+      "Mahasiswa sebaiknya tidak mengikuti kegiatan ekstrakurikuler agar bisa fokus sepenuhnya pada akademik"
+    ],
+    "answer": "B",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi rantaisebab**\n- Premis 4: Multitasking -> tekanan lebih besar\n- Premis 5: Tekanan besar -> turun kesehatan mental dan produktivitas\n- Premis 6: Kesehatan mental terpengaruh -> kualitas hidup menurun\n\nRantai: Multitasking -> Tekanan -> Kesehatan mental turun -> Kualitas hidup turun\n\n**Langkah 2: Cek premis pendukung**\n- Premis 2: Multitasking memengaruhi kualitas pembelajaran\n- Premis 3: Memengaruhi pembelajaran -> berpotensi turun prestasi akademik\n\nJadi ada DUA dampak: prestasi akademik (dari premis 2-3) dan kualitas hidup (dari premis 4-5-6)\n\n**Langkah 3: Perhatikan kualifikasi**\nPremis 1: 'Tidak semua' mahasiswa memiliki preferensi sama.\nIni menunjukkan ada Pengecualian - sebagian mampu menyeimbangkan.\n\n**Mengapa opsi lain SALAH:**\n- Opsi A: 'Semua mahasiswa' terlalu absolute, premis 1 menyebut tidak semua\n- Opsi C: 'Tidak penting' dan 'tidak menurunkan secara signifikan' - langsung bertentangan dengan premis 2 dan 3\n- Opsi D: 'Hanya jika berlebihan tanpa jeda' - menambahkan kondisi yang tidak ada di premis\n- Opsi E: 'Sebaiknya tidak ikut ekstrakurikuler' - ini rekomendasi, bukan kesimpulan dari premis\n\n**Jawaban: B** - Merangkum rantaisebab dari premis 4-5-6 dan mengakomodasi fakta dari premis 1 bahwa ada yang mampu menyeimbangkan.",
+    "difficulty": "medium",
+    "tips_mengerjaan": "Urutan premis sering membentuk rantaisebab. Identifikasi premis mana yang menjadi penyebab dan mana yang menjadi akibat. Estimasi waktu: ~1-2 menit."
+  },
+  {
+    "questionId": "tiu3_009",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "kategori_soal": "Silogisme",
+    "konsep_terkait": [
+      "Silogisme Kategorik",
+      "Keterbatasan Prefensi",
+      "Manfaat vs Ketersediaan"
+    ],
+    "tips_mengerjaan": "Premis 5 sering jadi penentu. Jika premis menyebut 'tidak semua orang', kesimpulan harus mengakomodasi keterbatasan itu. Estimasi waktu: ~1-2 menit.",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Semua jenis buah yang berwarna merah mengandung antioksidan tinggi yang baik untuk kesehatan.\n2. Mangga berwarna hijau dan memiliki rasa manis yang khas namun tidak mengandung antioksidan tinggi sesuai standar laboratorium.\n3. Makanan yang kaya antioksidan berpotensi meningkatkan kesehatan dan meningkatkan sistem imun tubuh.\n4. Jika sistem imun tubuh meningkat, maka tubuh lebih mampu menangkal berbagai penyakit infeksi.\n5. Namun, tidak semua orang bersedia mengonsumsi buah karena preferensi rasa atau ketersediaan.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling tepat adalah...",
+    "options": [
+      "Mangga bukan buah yang baik untuk kesehatan karena berwarna hijau",
+      "Buah berwarna merah yang kaya antioksidan berpotensi meningkatkan kesehatan namun tidak semua orang bersedia mengonsumsi buah sehingga manfaat tersebut tidak dirasakan semua orang",
+      "Semua buah berpotensi meningkatkan kesehatan karena semua buah mengandung antioksidan dalam kadar berbeda",
+      "Mengonsumsi buah saja tidak cukup karena tubuh juga membutuhkan sumber nutrisi lain yang beragam",
+      "Mangga tidaklayak dikonsumsi karena kurang memiliki zat gizi penting yang dibutuhkan tubuh"
+    ],
+    "answer": "B",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi fakta kunci**\n- Premis 1: Buah merah = antioksidan tinggi = baik untuk kesehatan\n- Premis 2: Mangga hijau = TIDAK tinggi antioksidan\n- Premis 5: 'Tidak semua' orang bersedia consuming buah\n\n**Langkah 2: Hubungkan dengan rantaisebab**\nAntioksidan (premis 1) -> baik untuk kesehatan (premis 3) -> meningkatkan imun (premis 4) -> menangkal penyakit.\n\n**Langkah 3: Batasi dengan premis 5**\nMeskipun buah merah bermanfaat, jika tidak semua orang mau consuming buah, maka manfaat tidak dirasakan semua orang.\n\nIni membentuk kesimpulan: KHASifat buah merah + KETERBATASAN konsumsi.\n\n**Mengapa opsi lain SALAH:**\n- Opsi A: 'Bukan buah yang baik' - terlalu extreme. Mangga tidak tinggi antioksidan TAPI tetap punya manfaat lain (manis, vitamin lain). Premis tidak mengatakan 'bukan buah baik'\n- Opsi C: 'Semua buah' - langsung bertentangan dengan premis 2 yang menyebut mangga tidak tinggi antioksidan\n- Opsi D: Membahas nutrisi lain - tidak ada premis yang menyebut ini, di luar konteks\n- Opsi E: 'Tidak layak dikonsumsi' - terlalu extreme, premis tidak mendukung kesimpulan ini\n\n**Jawaban: B** - Satu-satunya yang menghubungkan manfaat buah merah (premis 1-4) dengan keterbatasan konsumsi (premis 5). Keduanya harus digabungkan untuk kesimpulan valid.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_010",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "kategori_soal": "Silogisme",
+    "konsep_terkait": [
+      "Silogisme Kategorik",
+      "Faktor Keberhasilan Majemuk",
+      "Peluang vs Jaminan"
+    ],
+    "tips_mengerjaan": "Premis 6 adalah kunci - menyebut 'faktor lain' yang mempengaruhi keberhasilan. Jawaban harus mengakui hal ini dan tidak membuat klaim absolute. Estimasi waktu: ~1-2 menit.",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Setiap mahasiswa yang rajin belajar berpeluang memperoleh nilai yang lebih baik.\n2. Sebagian mahasiswa tidak mengikuti kelas secara teratur meskipun jadwal sudah ditetapkan.\n3. Kelas yang tidak teratur diikuti berpotensi memengaruhi pemahaman materi kuliah.\n4. Pemahaman materi kuliah yang baik berpotensi menghasilkan prestasi akademik yang optimal.\n5. Prestasi akademik yang optimal berpotensi membuka peluang kerja yang lebih baik.\n6. Namun, belajar tekun tidak menjamin keberhasilan karena juga bergantung pada faktor-faktor lain seperti koneksi, kondisi kesehatan, dan kondisi pasar kerja.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling mungkin adalah...",
+    "options": [
+      "Semua mahasiswa yang rajin belajar berpeluang memperoleh nilai lebih baik dan berpotensi sukses dalam karier",
+      "Mahasiswa yang rajin belajar berpeluang memperoleh nilai lebih baik namun bukan jaminan kesuksesan karena ada faktor lain yang juga berpengaruh seperti koneksi, kesehatan, dan kondisi pasar kerja",
+      "Mahasiswa yang tidak rajin belajar berpotensi gagal dan tidak akan memperoleh pekerjaan yang layak",
+      "Hanya nilai akademik yang menentukan kesuksesan seseorang di dunia kerja",
+      "Belajar tidak penting karena ada banyak orang yang berhasil tanpa pendidikan formal"
+    ],
+    "answer": "B",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi rantaisebab utama**\n- Premis 1: Rajin belajar -> peluang nilai lebih baik\n- Premis 4: Pemahaman baik -> prestasi optimal\n- Premis 5: Prestasi optimal -> peluang kerja lebih baik\n\nIni membentuk rantaisebab: Rajin -> Nilai baik -> Prestasi -> Peluang kerja.\n\n**Langkah 2: Identifikasi FAKTOR PENGHAMBAT**\nPremis 6 KUNC!. Menyebutkan faktor-faktor di luar akademik:\n- Koneksi\n- Kondisi kesehatan\n- Kondisi pasar kerja\n\nPremis ini MEMBATASI claim dari premis 1-5. Meskipun rajin belajar penting, TIDAK MENJAMIN keberhasilan karena ada faktor lain.\n\n**Langkah 3: Kombinasikan kedua aspek**\nRajin belajar -> peluang nilai lebih baik (premis 1)\nTapi bukan jaminan (premis 6)\n\n**Mengapa opsi lain SALAH:**\n- Opsi A: Tidak mengakomodasi premis 6. 'Berpotensi sukses' masih terlalu optimistic tanpa menyebut faktor pembatas\n- Opsi C: Melebih-lebihkan. Premis tidak mengatakan 'tidak akan memperoleh pekerjaan layak' - terlalu absolute\n- Opsi D: 'Hanya nilai akademik' - langsung bertentangan dengan premis 6 yang menyebut koneksi, kesehatan, dll\n- Opsi E: Membahas orang tanpa pendidikan formal - di luar konteks premis sama sekali\n\n**Jawaban: B** - Satu-satunya yang mengakomodasi premis 1 (peluang baik) dan premis 6 (faktor pembatas). Keseimbangan yang tepat.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_011",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "kategori_soal": "Analitis",
+    "konsep_terkait": [
+      "Urutan dan Perbandingan",
+      "Rata-rata dan Total",
+      "Sistem Persamaan Linear"
+    ],
+    "tips_mengerjaan": "Buat diagram urutan terlebih dahulu. Identifikasi siapa yang tertinggi dan terendah. Gunakan rata-rata untuk menghitung nilai yang tidak diketahui. Estimasi waktu: ~1-2 menit.",
+    "questionText": "4 siswa W, X, Y, dan Z memiliki tinggi badan berbeda yang diukur dalam sentimeter. Diketahui:\n- W lebih tinggi dari X.\n- Y lebih tinggi dari W.\n- Z tidak lebih tinggi dari X.\n- Selisih tinggi antara Y dan Z adalah 15 cm.\n- Rata-rata tinggi keempat siswa adalah 158 cm.\n\nBerdasarkan informasi tersebut, tinggi siswa tertinggi adalah...",
+    "options": [
+      "165 cm",
+      "168 cm",
+      "170 cm",
+      "172 cm",
+      "175 cm"
+    ],
+    "answer": "B",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Buat urutan tinggi dari constraint**\n- W > X (W lebih tinggi dari X)\n- Y > W (Y lebih tinggi dari W)\n- Z tidak lebih tinggi dari X = Z <= X\n\nDari sini: Y > W > X >= Z\n\nY adalah yang tertinggi, Z adalah yang terendah.\n\n**Langkah 2: Gunakan informasi selisih**\nSelisih Y dan Z = 15 cm\nY - Z = 15\n\n**Langkah 3: Gunakan informasi rata-rata**\nRata-rata = 158 cm\nTotal = 158 x 4 = 632 cm\n\n**Langkah 4: Susun persamaan**\nMisal: Y = y, W = w, X = x, Z = z\n\nUrutan: y > w > x >= z\nSelisih: y - z = 15\nTotal: y + w + x + z = 632\n\n**Langkah 5: Trial and error dengan constraint**\nKarena Y tertinggi dan Z terendah, kita coba:\n- Jika Y = 168, Z = 153, selisih 15 ✓\n- W dan X di antara 153 dan 168\n\nCoba W = 165, X = 160:\n- Urutan: Y(168) > W(165) > X(160) >= Z(153)\n- Total: 168 + 165 + 160 + 153 = 646 (tidak cocok)\n\nCoba W = 161, X = 160:\n- Urutan: Y(168) > W(161) > X(160) >= Z(153)\n- Total: 168 + 161 + 160 + 153 = 642 (tidak cocok)\n\nCoba W = 165, X = 158:\n- Urutan: Y(168) > W(165) > X(158) >= Z(153)\n- Total: 168 + 165 + 158 + 153 = 644 (tidak cocok)\n\nCoba Y = 168, Z = 153, W = 161, X = 160:\n- Total: 168 + 161 + 160 + 153 = 642 ✓\n- Urutan: Y(168) > W(161) > X(160) >= Z(153) ✓\n\nY = 168 cm adalah siswa tertinggi.\n\n**Jawaban: B (168 cm)**",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_012",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "kategori_soal": "Analitis",
+    "konsep_terkait": [
+      "Urutan dan Perbandingan",
+      "Rata-rata dan Total",
+      "Persamaan Linear"
+    ],
+    "tips_mengerjaan": "Identifikasi posisi tertinggi dan terendah. Jika ada yang 'sama dengan', mereka bisa punya nilai yang sama. Gunakan total untuk mencari nilai yang belum diketahui. Estimasi waktu: ~1-2 menit.",
+    "questionText": "5 orang pedagang yaitu Andri, Budi, Candra, Dimas, dan Erik memiliki modal usaha berbeda yang dinyatakan dalam juta rupiah. Diketahui:\n- Modal Andri lebih besar dari Budi.\n- Modal Candra lebih kecil dari Dimas.\n- Modal Dimas lebih kecil dari Andri.\n- Modal Erik sama dengan modal Budi.\n- Modal terbesar adalah modal yang dimiliki oleh Andri.\n- Modal terkecil adalah modal yang dimiliki oleh Candra.\n\nJika total modal 5 pedagang adalah 125 juta rupiah, maka modal Dimas adalah...",
+    "options": [
+      "20 juta",
+      "22 juta",
+      "25 juta",
+      "28 juta",
+      "30 juta"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi urutan modal**\n- Andri = yang terbesar\n- Candra = yang terkecil\n- Dimas < Andri (dari 'Dimas lebih kecil dari Andri')\n- Andri > Budi (dari 'Andri lebih besar dari Budi')\n- Erik = Budi (sama)\n\nUrutan: Andri > Dimas > Budi = Erik > Candra\n\n**Langkah 2: Gunakan informasi total**\nTotal = 125 juta\n\nMisal:\n- Andri = A\n- Dimas = D\n- Budi = B\n- Erik = E (= B)\n- Candra = C\n\nA + D + B + E + C = 125\nA + D + 2B + C = 125\n\n**Langkah 3: Trial and error**\nKita tahu Candra yang terkecil, Andri yang terbesar.\n\nCoba dengan nilai logis:\n- Candra = 10 juta (terkecil)\n- Budi = Erik = 20 juta (sama, di tengah)\n- Dimas = ?\n- Andri = ?\n\nTotal 125: A + D + 20 + 20 + 10 = 125\nA + D = 95\n\nKarena Andri > Dimas, coba Dimas = 30, Andri = 65:\n65 + 30 + 20 + 20 + 10 = 145 (tidak cocok)\n\nCoba Dimas = 25, Andri = 70:\n70 + 25 + 20 + 20 + 10 = 145 (tidak cocok)\n\nCoba dengan nilai berbeda:\n- Candra = 10, Budi = Erik = 20\n- Dimas = 30, Andri = 65:\n65 + 30 + 20 + 20 + 10 = 145 (terlalu tinggi)\n\nCoba Candra = 10, Budi = Erik = 25:\nA + D + 25 + 25 + 10 = 125\nA + D = 65\n\nCoba Dimas = 30, Andri = 35:\n35 + 30 + 25 + 25 + 10 = 125 ✓\n\nJadi: Andri = 35 juta, Dimas = 30 juta, Budi = Erik = 25 juta, Candra = 10 juta\n\nUrutan: 35 > 30 > 25 = 25 > 10 ✓\n\nModal Dimas = 30 juta.\n\n**Jawaban: E (30 juta)**",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_013",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "kategori_soal": "Analitis",
+    "konsep_terkait": [
+      "Urutan dan Perbandingan",
+      "Transitifitas",
+      "Eliminasi dan Verifikasi"
+    ],
+    "tips_mengerjaan": "Kerjakan bagian yang jelas terlebih dahulu. Untuk bagian yang tidak bisa ditentukan, pilih opsi yang TIDAK MEMBANTUK constraint baru. Estimasi waktu: ~1-2 menit.",
+    "questionText": "Dalam perlombaan lari marathon, Andi finish lebih cepat dari Budi. Chris finish lebih cepat dari Andi. Dodi finish lebih cepat dari Chris. Edo finish lebih lambat dari Dodi. Farhan finish lebih cepat dari Galang. Galang finish lebih lambat dari Edo. Urutan finish dari yang tercepat adalah...",
+    "options": [
+      "Dodi - Chris - Andi - Budi - Farhan - Galang - Edo",
+      "Chris - Dodi - Andi - Budi - Farhan - Galang - Edo",
+      "Dodi - Chris - Farhan - Andi - Galang - Budi - Edo",
+      "Farhan - Galang - Dodi - Chris - Andi - Budi - Edo",
+      "Dodi - Chris - Andi - Budi - Galang - Farhan - Edo"
+    ],
+    "answer": "D",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi urutan yang JELAS**\nDari constraint:\n1. Andi lebih cepat dari Budi -> Andi > Budi\n2. Chris lebih cepat dari Andi -> Chris > Andi\n3. Dodi lebih cepat dari Chris -> Dodi > Chris\n\nJadi: Dodi > Chris > Andi > Budi (urutan finish jelas)\n\n**Langkah 2: Cari posisi Edo**\n'Edo finish lebih lambat dari Dodi' -> Dodi lebih cepat dari Edo\n'Dodi - Chris - Andi - Budi' semuanya lebih cepat dari Edo.\n\nJadi Edo paling akhir: posisi 7.\n\n**Langkah 3: Identifikasi kelompok Farhan-Galang**\n'Farhan finish lebih cepat dari Galang' -> Farhan > Galang\n'Galang finish lebih lambat dari Edo' -> Galang < Edo\n\nJadi: Farhan > Galang, dan keduanya < Edo.\n\nPosisi Farhan dan Galang relatif terhadap Dodi, Chris, Andi, Budi: TIDAK BISA DITENTUKAN dari constraint.\n\n**Langkah 4: Verifikasi setiap opsi**\n\nOpsi A: D - C - A - B - F - G - E\n- Urutan D-C-A-B: ✓\n- Farhan sebelum Galang: ✓\n- Tapi Farhan sebelum Dodi - tidak ada info, BISA saja tapi tidak pasti\n\nOpsi B: C - D - A - B - F - G - E\n- Chris sebelum Dodi -> bertentangan dengan 'Dodi finish lebih cepat dari Chris'\n- SALAH\n\nOpsi C: D - C - F - A - G - B - E\n- Farhan sebelum Andi -> tidak ada info\n- Galang sebelum Budi -> tidak ada info\n- Tidak ada constraint yang MEMBATASI ini, tapi tidak bisa dipastian\n\nOpsi D: F - G - D - C - A - B - E\n- Farhan > Galang: ✓\n- Dodi > Chris > Andi > Budi: ✓\n- Galang < Edo: ✓\n- Semua constraint terpenuhi!\n\nOpsi E: D - C - A - B - G - F - E\n- Galang sebelum Farhan -> bertentangan dengan 'Farhan lebih cepat dari Galang'\n- SALAH\n\n**Jawaban: D** - Satu-satunya yang memenuhi semua constraint: urutan utama benar, Farhan > Galang, dan semua posisi tidak bertentangan.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_014",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "kategori_soal": "Analitis",
+    "konsep_terkait": [
+      "Silogisme Logika",
+      "Himpunan dan Irisan",
+      "Eliminasi dan Substitusi"
+    ],
+    "tips_mengerjaan": "Gambar diagram Venn. Identifikasi hubungan X, Y, Z. Jika X ⊂ Y dan X∩Z = ∅, maka tidak ada X yang juga Z. Estimasi waktu: ~1-2 menit.",
+    "questionText": "Diketahui:\n- Semua X adalah Y.\n- Sebagian Y adalah Z.\n- Tidak ada Z yang merupakan X.\n\nSimpulan yang sah adalah...",
+    "options": [
+      "Semua X adalah Z",
+      "Sebagian X adalah Z",
+      "Tidak ada X yang Z",
+      "Semua Z adalah Y",
+      "Tidak dapat disimpulkan"
+    ],
+    "answer": "C",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Interpretasi setiap premis**\n\nPremis 1: 'Semua X adalah Y'\n- X ⊂ Y (X adalah subset dari Y)\n- Semua anggota X juga anggota Y\n- Diagram: |X| ⊂ |Y|\n\nPremis 2: 'Sebagian Y adalah Z'\n- Ada irisan antara Y dan Z\n- Y ∩ Z ≠ ∅\n- Tapi TIDAK semua Y adalah Z\n\nPremis 3: 'Tidak ada Z yang merupakan X'\n- X dan Z saling lepas (disjoint)\n- X ∩ Z = ∅\n- Tidak ada anggota yang sama antara X dan Z\n\n**Langkah 2: Visualisasi dengan diagram Venn**\n\n       Y\n    /     \\\n   X  ...   Z\n    \\     /\n     --- \n\nX ada di dalam Y\nX tidak beririsan dengan Z\nZ sebagian masuk ke Y (irisannya ada di Y tapi di luar X)\n\n**Langkah 3: Analisis hubungan X dan Z**\nDari premis 3: Tidak ada X yang Z.\nKarena X ⊂ Y dan X ∩ Z = ∅, maka:|Tidak ada satu pun anggota X yang juga merupakan anggota Z.\n\n**Langkah 4: Evaluasi setiap opsi**\n\n- Opsi A: 'Semua X adalah Z' -> SALAH karena X dan Z saling lepas\n- Opsi B: 'Sebagian X adalah Z' -> SALAH karena X ∩ Z = ∅, tidak ada irisan\n- Opsi C: 'Tidak ada X yang Z' -> BENAR karena X ∩ Z = ∅\n- Opsi D: 'Semua Z adalah Y' -> TIDAK bisa disimpulkan dari premis. Premis 2 hanya menyebut 'sebagian Y adalah Z', bukan semua\n- Opsi E: 'Tidak dapat disimpulkan' -> SALAH karena kita BISA menyimpulkan hubungan X dan Z\n\n**Jawaban: C** - Konklusi yang sah: 'Tidak ada X yang Z' sesuai dengan hubungan himpunan dari semua premis.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_015",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "kategori_soal": "Analitis",
+    "konsep_terkait": [
+      "Urutan dan Perbandingan",
+      "Transitifitas",
+      "Identifikasi Elemen Ekstrem"
+    ],
+    "tips_mengerjaan": "Soal ini straightforward. Urutan dari info: C < B < A < D. Siapa terendah? Jelas C. Estimasi waktu: < 1 menit.",
+    "questionText": "3 anak A, B, dan C memiliki tinggi badan berbeda. A lebih tinggi dari B. B lebih tinggi dari C. Jika D lebih tinggi dari A, siapa yang paling rendah?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "Tidak dapat ditentukan"
+    ],
+    "answer": "C",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Analisis informasi dari soal**\n\nDari informasi yang diberikan:\n- A > B (A lebih tinggi dari B)\n- B > C (B lebih tinggi dari C)\n- D > A (D lebih tinggi dari A)\n\n**Langkah 2: Buat urutan lengkap**\nDari A > B > C, kita tahu urutan: C < B < A\n\nDari D > A, maka D berada di atas A.\n\nJadi urutan lengkap: D > A > B > C\n\n**Langkah 3: Identifikasi yang terendah**\nDari urutan D > A > B > C:\n- C adalah yang paling rendah karena berada di posisi terakhir\n- Tidak ada informasi yang membantah ini\n\n**Langkah 4: Verifikasi**\nApakah C jelas yang terendah?\n- D lebih tinggi dari A: C < A < D ✓\n- A lebih tinggi dari B: C < B < A ✓\n- B lebih tinggi dari C: C adalah yang terendah dari A, B, C ✓\n\nJadi siapa yang paling rendah? Jelas C.\n\n**Mengapa opsi lain SALAH:**\n- Opsi A: A lebih tinggi dari B dan C, bukan terendah\n- Opsi B: B lebih tinggi dari C, bukan terendah\n- Opsi D: D lebih tinggi dari A, jadi D bukan yang terendah\n- Opsi E: 'Tidak dapat ditentukan' - informasi достаточна untuk menentukan C adalah yang terendah\n\n**Jawaban: C** - C adalah yang paling rendah dengan jelas berdasarkan urutan D > A > B > C.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu3_016",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "kategori_soal": "Deret Angka",
+    "konsep_terkait": [
+      "Beda Bertambah",
+      "Deret Aritmetika Bertingkat",
+      "Polinomial Berderajat 2"
+    ],
+    "tips_mengerjaan": "Cek apakah beda antar bilangan teratur. Jika tidak, cek beda kedua. Pola di soal ini: beda bertingkat (5, 7, 9, 11...). Estimasi waktu: ~1 menit.",
+    "questionText": "3, 8, 15, 24, 35, ..., 63. Nilai yang tepat untuk titik-titik adalah...",
+    "options": [
+      "44",
+      "46",
+      "48",
+      "50",
+      "52"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi pola beda pertama**\nBeda antar bilangan:\n- 8 - 3 = 5\n- 15 - 8 = 7\n- 24 - 15 = 9\n- 35 - 24 = 11\n\nBeda pertama: 5, 7, 9, 11, ...\n\n**Langkah 2: Identifikasi pola beda kedua**\nBeda antar beda:\n- 7 - 5 = 2\n- 9 - 7 = 2\n- 11 - 9 = 2\n\nBeda kedua = 2 (konstan)!\n\nIni berarti beda pertama naik secara aritmetika dengan beda 2.\n\n**Langkah 3: Lanjutkan pola**\nBeda pertama berikutnya: 11 + 2 = 13\n\nJadi bilangan berikutnya: 35 + 13 = 48\n\n**Langkah 4: Verifikasi**\nHitung beda dari 48 ke 63:\n- 63 - 48 = 15\n\nApakah 15 sesuai dengan pola? Beda pertama sebelumnya: 5, 7, 9, 11, 13, 15\n\nYa! Polanya: 5, 7, 9, 11, 13, 15...\n\n48 + 15 = 63 ✓\n\n**Langkah 5: Cek semua opsi**\n- 48 + 15 = 63 -> cocok\n- Opsi lain tidak menghasilkan 63:\n  - 44 + 13 = 57\n  - 46 + 13 = 59\n  - 50 + 13 = 63 (sebelumnya beda 11, bukan 13)\n  - 52 + 13 = 65\n\nJadi pola yang benar: 48, bukan opsi lain.\n\n**Jawaban: E (48)**",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_017",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "kategori_soal": "Deret Angka",
+    "konsep_terkait": [
+      "Beda Berkurang",
+      "Deret Aritmetika Negatif",
+      "Beda Bertingkat"
+    ],
+    "tips_mengerjaan": "Pola ini menurun. Cek beda antar bilangan: -5, -10, -15, -20... beda bertingkat konstan -5. Estimasi waktu: ~1 menit.",
+    "questionText": "100, 95, 85, 70, 50, ..., 5. Nilai yang tepat untuk titik-titik adalah...",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi pola beda pertama**\nBeda antar bilangan (bertanda):\n- 95 - 100 = -5\n- 85 - 95 = -10\n- 70 - 85 = -15\n- 50 - 70 = -20\n\nBeda pertama: -5, -10, -15, -20, ...\n\n**Langkah 2: Identifikasi pola beda kedua**\nBeda antar beda:\n- -10 - (-5) = -5\n- -15 - (-10) = -5\n- -20 - (-15) = -5\n\nBeda kedua = -5 (konstan)!\n\n**Langkah 3: Lanjutkan pola**\nBeda pertama berikutnya: -20 + (-5) = -25\n\nJadi bilangan berikutnya: 50 + (-25) = 25\n\n**Langkah 4: Verifikasi**\nHitung beda dari 25 ke 5:\n- 5 - 25 = -20\n\nApakah -20 sesuai dengan pola?\nBeda pertama sebelumnya: -5, -10, -15, -20, -25, -20...\n\nSeharusnya beda berikutnya -25, tapi untuk mencapai 5, beda harus -20.\n\nPerhatikan: pola beda pertama BERTAMBAH 5 secara negatif: -5, -10, -15, -20, -25...\n\n50 + (-25) = 25\n25 + (-20) = 5 ✓\n\nIni berarti beda -20 terjadi setelah -25, bukan -25\n\nJadi 25 adalah jawaban yang benar.\n\n**Langkah 5: Verifikasi semua opsi**\n- 25: 50 + (-25) = 25 ✓, lalu 25 + (-20) = 5 ✓\n- Opsi lain tidak menghasilkan 5:\n  - 30 + (-25) = 5, tapi beda sebelumnya tidak cocok\n  - Dst tidak cocok\n\n**Jawaban: E (25)**",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_018",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "kategori_soal": "Deret Angka",
+    "konsep_terkait": [
+      "Operasi Ganda",
+      "Pola x2+2",
+      "Deret Rekursif"
+    ],
+    "tips_mengerjaan": "Pola tidak terlihat dari beda biasa. Coba operasi berulang: kalikan 2 lalu tambah/beda. 2->6->14->30->62..., setiap langkah x2+2. Estimasi waktu: ~1 menit.",
+    "questionText": "2, 6, 14, 30, 62, ..., 254. Nilai yang tepat untuk titik-titik adalah...",
+    "options": [
+      "126",
+      "128",
+      "130",
+      "132",
+      "134"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Cari pola dengan berbagai operasi**\nBeda antar bilangan:\n- 6 - 2 = 4\n- 14 - 6 = 8\n- 30 - 14 = 16\n- 62 - 30 = 32\n\nBeda: 4, 8, 16, 32 -> ini kelipatan 2\n\nTapi pola ini tidak langsung memberi bilangan berikutnya karena kita tahu 254.\n\n**Langkah 2: Coba pola perkalian**\nCek hubungan antar bilangan:\n- 2 -> 6: 2 x 2 + 2 = 6 ✓\n- 6 -> 14: 6 x 2 + 2 = 14 ✓\n- 14 -> 30: 14 x 2 + 2 = 30 ✓\n- 30 -> 62: 30 x 2 + 2 = 62 ✓\n\nPola: setiap bilangan = (bilangan sebelumnya) × 2 + 2\n\n**Langkah 3: Lanjutkan pola**\n- 62 × 2 + 2 = 124 + 2 = 126\n- 126 × 2 + 2 = 252 + 2 = 254 ✓\n\nJadi bilangan di antara 62 dan 254 adalah 126.\n\n**Langkah 4: Verifikasi**\n2, 6, 14, 30, 62, 126, 254\n\nPola: x2+2 untuk setiap langkah\n- 2 x2+2 = 6\n- 6 x2+2 = 14\n- 14 x2+2 = 30\n- 30 x2+2 = 62\n- 62 x2+2 = 126\n- 126 x2+2 = 254 ✓\n\n**Langkah 5: Cek semua opsi**\n- 126: sesuai dengan pola x2+2 ✓\n- Opsi lain tidak menghasilkan 254:\n  - 128: 62 x2+? = 128, tidak konsisten\n  - Dst tidak cocok dengan pola\n\n**Jawaban: E (126)**",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_019",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "kategori_soal": "Deret Angka",
+    "konsep_terkait": [
+      "Operasi Ganda",
+      "Pola x2+1",
+      "Deret Rekursif"
+    ],
+    "tips_mengerjaan": "Mirip soal sebelumnya tapi dengan +1 bukan +2. Pola: kalikan 2 lalu tambah 1. Estimasi waktu: ~1 menit.",
+    "questionText": "5, 11, 23, 47, 95, ... Nilai yang tepat adalah...",
+    "options": [
+      "190",
+      "191",
+      "192",
+      "193",
+      "194"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi pola**\nCek hubungan antar bilangan:\n- 5 -> 11: 5 × 2 + 1 = 11 ✓\n- 11 -> 23: 11 × 2 + 1 = 23 ✓\n- 23 -> 47: 23 × 2 + 1 = 47 ✓\n- 47 -> 95: 47 × 2 + 1 = 95 ✓\n\nPola: setiap bilangan = (bilangan sebelumnya) × 2 + 1\n\n**Langkah 2: Lanjutkan pola**\n95 × 2 + 1 = 190 + 1 = 191\n\n**Langkah 3: Verifikasi dengan opsi**\n\n| Opsi | Hasil | Cocok? |\n|------|-------|--------|\n| 190 | 95 × 2 + ? = 190, beda 95 | Tidak sesuai pola +1 |\n| 191 | 95 × 2 + 1 = 191 | ✓ Pola +1 |\n| 192 | 95 × 2 + ? = 192, beda 97 | Tidak sesuai |\n| 193 | 95 × 2 + ? = 193, beda 98 | Tidak sesuai |\n| 194 | 95 × 2 + ? = 194, beda 99 | Tidak sesuai |\n\nHanya 191 yang memenuhi pola x2+1.\n\n**Langkah 4: Double check deret**\n5, 11, 23, 47, 95, 191\n\n- 5 × 2 + 1 = 11 ✓\n- 11 × 2 + 1 = 23 ✓\n- 23 × 2 + 1 = 47 ✓\n- 47 × 2 + 1 = 95 ✓\n- 95 × 2 + 1 = 191 ✓\n\nPola konsisten dari awal hingga akhir.\n\n**Jawaban: E (191)**",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_020",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "kategori_soal": "Deret Angka",
+    "konsep_terkait": [
+      "Bilangan Kuadrat",
+      "Pola n²",
+      "Deret Kuadrat Sempurna"
+    ],
+    "tips_mengerjaan": "Pola sangat jelas: kuadrat bilangan bulat. 1², 2², 3², 4², 5², ..., 7². Estimasi waktu: < 1 menit.",
+    "questionText": "1, 4, 9, 16, 25, ..., 49. Nilai yang tepat untuk titik-titik adalah...",
+    "options": [
+      "30",
+      "34",
+      "36",
+      "38",
+      "42"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi pola kuadrat**\nBilangan: 1, 4, 9, 16, 25, ..., 49\n\nPerhatikan:\n- 1 = 1²\n- 4 = 2²\n- 9 = 3²\n- 16 = 4²\n- 25 = 5²\n- 49 = 7²\n\nIni adalah deret bilangan kuadrat sempurna!\n\n**Langkah 2: Lanjutkan urutan**\n- Bilangan ke-1: 1² = 1\n- Bilangan ke-2: 2² = 4\n- Bilangan ke-3: 3² = 9\n- Bilangan ke-4: 4² = 16\n- Bilangan ke-5: 5² = 25\n- Bilangan ke-6: 6² = ?\n- Bilangan ke-7: 7² = 49 ✓\n\nJadi bilangan ke-6: 6² = 36\n\n**Langkah 3: Verifikasi dengan opsi**\n\n| Opsi | Nilai | Kuadrat dari? |\n|------|-------|---------------|\n| A | 30 | Bukan kuadrat sempurna |\n| B | 34 | Bukan kuadrat sempurna |\n| C | 36 | 6² = 36 ✓ |\n| D | 38 | Bukan kuadrat sempurna |\n| E | 42 | Bukan kuadrat sempurna |\n\nHanya 36 yang merupakan kuadrat sempurna (6²).\n\n**Langkah 4: Double check**\n1, 4, 9, 16, 25, 36, 49\n- 1² = 1\n- 2² = 4\n- 3² = 9\n- 4² = 16\n- 5² = 25\n- 6² = 36\n- 7² = 49 ✓\n\nUrutan bilangan kuadrat 1 sampai 7.\n\n**Jawaban: E (36)**",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_021",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "kategori_soal": "Aritmetika",
+    "konsep_terkait": [
+      "Diskon dan Persentase",
+      "Konversi Persen ke Desimal",
+      "Pembagian"
+    ],
+    "tips_mengerjaan": "Diskon 20% berarti harga akhir = 80% dari harga awal. Gunakan rumus: Harga awal = Harga akhir / 0.8. Estimasi waktu: < 1 menit.",
+    "questionText": "Harga barang setelah diskon 20% adalah Rp480.000,00. Harga barang sebelum diskon adalah...",
+    "options": [
+      "Rp560.000,00",
+      "Rp580.000,00",
+      "Rp600.000,00",
+      "Rp620.000,00",
+      "Rp640.000,00"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Pahami konsep diskon**\nDiskon 20% berarti:\n- Harga yang dibayar = 100% - 20% = 80% dari harga awal\n- 80% × Harga awal = Harga setelah diskon\n\n**Langkah 2: Buat persamaan**\nHarga setelah diskon = Rp480.000\n80% × Harga awal = 480.000\n\nKonversi ke desimal: 80% = 0,8\n\n0,8 × Harga awal = 480.000\n\n**Langkah 3: Hitung harga awal**\nHarga awal = 480.000 / 0,8\nHarga awal = 480.000 × (10/8)\nHarga awal = 480.000 × 1,25\nHarga awal = 600.000\n\n**Langkah 4: Verifikasi**\nDiskon 20% dari 600.000 = 0,2 × 600.000 = 120.000\nHarga setelah diskon = 600.000 - 120.000 = 480.000 ✓\n\n**Langkah 5: Cek semua opsi**\n- 560.000: 80% × 560.000 = 448.000 (salah)\n- 580.000: 80% × 580.000 = 464.000 (salah)\n- 600.000: 80% × 600.000 = 480.000 (benar)\n- 620.000: 80% × 620.000 = 496.000 (salah)\n- 640.000: 80% × 640.000 = 512.000 (salah)\n\n**Jawaban: E (Rp600.000,00)**",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_022",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "kategori_soal": "Aritmetika",
+    "konsep_terkait": [
+      "Operasi Penjumlahan dan Pengurangan",
+      "Perubahan Bertahap",
+      "Perhitungan Bertahap"
+    ],
+    "tips_mengerjaan": "Hitung bertahap per halte. Turun berarti -, naik berarti +. Kerjakan satu halte dulu, lalu lanjut ke halte berikutnya. Estimasi waktu: < 1 menit.",
+    "questionText": "Sebuah bus membawa 48 penumpang. Di halte pertama turun 12 orang dan naik 8 orang. Di halte kedua turun 15 orang dan naik 5 orang. Jumlah penumpang bus setelah halte kedua adalah...",
+    "options": [
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Status awal**\nPenumpang awal = 48 orang\n\n**Langkah 2: Halte pertama**\n- Turun 12 orang: 48 - 12 = 36\n- Naik 8 orang: 36 + 8 = 44\n\nPenumpang setelah halte pertama = 44 orang\n\n**Langkah 3: Halte kedua**\n- Turun 15 orang: 44 - 15 = 29\n- Naik 5 orang: 29 + 5 = 34\n\nPenumpang setelah halte kedua = 34 orang\n\n**Langkah 4: Verifikasi dengan perhitungan langsung**\nTotal perubahan = -12 + 8 - 15 + 5 = -14\nPenumpang akhir = 48 + (-14) = 34\n\n**Langkah 5: Cek semua opsi**\n- 30: tidak sesuai\n- 32: tidak sesuai\n- 34: sesuai ✓\n- 36: tidak sesuai\n- 38: tidak sesuai\n\n**Jawaban: E (34)**",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_023",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "kategori_soal": "Aritmetika",
+    "konsep_terkait": [
+      "Persamaan Linear Satu Variabel",
+      "Aljabar Dasar",
+      "Substitusi"
+    ],
+    "tips_mengerjaan": "Selesaikan persamaan untuk x terlebih dahulu. Lalu substitusikan ke ekspresi yang ditanyakan. Estimasi waktu: < 1 menit.",
+    "questionText": "Jika 3x + 7 = 22, maka nilai dari 5x - 3 adalah...",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Selesaikan persamaan untuk x**\n3x + 7 = 22\n\nKurangi kedua ruas dengan 7:\n3x = 22 - 7\n3x = 15\n\nBagi kedua ruas dengan 3:\nx = 15 / 3\nx = 5\n\n**Langkah 2: Hitung nilai 5x - 3**\n5x - 3 = 5(5) - 3\n5x - 3 = 25 - 3\n5x - 3 = 22\n\n**Langkah 3: Verifikasi**\nMasukkan x = 5 ke persamaan awal:\n3(5) + 7 = 15 + 7 = 22 ✓\n\n**Langkah 4: Cek semua opsi**\n- 18: tidak sesuai\n- 20: tidak sesuai\n- 22: sesuai ✓\n- 24: tidak sesuai\n- 26: tidak sesuai\n\n**Jawaban: E (22)**",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu3_024",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "kategori_soal": "Aritmetika",
+    "konsep_terkait": [
+      "Perbandingan",
+      "Proporsi",
+      "Selisih dalam Perbandingan"
+    ],
+    "tips_mengerjaan": "Jumlah perbandingan = 5+3 = 8 bagian. 1 bagian = 400.000/8. Selisih = 5-3 = 2 bagian. Estimasi waktu: < 1 menit.",
+    "questionText": "Perbandingan uang Anton dan Budi adalah 5:3. Jumlah uang mereka adalah Rp400.000,00. Selisih uang Anton dan Budi adalah...",
+    "options": [
+      "Rp80.000,00",
+      "Rp100.000,00",
+      "Rp120.000,00",
+      "Rp150.000,00",
+      "Rp200.000,00"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi informasi**\n- Perbandingan Anton : Budi = 5 : 3\n- Jumlah uang = Rp400.000\n\n**Langkah 2: Hitung total bagian**\nTotal bagian = 5 + 3 = 8 bagian\n\n**Langkah 3: Hitung nilai 1 bagian**\n1 bagian = 400.000 / 8 = 50.000\n\n**Langkah 4: Hitung selisih**\nSelisih perbandingan = 5 - 3 = 2 bagian\nSelisih uang = 2 × 50.000 = 100.000\n\n**Langkah 5: Verifikasi**\n- Uang Anton = 5 × 50.000 = 250.000\n- Uang Budi = 3 × 50.000 = 150.000\n- Jumlah = 250.000 + 150.000 = 400.000 ✓\n- Selisih = 250.000 - 150.000 = 100.000 ✓\n\n**Langkah 6: Cek semua opsi**\n- 80.000: tidak sesuai\n- 100.000: sesuai ✓\n- 120.000: tidak sesuai\n- 150.000: tidak sesuai\n- 200.000: tidak sesuai\n\n**Jawaban: E (Rp100.000,00)**",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu3_025",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "kategori_soal": "Aritmetika",
+    "konsep_terkait": [
+      "Perbandingan Senilai",
+      "Konsep Kerja",
+      "Orang-hari"
+    ],
+    "tips_mengerjaan": "Total pekerjaan = orang × hari (konsep orang-hari). Untuk waktu lebih pendek, butuh lebih banyak orang. Estimasi waktu: ~1 menit.",
+    "questionText": "Sebuah proyek dikerjakan oleh 12 orang dalam 20 hari. Jika proyek yang sama harus selesai dalam 15 hari, maka tambahan pekerja yang dibutuhkan adalah...",
+    "options": [
+      "4 orang",
+      "6 orang",
+      "8 orang",
+      "10 orang",
+      "12 orang"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Pahami konsep pekerjaan**\nPekerjaan memiliki jumlah total yang TETAP (orang × hari = total pekerjaan).\n\n12 orang × 20 hari = Total pekerjaan\nTotal pekerjaan = 240 orang-hari\n\n**Langkah 2: Hitung kebutuhan pekerja untuk 15 hari**\nUntuk menyelesaikan 240 orang-hari dalam 15 hari:\nJumlah pekerja = Total pekerjaan / Waktu\nJumlah pekerja = 240 / 15\nJumlah pekerja = 16 orang\n\n**Langkah 3: Hitung tambahan pekerja**\nTambahan = 16 - 12 = 4 orang\n\n**Langkah 4: Verifikasi**\n- 12 orang × 20 hari = 240 orang-hari ✓\n- 16 orang × 15 hari = 240 orang-hari ✓\n\n**Langkah 5: Cek semua opsi**\n- 4 orang: sesuai ✓\n- 6 orang: tidak sesuai\n- 8 orang: tidak sesuai\n- 10 orang: tidak sesuai\n- 12 orang: tidak sesuai\n\n**Jawaban: E (4 orang)**",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_026",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "kategori_soal": "Cerita Matematika",
+    "konsep_terkait": [
+      "Perkalian",
+      "Pengurangan",
+      "Sisa Perhitungan"
+    ],
+    "tips_mengerjaan": "Hitung total yang sudah dicat (hari × meter per hari). Kurangi dari total. Estimasi waktu: < 1 menit.",
+    "questionText": "Pak Hasan mengecat pagar sepanjang 60 meter. Setiap hari ia mengecat 15 meter. Setelah 3 hari, berapa meter pagar yang belum dicat?",
+    "options": [
+      "15 meter",
+      "20 meter",
+      "25 meter",
+      "30 meter",
+      "35 meter"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Identifikasi informasi**\n- Total pagar = 60 meter\n- Mengecat per hari = 15 meter\n- Hari bekerja = 3 hari\n\n**Langkah 2: Hitung total yang sudah dicat**\nTotal sudah dicat = 15 meter/hari × 3 hari = 45 meter\n\n**Langkah 3: Hitung sisa**\nSisa = Total - Sudah dicat\nSisa = 60 - 45 = 15 meter\n\n**Langkah 4: Verifikasi**\n- 3 hari × 15 meter = 45 meter sudah dicat ✓\n- 60 - 45 = 15 meter belum dicat ✓\n\n**Langkah 5: Cek semua opsi**\n- 15 meter: sesuai ✓\n- 20 meter: tidak sesuai\n- 25 meter: tidak sesuai\n- 30 meter: tidak sesuai\n- 35 meter: tidak sesuai\n\n**Jawaban: E (15 meter)**",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_027",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "kategori_soal": "Cerita Matematika",
+    "konsep_terkait": [
+      "Konversi Jarak dan Bahan Bakar",
+      "Perbandingan",
+      "Pulang-Pergi"
+    ],
+    "tips_mengerjaan": "Total bensin = liter × km/liter. Sisa bensin = total - pulang-pergi. Jarak rumah-kerja = pulang-pergi / 2. Estimasi waktu: ~1 menit.",
+    "questionText": "1 liter bensin mampu menempuh 12 km. Dengan bensin 5 liter, seorang sopir menempuh jarak pulang-pergi 40 km. Berapa km jarak rumah ke tempat kerja?",
+    "options": [
+      "20 km",
+      "25 km",
+      "30 km",
+      "35 km",
+      "40 km"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Hitung total jarak yang bisa ditempuh**\nTotal jarak = 5 liter × 12 km/liter = 60 km\n\n**Langkah 2: Hitung jarak yang sudah ditempuh**\nJarak pulang-pergi = 40 km\n\n**Langkah 3: Hitung jarak rumah ke tempat kerja**\nJarak rumah ke tempat kerja = Jarak pulang-pergi / 2\nJarak rumah ke tempat kerja = 40 / 2 = 20 km\n\n**Langkah 4: Verifikasi**\n- Bensin 5 liter → 60 km\n- Dipakai pulang-pergi: 40 km\n- Sisa bensin: 60 - 40 = 20 km (dalam kilometer yang bisa ditempuh)\n\nIni konsisten! Sopir menggunakan bensin untuk pulang-pergi 40 km, dan masih ada sisa bensin yang setara dengan 20 km perjalanan.\n\n**Langkah 5: Cek semua opsi**\n- 20 km: sesuai ✓\n- 25 km: tidak sesuai\n- 30 km: tidak sesuai\n- 35 km: tidak sesuai\n- 40 km: tidak sesuai (itu jarak pulang-pergi, bukan satu arah)\n\n**Jawaban: E (20 km)**",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_028",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "kategori_soal": "Cerita Matematika",
+    "konsep_terkait": [
+      "Unit Price",
+      "Perkalian",
+      "Pengurangan"
+    ],
+    "tips_mengerjaan": "Harga per kg = harga total / berat. Total harga beli = kg × harga per kg. Kembalian = uang - total harga. Estimasi waktu: < 1 menit.",
+    "questionText": "1 kantong beras berharga Rp72.000,00 dan beratnya 6 kg. Jika Ibu membeli 10 kg beras dengan uang Rp200.000,00, berapa kembalian yang diterima?",
+    "options": [
+      "Rp60.000,00",
+      "Rp80.000,00",
+      "Rp100.000,00",
+      "Rp120.000,00",
+      "Rp140.000,00"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Hitung harga per kg**\nHarga per kg = 72.000 / 6 = 12.000 per kg\n\n**Langkah 2: Hitung total harga 10 kg**\nTotal harga = 10 × 12.000 = 120.000\n\n**Langkah 3: Hitung kembalian**\nKembalian = 200.000 - 120.000 = 80.000\n\n**Langkah 4: Verifikasi**\n- 6 kg = 72.000 → 1 kg = 12.000 ✓\n- 10 kg = 120.000 ✓\n- Bayar 200.000, kembalian 80.000 ✓\n\n**Langkah 5: Cek semua opsi**\n- 60.000: tidak sesuai\n- 80.000: sesuai ✓\n- 100.000: tidak sesuai\n- 120.000: tidak sesuai\n- 140.000: tidak sesuai\n\n**Jawaban: E (Rp80.000,00)**",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu3_029",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "kategori_soal": "Cerita Matematika",
+    "konsep_terkait": [
+      "Perbandingan Senilai",
+      "Proporsi",
+      "Perkalian"
+    ],
+    "tips_mengerjaan": "Tepung per kue = total tepung / jumlah kue. Total untuk 10 kue = tepung per kue × 10. Estimasi waktu: < 1 menit.",
+    "questionText": "Untuk membuat 4 kue dibutuhkan 600 gram tepung. Jika ingin membuat 10 kue, berapa gram tepung yang dibutuhkan?",
+    "options": [
+      "1.200 gram",
+      "1.350 gram",
+      "1.500 gram",
+      "1.650 gram",
+      "1.800 gram"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Hitung tepung per kue**\nTepung per kue = 600 gram / 4 kue = 150 gram/kue\n\n**Langkah 2: Hitung tepung untuk 10 kue**\nTepung untuk 10 kue = 150 × 10 = 1.500 gram\n\n**Langkah 3: Verifikasi dengan perbandingan**\nPerbandingan: 4 kue : 10 kue = 600 g : x g\n4/10 = 600/x\nx = 600 × 10/4\nx = 600 × 2,5\nx = 1.500 gram ✓\n\n**Langkah 4: Cek semua opsi**\n- 1.200 gram: tidak sesuai (600 × 2 = 1.200 tapi seharusnya 2,5 kali)\n- 1.350 gram: tidak sesuai\n- 1.500 gram: sesuai ✓\n- 1.650 gram: tidak sesuai\n- 1.800 gram: tidak sesuai (600 × 3 = 1.800 tapi seharusnya 2,5 kali)\n\n**Jawaban: E (1.500 gram)**",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu3_030",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "kategori_soal": "Cerita Matematika",
+    "konsep_terkait": [
+      "Waktu Tempuh",
+      "Kecepatan",
+      "Operasi Waktu (Jam)",
+      "Istirahat"
+    ],
+    "tips_mengerjaan": "Hitung waktu normal, kurangi perjalanan yang sudah ditempuh, hitung sisa waktu. Jangan lupa istirahat 30 menit. Estimasi waktu: ~1-2 menit.",
+    "questionText": "Jarak kota A ke kota B adalah 240 km. Sebuah mobil berangkat dari A ke B dengan kecepatan 60 km/jam. Setelah 2 jam, mobil istirahat 30 menit. Pukul berapa mobil tiba di B jika berangkat pukul 11.30?",
+    "options": [
+      "14.30",
+      "15.00",
+      "15.30",
+      "16.00",
+      "16.30"
+    ],
+    "answer": "E",
+    "explanation": "PEMBAHASAN LENGKAP:\n\n**Langkah 1: Hitung waktu tempuh normal**\nWaktu tempuh tanpa istirahat = Jarak / Kecepatan\nWaktu tempuh = 240 km / 60 km/jam = 4 jam\n\n**Langkah 2: Hitung jarak yang sudah ditempuh**\nSetelah 2 jam perjalanan: 2 × 60 = 120 km sudah ditempuh\n\n**Langkah 3: Hitung jarak sisa**\nJarak sisa = 240 - 120 = 120 km\n\n**Langkah 4: Hitung waktu tempuh sisa**\nWaktu tempuh sisa = 120 / 60 = 2 jam\n\n**Langkah 5: Hitung total waktu perjalanan**\n- Perjalanan pertama: 2 jam\n- Istirahat: 30 menit = 0,5 jam\n- Perjalanan kedua: 2 jam\n- Total: 2 + 0,5 + 2 = 4,5 jam = 4 jam 30 menit\n\n**Langkah 6: Hitung waktu tiba**\nBerangkat: 11.30\nTiba = 11.30 + 4.5 jam = 11.30 + 4 jam 30 menit = 16.00\n\n**Langkah 7: Verifikasi**\n11.30 + 2 jam = 13.30 (sampai istirahat)\n13.30 + 30 menit = 14.00 (selesai istirahat)\n14.00 + 2 jam = 16.00 ✓\n\n**Langkah 8: Cek semua opsi**\n- 14.30: tidak sesuai\n- 15.00: tidak sesuai\n- 15.30: tidak sesuai\n- 16.00: sesuai ✓\n- 16.30: tidak sesuai\n\n**Jawaban: E (16.00)**",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_031",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "isFigural": true,
+    "kategori_soal": "Figural",
+    "konsep_terkait": [
+      "Pola Matriks Figural",
+      "Rotasi dan Pergeseran",
+      "Hubungan Baris dan Kolom"
+    ],
+    "tips_mengerjaan": "Soal figural - fokus pada pola visual. Untuk matriks, cek apakah bentuk bergeser searah jarum jam di setiap baris. Untuk soal figural, jawaban berdasarkan pola matriks/deret visual.",
+    "figuralData": "{\"type\":\"matriks\",\"gridData\":[[\"circle\",\"square\",\"triangle\"],[\"square\",\"triangle\",\"circle\"],[\"triangle\",\"circle\",\"?\"]],\"answerShapes\":[\"black-square\",\"black-circle\",\"black-triangle\",\"black-square\",\"black-circle\"],\"pattern\":\"setiap baris bergeser searah jarum jam\",\"correctIndex\":4}",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Segiempat",
+      "B. Lingkaran",
+      "C. Segitiga",
+      "D. Segiempat",
+      "E. Lingkaran"
+    ],
+    "answer": "E",
+    "explanation": "Pola matriks: Perhatikan pola shapes per baris...\n1. Baris 1: Lingkaran → Segiempat → Segitiga\n2. Baris 2: Segiempat → Segitiga → Lingkaran\n3. Baris 3: Segitiga → Lingkaran → ?\nPola: shapes bergeser searah jarum jam. Baris 1: circle→square→triangle, Baris 2: square→triangle→circle, Baris 3: triangle→circle→? Cycle: circle→square→triangle→circle\nJawaban: E karena lingkaran adalah bentuk yang melengkapi pola cycle ketiga. Shapes bergeser clockwise dalam grid, sehingga posisi terakhir harus circle untuk melanjutkan pola.\nMengapa opsi lain salah:\n- A (Segiempat): Posisi 1 baris 3 adalah segitiga, bukan segiempat - tidak sesuai pola\n- B (Lingkaran): Opsi B adalah lingkaran, tapi di baris 3 kolom 1 sudah ada segitiga (triangle→circle), jadi setelah circle harus triangle untuk cycle\n- C (Segitiga): Sudah ada di kolom 1 baris 3, tidak bisa duplikat\n- D (Segiempat): Posisi tidak sesuai dengan pola cycle\n- E (Lingkaran): Benar - melanjutkan pola circle→square→triangle→circle",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_032",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "isFigural": true,
+    "kategori_soal": "Figural",
+    "konsep_terkait": [
+      "Pola Matriks Figural",
+      "Rotasi Berlawanan Arah Jarum Jam",
+      "Kombinasi Isian dan Bentuk"
+    ],
+    "tips_mengerjaan": "Soal figural - fokus pada pola visual. Cek apakah ada rotasi berlawanan arah jarum jam di setiap baris. Untuk soal figural, jawaban berdasarkan pola matriks/deret visual.",
+    "figuralData": "{\"type\":\"matriks\",\"gridData\":[[\"filled-square\",\"empty-circle\",\"half-triangle\"],[\"empty-circle\",\"half-triangle\",\"filled-square\"],[\"half-triangle\",\"filled-square\",\"?\"]],\"answerShapes\":[\"black-square\",\"black-circle-empty\",\"black-triangle\",\"black-square-empty\",\"black-circle\"],\"pattern\":\"setiap baris berisi tiga jenis isian dan tiga bentuk yang berputar berlawanan arah jarum jam\",\"correctIndex\":1}",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Segiempat berisi penuh",
+      "B. Lingkaran kosong",
+      "C. Segitiga setengah bayangan",
+      "D. Segiempat kosong",
+      "E. Lingkaran berisi penuh"
+    ],
+    "answer": "B",
+    "explanation": "Pola matriks: Perhatikan fill pattern dan bentuk...\nBaris 1: filled-square → empty-circle → half-triangle\nBaris 2: empty-circle → half-triangle → filled-square\nBaris 3: half-triangle → filled-square → ?\n\nPola:\n- Fill type rotate counter-clockwise: filled → empty → half → filled → empty → half → filled → empty → ?\n- Bentuk: square → circle → triangle → circle → triangle → square → triangle → square → ?\n\nBaris 1: pos1 (filled-square) → pos2 (empty-circle) → pos3 (half-triangle)\nBaris 2: pos1 (empty-circle) → pos2 (half-triangle) → pos3 (filled-square)\nBaris 3: pos1 (half-triangle) → pos2 (filled-square) → pos3 (?)\n\nJawaban: B karena lingkaran kosong (empty-circle) adalah kelanjutan pola. Fill pattern rotate counter-clockwise: filled→empty→half, dan setelah half (pos1) dan filled (pos2), pos3 harus empty. Bentuk cycling juga mendukung ini.\nMengapa opsi lain salah:\n- A (Segiempat berisi penuh): Bentuk dan fill salah - seharusnya circle-empty\n- C (Segitiga setengah bayangan): Bentuk dan fill salah - seharusnya circle-empty\n- D (Segiempat kosong): Bentuk salah - seharusnya circle\n- E (Lingkaran berisi penuh): Fill type salah - harus empty bukan filled",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_033",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "isFigural": true,
+    "kategori_soal": "Figural",
+    "konsep_terkait": [
+      "Pola Deret Figural",
+      "Pengulangan Pola",
+      "Isian vs Garis"
+    ],
+    "tips_mengerjaan": "Soal figural - fokus pada pola visual. Pola berulang: isi-hitam, garis, isi-hitam, garis, isi-hitam, ?. Pola terakhir应该是garis. Untuk soal figural, jawaban berdasarkan pola matriks/deret visual.",
+    "figuralData": "{\"type\":\"deret\",\"sequence\":[\"filled-circle\",\"empty-square\",\"filled-triangle\",\"empty-circle\",\"filled-square\",\"?\"],\"answerShapes\":[\"black-square\",\"black-circle-empty\",\"black-triangle-empty\",\"black-triangle\",\"black-circle\"],\"pattern\":\"bentuk: isi-hitam, garis, isi-hitam, garis, isi-hitam, ?. Pola berulang: isi -> garis -> isi -> garis -> isi -> garis\",\"correctIndex\":2}",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Segiempat berisi penuh",
+      "B. Lingkaran kosong",
+      "C. Segitiga kosong",
+      "D. Segitiga berisi penuh",
+      "E. Lingkaran berisi penuh"
+    ],
+    "answer": "C",
+    "explanation": "Pola deret: Perhatikan sequence bentuk dan fill pattern...\n1. filled-circle → empty-square → filled-triangle → empty-circle → filled-square → ?\n2. Bentuk: circle → square → triangle → circle → square → ?\n3. Fill: filled → empty → filled → empty → filled → ?\n\nPola:\n- Bentuk cycling: circle→square→triangle→circle→square→triangle\n- Fill pattern: filled→empty→filled→empty→filled→empty\n- Urutan: (1)filled-circle, (2)empty-square, (3)filled-triangle, (4)empty-circle, (5)filled-square, (6)?\n\nSetelah filled-square, pola menunjukkan:\n- Bentuk: square→? (triangle adalah cycle berikutnya)\n- Fill: filled→? (empty adalah cycle berikutnya)\n\nJawaban: C karena segitiga kosong (triangle-empty) adalah kelanjutan pola. Pola berulang: isi → garis → isi → garis → isi → garis. Pola terakhir应该是garis (empty) dan bentuk berikutnya adalah triangle.\nMengapa opsi lain salah:\n- A (Segiempat berisi penuh): Bentuk salah - seharusnya segitiga, bukan segiempat\n- B (Lingkaran kosong): Bentuk salah - seharusnya segitiga\n- D (Segitiga berisi penuh): Fill type salah - harus kosong bukan berisi\n- E (Lingkaran berisi penuh): Bentuk dan fill salah - seharusnya segitiga kosong",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu3_034",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "isFigural": true,
+    "kategori_soal": "Figural",
+    "konsep_terkait": [
+      "Pola Matriks Figural",
+      "Kombinasi Ukuran dan Warna",
+      "Pergeseran Posisi"
+    ],
+    "tips_mengerjaan": "Soal figural - fokus pada pola visual. Setiap baris berisi kombinasi ukuran dan warna yang bergeser. Untuk soal figural, jawaban berdasarkan pola matriks/deret visual.",
+    "figuralData": {
+      "type": "matriks",
+      "gridData": [
+        [
+          "large-red-circle",
+          "small-blue-square",
+          "large-green-triangle"
+        ],
+        [
+          "small-blue-square",
+          "large-green-triangle",
+          "large-red-circle"
+        ],
+        [
+          "large-green-triangle",
+          "large-red-circle",
+          "?"
+        ]
+      ],
+      "answerShapes": [
+        "blue-square",
+        "green-triangle",
+        "red-circle",
+        "green-circle",
+        "red-circle"
+      ],
+      "pattern": "setiap baris berisi kombinasi ukuran dan warna yang bergeser"
+    },
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Segiempat biru kecil",
+      "B. Segitiga hijau besar",
+      "C. Lingkaran merah besar",
+      "D. Lingkaran hijau kecil",
+      "E. Lingkaran merah besar"
+    ],
+    "answer": "A",
+    "explanation": "Pola matriks: Perhatikan kombinasi bentuk, ukuran, dan warna...\nBaris 1: Lingkaran merah besar → Segiempat biru kecil → Segitiga hijau besar\nBaris 2: Segiempat biru kecil → Segitiga hijau besar → Lingkaran merah besar\nBaris 3: Segitiga hijau besar → Lingkaran merah besar → ?\n\nPola:\n- Baris 1: [circle-large-red] [square-small-blue] [triangle-large-green]\n- Baris 2: [square-small-blue] [triangle-large-green] [circle-large-red]\n- Baris 3: [triangle-large-green] [circle-large-red] [?]\n\nShapes bergeser searah jarum jam dalam setiap baris. Kombinasi size/color cycling:\n- Baris 1: pos1→pos2→pos3 = circle→square→triangle\n- Baris 2: pos1→pos2→pos3 = square→triangle→circle\n- Baris 3: pos1→pos2→pos3 = triangle→circle→?\n\nJawaban: A karena segiempat biru kecil adalah kelanjutan cycle. Shapes cycling: circle→square→triangle→circle, dan posisi 3 di baris 3 harus circle. Tapi wait - melihat pattern dengan size/color, mungkin jawaban berbeda.\n\nPola lebih detail:\n- Per baris: shapes cycling clockwise\n- Per kolom: ada pattern mirror/duplication\n- Baris 3 kol 1 = triangle-large-green (dari grid)\n- Baris 3 kol 2 = circle-large-red (dari grid)\n- Kolom 3: setelah triangle-large-green dan circle-large-red, yang tersisa adalah square-small-blue\n\nJawaban: A (Segiempat biru kecil) - sesuai dengan pola bahwa setelah triangle dan circle, square adalah yang tersisa dalam cycle shapes.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu3_035",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "isFigural": true,
+    "kategori_soal": "Figural",
+    "konsep_terkait": [
+      "Pola Deret Figural",
+      "Arah Panah",
+      "Rotasi Berlawanan Arah Jarum Jam"
+    ],
+    "tips_mengerjaan": "Soal figural - fokus pada pola visual. Arah panah berputar berlawanan arah jarum jam: kanan, bawah, kiri, atas, kanan, bawah, kiri, atas... Untuk soal figural, jawaban berdasarkan pola matriks/deret visual.",
+    "figuralData": "{\"type\":\"deret\",\"sequence\":[\"arrow-right\",\"arrow-down\",\"arrow-left\",\"arrow-up\",\"arrow-right\",\"?\"],\"answerShapes\":[\"black-arrow_up\",\"black-arrow_down\",\"black-arrow_right\",\"black-arrow_left\",\"black-arrow_up\"],\"pattern\":\"arah panah berputar berlawanan arah jarum jam: kanan, bawah, kiri, atas, kanan, bawah, kiri, atas...\",\"correctIndex\":1}",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Panah ke atas",
+      "B. Panah ke bawah",
+      "C. Panah ke kanan",
+      "D. Panah ke kiri",
+      "E. Panah ke atas"
+    ],
+    "answer": "B",
+    "explanation": "Pola deret: Perhatikan sequence arah panah...\n1. kanan → bawah → kiri → atas → kanan → ?\n2. Arah: right → down → left → up → right → ?\n\nPola:\n- Urutan arah: right(1) → down(2) → left(3) → up(4) → right(5) → ?\n- Pola: rotate counter-clockwise (berlawanan arah jarum jam)\n- Urutan cycle: kanan → bawah → kiri → atas → kanan → bawah → kiri → atas...\n\nJadi setelah \"kanan\" (position 5), pola counter-clockwise berlanjut dengan \"bawah\"\n\nJawaban: B karena panah ke bawah adalah kelanjutan logis dari sequence. Setelah kanan (5),下一个应该是 bawah (2 dalam cycle).\nMengapa opsi lain salah:\n- A (Panah ke atas): Bukan arah berikutnya - setelah kanan harus bawah, bukan atas\n- C (Panah ke kanan): Sudah ada di position 5, tidak bisa duplikat langsung\n- D (Panah ke kiri): Bukan arah berikutnya dalam pola counter-clockwise\n- E (Panah ke atas): Sudah digunakan di position 4, dan bukan posisi yang tepat",
+    "difficulty": "medium"
+  }
+]

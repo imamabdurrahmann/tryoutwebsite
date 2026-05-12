@@ -1,0 +1,486 @@
+[
+  {
+    "id": "full2_001",
+    "category": "TWK",
+    "subcategory": "Pancasila",
+    "question": "Rumusan Panchasila yang merupakan satu kesatuan yang bulat dan utuh tercantum dalam Pembukaan UUD 1945 alinea ke berapa?",
+    "options": [
+      "Alinea pertama",
+      "Alinea kedua",
+      "Alinea ketiga",
+      "Alinea keempat",
+      "Semua Alinea"
+    ],
+    "answer": "D",
+    "explanation": "Rumusan Panchasila yang bulat dan utuh tercantum dalam Pembukaan UUD 1945 alinea keempat.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_002",
+    "category": "TWK",
+    "subcategory": "Pancasila",
+    "question": "Sila kedua Pancasila 'Kemanusiaan yang Adil dan Beradab' menghormati hak asasi manusia dengan prinsip berikut, kecuali...",
+    "options": [
+      "Mengakui persamaan derajat dan hak antar manusia",
+      "Mengakui hak-hak asasi setiap individu",
+      "Mengembangkan sikap tenggang rasa dan tepa selira",
+      "Memperdagangkan manusia untuk kepentingan ekonomi",
+      "Mengakui bahwa setiap manusia memiliki martabat yang sama"
+    ],
+    "answer": "D",
+    "explanation": "Memperdagangkan manusia jelas bertentangan dengan prinsip kemanusiaan yang adil dan beradab.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_003",
+    "category": "TIU",
+    "subcategory": "Verbal",
+    "question": "padat : ruang :: lambat : ...",
+    "options": [
+      "Waktu",
+      "Kecepatan",
+      "Laju",
+      "Daya",
+      "Massa"
+    ],
+    "answer": "B",
+    "explanation": "padat berlawanan dengan ruang. lambat berlawanan dengan kecepatan.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_004",
+    "category": "TIU",
+    "subcategory": "Numerik",
+    "question": "Jika 4/5 dari suatu bilangan sama dengan 48, maka bilangan tersebut adalah...",
+    "options": [
+      "55",
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "answer": "C",
+    "explanation": "Misalkan bilangan = x. 4/5 × x = 48. Maka x = 48 × 5/4 = 60.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_005",
+    "category": "TKP",
+    "subcategory": "Integritas",
+    "question": "Anda menemukan bahwa ada teman kerja yang menerima hadiah dari vendor kantor secara diam-diam. Tindakan Anda yang paling tepat adalah...",
+    "options": [
+      "Melaporkan hal tersebut ke manajemen",
+      "Ikut menerima hadiah serupa agar tidak menjadi korban",
+      "Mengabaikan karena bukan masalah Anda",
+      "Meminta bagian dari hadiah tersebut",
+      "Membicarakan hal tersebut kepada semua rekan kerja"
+    ],
+    "answer": "A",
+    "explanation": "Integritas menuntut pelaporan pelanggaran etika melalui jalur yang benar.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_006",
+    "category": "TKP",
+    "subcategory": "Semangat Berprestasi",
+    "question": "Anda diberi tugas tambahan di luar tanggung jawab utama Anda. Sikap Anda sebaiknya...",
+    "options": [
+      "Menolak karena bukan tugas Anda",
+      "Menerima dengan positif dan mengerjakannya sebaiknya mungkin",
+      "Menerima tetapi mengerjakannya asal-asalan",
+      "Meminta reward terlebih dahulu",
+      "Menyuruh rekan kerja lain untuk mengerjakannya"
+    ],
+    "answer": "B",
+    "explanation": "Semangat berprestasi ditunjukkan dengan kesiapan menerima tantangan baru.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_007",
+    "category": "TWK",
+    "subcategory": "UUD 1945",
+    "question": "Pasal 27 UUD 1945 ayat 1 mengatur tentang...",
+    "options": [
+      "Hak warga negara dalam pertahanan negara",
+      "Hak warga negara untuk mendapat pendidikan",
+      "Setiap warga negara memiliki kedudukan yang sama dalam hukum dan pemerintahan",
+      "Hak warga negara dalam pekerjaan dan penghidupan yang layak",
+      "Kemerdekaan berserikat dan berkumpul"
+    ],
+    "answer": "C",
+    "explanation": "Pasal 27 ayat 1 UUD 1945 mengatur tentang persamaan kedudukan dalam hukum dan pemerintahan.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_008",
+    "category": "TWK",
+    "subcategory": "NKRI",
+    "question": "Wilayah Republik Indonesia sebagai negara kepulauan mencakup...",
+    "options": [
+      "Daratan dan perairan pedalaman saja",
+      "Seluruh daratan, laut teritorial, dan zona Ekonomi Eksklusif",
+      "Hanya pulau-pulau besar saja",
+      "Perairan pedalaman dan perairan kepulauan saja",
+      "Laut teritorial hingga 12 mil saja"
+    ],
+    "answer": "B",
+    "explanation": "Wilayah NKRI mencakup seluruh daratan, perairan, dan ZEE sampai 200 mil laut.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_009",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "question": "Perhatikan pola deret berikut. Tentukan gambar selanjutnya yang tepat.",
+    "options": [
+      "Pilihan A",
+      "Pilihan B",
+      "Pilihan C",
+      "Pilihan D",
+      "Pilihan E"
+    ],
+    "answer": "D",
+    "explanation": "Pola figurnya adalah rotasi 90 derajat searah jarum jam pada setiap langkah.",
+    "difficulty": "medium",
+    "isFigural": true,
+    "figuralData": "{\"type\":\"deret\",\"sequence\":[\"triangle_right\",\"triangle_down\",\"triangle_left\",\"triangle_right\",\"triangle_down\"],\"answerShapes\":\"triangle_left,diamond,circle,square,pentagon\",\"correctIndex\":3}"
+  },
+  {
+    "id": "full2_010",
+    "category": "TIU",
+    "subcategory": "Analogi",
+    "question": "guru : mengajarkan :: polisi : ...",
+    "options": [
+      "Menilang",
+      "Menegakkan",
+      "Mengatur",
+      "Menyelesaikan",
+      "Menangkap"
+    ],
+    "answer": "B",
+    "explanation": "Hubungan analogi: profesi dengan fungsinya. guru untuk mengajarkan, polisi untuk menegakkan hukum.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_011",
+    "category": "TKP",
+    "subcategory": "Orientasi Pelayanan",
+    "question": "Seorang warga datang dengan pertanyaan yang jawabannya tidak ada dalam SOP yang Anda miliki. Yang sebaiknya Anda lakukan adalah...",
+    "options": [
+      "Menyampaikan bahwa tidak ada dalam SOP",
+      "Berusaha mencari informasi dari berbagai sumber dan memberikan jawaban terbaik",
+      "Menyuruh warga mencari sendiri informasinya",
+      "Membuat jawaban asal-asalan",
+      "Menolak memberikan jawaban"
+    ],
+    "answer": "B",
+    "explanation": "Orientasi pelayanan yang baik mendorong petugas untuk aktif mencari solusi bagi warga.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_012",
+    "category": "TKP",
+    "subcategory": "Kemampuan Beradaptasi",
+    "question": "Kebijakan baru mengharuskan seluruh dokumen diarsipkan secara digital. Anda yang belum terbiasa dengan sistem digital akan...",
+    "options": [
+      "Menolak karena sudah terbiasa dengan cara lama",
+      "Mengikuti pelatihan dan berusaha menguasai sistem baru",
+      "Meminta bantuan rekan kerja terus-menerus",
+      "Menggunakan sistem digital hanya sebagian saja",
+      "Melaporkan ke atasan bahwa kebijakan ini tidak realistis"
+    ],
+    "answer": "B",
+    "explanation": "Mengikuti pelatihan dan aktif berusaha menguasai sistem baru menunjukkan keterbukaan dan tanggung jawab profesional.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_013",
+    "category": "TWK",
+    "subcategory": "Bhineka Tunggal Ika",
+    "question": " semboyan 'Bhinneka Tunggal Ika' terdapat pada lambang negara...",
+    "options": [
+      "Garis besar pemikiran negara",
+      "Gagasan pembangunan",
+      "Tali rapuh",
+      "Mata dewa",
+      "Padi dan kapas"
+    ],
+    "answer": "D",
+    "explanation": " semboyan 'Bhinneka Tunggal Ika' tertuang pada pita yang dicengkeram oleh mata Garuda.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_014",
+    "category": "TWK",
+    "subcategory": "Sejarah",
+    "question": "Peristiwa yang menjadi sejarah Indonesia pada 10 November 1945 adalah...",
+    "options": [
+      "Pertempuran di Ritter",
+      "Pertempuran di Bali",
+      "Pertempuran di Medan",
+      "Pertempuran di Karang",
+      "Pertempuran di Semua kota besar"
+    ],
+    "answer": "A",
+    "explanation": "Pertempuran di Ritter, Surabaya, pada 10 November 1945 diperingati sebagai Hari Pahlawan.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_015",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "question": "Premis 1: Semua mahasiswa wajib mengikuti ujian. Premis 2: Andi tidak wajib mengikuti ujian. Simpulan yang sah adalah...",
+    "options": [
+      "Andi bukan mahasiswa",
+      "Andi mahasiswa",
+      "Semua mahasiswa boleh tidak ujian",
+      "Andi mungkin bukan mahasiswa",
+      "Ujian tidak wajib"
+    ],
+    "answer": "A",
+    "explanation": "Dari premis maior Semua mahasiswa wajib ujian, yang tidak wajib ujian bukanlah mahasiswa.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_016",
+    "category": "TIU",
+    "subcategory": "Numerik",
+    "question": "Pak Hasan menjual barang dengan harga Rp450.000 setelah mendapat keuntungan 25%. Harga beli barang tersebut adalah...",
+    "options": [
+      "Rp337.500",
+      "Rp350.000",
+      "Rp360.000",
+      "Rp375.000",
+      "Rp400.000"
+    ],
+    "answer": "C",
+    "explanation": "Harga beli = 450.000 ÷ 1,25 = 360.000.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_017",
+    "category": "TKP",
+    "subcategory": "Pengendalian Diri",
+    "question": "Pada saat rapat, rekan kerja Anda menyela presentasi Anda secara tidak sopan. Reaksi terbaik Anda adalah...",
+    "options": [
+      "Membalas dengan menyela balik",
+      "Tetap tenang, menyelesaikan presentasi, dan membahas masalah secara tertutup setelah rapat",
+      "Melapor ke atasan agar rekan tersebut ditegur",
+      "Membatalkan presentasi",
+      "Mengabaikan sepenuhnya dan melanjutkan"
+    ],
+    "answer": "B",
+    "explanation": "Pengendalian diri menuntut kemampuan tetap tenang dan menyelesaikan masalah dengan pendekatan yang konstruktif.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_018",
+    "category": "TKP",
+    "subcategory": "Integritas",
+    "question": "Anda mengetahui bahwa laporan kerja yang Anda susun mengandung data yang kurang akurat. Tindakan terbaik Anda adalah...",
+    "options": [
+      "Menyampaikan perbaikan sebelum laporan digunakan",
+      "Menyembunyikan ketidakakuratan karena takut ditegur",
+      "Menyalahkan bagian lain atas ketidakakuratan data",
+      "Membiarkan laporan digunakan apa adanya",
+      "Membuang laporan yang tidak akurat"
+    ],
+    "answer": "A",
+    "explanation": "Integritas menuntut transparansi dan keberanian untuk mengakui kesalahan sebelum laporan digunakan.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_019",
+    "category": "TWK",
+    "subcategory": "Pancasila",
+    "question": "Perbedaan mendasar antara negara berdasarkan ideologi liberal dan negara berdasarkan Pancasila adalah...",
+    "options": [
+      "Liberal menggunakan sistem voting, Pancasila menggunakan musyawarah",
+      "Liberal tidak memiliki konstitusi tertulis",
+      "Pancasila tidak mengenal oposisi dalam pemerintahan",
+      "Liberal mengutamakan hak individu, Pancasila mengutamakan keseimbangan hak dan kewajiban",
+      "Pancasila hanya diterapkan di Indonesia saja"
+    ],
+    "answer": "D",
+    "explanation": "Ideologi liberal mengutamakan hak-hak individu secara absolut, sementara Pancasila mencari keseimbangan.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_020",
+    "category": "TWK",
+    "subcategory": "UUD 1945",
+    "question": "MPR sebagai lembaga tertinggi negara memiliki fungsi utama untuk...",
+    "options": [
+      "Menjalankan undang-undang sehari-hari",
+      "Mengatur pelaksanaan pemilu",
+      "Menetapkan GBHN dan memilih presiden/wakil presiden",
+      "Mengawasi kinerja pemerintah",
+      "Menyusun anggaran negara"
+    ],
+    "answer": "C",
+    "explanation": "MPR memiliki fungsi untuk menetapkan GBHN dan memilih presiden/wakil presiden.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_021",
+    "category": "TIU",
+    "subcategory": "Numerik",
+    "question": "Hitunglah hasil dari 15% dari 240 ditambah 25% dari 160 adalah...",
+    "options": [
+      "56",
+      "64",
+      "72",
+      "80",
+      "88"
+    ],
+    "answer": "B",
+    "explanation": "15% × 240 = 36. 25% × 160 = 40. 36 + 40 = 76.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_022",
+    "category": "TIU",
+    "subcategory": "Verbal",
+    "question": "Antonim dari kata terbatas adalah...",
+    "options": [
+      "Terbuka",
+      "Luas",
+      "Kecil",
+      "Sempit",
+      "Rapat"
+    ],
+    "answer": "B",
+    "explanation": "terbatas berarti memiliki cakupan yang sempit. Antonimnya adalah luas.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_023",
+    "category": "TKP",
+    "subcategory": "Semangat Berprestasi",
+    "question": "Anda telah menyelesaikan target bulanan lebih awal dari jadwal. Langkah Anda sebaiknya...",
+    "options": [
+      "Bekerja lebih santai karena target sudah tercapai",
+      "Mencari proyek tambahan atau meningkatkan kualitas hasil kerja yang sudah ada",
+      "Meminta reward sebelum melanjutkan kerja",
+      "Berhenti bekerja sampai periode berikutnya",
+      "Menyebarluaskan pencapaian ke semua orang"
+    ],
+    "answer": "B",
+    "explanation": "Semangat berprestasi tidak berhenti pada pencapaian target. Mencari cara untuk meningkatkan kualitas adalah bukti Orientasi pada keunggulan berkelanjutan.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_024",
+    "category": "TKP",
+    "subcategory": "Orientasi Pelayanan",
+    "question": "Seorang lansia datang dengan membawa dokumen yang hampir seluruhnya salah. Warga tersebut terlihat lelah dan bingung. Yang sebaiknya Anda lakukan adalah...",
+    "options": [
+      "Menolak karena dokumen salah",
+      "Membantu lansia memperbaiki dokumen dengan sabar dan menjelaskan dengan bahasa yang mudah dipahami",
+      "Menyuruh lansia meminta keluarga untuk membantu",
+      "Memarahi lansia karena tidak bisa mengisi formulir dengan benar",
+      "Menyuruh lansia pulang dan datang kembali dengan benar"
+    ],
+    "answer": "B",
+    "explanation": "Membantu lansia dengan sabar menunjukkan profesionalisme dan kepedulian terhadap kebutuhan warga rentan.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "full2_025",
+    "category": "TWK",
+    "subcategory": "NKRI",
+    "question": "Sistem pemerintahan Indonesia berdasarkan UUD 1945 hasil amandemen menganut sistem...",
+    "options": [
+      "Presidensial murni",
+      "Parliamenter",
+      "Presidensial dengan elemen",
+      "Demokrasi liberal",
+      "Oligarki"
+    ],
+    "answer": "C",
+    "explanation": "UUD 1945 hasil amandemen menganut sistem presidensial dengan beberapa elemen.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "full2_026",
+    "category": "TWK",
+    "subcategory": "Sejarah",
+    "question": "Piagam Jakarta yang Declaration kemerdekaan 17 Agustus 1945 berisi rumusan Pancasila dengan jumlah sila...",
+    "options": [
+      "4 sila",
+      "5 sila",
+      "6 sila",
+      "7 sila",
+      "8 sila"
+    ],
+    "answer": "A",
+    "explanation": "Piagam Jakarta berisi rumusan dasar negara dengan 4 sila, kemudian diubah menjadi 5 sila pada 18 Agustus 1945.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "full2_027",
+    "category": "TIU",
+    "subcategory": "Numerik",
+    "question": "Jika x : y = 3 : 7 dan x + y = 50, maka nilai x adalah...",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21",
+      "24"
+    ],
+    "answer": "B",
+    "explanation": "x = 3k, y = 7k. x + y = 10k = 50. Jadi k = 5. x = 15.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_028",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "question": "Perhatikan matriks berikut. Tentukan gambar yang tepat untuk mengisi kotak tanda tanya.",
+    "options": [
+      "Pilihan A",
+      "Pilihan B",
+      "Pilihan C",
+      "Pilihan D",
+      "Pilihan E"
+    ],
+    "answer": "A",
+    "explanation": "Matriks memiliki pola: setiap baris memiliki jumlah sisi tertentu. Kotak tanda tanya harus melengkapi pola.",
+    "difficulty": "hard",
+    "isFigural": true,
+    "figuralData": "{\"type\":\"matriks\",\"sequence\":[],\"gridData\":[[\"triangle\",\"square\",\"pentagon\"],[\"diamond\",\"triangle\",\"hexagon\"],[\"pentagon\",\"hexagon\",\"?\"]],\"answerShapes\":\"none,diamond,circle,square,triangle\",\"correctIndex\":0}"
+  },
+  {
+    "id": "full2_029",
+    "category": "TKP",
+    "subcategory": "Kemampuan Beradaptasi",
+    "question": "Tim Anda memiliki metode kerja yang sudah diterapkan selama bertahun-tahun. Manajer baru memperkenalkan metode yang berbeda. Sikap Anda sebaiknya...",
+    "options": [
+      "Menolak metode baru dan mempertahankan metode lama",
+      "Membandingkan kedua metode secara objektif dan memilih yang paling efektif",
+      "Ikut metode baru tanpa pertimbangan",
+      "Bekerja dengan metode baru tetapi asal-asalan",
+      "Meminta pindah ke tim lain"
+    ],
+    "answer": "B",
+    "explanation": "Membandingkan metode secara rasional dan memilih yang terbaik menunjukkan keterbukaan terhadap inovasi.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "full2_030",
+    "category": "TKP",
+    "subcategory": "Pengendalian Diri",
+    "question": "Anda sudah bekerja sepanjang malam untuk menyelesaikan tugas urgent. Keesokan paginya Anda merasa sangat mengantuk. Namun rapat penting akan segera dimulai. Yang sebaiknya Anda lakukan adalah...",
+    "options": [
+      "Tidak mengikuti rapat karena terlalu lelah",
+      "Tetap mengikuti rapat dengan menjaga konsentrasi dan menyelesaikan tugas dengan baik",
+      "Menyalahkan atasan yang memberikan tugas hingga malam",
+      "Menyuruh rekan lain untuk menggantikan di rapat",
+      "Ikut rapat tetapi tertidur di sana"
+    ],
+    "answer": "B",
+    "explanation": "Pengendalian diri menuntut kemampuan menyelesaikan tanggung jawab profesional meskipun dalam kondisi tidak ideal.",
+    "difficulty": "easy"
+  }
+]

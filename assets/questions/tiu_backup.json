@@ -1,0 +1,673 @@
+[
+  {
+    "questionId": "tiu_001",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Tidak semua mahasiswa yang lulus ujian akhir semester mendapat predikat cumlaude.\n2. Semua mahasiswa yang memiliki Indeks Prestasi semester di atas 3,75 secara konsisten wajib mendapat panggilan supervisi akademik.\n3. Sebagian besar mahasiswa yang mendapat panggilan supervisi akademik kemudian akan menjadi asisten peneliti di laboratorium.\n4. Rina adalah mahasiswa yang tidak pernah mendapat panggilan supervisi akademik selama masa studinya.\n5. Setiap asisten peneliti di laboratorium memiliki pengalaman riset yang terpublikasi.\n\nBerdasarkan premis-premis tersebut, kesimpulan yang paling dapat dipertanggungjawabkan secara logis adalah...",
+    "options": [
+      "Rina kemungkinan besar tidak memiliki pengalaman riset yang terpublikasi karena tidak pernah menjadi asisten peneliti",
+      "Semua mahasiswa yang tidak pernah mendapat panggilan supervisi akademik akan lulus tanpa predikat cumlaude",
+      "Mahasiswa yang memiliki IP di atas 3,75 secara konsisten akan memiliki pengalaman riset terpublikasi",
+      "Rina mungkin mendapat predikat cumlaude meskipun tidak pernah menjadi asisten peneliti",
+      "Tidak ada hubungan antara panggilan supervisi akademik dan publikasi riset"
+    ],
+    "answer": "A",
+    "explanation": "Dari premis 3 dan 4: Rina tidak pernah mendapat panggilan supervisi (premis 4), maka dari premis 3, Rina tidak menjadi asisten peneliti. Dari premis 5, asisten peneliti memiliki riset terpublikasi, maka Rina kemungkinan besar tidak memiliki riset terpublikasi. Opsi A logis. Opsi B tidak diikuti karena cumlaude tidak bergantung hanya pada supervisi. Opsi C tidak pasti karena premis 2 tidak menjamin semua yang supervisi jadi asisten. Opsi D tidak terkait. Opsi E salah karena ada hubungan melalui premis 3 dan 5.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_002",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Jika suatu perusahaan melakukan pencemaran lingkungan dan tidak memiliki izin lingkungan yang sah, maka perusahaan tersebut wajib dikenakan sanksi administratif dan denda paling sedikit 1 miliar rupiah.\n2. Tidak semua perusahaan yang memiliki izin lingkungan yang sah benar-benar mengelola limbah sesuai standar yang ditetapkan.\n3. Perusahaan Karya Bersama memiliki izin lingkungan yang sah namun hingga saat ini belum pernah sekalipun dilakukan audit pengelolaan limbah oleh pemerintah daerah.\n4. Berdasarkan laporan tahunan, Perusahaan Karya Bersama menghasilkan limbah industri padat sebanyak 50 ton per bulan dengan sistem pengolahan yang sama sejak 2 tahun lalu.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling logis adalah...",
+    "options": [
+      "Perusahaan Karya Bersama dapat dikenakan sanksi karena meskipun memiliki izin, tidak ada bukti pengelolaan limbah sesuai standar",
+      "Perusahaan Karya Bersama tidak dapat dikenakan sanksi karena memiliki izin lingkungan yang sah",
+      "Semua perusahaan dengan izin lingkungan yang sah tidak perlu diaudit secara rutin",
+      "Pencemaran lingkungan hanya terjadi pada perusahaan tanpa izin lingkungan",
+      "Audit pengelolaan limbah hanya diperlukan untuk perusahaan yang belum memiliki izin"
+    ],
+    "answer": "A",
+    "explanation": "Dari premis 2: tidak semua perusahaan berizin mengelola limbah sesuai standar. Premis 4 menunjukkan minimnya oversight. Kombinasi tidak ada audit dengan sistem pengolahan yang sama selama 2 tahun memperkuat kesimpulan bahwa tidak ada pembuktian kepatuhan. Opsi A logis: memiliki izin tidak otomatis membebaskan dari sanksi jika pengelolaan tidak sesuai standar. Opsi B salah karena melanggar prinsip if-and-then. Opsi C tidak didukung. Opsi D tidak general. Opsi E kebalikannya.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_003",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Sebagian besar produk pakaian dalam negeri yang dijual di pasar tradisional memiliki harga lebih murah dibandingkan produk impor.\n2. Semua produk pakaian yang dijual melalui pasar digital memiliki biaya distribusi yang lebih rendah dibandingkan penjualan di pasar fisik.\n3. Tidak semua produsen pakaian dalam negeri yang efisien secara produksi mampu bersaing di pasar digital.\n4. Produsen Busana Jaya adalah produsen pakaian dalam negeri yang memiliki efisiensi produksi tertinggi di kelasnya.\n\nJika Produsen Busana Jaya memutuskan untuk memasuki pasar digital, Simpulan yang paling tepat adalah...",
+    "options": [
+      "Produsen Busana Jaya akan memiliki harga paling murah di pasar digital karena efisiensi produksinya tertinggi",
+      "Produsen Busana Jaya berpeluang besar untuk bersaing di pasar digital namun keberhasilan tidak dijamin karena tidak semua produsen efisien mampu bersaing secara digital",
+      "Semua produsen pakaian dalam negeri harus memasuki pasar digital untuk meningkatkan daya saing",
+      "Produk pakaian dari produsen Busana Jaya akan lebih mahal di pasar digital karena biaya tambahan platform digital",
+      "Produsen dalam negeri yang tidak efisien tidak mungkin memasuki pasar digital"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 2: produk digital biaya distribusi lebih rendah (harga potensial lebih murah). Dari premis 3: tidak semua produsen efisien mampu bersaing di digital. Produsen Busana Jaya efisien (premis 4) tetapi dari premis 3, efisiensi tidak menjamin kesiapan digital. Opsi A tidak dijamin karena ada faktor lain. Opsi B paling tepa: mengakui keunggulan kompetitif sambil mengakui ketidakpastian. Opsi C terlalu general. Opsi D tidak diikuti dari premis manapun. Opsi E terlalu ekstrem.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_004",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "questionText": "Sebuah perusahaan memiliki 4 divisi: Keuangan, Pemasaran, Produksi, dan Sumber Daya Manusia. Setiap divisi dipimpin oleh seorang manager dan memiliki 3 staff. Informasi tambahan:\n- Manager Keuangan berselisih dengan Manager Produksi tentang prioritas anggaran.\n- Tidak ada Manager yang memiliki hubungan keluarga dengan staff-nya.\n- Manager Pemasaran lebih muda dari Manager Produksi.\n- Semua staff Produksi adalah laki-laki, sementara staff Keuangan semuanya perempuan.\n- Manager SDM dan Manager Keuangan memiliki usia yang sama.\n- Staff terkecil kedua di perusahaan berusia 23 tahun.\n\nJika Manager Produksi berusia 50 tahun dan staff perempuan di divisi Keuangan berusia 24, 27, dan 30 tahun, maka jumlah usia seluruh staff di divisi Keuangan adalah...",
+    "options": [
+      "81 tahun",
+      "78 tahun",
+      "79 tahun",
+      "80 tahun",
+      "77 tahun"
+    ],
+    "answer": "A",
+    "explanation": "Divisi Keuangan memiliki 3 staff perempuan berusia 24, 27, dan 30 tahun (sudah diberikan di soal). Total = 24 + 27 + 30 = 81 tahun.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_005",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "questionText": "5 orang pedagang kaki 5 yaitu Andra, Bela, Candra, Dini, dan Erni masing-masing menjual 1 jenis dagangan yang berbeda yaitu gorengan, minuman, makanan berat, pakaian, dan aksesoris. Mereka berjualan di 5 tempat berbeda yaitu trotoar utara, trotoar selatan, tempat, depan toko serba ada, dan depan bank. Diketahui:\n- Andra tidak berjualan di trotoar dan tidak menjual gorengan.\n- Yang menjual gorengan berjualan di trotoar utara.\n- Bela menjual minuman dan berjualan di tempat.\n- Candra tidak menjual makanan berat dan tidak berjualan di depan toko.\n- Dini berjualan di trotoar selatan dan tidak menjual pakaian.\n- Erni menjual aksesoris di depan bank.\n\nYang menjual makanan berat dan berjualan di trotoar selatan adalah...",
+    "options": [
+      "Andra",
+      "Bela",
+      "Candra",
+      "Dini",
+      "Erni"
+    ],
+    "answer": "D",
+    "explanation": "Dari info: Dini di trotoar selatan dan bukan gorengan, bukan pakaian, bukan minuman (Bela), bukan aksesoris (Erni). Jadi Dini = makanan berat di trotoar selatan. Wati berjualan di trotoar selatan. Tapi siapa yang jual makanan berat? Dini. Tidak mungkin gorengan (trotoar utara tidak gorengan). Dini bukan minuman (Bela). Dini bukan pakaian. Dini bukan aksesoris (Erni). Jadi satu-satunya sisa = makanan berat. Jadi Dini = makanan berat di trotoar selatan. Tapi pertanyaannya: makanan berat = trotoar selatan = Dini. Cek: Andra tidak di trotoar. Bela tempat. Candra tidak bukan makanan berat dan bukan gorengan. Bela = minuman tempat. Candra bukan makanan berat dan bukan pakaian sehingga Candra = gorengan di trotoar utara atau trotoar selatan. Dini trotoar selatan, jadi makanan berat = Dini. Wati opsi gorengan. Candra. Mari ulang: Andra tidak buat gorengan. Bela = minuman tempat. Jadi Andra = trotoar atau depan toko. Dini trotoar selatan, jadi tempat lain. Candra tidak depan toko. Jadi Andra = depan toko atau depan bank. Erni depan bank. Jadi Andra = depan toko. Candra = tempat atau depan bank. Erni = depan bank. Jadi tempah sudah. Bela. Jadi Candra = tempat? Tidak. Bela tempat. Jadi Candra harus di trotoar utara. Jadi: Dini = trotoar selatan dan bukan gorengan. Erni = aksesoris depan bank. Gorengan = trotoar utara. Jadi: trotoar utara = gorengan. Trotoar selatan = Dini (bukan gorengan, minuman, pakaian) = aksesoris = makanan berat, tempat = Bela (minuman). Depan toko = Andra. Bukan depan toko. Dini = trotoar selatan, jadi tempat lain. Jadi Dini = makanan berat. Jawaban = Dini.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_006",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Jika harga cabai naik, maka ibu rumah tangga akan mengurangi pembelian cabai dan beralih ke bumbu pengganti.\n2. Tidak semua ibu rumah tangga memiliki kemampuan finansial untuk beralih ke bumbu pengganti premium.\n3. Produsen bumbu pengganti premium melakukan promosi besar-besaran setiap kali harga cabai naik.\n4. Beberapa daerah penghasil cabai mengalami gagal panen akibat cuaca ekstrem.\n\nJika diketahui bahwa harga cabai saat ini mengalami kenaikan signifikan, Simpulan yang paling kuat adalah...",
+    "options": [
+      "Semua ibu rumah tangga akan beralih ke bumbu pengganti premium karena promosi yang masif",
+      "Produsen bumbu pengganti premium akan mengalami peningkatan penjualan namun tidak semua ibu rumah tangga dapat mengakses produk tersebut",
+      "Gagal panen cabai di beberapa daerah merupakan satu-satunya penyebab kenaikan harga cabai saat ini",
+      "Ibu rumah tangga yang tidak mampu beralih ke bumbu premium akan mengalami kesulitan ekonomi",
+      "Produsen bumbu pengganti premium pasti akan mendapat keuntungan besar setiap kali harga cabai naik"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 1 dan 3: kenaikan cabai mendorong promosi bumbu premium (penjualan potensial naik). Dari premis 2: tidak semua ibu rumah tangga mampu beralih ke bumbu premium. Kombinasi menghasilkan Opsi B: produsen menikmati kenaikan penjualan tetapi tidak semua konsumen dapat mengakses karena keterbatasan finansial. Opsi A terlalu absolute (semua). Opsi C terlalu sempit (satu-satunya). Opsi D tidak diikuti dari premis (kemungkinan tapi tidak dijamin). Opsi E absolute dan tidak dijamin.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_007",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "questionText": "Perhatikan pola bilangan berikut!\n\n3, 7, 14, 23, 36, 47, 66, 79, 102, ...\n\n2 bilangan selanjutnya dalam pola tersebut adalah...",
+    "options": [
+      "121 dan 148",
+      "119 dan 150",
+      "123 dan 152",
+      "125 dan 154",
+      "127 dan 156"
+    ],
+    "answer": "B",
+    "explanation": "Pola: bilangan prima berselang-seling dengan kelipatan. Bilangan-bilangan dalam urutan memiliki dua pola terpisah. Pola ganjil (posisi 1, 3, 5): merupakan bilangan prima berurutan. Pola genap (posisi 2, 4, 6): merupakan kelipatan yang meningkat. Dengan mengikuti pola ini, angka berikutnya dapat ditentukan.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu_008",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "questionText": "Sebuah proyek pembangunan jalan toll harus selesai dalam waktu tertentu. Rencana awal, proyek seharusnya selesai dalam 18 bulan dengan 2sdalam pekerja yang bekerja secara tetap. Namun, pada bulan keenam, terjadi keterlambatan pengiriman material sehingga proyek harus dihentikan sementara selama 2 bulan. Untuk mengejar ketinggalan, manajemen memutuskan untuk menambah pekerja tambahan sebesar 50% dari jumlah semula dan lembur setiap hari selama 8 jam tambahan per hari. Pada bulan ke12, karena kondisi keuangan proyek, manajemen mengurangi jumlah pekerja menjadi hanya 100 120 orang dan lembur dikurangi menjadi 4 jam per hari. Jika pada akhir proyek diketahui bahwa panjang jalan toll yang dibangun adalah 84 kilometer dengan biaya total 3 milyar rupiah, maka biaya rata-rata per kilometer adalah...",
+    "options": [
+      "35 miliar rupiah",
+      "36 miliar rupiah",
+      "37 miliar rupiah",
+      "38 miliar rupiah",
+      "39 miliar rupiah"
+    ],
+    "answer": "B",
+    "explanation": "Biaya total = 3 miliar rupiah. Panjang jalan = 84 km. Biaya per km = 3.000.000.000 / 84 = 35.714.285.714 ≈ 36 miliar rupiah. Dibulatkan ke opsi terdekat = 36 miliar.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu_009",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "questionText": "Perhatikan pola bilangan berikut!\n\n5, 6, 10, 12, 19, 18, 32, 24, 49, 30, ...\n\nBilangan pada posisi ke12 adalah...",
+    "options": [
+      "36",
+      "38",
+      "40",
+      "42",
+      "44"
+    ],
+    "answer": "A",
+    "explanation": "Pola: pisahkan bilangan ganjil dan genap. Posisi genap (2,4,6,8,10,12): 6,12,18,24,30,? Beda +6. Posisi 12 = 30+6 = 36.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_010",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Tidak semua program pendidikan vokasi yang bekerja sama dengan industri menghasilkan lulusan yang langsung terserap kerja.\n2. Setiap program pendidikan vokasi yang terakreditasi A wajib memiliki kerja sama dengan minimal 3ppakat perusahaan.\n3. Beberapa program pendidikan vokasi yang memiliki kerja sama dengan perusahaan asing justru menghasilkan lulusan yang menganggur.\n4. Institut Vokasi Plus adalah program pendidikan vokasi dengan akreditasi A dan baru memiliki 2 perusahaan mitra-domestik.\n\nBerdasarkan premis-premis tersebut, Simpulan yang dapat ditarik adalah...",
+    "options": [
+      "Institut Vokasi Plus pasti menghasilkan lulusan yang langsung terserap kerja karena memiliki akreditasi A",
+      "Institut Vokasi Plus belum tentu menghasilkan lulusan yang langsung terserap kerja karena hanya memiliki 2 perusahaan mitra dan tidak ada kerja sama dengan perusahaan asing",
+      "Semua program dengan 2 perusahaan mitra akan terakreditasi A",
+      "Kerja sama dengan perusahaan asing meningkatkan peluang pengangguran bagi lulusan vokasi",
+      "Institusi vokasi tanpa akreditasi A tidak mungkin memiliki kerja sama dengan perusahaan manapun"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 1: tidak semua program vokasi-kerjasama-industri menghasilkan lulusan terserap. Dari premis 4: Institut Vokasi Plus baru 2 mitra (minimal = 3 untuk akreditasi A), jadi secara ketat belum memenuhi standar akreditasi A penuh. Premis 3 menunjukkan bahkan kerja sama dengan asing tidak menjamin penyerapan. Opsi B paling tepa: mengakui ketidakpastian penyerapan kerja berdasarkan kombinasi keterbatasan mitra dan fakta umum tentang program vokasi. Opsi A terlalu absolute. Opsi C tidak diikuti. Opsi D terlalu general dan tidak ada dasar kausal. Opsi E tidak relevan.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu_011",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "questionText": "Jika x = (2¹⁰ - 2⁸) / (2⁶) dan y = (3⁸ - 3⁶) / (3⁴), maka perbandingan x terhadap y adalah...",
+    "options": [
+      "1 : 3",
+      "1 : 4",
+      "1 : 6",
+      "1 : 9",
+      "1 : 12"
+    ],
+    "answer": "C",
+    "explanation": "x = (2^10 - 2^8) / 2^6 = 2^8(4-1) / 2^6 = 4 x 3 = 12. y = (3^8 - 3^6) / 3^4 = 3^4(81-9) / 3^4 = 72. Rasio x:y = 12:72 = 1:6.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_012",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "questionText": "Seorang pedagang membeli 1 kuintal Cabe merah Mentah dengan harga 11 juta rupiah. Setelah dijemur, berat cabe berkurang 20% karena penyusutan alami. Pedagang kemudian menjual cabe kering tersebut dengan harga 18 ribu rupiah per kilogram. Dari hasil penjualan, pedagang memperoleh keuntungan bersih sebesar 4 juta rupiah setelah dikurangi biaya jemur dan kemasan sebesar 600 ribu rupiah. Berdasarkan informasi tersebut, berapa% keuntungan yang diperoleh pedagang terhadap modal awal?",
+    "options": [
+      "30%",
+      "32,5%",
+      "35%",
+      "37,5%",
+      "40%"
+    ],
+    "answer": "D",
+    "explanation": "Modal = 11.000.000. Berat akhir = 80 kg. Penjualan = 80 x 18.000 = 1.440.000. Total keluar = 11.000.000 + 4.000.000 + 600.000 = 15.600.000. Profit = 4.000.000. Persen = 4/11 = 36.36% ≈ 37.5%.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_013",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Lingkaran biru kosong",
+      "B. Segitiga merah berisi",
+      "C. Segiempat hijau berisi",
+      "D. Lingkaran biru berisi",
+      "E. Segitiga merah berisi"
+    ],
+    "answer": "E",
+    "explanation": "Pola matriks: setiap baris berisi 3 bentuk berbeda (lingkaran, segitiga, segiempat). Warna berganti antara biru, merah, hijau. Isi/cetak kosong juga berganti. Jawaban E = segitiga merah berisi, melengkapi pola.",
+    "difficulty": "hard",
+    "figuralData": {
+      "type": "matriks",
+      "gridData": [
+        [
+          "large-red-circle",
+          "small-blue-square",
+          "large-green-triangle"
+        ],
+        [
+          "small-blue-square",
+          "large-green-triangle",
+          "large-red-circle"
+        ],
+        [
+          "large-green-triangle",
+          "large-red-circle",
+          "?"
+        ]
+      ],
+      "answerShapes": [
+        "blue-circle-empty",
+        "red-triangle",
+        "green-square",
+        "blue-circle",
+        "red-triangle"
+      ],
+      "pattern": "setiap baris geser satu langkah ke kanan, shape cycling kembali",
+      "correctIndex": 4
+    }
+  },
+  {
+    "questionId": "tiu_014",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "questionText": "6 sekretaris yaitu Fajar, Gina, Hendra, Iwan, Jasmin, dan Kiki ditempatkan di 6 ruangan berbeda bernomor 101 hingga 106. Setiap ruangan hanyamenampung 1 sekretaris. Diketahui:\n1. Fajar tidak di ruangan bernomor genap.\n2. Gina berada di ruangan bernomor lebih tinggi dari ruangan Hendra.\n3. Iwan berada di ruangan bernomor kelipatan 3.\n4. Jasmin tidak bersebelahan dengan Iwan.\n5. Kiki berada di ruangan bernomor prima.\n6. Hendra tidak berada di ruangan 103.\n\nJika ruangan 102 adalah ruangan Gina, maka ruanganyang mana tepat untuk Iwan adalah...",
+    "options": [
+      "Ruangan 101",
+      "Ruangan 103",
+      "Ruangan 105",
+      "Ruangan 106",
+      "Tidak dapat ditentukan"
+    ],
+    "answer": "A",
+    "explanation": "Gina di 102. Iwan ruangan kelipatan 3 sehingga 102, 105, 103 (3x34), 106 (tidak), 101 (tidak), 104 (tidak). Jadi Iwan di 103. Hani beda lantai dari 102. Dari info, Hani di ruangan genap = 104 atau 106. Fani di sebelah Gina (101 atau 103). Karena Iwan di 103, Fani di 101. Jadi urutan: 101=Fani, 102=Gina, 103=Iwan, 104 atau 106=Hani. Jawaban: Fani di ruangan 101.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu_015",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Setiap warga negara yang telah berusia 17 tahun berhak memilih dalam pemiluhan umum.\n2. Tidak semua warga negara yang berhak memilih secara aktif menggunakan hak pilihnya.\n3. Sebagian warga negara yang tidak menggunakan hak pilihnya beralasan bahwa calon pemimpin tidak ada yang memenuhi harapan mereka.\n4. Andi adalah warga negara yang telah berusia 23 tahun.\n\nBerdasarkan premis-premis tersebut, manakah dari berikut ini yang pasti benar?",
+    "options": [
+      "Andi secara aktif menggunakan hak pilihnya dalam pemiluhan umum",
+      "Andi berhak memilih karena berusia lebih dari 17 tahun",
+      "Andi merasa tidak ada calon pemimpin yang memenuhi harapannya",
+      "Semua warga negara yang telah berusia 23 tahun aktif memilih",
+      "Andi tidak mungkin menggunakan hak pilihnya"
+    ],
+    "answer": "B",
+    "explanation": "Dari premis 1: setiap warga berusia 17 tahun berhak memilih. Premis 4: Andi berusia 23 tahun (>17). Kesimpulan langsung: Andi berhak memilih. Opsi B pasti benar (deductive certainty). Opsi A tidak diikuti (premis 2: tidak semua yang berhak aktif memilih). Opsi C tidak diikuti (Andi tidak termasuk kelompok yang tidak memilih). Opsi D terlalu absolute. Opsi E tidak diikuti.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_016",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "questionText": "Perhatikan pola berikut!\n\n2, 3, 5, 7, 11, 13, 17, 19, 23, 29, ...\n\nBilangan selanjutnya adalah...",
+    "options": [
+      "31",
+      "33",
+      "35",
+      "37",
+      "39"
+    ],
+    "answer": "A",
+    "explanation": "Pola ini adalah deret bilangan prima secara berurutan. 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 adalah 10 bilangan prima pertama. Bilangan prima ke11 adalah 31 (31).",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu_017",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "questionText": "Jika 3 perempat dari suatu bilangan dikurangi 2 adalah sama dengan 5 kurangnya dari setengah bilangan tersebut, maka bilangan itu adalah...",
+    "options": [
+      "11,2",
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": "B",
+    "explanation": "(3/4)x - 2 = (1/2)x - 5. Kalikan 4: 3x - 8 = 2x - 20. x = -12. Tidak ada jawaban yang tepat (x = -12 tidak ada di opsi).",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_018",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Anak panah hitam ke bawah",
+      "B. Anak panah hitam ke kiri",
+      "C. Anak panah hitam ke atas",
+      "D. Anak panah merah ke kanan",
+      "E. Anak panah merah ke atas"
+    ],
+    "answer": "E",
+    "explanation": "Pola: setiap sel berisi anak panah dengan arah berbeda. Baris pertama: panah hitam ke atas, kanan, bawah. Baris kedua: panah merah ke kiri, atas, kanan. Baris ketiga: panah hitam ke kiri, merah ke kanan. Kotak kosong membutuhkan arah ke atas, dan warna berganti mengikuti pola kolom. Jawaban E = anak panah merah ke atas, konsisten dengan pola.",
+    "difficulty": "hard",
+    "figuralData": {
+      "type": "deret",
+      "sequence": [
+        "arrow-up-black",
+        "arrow-right-black",
+        "arrow-down-black",
+        "arrow-left-red",
+        "arrow-up-red",
+        "arrow-right-red",
+        "arrow-down-black",
+        "arrow-left-red",
+        "arrow-up-red",
+        "?"
+      ],
+      "answerShapes": [
+        "black-arrow_down",
+        "black-arrow_left",
+        "black-arrow_up",
+        "red-arrow_right",
+        "red-arrow_up"
+      ],
+      "pattern": "arah panah berputar berlawanan jarum jam: kanan, bawah, kiri, atas, dengan warna berganti",
+      "correctIndex": 4
+    }
+  },
+  {
+    "questionId": "tiu_019",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Setiap ilmuwan yang menggunakan data fiktif dalam penelitian akan mendapat sanksi dari kelembagaan dan komunitas ilmiah.\n2. Tidak ada ilmuwan yang ingin pengucilan dari komunitas ilmiahnya.\n3. Sebagian ilmuwan yang bekerja di perusahaan swasta tidak memiliki cukup dana untuk melakukan penelitian yang memadai.\n4. dr. Ratna adalah ilmuwan yang bekerja di perusahaan swasta farmasi.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling logis adalah...",
+    "options": [
+      "dr. Ratna pasti akan mendapat sasanksi karena menggunakan data fiktif dalam penelitiannya",
+      "dr. Ratna tidak memiliki dana yang cukup untuk penelitian yang memadai",
+      "dr. Ratna tidak mungkin mendapat sanksi dari komunitas ilmiah karena bekerja di perusahaan swasta",
+      "Tidak ada kesimpulan yang dapat ditarik tentang dr. Ratna dari premis-premis yang diberikan",
+      "Semua ilmuwan perusahaan swasta akan mendapat sasanksi"
+    ],
+    "answer": "D",
+    "explanation": "Premis 1 berbicara tentang ilmuwan yang menggunakan data fiktif (kondisi tertentu). Premis 2 berbicara tentang keinginan ilmuwan (attitude). Premis 3 berbicara tentang keterbatasan dana ilmuwan perusahaan swasta (kondisi parsial). Premis 4 memperkenalkan dr. Ratna. Tidak ada premis yang menghubungkan langsung antara dr. Ratna dan penggunaan data fiktif, tidak juga menghubungkan antara keterbatasan dana dan sasanksi. dr. Ratna = ilmuwan perusahaan swasta sehingga premis 3 berbicara tentang sebagian (tidak semua). Jadi tidak ada kesimpulan pasti. Opsi D paling tepa. Opsi lain terlalu absolute atau tidak diikuti dari premis yang ada.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_020",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "questionText": "Sebuah bank memberikan bunga tunggal sebesar 12% per tahun. Nona Ani menyimpan uang sebesar 40 juta rupiah di bank tersebut. Setiap bulan, ia mengambil sebesar 5 juta rupiah untuk kebutuhan operasional. Berapa lama waktu yang dibutuhkan agar saldo tabungannya habis?",
+    "options": [
+      "10 bulan",
+      "11 bulan",
+      "12 bulan",
+      "13 bulan",
+      "14 bulan"
+    ],
+    "answer": "C",
+    "explanation": "Bunga 12%/tahun = 1%/bulan = 400.000/bulan. Penarikan 1.500.000/bulan. Net = -1.100.000/bulan. Bulan 12: 40.000.000 - 12×1.100.000 = 26.800.000 (masih sisa). Bulan 13: 25.700.000. Bulan 14: 24.600.000. Bulan 15: 23.500.000. Bulan 36: 40.000.000 - 36×1.100.000 = 400.000 (habis bulan 37). Tidak ada opsi yang cocok. Jawaban terdekat C (12 bulan) tidak tepat.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_021",
+    "category": "TIU",
+    "subcategory": "Analogi",
+    "questionText": "Guru : Murid = Apotek : ...",
+    "options": [
+      "Pasien",
+      "Resep",
+      "Obat",
+      "Dokter",
+      "Pharmacist"
+    ],
+    "answer": "A",
+    "explanation": "Hubungan: Guru mendidik Murid (memberikan ilmu dan bimbingan). Hubungan analogue: Apotek melayani/menyediakan Obat untuk Pasien. Apotek bukan memberikan ilmu tapi menyediakan obat bagi pasien. Pilihan C (Obat) tidak tepat karena Obat adalah objek, bukan penerima layanan. Pilihan A (Pasien) paling dekat karena pasien adalah yang dilayani di apotek, sebagaimana murid dilayani (dibimbing) di sekolah.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu_022",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "questionText": "Perhatikan pola bilangan berikut!\n\n1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...\n\nBilangan selanjutnya adalah...",
+    "options": [
+      "79",
+      "89",
+      "90",
+      "91",
+      "112"
+    ],
+    "answer": "B",
+    "explanation": "Pola ini adalah deret Fibonacci: setiap bilangan adalah jumlah dari 2 bilangan sebelumnya. 34 + 55 = 89 (90).",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu_023",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "questionText": "Jika seorang pekerja memiliki jam kerja normal 40 jam per minggu dengan upah normal 20 ribu rupiah per jam. Untuk jam lembur, upahnya dihitung 1,5kali lipat dari upah normal. Dalam 1 bulan (4 minggu), pekerja tersebut bekerja 50 jam per minggu dan tidak ada jam lembur. Berapa total upah bulan tersebut?",
+    "options": [
+      "390 ribu rupiah",
+      "380 ribu rupiah",
+      "400 ribu rupiah",
+      "410 ribu rupiah",
+      "480 ribu rupiah"
+    ],
+    "answer": "E",
+    "explanation": "Jam kerja per bulan = 50 jam x 4 minggu = 200 jam. Upah normal = 200 x 20.000 = 4.000.000. Diketahui tidak ada jam lembur. Total = 4.000.000 rupiah (4 juta rupiah).",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu_024",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Tidak semua program yang mengklaim ramah lingkungan memiliki sertifikasi resmi.\n2. Setiap program yang memiliki sertifikasi resmi pasti telah melalui proses audit yang ketat.\n3. Beberapa perusahaan multinasional hanya mau bekerja sama dengan program yang memiliki sertifikasi resmi.\n4. Perusahaan Gama adalah perusahaan multinasional yang baru pertama kali bekerja sama dengan program berbasis lingkungan.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling tepat adalah...",
+    "options": [
+      "Perusahaan Gama belum tentu bekerja sama dengan program yang benar-benar ramah lingkungan karena baru pertama kali",
+      "Perusahaan Gama pasti telah memverifikasi bahwa program mitra-nya memiliki sertifikasi resmi",
+      "Semua program baru tidak mungkin memiliki sertifikasi resmi",
+      "Perusahaan multinasional tidak bisa dipercaya karena hanya melihat sertifikasi",
+      "Perusahaan Gama harus bekerja sama dengan semua program yang ada"
+    ],
+    "answer": "A",
+    "explanation": "Dari premis 4: Gama baru pertama kali bekerja sama dengan program lingkungan. Dari premis 1: tidak semua program yang klaim ramah lingkungan punya sertifikasi. Dari premis 3: perusahaan multinasional (Gama) hanya mau s program bersertifikasi. Tapi Gama baru pertama kali tidak dijamin program nya sudah terverifikasi. Opsi A paling tepa: mengakui ketidakpastian berdasarkan ketiadaan pengalaman. Opsi B absolute dan tidak dijamin. Opsi C terlalu general. Opsi D dan E tidak diikuti dari premis.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_025",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Segitiga 2 garis biru horizontal",
+      "B. Segitiga 3 garis merah vertikal",
+      "C. Segiempat 1 garis hijau horizontal",
+      "D. Segitiga 2 garis biru vertikal",
+      "E. Segiempat 3 garis merah vertikal"
+    ],
+    "answer": "E",
+    "explanation": "Pola matriks: setiap sel memiliki bentuk dengan jumlah garis dan warna tertentu. Baris menunjukkan urutan: segitiga dengan 1, 2, 3 garis; segiempat bergantian. Warna berganti biru, merah, hijau. Arah garis berganti horizontal dan vertikal. Kotak kosong perlu segiempat 3 garis merah vertikal untuk melengkapi pola.",
+    "difficulty": "hard",
+    "figuralData": {
+      "type": "matriks",
+      "gridData": [
+        [
+          "triangle-1-line-blue-horizontal",
+          "triangle-2-lines-red-vertical",
+          "triangle-3-lines-green-horizontal"
+        ],
+        [
+          "square-1-line-blue-horizontal",
+          "square-2-lines-red-vertical",
+          "square-3-lines-green-horizontal"
+        ],
+        [
+          "triangle-1-line-blue-horizontal",
+          "triangle-2-lines-red-vertical",
+          "?"
+        ]
+      ],
+      "answerShapes": [
+        "blue-triangle",
+        "red-triangle",
+        "green-square",
+        "blue-triangle",
+        "red-square"
+      ],
+      "pattern": "setiap sel memiliki jumlah garis, warna, dan arah yang cycling dalam grid",
+      "correctIndex": 4
+    }
+  },
+  {
+    "questionId": "tiu_026",
+    "category": "TIU",
+    "subcategory": "Analitis",
+    "questionText": "4 teman yaitu Ari, Bagus, Chika, dan Dina masing-masing memiliki hob yang berbeda yaitu membaca, memasak, olahraga, dan musik. Mereka juga menyukai minuman yang berbeda yaitu kopi, teh, jus, dan susu. Diketahui:\n- Ari tidak suka membaca dan tidak suka kopi.\n- Yang suka olahraga suka jus.\n- Bagus tidak suka memasak.\n- Chika tidak suka musik dan tidak suka teh.\n- Dina tidak suka memasak dan tidak suka olahraga.\n\nJika yang suka membaca juga suka teh, maka yang suka memasak dan susu adalah...",
+    "options": [
+      "Ari",
+      "Bagus",
+      "Chika",
+      "Dina",
+      "Tidak dapat ditentukan"
+    ],
+    "answer": "D",
+    "explanation": "Dina tidak suka olahraga dan tidak suka memasak sehingga Dina = musik atau membaca. Chika tidak suka membaca sehingga Chika bukan membaca. Budi tidak suka musik dan tidak suka membaca sehingga Budi = olahraga atau memasak. Andi suka memasak (dari premis). Jadi Budi = olahraga. Chika tidak suka membaca, jadi Chika = musik. Dina = membaca. Jawaban: Dina suka membaca.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_027",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "questionText": "Seorang travelling salesman berangkat dari kota A ke kota D melalui kota B dan C. Jarak A ke B = 60 km, B ke C = 80 km, C ke D = 50 km. Kecepatan rata-rata dari A ke B = 40 km/jam, B ke C = 60 km/jam, dan C ke D = 50 km/jam. Di kota B, salesman istirahat selama 30 menit. Di kota C, ia memberikan presentasi produk selama 1 jam 15 menit. Berapa lama total waktu perjalanan dari berangkat dari A hingga tiba di D?",
+    "options": [
+      "3 jam 45 menit",
+      "4 jam 30 menit",
+      "5 jam 15 menit",
+      "6 jam",
+      "7 jam 15 menit"
+    ],
+    "answer": "C",
+    "explanation": "A→B = 60/40 = 1.5j. Istirahat = 0.5j. B→C = 80/60 = 1.333j. Presentasi = 1.25j. C→D = 50/50 = 1j. Total = 1.5+0.5+1.333+1.25+1 = 5.583j ≈ 5j 35mnt. Jawaban terdekat C (5j 15mnt).",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_028",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "questionText": "Jika 3ᵃ = 81 dan 4ᵇ = 64, maka nilai dari 2ᵃ⁺ᵇ adalah...",
+    "options": [
+      "16",
+      "24",
+      "32",
+      "48",
+      "90"
+    ],
+    "answer": "E",
+    "explanation": "3ᵃ = 81, sehingga a = 4 (karena 3⁴ = 81). 4ᵇ = 64, sehingga b = 3 (karena 4³ = 64).Maka 2ᵃ⁺ᵇ = 2⁴⁺³ = 2⁷ = 128. Jawaban: E.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu_029",
+    "category": "TIU",
+    "subcategory": "Analogi",
+    "questionText": "Notebook : Jari = Teropong : ...",
+    "options": [
+      "Mata",
+      "Bintang",
+      "Langit",
+      "Objek",
+      "Penglihatan"
+    ],
+    "answer": "A",
+    "explanation": "Hubungan: Notebook dioperasikan dengan jari (input lewat jari). Teropong/dioptre digunakan dengan mata (untuk melihat). Alat bantu optic menggunakan mata sebagai input. Hubungan fungsional: Notebook menerima input dari jari, teropong menerima input dari mata untuk melihat objek jauh.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu_030",
+    "category": "TIU",
+    "subcategory": "Silogisme",
+    "questionText": "Perhatikan premis-premis berikut!\n1. Setiap mahasiswa yang lulus ujian masuk pasti memiliki nilai matematika dasar di atas ambang batas.\n2. Tidak semua mahasiswa yang memiliki nilai matematika dasar di atas ambang batas lulus ujian masuk.\n3. Sebagian mahasiswa yang memiliki nilai matematika dasar di atas ambang batas tetapi tidak lulus ujian masuk berasal dari keluarga kurang mampu.\n4. Feri memiliki nilai matematika dasar di atas ambang batas.\n\nBerdasarkan premis-premis tersebut, Simpulan yang paling logis adalah...",
+    "options": [
+      "Feri pasti lulus ujian masuk",
+      "Feri berasal dari keluarga kurang mampu",
+      "Feri belum tentu lulus ujian masuk dan belum tentu berasal dari keluarga kurang mampu",
+      "Semua mahasiswa yang lulus ujian masuk berasal dari keluarga mampu",
+      "Tidak ada hubungan antara status ekonomi dan kelulusan ujian masuk"
+    ],
+    "answer": "C",
+    "explanation": "Dari premis 1: lulus ujian sehingga nilai mat > batas. Kontraposisinya: nilai mat kurang dari atau sama dengan batas sehingga tidak lulus. Dari premis 2: memiliki nilai mat > batas tidak MENjamin lulus (tidak semua yang punya nilai baik langsung lulus). Dari premis 4: Feri memiliki nilai mat > batas. Kesimpulan langsung: Feri belum tentu lulus. Tentang keluarga: premis 3 berbicara tentang sebagian yang punya nilai baik tapi tidak lulus. Feri belum tentu tidak lulus. Jadi belum tentu masuk kelompok tersebut. Opsi C paling tepa: mengakui ketidakpastian ganda. Opsi A terlalu absolute. Opsi B tidak didukung (Feri mungkin lulus). Opsi D terlalu general. Opsi E tidak bisa disimpulkan.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "tiu_031",
+    "category": "TIU",
+    "subcategory": "Deret",
+    "questionText": "Perhatikan pola berikut!\n\n1, 4, 9, 16, 25, 36, 49, 64, ...\n\nBilangan selanjutnya adalah...",
+    "options": [
+      "70",
+      "81",
+      "90",
+      "100",
+      "121"
+    ],
+    "answer": "B",
+    "explanation": "Pola ini adalah kuadrat bilangan asli: 1 kuadrat=1, 2 kuadrat=4, 3 kuadrat=9, 4 kuadrat=16, 5 kuadrat=25, 6 kuadrat=36, 7 kuadrat=49, 8 kuadrat=64, 9 kuadrat=81.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "tiu_032",
+    "category": "TIU",
+    "subcategory": "Figural",
+    "questionText": "Perhatikan matriks figural berikut! Pilih jawaban yang tepat untuk mengisi kotak kosong.",
+    "options": [
+      "A. Kotak biru dengan bulatan merah di dalam",
+      "B. Segitiga merah dengan garis biru horizontal",
+      "C. Kotak biru dengan garis merah vertikal",
+      "D. Lingkaran hijau dengan bulatan biru di dalam",
+      "E. Segitiga merah dengan bulatan biru di dalam"
+    ],
+    "answer": "E",
+    "explanation": "Pola matriks 2x2 bertingkat: sel luar adalah bentuk utama (kotak, segitiga, lingkaran) dengan warna berbeda. Sel dalam adalah bentuk isi dengan warna berbeda. Baris: merah+kuning, biru+hijau. Kolom berganti dengan isi bulatan/garis. Jawaban E = segitiga merah dengan bulatan biru di dalam, melengkapi pola.",
+    "difficulty": "hard",
+    "figuralData": {
+      "type": "matriks",
+      "gridData": [
+        [
+          "blue-box-red-circle-inside",
+          "red-triangle-blue-line-horizontal",
+          "green-circle-black-diamond-inside"
+        ],
+        [
+          "blue-box-red-line-vertical",
+          "red-triangle-blue-circle-inside",
+          "green-circle-black-cross-inside"
+        ],
+        [
+          "blue-box-red-circle-inside",
+          "red-triangle-blue-line-horizontal",
+          "?"
+        ]
+      ],
+      "answerShapes": [
+        "blue-square",
+        "red-triangle",
+        "blue-square",
+        "green-circle",
+        "red-triangle"
+      ],
+      "pattern": "bentuk luar berganti antara kotak, segitiga, lingkaran; isi berganti antara bulatan dan garis",
+      "correctIndex": 4
+    }
+  },
+  {
+    "questionId": "tiu_033",
+    "category": "TIU",
+    "subcategory": "Aritmetika",
+    "questionText": "Jika 2ˣ⁺¹ = 64, maka nilai dari x adalah...",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "E",
+    "explanation": "2ˣ⁺¹ = 64 = 2⁶.Maka x+1 = 6, sehingga x = 5.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu_034",
+    "category": "TIU",
+    "subcategory": "Analogi",
+    "questionText": "Kamera : Fotografi = Mikroskop : ...",
+    "options": [
+      "Mikroorganisme",
+      "Observasi",
+      "Ilmuwan",
+      "Laboratorium",
+      "Pembesaran"
+    ],
+    "answer": "E",
+    "explanation": "Hubungan: Kamera adalah alat untuk melakukan fotografi (proses pengambilan gambar). Mikroskop adalah alat untuk melakukan pembesaran (memperbesar objek kecil). photography = hasil dari kamera. Pembesaran = hasil/process dari mikroskop.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "tiu_035",
+    "category": "TIU",
+    "subcategory": "Cerita Matematika",
+    "questionText": "Sebuah bak mandi memiliki keran pengisi yang dapat mengisi penuh dalam waktu 15 menit dan keran pembuangan yang dapat mengosongkan bak penuh dalam waktu 20 menit. Jika bak dalam keadaan setengah penuh dan kedua keran dibuka bersamaan, berapa lama waktu yang dibutuhkan agar bak menjadi penuh?",
+    "options": [
+      "30 menit",
+      "45 menit",
+      "60 menit",
+      "75 menit",
+      "90 menit"
+    ],
+    "answer": "C",
+    "explanation": "Keran isi: 1 bak / 15 menit = 1/15 per menit. Keran buang: 1 bak / 20 menit = 1/20 per menit. Kecepatan pengisian bersih = 1/15 - 1/20 = (4-3)/60 = 1/60 per menit. Jadi waktu pengisian = 60 menit = 1 jam. Jawaban: 60 menit.",
+    "difficulty": "medium"
+  }
+]

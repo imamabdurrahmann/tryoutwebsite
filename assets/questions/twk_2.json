@@ -1,0 +1,482 @@
+[
+  {
+    "questionId": "twk2_001",
+    "category": "TWK",
+    "subcategory": "Nasionalisme",
+    "questionText": "Sebuah organisasi masyarakat adat di Kalimantan Tengah menyampaikan keberatan kepada pemerintah daerah terkait pembangunan jalan trans yang akan melintasi tanah ulayat mereka. Tanah tersebut telah diduduki secara turun-temurun selama tujuh generasi dengan bukti genealogi dan saksi tetua adat. Proses negosiasi melibatkan pemerintah pusat, investor asing, dan perusahaan konsorsium. Pemerintah daerah beralasan bahwa jalan tersebut adalah Proyek Strategis Nasional yang telah mendapat persetujuan di tingkat kementerian. Berdasarkan semangat Sila ke-3 Pancasila dan prinsip desentralisasi, tindakan paling tepat dari pemerintah daerah adalah...",
+    "options": [
+      "Menolak pembangunan karena tanah adat adalah warisan leluhur yang tidak boleh diganggu dengan alasan apapun demi pelestarian kearifan lokal",
+      "Melakukan pendekatan musyawarah yang difasilitasi oleh pemerintah daerah dengan menghadirkan perwakilan ketiga pihak (masyarakat adat, investor, dan pemerintah pusat), menghasilkan skema bagi hasil keuntungan ekonomi yang adil, pencatuman hak pengelolaan lingkungan oleh masyarakat adat, dan kompensasi tanah yang memadai sesuai ketentuan hukum adat yang berlaku",
+      "Meminta keputusan final kepada pemerintah pusat karena proyek tersebut adalah Proyek Strategis Nasional yang melampaui wewenang pemerintah daerah",
+      "Membiarkan proses negosiasi sepenuhnya kepada masyarakat adat dan investor tanpa campur tangan pemerintah daerah demi menghormati prinsip otonomi",
+      "Menerapkan pendekatan hukum dengan memaksa investor untuk membeli tanah adat sesuai harga pasar tertinggi tanpa negosiasi"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B paling tepat: menerapkan musyawarah (sila ke-4) dengan melibatkan semua pemangku kepentingan, menghasilkan solusi yang adil dan berkelanjutan. Pemerintah daerah berperan sebagai fasilitator sesuai prinsip desentralisasi. Opsi C menyerahkan tanggung jawab yang tidak sesuai dengan prinsip desentralisasi. Opsi D tidak memadai karena pemerintah daerah memiliki kewajiban konstitusional. Opsi E tidak musyawarah.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_002",
+    "category": "TWK",
+    "subcategory": "Nasionalisme",
+    "questionText": "Indonesia menghadapi gelombang infodemik yang tersebar melalui media sosial selama masa pandemi. Narasi-narasi yang berkembang meliputi teori konspirasi tentang vaksin, tuduhan bahwa pemerintah sengaja memperparah krisis untuk tujuan politik tertentu, dan informasi bahwa produk herbal tradisional dapat menyembuhkan penyakit tanpa perawatan medis. Sebagian besar narasi ini bersumber dari akun-akun luar negeri yang memiliki jangkauan luas. Dalam konteks tantangan terhadap identitas nasional di era informasi, langkah paling tepat yang dapat dilakukan pemerintah adalah...",
+    "options": [
+      "Memblokir akses semua media sosial selama masa pandemi untuk menghentikan penyebaran infodemik secara total agar masyarakat tidak tersesat oleh informasi palsu",
+      "Mengembangkan program literasi digital nasional yang mengajarkan masyarakat untuk memverifikasi informasi secara kritis, membangun portal fakta (fact-checking) yang dikelola secara independen, dan melibatkan influencers positif untuk menyebarkan narasi yang akurat dan berimbang tanpa memaksa pemerintah menjadi satu-satunya sumber kebenaran",
+      "Melarang semua warga negara untuk menggunakan media sosial selama masa pandemi dengan ancaman sanksi pidana karena penyebaran informasi palsu adalah tindak pidana",
+      "Memberikan tanggapan resmi hanya melalui televisi pemerintah untuk memastikan bahwa semua warga hanya menerima informasi dari pemerintah sebagai satu-satunya sumber yang dapat dipercaya",
+      "Melacak dan menangkap semua akun yang menyebarkan informasi yang tidak terverifikasi untuk memberikan efek jera kepada pembuat infodemik"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B paling tepat dalam semangat nasionalisme kritis di era informasi. Literasi digital memberdayakan warga untuk berpikir kritis. Portal fakta independen memberikan transparansi tanpa sentralisasi informasi. Influencer positif menyebarkan narasi yang dapat dipercaya. Opsi A terlalu otoriter dan membatasi kebebasan berekspresi yang dijamin konstitusi. Opsi C tidak proporsional. Opsi D menciptakan ketergantungan pada satu sumber. Opsi E tidak menyelesaikan akar masalah.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_003",
+    "category": "TWK",
+    "subcategory": "Integritas",
+    "questionText": "Seorang kepala daerah mendapati bahwa suaranya terdengar dalam rekaman audio yang dibocorkan ke media oleh seorang whistleblower. Dalam rekaman tersebut, kepala daerah tampak berbicara dengan seorang pengusaha tentang uang terima kasih yang akan diberikan setelah proyek bernilai ratusan miliar di tahun anggaran berjalan. Investigasi awal menunjukkan bahwa rekaman tersebut kemungkinan besar autentik berdasarkan analisis suara. Sang kepala daerah membantah keras dan menyatakan bahwa rekaman tersebut adalah manipulasi digital. Di saat yang sama, beberapa bawahannya yang loyal mendukung narasi bahwa rekaman itu dimanipulasi oleh rival politik. Sikap paling berintegritas adalah...",
+    "options": [
+      "Membela diri dengan menyatakan rekaman tersebut adalah manipulasi dan menuntut media yang mempublikasikan untuk menarik kembali berita dan meminta maaf secara terbuka",
+      "Menyerahkan diri untuk diperiksa oleh lembaga berwenang, secara sukarela membuka seluruh perangkat elektronik untuk keperluan forensik digital, dan jika terbukti autentik, segera mengembalikan uang terima kasih tersebut ke kas daerah sambil mengumumkan langkah tersebut secara transparan",
+      "Mengancam akan menuntut secara pidana siapa saja yang mempercayai rekaman tersebut karena telah merusak nama baik kepala daerah tanpa bukti yang kuat",
+      "Membiarkan saja karena rekaman tersebut belum tentu autentik dan tidak ada yang bisa membuktikan kebenarannya tanpa pengakuan",
+      "Meminta bantuan kepada pemerintah pusat untuk menyelidiki rekaman tersebut secara rahasia agar tidak menjadi konsumsi publik"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B mencerminkan integritas tertinggi: proaktif dalam clearance, kooperatif dengan proses hukum, transparan dalam pengembalian kerugian negara, dan membangun kepercayaan publik melalui keterbukaan. Opsi A bersifat defensif tanpa dasar kuat. Opsi C adalah intimidasi. Opsi D adalah pasif dan menghindari tanggung jawab. Opsi E tidak akuntabel karena tidak transparan.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_004",
+    "category": "TWK",
+    "subcategory": "Integritas",
+    "questionText": "Seorang inspektorat daerah menemukan bahwa dalam tiga tahun terakhir, terdapat pola pengeluaran anggaran yang tidak wajar pada unit layanan publik X. Setiap menjelang akhir tahun anggaran, unit tersebut melakukan pembelian perangkat keras dan lunak secara besar-besaran dengan spesifikasi yang tidak pernah digunakan secara optimal. Kepala unit berdalih bahwa ini adalah persiapan untuk modernisasi layanan. Namun, analisis menunjukkan bahwa sebagian besar perangkat tersebut tidak kompatibel satu sama lain dan beberapa di antaranya sudah tidak dijual lagi oleh distributor resmi. Terdapat indikasi kuat bahwa terjadi kickback dari vendor kepada beberapa pejabat di unit tersebut. Temuan inspektorat disampaikan kepada kepala daerah. Langkah paling akuntabel yang harus dilakukan kepala daerah adalah...",
+    "options": [
+      "Melakukan audit investigatif yang komprehensif terhadap seluruh transaksi unit X dalam tiga tahun terakhir, melibatkan BPKP atau BPK untuk audit forensik, menonaktifkan sementara seluruh pejabat yang berpotensi terlibat sambil proses berjalan, dan membentuk tim reformasi sistem pengadaan yang memperkenalkan mekanisme pengawasan berlapis",
+      "Meminta maaf secara terbuka kepada publik dan menonaktifkan kepala unit X sebagai bentuk pertanggungjawaban kepada masyarakat atas penyalahgunaan anggaran yang telah terjadi",
+      "Membiarkan proses hukum berjalan sendiri tanpa campur tangan kepala daerah karena ini adalah ranah inspektorat dan lembaga hukum",
+      "Memindahkan kepala unit X ke unit lain yang tidak memiliki anggaran besar agar masalah tidak menjadi sorotan publik",
+      "Menutup temuan ini dari publik karena bisa merusak citra pemerintah daerah dan mengarahkan masyarakat untuk tidak percaya pada pemerintah"
+    ],
+    "answer": "A",
+    "explanation": "Opsi A paling tepat karena mencerminkan akuntabilitas dan tanggung jawab yang komprehensif. Audit forensik independen memastikan proses yang kredibel. Penonaktifan sementara melindungi integritas proses sambil menjaga hak-hak hukum pejabat. Reformasi sistem mencegah terulangnya masalah. Opsi B terlalu reaktif tanpa menyelesaikan akar masalah. Opsi C dan D menghindari tanggung jawab. Opsi E adalah pelanggaran transparansi.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "twk2_005",
+    "category": "TWK",
+    "subcategory": "Bela Negara",
+    "questionText": "Indonesia tengah menghadapi situasi geopolitik kompleks di mana beberapa negara secara simultan meningkatkan aktivitas diplomatik dan militer di kawasan Laut China Selatan. Pada saat yang sama, kelompok radikal bersenjata di beberapa wilayah dalam negeri menunjukkan aktivitas yang meningkat seiring dengan berakhirnya program deradikalisasi. Kedua tantangan ini memerlukan respons yang berbeda namun saling terkait. Berdasarkan semangat bela negara dan prioritas sumber daya terbatas, kebijakan paling strategis adalah...",
+    "options": [
+      "Memindahkan seluruh sumber daya pertahanan untuk menghadapi ancaman luar negeri karena radikalisme internal adalah masalah yang bisa ditangani oleh pertahanan sendiri",
+      "Menempatkan radikalisme internal sebagai prioritas utama karena ancaman dari dalam negeri lebih berbahaya bagi stabilitas nasional dibandingkan ancaman dari luar negeri",
+      "Mengembangkan postur pertahanan terpadu yang membedakan eskalasi respons berdasarkan sumber ancaman, mengalokasikan sumber daya pertahanan secara proporsional berdasarkan penilaian risiko, membangun kerja sama pertahanan dengan negara-negara sahabat untuk mengoptimalkan kapasitas, sambil mempertahankan program deradikalisasi komprehensif yang mencakup pendekatan lunak dan keras secara terpadu",
+      "Meningkatkan secara drastis anggaran pertahanan nasional untuk menghadapi semua kemungkinan ancaman tanpa memandang dampak terhadap sektor ekonomi dan sosial",
+      "Mengabaikan ancaman luar negeri karena negara-negara di kawasan tidak mungkin menyerang Indonesia secara militer mengingat kekuatan pertahanan yang sudah ada"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C paling strategis dan realistis. Bela negara modern memerlukan differentiated response berdasarkan karakteristik ancaman. Pengalokasian proporsional menghargai keterbatasan sumber daya. Kerja sama pertahanan multilateral memperkuat kapasitas tanpa membebani anggaran secara berlebihan. Program deradikalisasi terpadu mengatasi radikalisme dari berbagai sudut. Opsi A dan B terlalu ekstrem dalam satu arah. Opsi D tidak sustainable. Opsi E mengabaikan realitas geopolitik.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "twk2_006",
+    "category": "TWK",
+    "subcategory": "Bela Negara",
+    "questionText": "Perusahaan plat merah nasional Y ditugaskan untuk membangun infrastruktur kritis penting di wilayah perbatasan yang selama ini kurang mendapat perhatian pembangunan. Proyek ini bernilai puluhan triliun dan menarik minat perusahaan asing yang sangat tinggi karena reputasi dan kapasitas perusahaan Y. Beberapa perusahaan asing menawarkan kerja sama alih teknologi secara cuma-cuma jika perusahaan Y bersedia menggunakan spesifikasi teknis mereka yang melampaui standar nasional yang berlaku. Di sisi lain, asosiasi industri dalam negeri menentang kerja sama tersebut karena dianggap akan mematikan industri nasional yang tidak mampu bersaing. Berdasarkan semangat bela negara dan ekonomi kerakyatan, langkah paling tepat adalah...",
+    "options": [
+      "Menolak kerja sama alih teknologi dari perusahaan asing karena dapat membahayakan kedaulatan teknologi nasional dan mematikan industri dalam negeri",
+      "Menerima kerja sama alih teknologi secara penuh karena teknologi asing dapat mempercepat pembangunan dan meningkatkan kompetensi pekerja nasional tanpa biaya",
+      "Melakukan negosiasi yang ketat di mana alih teknologi dilakukan secara bertahap melalui mekanisme lisensi terbatas dengan persyaratan offset yang mengharuskan perusahaan asing bekerja sama dengan paling sedikit dua perusahaan nasional sebagai subkontraktor dalam setiap tahap proyek, sambil memperkuat standar teknis nasional agar tidak mudah dikompromikan oleh spesifikasi asing",
+      "Menyerahkan keputusan kepada manajemen perusahaan Y karena mereka yang paling memahami implikasi teknis dari alih teknologi tersebut",
+      "Melarang semua perusahaan asing untuk terlibat dalam proyek infrastruktur kritikal untuk melindungi industri dalam negeri secara total"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C paling tepat karena mencapai keseimbangan antara efisiensi teknologi asing dan perlindungan industri dalam negeri. Lisensi terbatas memastikan alih teknologi tidak melepaskan kendali. Offset requirements menciptakan multiplier effect bagi industri nasional. Penguatan standar nasional mencegah degradasi kualitas. Opsi A terlalu proteksionis tanpa manfaat efisiensi. Opsi B terlalu liberal. Opsi D menghindari tanggung jawab negara. Opsi E kontraproduktif.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "twk2_007",
+    "category": "TWK",
+    "subcategory": "Pilar Negara",
+    "questionText": "Pasal 27 ayat 1 UUD 1945 menyatakan bahwa segala warga negara memiliki kedudukan yang sama dalam hukum dan pemerintah dengan tunduk kepada hak dan kewajiban asasinya. Bagian yang dicetak miring dalam paragraf tersebut seharusnya adalah...",
+    "options": [
+      "diperlukan dalam hukum dan terjamin baik yang bersifat hak orang maupun yang bersifat hak hukum lainnya yang diperlukan dalam hukum",
+      "didahului dan dilindungi baik yang bersifat hak orang maupun yang bersifat hak hukum lainnya yang diperlukan dalam hukum",
+      "memiliki kedudukan yang sama dalam hukum dan pemerintah dengan tunduk kepada hak dan kewajiban asasinya",
+      "memiliki kedudukan yang sama dalam hukum dan pemerintah dengan tunduk kepada hak dan kewajiban asasinya sesuai dengan hukum yang berlaku",
+      "memiliki kedudukan yang sama dalam hukum dan pemerintah dengan tunduk kepada hak asasinya dan kewajiban asasinya"
+    ],
+    "answer": "C",
+    "explanation": "Pasal 27 ayat 1 UUD 1945 secara lengkap menyatakan bahwa segala warga negara memiliki kedudukan yang sama dalam hukum dan pemerintah dengan tunduk kepada hak dan kewajiban asasinya. Sesuai PUEBI, frasa yang benar menggunakan 'memiliki kedudukan yang sama dalam hukum', bukan kata serapan tidak baku. Kata 'yang diperlukan' adalah kata serapan tidak baku.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_008",
+    "category": "TWK",
+    "subcategory": "Pilar Negara",
+    "questionText": "Seorang legislator daerah menerima aspirasi dari konstituen tentang kebutuhan untuk merevisi peraturan daerah yang mengatur pengelolaan sampah di perkotaan. Peraturan daerah yang ada saat ini sudah tidak lagi relevan dengan kondisi pertumbuhan populasi yang sangat cepat dan praktik daur ulang masyarakat yang semakin meningkat. Kelompok bisnis mengatakan tidak setuju dengan revisi karena akan meningkatkan biaya operasional mereka. Kelompok lingkungan mendukung revisi karena peraturan saat ini tidak cukup mendorong daur ulang. Berdasarkan semangat sila ke-4 dan prinsip musyawarah, kebijakan paling tepat adalah...",
+    "options": [
+      "Membentuk tim percepatan revisi peraturan daerah dengan mengutamakan kepentingan kelompok lingkungan karena mereka mewakili keberlanjutan ekosistem untuk generasi mendatang",
+      "Membentuk ruang musyawarah yang difasilitasi dengan menghadirkan perwakilan semua kelompok, menghasilkan analisis dampak komprehensif yang mempertimbangkan baik biaya operasional bisnis maupun dampak lingkungan, menyusun draf revisi yang memberikan insentif bagi bisnis yang menerapkan praktik daur ulang sementara memberikan tenggang waktu transisi yang wajar bagi kelompok bisnis yang memerlukan penyesuaian",
+      "Membatalkan semua peraturan pengelolaan sampah yang ada dan mengganti dengan peraturan baru yang sepenuhnya mengadopsi praktik negara maju sebagai standar internasional",
+      "Menunda revisi sampai semua kelompok mencapai kesepakatan bulat karena musyawarah harus menghasilkan keputusan yang disepakati seluruh peserta",
+      "Melakukan pemungutan suara di forums peraturan daerah untuk memutuskan revisi karena musyawarah sudah tidak mungkin menghasilkan kesepakatan"
+    ],
+    "answer": "C",
+    "explanation": "Opsi B paling tepat karena menerapkan musyawarah sejati dengan menghasilkan keputusan yang mempertimbangkan semua kepentingan secara proporsional. Analisis dampak komprehensif memberikan dasar pengambilan keputusan yang rasional. Sistem insentif mendorong perubahan perilaku tanpa memaksa secara paksa. Tenggang waktu transisi menghormati keberlanjutan ekonomi bisnis. Opsi A mendahulukan satu kelompok. Opsi C outsource ke standar luar. Opsi D tidak realistis. Opsi E mengorbankan musyawarah.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "twk2_009",
+    "category": "TWK",
+    "subcategory": "Bahasa Indonesia",
+    "questionText": "Bacalah paragraf berikut dengan saksama!\n\n\"Di era digital saat ini, berbagai upaya telah dilakukan oleh berbagai kalangan untuk meningkatkan literasi informasi di kalangan masyarakat. Namun demikian, hasil survei terbaru menunjukkan bahwa kemampuan masyarakat dalam memilah informasi yang terverifikasi dan hoaks masih sangat rendah. Kondisi ini diperparah oleh keberadaan platform media sosial yang memungkinkan siapapun untuk menyebarkan informasi tanpa proses penyuntingan.\"\n\nKesalahan penggunaan bahasa Indonesia baku dalam paragraf tersebut terdapat pada kata...",
+    "options": [
+      "informasi, verifikasi, hoaks, penyuntingan",
+      "literasi, informasi, verifikasi, hoaks",
+      "memilah, verifikasi, penyuntingan, kondisi",
+      "terverifikasi, hoaks, penyuntingan, diperparah",
+      "memilah, informasi, penyuntingan, diperparah"
+    ],
+    "answer": "B",
+    "explanation": "Sesuai PUEBI, kata-kata tersebut merupakan kata serapan tidak baku yang seharusnya menggunakan padanan bahasa Indonesia. Kata 'informasi' seharusnya data atau berita, 'verifikasi' seharusnya pembuktian, 'hoaks' seharusnya informasi bohong, 'penyuntingan' seharusnya penyuntingan (kata sudah baku). Kata 'memilah' sudah baku karena merupakan kata turunan dari pilah. 'Kondisi' juga sudah baku. 'Diperparah' sudah baku sebagai bentuk kata kerja.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "twk2_010",
+    "category": "TWK",
+    "subcategory": "Nasionalisme",
+    "questionText": "Dalam sebuah survei nasional, ditemukan bahwa generasi muda Indonesia memiliki tingkat nasionalisme yang lebih rendah dibandingkan generasi yang lebih tua jika diukur berdasarkan indikator klasik seperti menghafal lagu kebangsaan atau mengikuti upacara bendera. Namun, indikator lain seperti penggunaan bahasa Indonesia di media sosial, preferensi terhadap produk dalam negeri, dan partisipasi dalam diskusi isu publik menunjukkan tren positif. Dalam konteks nasionalisme yang berkembang, interpretasi paling tepat adalah...",
+    "options": [
+      "Nasionalisme generasi muda memang menurun karena generasi muda lebih terpapar budaya asing melalui internet dan globalisasi",
+      "Nasionalisme generasi muda telah bertransformasi: dari ritual formal ke bentuk ekspresi yang lebih kontekstual seperti partisipasi digital dan konsumsi produk dalam negeri, yang menunjukkan nasionalisme yang tidak berkurang melainkan berevolusi sesuai dengan perkembangan zaman",
+      "Nasionalisme tidak dapat diukur melalui survei karena merupakan perasaan batin yang tidak tergambar dalam indikator kuantitatif apapun",
+      "Hasil survei tidak valid karena indikator yang digunakan tidak mencerminkan nasionalisme sejati yang hanya bisa diukur melalui perilaku tradisional",
+      "Generasi muda Indonesia sudah kehilangan semangat nasionalisme karena terlalu banyak terpengaruh oleh budaya pop asing"
+    ],
+    "answer": "A",
+    "explanation": "Opsi B paling tepat karena nasionalisme adalah konsep dinamis yang berkembang seiring zaman. Generasi muda mengekspresikan nasionalisme melalui saluran yang relevan dengan kehidupan mereka: bahasa Indonesia digital, produk dalam negeri, partisipasi isu publik. Ini menunjukkan nasionalisme yang lebih matur dan reflektif, bukan penurunan. Opsi A terlalu simplistik. Opsi C tidak memberikan interpretasi yang konstruktif. Opsi D terlalu dogmatis. Opsi E kontradiktif dengan data yang menunjukkan tren positif.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "twk2_011",
+    "category": "TWK",
+    "subcategory": "Integritas",
+    "questionText": "Seorang pejabat publik menerima hadiah pernikahan dari rekanan bisnis berupa perhiasan mahal yang bernilai puluhan juta rupiah. Pejabat tersebut bingung apakah boleh menerima hadiah tersebut karena saat ini belum ada pernikahan yang direncanakan dalam waktu dekat. Dia juga tahu bahwa rekannya tersebut tidak sedang mengajukan tender atau kontrak apapun saat ini. Berdasarkan UU No 20 Tahun 2001 jo UU No 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi, sikap paling tepat adalah...",
+    "options": [
+      "Menerima hadiah tersebut dan menyimpannya sampai dibutuhkan karena pada dasarnya hadiah bukan suap dan tidak ada proses tender yang sedang berlangsung",
+      "Menolak hadiah tersebut dengan alasan bahwa menerima hadiah dari siapapun yang memiliki potensi konflik kepentingan, meskipun saat ini tidak ada proses tender aktif, dapat menimbulkan persepsi publik yang negatif dan melanggar prinsip incompatibilitas; pejabat tersebut mencatat penolakan tersebut dan mengumumkannya secara transparan",
+      "Menyimpannya untuk sementara dan mengembalikannya setelah proses tender selesai untuk memastikan tidak ada konflik kepentingan",
+      "Meminta saran dari keluarga sebelum memutuskan karena ini menyangkut nilai ekonomis yang besar",
+      "Menerima hadiah tetapi menyumbangkannya ke lembaga sosial agar nilai hadiah tidak menjadi milik pribadi pejabat"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B paling tepat. Prinsip incompatibilitas dalam etika publik mengharuskan pejabat menghindari bahkan persepsi konflik kepentingan. Pejabat yang menerima hadiah dari rekanan menciptakan persepsi konflik yang dapat merusak kepercayaan publik, terlepas dari niat baik. Catatan tertulis dan transparansi menciptakan paper trail yang melindungi pejabat. Opsi A melanggar prinsip kehati-hatian. Opsi C tetap menciptakan masalah persepsi. Opsi D tidak memadai untuk keputusan etis publik. Opsi E tidak menyelesaikan masalah karena niat menerima sudah terjadi.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_012",
+    "category": "TWK",
+    "subcategory": "Bela Negara",
+    "questionText": "Indonesia tengah menghadapi tantangan serius berupa kesenjangan digital yang lebar antara daerah perkotaan dan pedesaan. Kondisi ini memperlambat pemerataan pembangunan ekonomi digital. Di sisi lain, beberapa platform teknologi asing mendominasi pasar digital nasional dengan menghasilkan keuntungan besar namun sedikit menciptakan lapangan kerja berkualitas bagi tenaga kerja lokal. Kebijakan paling strategis untuk mengatasi kedua tantangan secara simultan adalah...",
+    "options": [
+      "Memblokir semua platform teknologi asing di Indonesia untuk melindungi pasar bagi platform lokal yang menciptakan lapangan kerja dalam negeri",
+      "Mengembangkan ekosistem start-up digital dalam negeri dengan menyediakan kemudahan akses modal ventura, insentif pajak bagi perusahaan teknologi yang merekrut tenaga kerja lokal dalam jumlah signifikan, membangun infrastruktur digital di daerah tertinggal secara merata, dan memberikan pelatihan keterampilan digital gratis bagi masyarakat di daerah pedesaan agar dapat participate dalam ekonomi digital",
+      "Melarang semua investasi teknologi asing untuk memastikan bahwa seluruh keuntungan ekonomi digital tetap dalam negeri",
+      "Membiarkan mekanisme pasar yang alami menentukan pengembangan ekonomi digital karena campur tangan pemerintah akan menghambat inovasi",
+      "Meningkatkan pajak secara drastis terhadap semua platform teknologi asing sampai mereka pergi dari pasar Indonesia"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B paling strategis karena mengatasi dua tantangan sekaligus. Ekosistem start-up lokal menciptakan lapangan kerja berkualitas dan inovasi. Insentif pajak memperkuat dampak positif. Infrastruktur digital merata mengejar kesenjangan. Pelatihan gratis memberdayakan masyarakat pedesaan. Bela negara modern mencakup kedaulatan digital yang memberdayakan warga, bukan memblokir asing. Opsi A terlalu proteksionis. Opsi C berlebihan. Opsi D tidak efektif dalam mengatasi kesenjangan pasar. Opsi E kontraproduktif.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_013",
+    "category": "TWK",
+    "subcategory": "Pilar Negara",
+    "questionText": "Pasal 33 ayat 1 UUD 1945 menetapkan bahwa perekonomian nasional berdasarkan atas demokrasi ekonomi dengan prinsip kebersamaan, keefisienan, keadilan, keberlanjutan, kemandirian, serta merata dalam kehidupan nasional. Bagian yang dicetak miring seharusnya adalah...",
+    "options": [
+      "seluruh rakyat kesejahteraan",
+      "sejahtera seluruh rakyat",
+      "sejahtera bagi seluruh rakyat",
+      "seluruh masyarakat sejahtera",
+      "sejahtera bagi seluruh rakyat Indonesia"
+    ],
+    "answer": "B",
+    "explanation": "Pasal 33 ayat 1 UUD 1945 secara lengkap menyatakan bahwa perekonomian nasional berdasarkan atas demokrasi ekonomi dengan prinsip kebersamaan, keefisienan, keadilan, keberlanjutan, kemandirian, serta merata dalam kehidupan nasional. Sesuai PUEBI, frasa yang benar adalah 'serta merata dalam kehidupan nasional'. Kata serapan tidak baku tidak sesuai dengan bunyi konstitusi.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "twk2_014",
+    "category": "TWK",
+    "subcategory": "Bahasa Indonesia",
+    "questionText": "Perhatikan kalimat berikut!\n\n1. Komisi DPR akan melakukan pemeriksaan terhadap kinerja pemerintah.\n2. Diplomasi Indonesia berhasil menghindari peningkatan konflik di wilayah.\n3. Parlemen negara tersebut telah meloloskan undang-undang tentang hak asasi manusia.\n\nKata-kata dalam kalimat tersebut yang merupakan kata serapan tidak baku dari bahasa asing yang seharusnya menggunakan padanan bahasa Indonesia baku adalah...",
+    "options": [
+      "Komisi, pemeriksaan, diplomasi, wilayah",
+      "Diplomasi, parlemen, pemeriksaan, komisi",
+      "Komisi, parlemen, wilayah, pemeriksaan",
+      "Diplomasi, wilayah, hak asasi, pemeriksaan",
+      "Komisi, parlemen, diplomasi, pemeriksaan"
+    ],
+    "answer": "A",
+    "explanation": "Semua kata yang dicetak miring merupakan kata serapan dari bahasa asing yang tidak baku menurut PUEBI. 'Komisi' seharusnya komisi yang sudah baku. 'Pemeriksaan' seharusnya pemeriksaan (masih bisa diterima). 'Diplomasi' seharusnya hubungan luar negeri atau diplomasi yang diserap menurut kaidah. 'Wilayah' seharusnya daerah. Sesuai pedoman umum ejaan bahasa Indonesia, padanan bahasa Indonesia yang baku seharusnya digunakan dalam konteks formal. Perlu konsistensi menggunakan bahasa Indonesia baku.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "twk2_015",
+    "category": "TWK",
+    "subcategory": "Nasionalisme",
+    "questionText": "Indonesia tengah dalam proses negosiasi ulang perjanjian kerja sama pertahanan dengan beberapa negara sahabat. Beberapa kelompok masyarakat sipil mendorong pemerintah untuk membuka partisipasi publik dalam proses negosiasi tersebut karena perjanjian pertahanan memiliki dampak jangka panjang terhadap keamanan dan kebijakan luar negeri nasional. Di sisi lain, beberapa pihak berargumen bahwa proses negosiasi seharusnya rahasia karena menyangkut keamanan nasional dan melibatkan diplomasi dengan negara sahabat. Sikap pemerintah yang paling sesuai dengan semangat transparansi dan akuntabilitas publik adalah...",
+    "options": [
+      "Membuka seluruh proses negosiasi untuk konsumsi publik secara langsung agar masyarakat dapat memberikan masukan pada setiap tahap",
+      "Melakukan keterbukaan proporsional dengan menyampaikan prinsip-prinsip pokok perjanjian kepada publik sebelum dan sesudah negosiasi, melibatkan konsultasi dengan DPR sesuai mekanisme konstitusional, namun menjaga kerahasiaan detail taktis yang memang memerlukan kerahasiaan demi kepentingan negosiasi nasional",
+      "Menyimpan seluruh proses negosiasi secara rahasia karena transparansi dalam diplomasi dapat merugikan posisi tawar Indonesia di meja negosiasi",
+      "Membatasi informasi hanya kepada eksekutif tinggi pemerintah tanpa melibatkan legislatif karena negosiasi pertahanan adalah domain eksekutif",
+      "Meminta persetujuan publik melalui referendum sebelum menandatangani perjanjian pertahanan apapun"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B paling tepat karena mencapai keseimbangan antara transparansi dan kepentingan nasional. Prinsip pokok harus transparan karena perjanjian pertahanan berdampak pada seluruh rakyat. Konsultasi dengan DPR sesuai mekanisme konstitusional. Detail taktis memang memerlukan kerahasiaan dalam diplomasi, tetapi ini bukan alasan untuk tidak transparan sama sekali. Opsi A terlalu idealis dan tidak realistis. Opsi C terlalu gelap. Opsi D tidak sesuai dengan prinsip checks and balances. Opsi E tidak praktis untuk diplomasi.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_016",
+    "category": "TWK",
+    "subcategory": "Integritas",
+    "questionText": "Seorang inspektorat daerah menemukan bahwa terdapat program bantuan sosial yang danai dari anggaran daerah telah disalahgunakan oleh beberapa pejabat. Penerima bantuan yang seharusnya adalah warga tidak mampu ternyata adalah kenalan dan relasi pejabat yang berkecukupan. Investigasi mengungkap bahwa verifikasi data penerima tidak dilakukan secara independen melainkan berdasarkan rekomendasi dari pejabat itu sendiri. Kepala daerah menghadapi tekanan politik untuk menutupi kasus ini karena sebagian besar pelaku adalah pejabat yang mendukung kepala daerah. Di sisi lain, keterbukaan investigasi akan memperkuat kepercayaan publik. Sikap paling berintegritas adalah...",
+    "options": [
+      "Menutup kasus ini secara internal dan memberikan tegoran kepada pejabat yang terlibat tanpa membawanya ke ranah hukum karena masalah sudah selesai dengan tegoran",
+      "Melakukan proses hukum yang terbuka terhadap semua pejabat yang terlibat tanpa pengecualian, memulihkan dana bantuan sosial ke kas daerah, memperbaiki sistem verifikasi dengan memperkenalkan verifikasi data oleh tim independen dan mekanisme crowdsourcing pelaporan, serta mengumumkannya kepada publik sebagai bentuk akuntabilitas",
+      "Mengungkap hanya pejabat yang tidak mendukung kepala daerah sebagai bentuk pembersihan internal tanpa perlu melibatkan pejabat yang mendukung",
+      "Menunda proses hukum sampai setelah pemilihan kepala daerah agar tidak mempengaruhi dinamika politik lokal",
+      "Mengalihkan kesalahan kepada vendor yang memberikan data penerima bantuan yang tidak valid"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B mencerminkan integritas tanpa kompromi dan pendekatan sistemik. Proses hukum terbuka tanpa pengecualian memastikan keadilan. Pemulihan dana negara adalah prioritas. Perbaikan sistem mencegah terulangnya masalah. Transparansi publik membangun kepercayaan. Opsi A tidak memberikan konsekuensi yang memadai. Opsi C diskriminatif. Opsi D menyalahgunakan waktu untuk keuntungan politik. Opsi E tidak akuntabel.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_017",
+    "category": "TWK",
+    "subcategory": "Bela Negara",
+    "questionText": "Perusahaan nasional minyak dan gas Bumi mengalami kerugian operasional yang sangat besar selama tiga tahun berturut-turut akibat cadangan minyak yang terus menurun dan biaya produksi yang semakin mahal. Pemerintah sedang mempertimbangkan beberapa opsi: privatisasi sebagian saham untuk mendapat modernisasi teknologi, joint venture dengan perusahaan asing, atau tetap Badan Usaha Milik Negara dengan subsidi besar-besaran dari anggaran negara. Opsi mana yang paling sesuai dengan semangat Pasal 33 UUD 1945 dan kedaulatan energi nasional?",
+    "options": [
+      "Privatisasi sebagian besar saham perusahaan kepada investor swasta nasional karena ini akan memperkenalkan disiplin pasar tanpa kehilangan kendali nasional atas sektor energi kritikal",
+      "Joint venture dengan perusahaan asing karena ini akan modernisasi teknologi dan mempertahankan sebagian kendali nasional, namun harus disertai persyaratan alih teknologi dan local content minimum yang tinggi untuk memastikan spillover bagi industri dalam negeri",
+      "Tetap Badan Usaha Milik Negara dengan subsidi besar-besaran karena kedaulatan energi hanya mungkin dijamin jika perusahaan tetap sepenuhnya Badan Usaha Milik Negara dan tidak bergantung pada investasi asing",
+      "Membiarkan perusahaan menyelesaikan masalah sendiri tanpa campur tangan pemerintah dan anggaran negara karena mekanisme pasar akan menentukan masa depan perusahaan",
+      "Membagi perusahaan menjadi beberapa unit dengan fungsi berbeda: sebagian untuk modernisasi melalui joint venture terbatas, sebagian tetap Badan Usaha Milik Negara untuk fungsi sosial, dan sebagian lain dijual kepada investor nasional melalui penawaran saham publik, sambil memperkuat regulasi sektor energi untuk memastikan bahwa kendali nasional tetap terjamin melalui mekanisme pengaturan tarif dan kewajiban pelayanan publik"
+    ],
+    "answer": "B",
+    "explanation": "Opsi E paling strategis dan sesuai semangat Pasal 33. Diferensiasi fungsi memungkinkan efisiensi tanpa mengorbankan kedaulatan. Joint venture terbatas untuk modernisasi teknologi dengan transfer requirements. Badan Usaha Milik Negara untuk fungsi sosial memastikan pelayanan publik. Saham publik mendistribusikan kepemilikan kepada investor nasional. Regulasi kuat menjaga kendali negara atas sektor kritikal. Ini adalah pendekatan yang nuanced dan tidak black-and-white. Opsi A tidak menyelesaikan modernisasi teknologi. Opsi B terlalu terbatas. Opsi C tidak sustainable. Opsi Dmenghindari tanggung jawab negara.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_018",
+    "category": "TWK",
+    "subcategory": "Pilar Negara",
+    "questionText": "Sebuah daerah mengalami krisis air bersih yang berkepanjangan. Investigasi menemukan bahwa perusahaan air minum dalam kemasan telah mengambil alih sumber air tanah yang seharusnya untuk kebutuhan sehari-hari masyarakat. Perusahaan tersebut memiliki izin dari pemerintah daerah yang dikeluarkan lima tahun lalu, tetapi situasi perubahan iklim telah mengurangi debit air tanah secara signifikan. Masyarakat setempat telah melakukan aksi protes besar-besaran. Berdasarkan semangat pembukaan UUD 1945 dan prinsip pembangunan berkelanjutan, tindakan paling tepat adalah...",
+    "options": [
+      "Membatalkan semua izin perusahaan dan mengembalikan sumber air kepada masyarakat karena air adalah kebutuhan dasar manusia yang dilindungi konstitusi",
+      "Melakukan pendekatan musyawarah yang diferenciado: menetapkan batas penggunaan air perusahaan berdasarkan prinsip perubahan iklim dunia, memberikan kompensasi kepada masyarakat yang terdampak melalui program air bersih alternatif yang dibiayai oleh perusahaan, mengembangkan infrastruktur air bersih tersentralisasi untuk masyarakat dengan standar kualitas yang terukur, sambil membuka jalur komunikasi bagi masyarakat untuk participate dalam pengawasan penggunaan air",
+      "Menuntut perusahaan secara pidana karena telah mengambil sumber air yang seharusnya untuk masyarakat",
+      "Membiarkan perusahaan melanjutkan operasinya karena mereka sudah memiliki izin yang sah dan penghentian akan menimbulkan masalah hukum bagi daerah",
+      "Meminta pemerintah pusat untuk mengambil alih pengelolaan sumber air dari perusahaan karena ini adalah masalah kritis yang melampaui kapasitas daerah"
+    ],
+    "answer": "E",
+    "explanation": "Opsi B paling tepat karena mencapai keseimbangan antara hak masyarakat atas air (pembukaan UUD 1945 tentang keadilan sosial), prinsip pembangunan berkelanjutan, dan hak hukum perusahaan yang telah mendapat izin. Pendekatan musyawarah menghasilkan solusi yang tidak black-and-white. Kompensasi memproteksi masyarakat yang terdampak. Infrastruktur tersentralisasi memecahkan masalah jangka panjang. Partisipasi publik dalam pengawasan menjaga akuntabilitas. Opsi A terlalu ekstrem tanpa mempertimbangkan hak hukum perusahaan. Opsi C tidak menyelesaikan masalah air bersih masyarakat. Opsi D tidak memadai. Opsi E berlebihan.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_019",
+    "category": "TWK",
+    "subcategory": "Bahasa Indonesia",
+    "questionText": "Perhatikan kalimat berikut!\n\n1. Sehubungan dengan pelaksanaan GPEF 2024, dengan ini kami sampaikan bahwa penyajian proyek terbaik akan dibagikan kepada semua sekolah peserta sebagai bekal pembelajaran bersama.\n2. Hari ini telah diadakan presentasi produk baru perusahaan yang dipertunjukkan pada pameran.\n\nJumlah kesalahan penggunaan bahasa Indonesia baku dalam kalimat bernomor 1 adalah...",
+    "options": [
+      "Satu yaitu penyajian",
+      "Dua yaitu penyajian dan dibagikan",
+      "Tiga yaitu pelaksanaan, penyajian, dibagikan",
+      "Empat yaitu pelaksanaan, penyajian, dibagikan, peserta",
+      "Lima yaitu pelaksanaan, penyajian, dibagikan, peserta, GPEF"
+    ],
+    "answer": "B",
+    "explanation": "Kesalahan pertama: 'pelaksanaan' seharusnya Kegiatan atau event (kata serapan tidak baku). Kesalahan kedua: 'penyajian' seharusnya penyajian atau presentasi (masih bisa diterima, tetapi perlu konsistensi). Kesalahan ketiga: 'akan dibagikan' seharusnya 'akan didistribusikan' (kata depan akan harus terpisah). Kesalahan keempat: 'peserta' seharusnya peserta (sudah baku, bukan kesalahan). Dalam konteks ini, total kesalahan substantif adalah pelaksanaan, penyajian, dibagikan, peserta (empat kesalahan). GPEF termasuk singkatan yang perlu dituliskan kepanjangannya.",
+    "difficulty": "easy"
+  },
+  {
+    "questionId": "twk2_020",
+    "category": "TWK",
+    "subcategory": "Nasionalisme",
+    "questionText": "Indonesia menjadi salah satu tujuan utama imigran ilegal dari berbagai negara. Kondisi ini menimbulkan kompleksitas: imigran ilegal mengisi lowongan pekerjaan di sektor informal yang tidak diinginkan pemberi kerja lokal, namun di sisi lain mereka juga melakukan aktivitas criminal yang meningkat dan menggunakan layanan publik tanpa membayar pajak. Beberapa daerah mengeluhkan beban layanan publik yang meningkat tanpa kompensasi dari pemerintah. Kebijakan paling komprehensif untuk mengatasi situasi ini adalah...",
+    "options": [
+      "Melakukan deportasi massal semua imigran ilegal tanpa pengecualian karena mereka melanggar hukum imigrasi dan membebani layanan publik",
+      "Memberikan status imigran legal kepada semua yang sudah berada di Indonesia lebih dari 5 tahun tanpa pengecualian karena mereka sudah berkontribusi kepada ekonomi nasional",
+      "Mengembangkan sistem imigran yang terpadu yang membedakan status imigran berdasarkan kriteria yang jelas: memberikan status tinggal terbatas kepada mereka yang dapat berkontribusi kepada ekonomi dengan membayar pajak dan tidak melakukan kejahatan, sambil meningkatkan patrols perbatasan dan penegakan hukum, serta memberikan bantuan kemanusiaan terbatas kepada imigran yang memenuhi kriteria berdasarkan hukum internasional dan prinsip kemanusiaan",
+      "Menutup semua perbatasan Indonesia secara total untuk mencegah imigran masuk sama sekali demi melindungi pasar kerja nasional",
+      "Mengabaikan masalah imigran ilegal karena pada dasarnya mereka mengisi lowongan pekerjaan yang tidak diinginkan pemberi kerja lokal dan memberikan kontribusi ekonomi positif"
+    ],
+    "answer": "A",
+    "explanation": "Opsi C paling komprehensif dan berprinsip. Kebijakan imigran harus berdasarkan kriteria yang objektif, bukan emosional. Diferensiasi status memastikan bahwa imigran yang melanggar hukum ditindak sementara imigran yang berkontribusi mendapat akses terbatas yang terukur. Penegakan hukum perbatasan mencegah aliran baru imigran ilegal. Bantuan kemanusiaan terbatas sesuai hukum internasional dan prinsip kemanusiaan. Opsi A terlalu ekstrem dan tidak humanitarian. Opsi B terlalu permisif. Opsi D isolationis. Opsi E mengabaikan masalah keamanan dan beban layanan publik.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_021",
+    "category": "TWK",
+    "subcategory": "Integritas",
+    "questionText": "Seorang kepala daerah mengetahui bahwa anggaran untuk program kesehatan daerah yang dikelola oleh sebuah rumah sakit daerah telah digunakan secara tidak akuntabel. Terdapat indikasi bahwa sebagian besar anggaran dikorupsi oleh komplotan yang melibatkan direktur rumah sakit, beberapa dokter, dan pejabat distributor peralatan medis. Jumlah kerugian mencapai miliaran rupiah. Investigasi sulit dilakukan karena semua pelaku memiliki jaringan yang luas dan sebagian adalah tenaga medis yang sulit diganti. Di sisi lain, penanganan yang salah akan mengganggu pelayanan kesehatan masyarakat. Langkah paling sistematis adalah...",
+    "options": [
+      "Segera menangkap semua pelaku tanpa pengecualian karena integritas harus ditegakkan tanpa kompromi apapun dan pelayanan kesehatan dapat dicari dari sumber lain",
+      "Melakukan pendekatan bertahap: ke-1 melakukan audit forensik yang komprehensif untuk mendapatkan bukti yang kuat, menonaktifkan sementara pejabat yang terlibat dari posisi yang berkonflik sambil memastikan pelayanan publik tetap jalan, melakukan proses hukum yang terbuka terhadap semua pelaku berdasarkan UU Tindak Pidana Korupsi dengan tuntutan pengembalian kerugian negara secara tanggung renteng, sembari merekrut pengganti sementara untuk posisi kritikal yang tidak boleh kosong",
+      "Menuntut hanya direktur rumah sakit karena merekalah yang paling bertanggung jawab atas pengelolaan anggaran rumah sakit",
+      "Menutup informasi ini dari publik karena pengungkapan akan menurunkan kepercayaan masyarakat terhadap sistem kesehatan daerah",
+      "Memindahkan direktur rumah sakit ke daerah lain tanpa proses hukum karena ini adalah cara paling efisien untuk menyelesaikan masalah"
+    ],
+    "answer": "C",
+    "explanation": "Opsi B paling tepat karena mencerminkan keseimbangan antara integritas dan tanggung jawab pelayanan publik. Audit forensik memastikan bukti yang kuat untuk proses hukum yang adil. Penonaktifan sementara melindungi integritas proses sambil menjaga pelayanan publik. Proses hukum terbuka tanpa kompromi. Penggantian sementara memastikan tidak ada kekosongan dalam pelayanan kritikal. Tanggung renteng memastikan semua pelaku mendapat konsekuensi yang setimpal. Opsi A mengorbankan pelayanan publik. Opsi C tidak adil. Opsi D tidak akuntabel. Opsi E melindungi pelaku.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_022",
+    "category": "TWK",
+    "subcategory": "Bela Negara",
+    "questionText": "Indonesia menghadapi tantangan serius berupa menurunnya kualitas sumber daya manusia di bidang-bidang kritikal seperti teknik, teknologi informatika, dan biokimia. Kesenjangan keterampilan semakin lebar dibanding negara-negara pesaing di kawasan. Di sisi lain, banyak lulusan terbaik Indonesia yang memilih bekerja untuk perusahaan di luar negeri karena menawarkan kompensasi jauh lebih tinggi. Kebijakan paling strategis untuk mengatasi brain drain adalah...",
+    "options": [
+      "Membatasi keluarnya lulusan terbaik dengan persyaratan pelayanan nasional minimum selama 5 tahun sebelum boleh bekerja keluar negeri",
+      "Mengembangkan ekosistem inovasi dalam negeri dengan menciptakan program pembiayaan modal ventura pemerintah untuk usaha rintisan teknologi lokal, memberikan insentif pajak super untuk perusahaan teknologi yang menciptakan lapangan kerja berkualitas dalam negeri, membangun pusat riset kolaboratif antara universitas dan industri dengan pembiayaan pemerintah yang berkelanjutan, serta membuka program kerja jarak jauh yang memungkinkan lulusan bekerja untuk perusahaan global dari dalam negeri dengan tarif pajak yang menarik",
+      "Menawarkan penyamaan gaji dengan perusahaan luar negeri untuk mempertahankan lulusan terbaik di sektor publik",
+      "Meningkatkan jumlah universitas dengan jurusan teknik secara masif untuk menciptakan kelimpahan tenaga ahli",
+      "Berunding dengan negara tujuan agar tidak merekrut lulusan Indonesia karena alasan kemanusiaan"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B paling komprehensif dan strategis. Bela negara modern memerlukan kedaulatan teknologi sebagai new frontier. Dengan menciptakan ekosistem yang menarik (modal ventura negara, insentif pajak super, penelitian kolaboratif, opsi kerja jarak jauh), Indonesia tidak hanya mempertahankan talenta tapi membangun kedaulatan teknologi dari dalam. Opsi A melanggar kebebasan bekerja. Opsi C tidak sustainable bagi sektor publik. Opsi D tidak menyelesaikan kualitas. Opsi E tidak realistis.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_023",
+    "category": "TWK",
+    "subcategory": "Pilar Negara",
+    "questionText": "Pasal 28B ayat 2 UUD 1945 menyatakan bahwa setiap orang berhak untuk menetap dan mendapatkan tempat tinggal yang layak. Dalam praktiknya, terjadi pembangunan kawasan perumahan masif yang telah menggusur permukiman tidak resmi banyak masyarakat ekonomi lemah. Masyarakat yang tergusur berargumen bahwa mereka telah tinggal di lokasi tersebut selama lebih dari dua decade. Berdasarkan semangat konstitusi dan prinsip keadilan, kebijakan paling tepat adalah...",
+    "options": [
+      "Membiarkan pembangunan karena kawasan tersebut adalah milik pengembang dan masyarakat yang tergusur adalah pendatang ilegal yang tidak memiliki hak tinggal di atas tanah pengembang",
+      "Menghentikan pembangunan dan mengembalikan tanah kepada masyarakat yang telah tinggal selama dua decade karena hak tinggal tersebut sudah dapat dikategorikan sebagai hak pakai terhadap tanah pengembang",
+      "Melakukan musyawarah antara pengembang dan masyarakat tergusur yang difasilitasi oleh pemerintah daerah: pengembang memberikan kompensasi tanah pengganti di lokasi yang memiliki akses terhadap layanan publik yang memadai, pemerintah daerah memberikan subsidi transportasi untuk mengurangi dampak perpindahan, dan masyarakat yang tidak mau menerima kompensasi tanah diberikan alternatif berupa rumah sederhana swadaya dengan skema pinjaman lunak yang didukung pemerintah",
+      "Menuntut secara hukum masyarakat yang mendiami tanah pengembang karena mereka telah melanggar hak milik pengembang yang dilindungi konstitusi",
+      "Meminta pengembang untuk menyediakan rumah bagi semua masyarakat yang tergusur tanpa kompensasi dari pemerintah karena ini adalah tanggung jawab sosial perusahaan"
+    ],
+    "answer": "B",
+    "explanation": "Opsi C paling tepat karena mencapai keseimbangan antara hak milik pengembang yang dilindungi konstitusi dan hak masyarakat ekonomi lemah atas tempat tinggal yang layak. Musyawarah menghasilkan solusi yang menghormati semua pihak. Kompensasi tanah pengganti memastikan keberlanjutan ekonomi masyarakat. Subsidi transportasi mengurangi dampak praktis perpindahan. Opsi rumah swadaya dengan pinjaman lunak memberdayakan masyarakat tanpa bergantung penuh pada pengembang. Opsi A dan D tidak memproteksi hak masyarakat ekonomi lemah. Opsi B mengabaikan hak pengembang. Opsi E tidak sustainable untuk pengembang.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_024",
+    "category": "TWK",
+    "subcategory": "Bahasa Indonesia",
+    "questionText": "Bacalah paragraf berikut!\n\n\"Sehubungan dengan kegiatan GEEF 2024, dengan ini kami sampaikan bahwa penyajian proyek terbaik akan didistribusikan kepada semua sekolah peserta sebagai bekal pembelajaran bersama.\"\n\nKesalahan penggunaan bahasa Indonesia baku dalam paragraf tersebut meliputi...",
+    "options": [
+      "kegiatan, penyajian, didistribusikan, peserta",
+      "Sehubungan, GEEF, peserta, bekal",
+      "kegiatan, penyajian, didistribusikan, GEEF",
+      "penyajian, Sehubungan, peserta, didistribusikan",
+      "kegiatan, penyajian, peserta, GEEF"
+    ],
+    "answer": "C",
+    "explanation": "Kesalahan pertama: 'kegiatan' seharusnya kegiatan (baku) atau acara/event (kata serapan yang lebih tepat dalam konteks ini). Kesalahan kedua: 'penyajian' seharusnya presentasi atau penyajian (perlu konsistensi). Kesalahan ketiga: 'akan didistribusikan' merupakan kesalahan ejaan karena harus ditulis 'akan didistribusikan' (kata depan akan dipisahkan). Kesalahan keempat: 'peserta' seharusnya peserta (sudah baku, bukan kesalahan dalam konteks ini). GEEF adalah singkatan yang perlu dituliskan kepanjangannya. Jadi empat kesalahan utama adalah kegiatan, penyajian, didistribusikan, peserta.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "twk2_025",
+    "category": "TWK",
+    "subcategory": "Nasionalisme",
+    "questionText": "Indonesia tengah dalam proses ratifikasi perjanjian perdagangan bebas dengan beberapa blok negara yang akan membuka akses pasar secara luas bagi produk nasional. Namun, perjanjian ini juga akan meningkatkan kompetisi bagi industri dalam negeri yang selama ini terlindungi oleh tarif impor. Beberapa industri dalam negeri telah menyampaikan keberatan karena merasa belum siap menghadapi kompetisi internasional. Di sisi lain, perjanjian perdagangan bebas diprediksi akan menurunkan harga barang konsumsi secara signifikan. Sikap pemerintah yang paling proporsional adalah...",
+    "options": [
+      "Menolak ratifikasi perjanjian karena proteksi terhadap industri dalam negeri harus menjadi prioritas utama untuk melindungi tenaga kerja perusahaan nasional",
+      "Menerima ratifikasi perjanjian tanpa syarat karena ini akan menurunkan harga barang konsumsi dan memberikan manfaat bagi masyarakat luas",
+      "Meratifikasi perjanjian dengan mekanisme perlindungan sementara yang memungkinkan pemerintah memberlakukan tarif impor sementara jika terjadi peningkatan impor yang mengganggu industri dalam negeri, sembari menyediakan program transformasi industri yang mencakup pelatihan tenaga kerja, akses modal dengan bunga rendah, dan modernisasi teknologi untuk industri dalam negeri yang terancam",
+      "Menunda ratifikasi sampai semua industri dalam negeri siap bersaing secara internasional",
+      "Membiarkan industri dalam negeri menyelesaikan masalah sendiri tanpa campur tangan pemerintah karena mekanisme pasar akan menentukan siapa yang bertahan"
+    ],
+    "answer": "A",
+    "explanation": "Opsi C paling tepat karena mencapai keseimbangan antara integrasi internasional dan perlindungan industri dalam negeri. Mekanisme perlindungan sementara menyediakan safety net tanpa mengorbankan integrasi pasar. Program transformasi industri memastikan bahwa industri dalam negeri tidak hanya bertahan tetapidapat berkembang. Pendekatan ini mencerminkan nasionalisme yang terbuka dan konstruktif, bukan proteksionis atau liberalis. Opsi A terlalu proteksionis. Opsi B terlalu liberal. Opsi D tidak realistis. Opsi E tidak bertanggung jawab.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_026",
+    "category": "TWK",
+    "subcategory": "Integritas",
+    "questionText": "Seorang inspektorat mendapati bahwa pejabat eselon III di sebuah organisasi pemerintah telah menerima fasilitas perjalanan dari perusahaan rekanan sebanyak tiga kali dalam dua tahun terakhir. Penerimaan tersebut meliputi tiket pesawat, akomodasi hotel, dan uang belanja untuk kegiatan yang tidak ada hubungannya dengan tugas kedinasan resmi. Pejabat tersebut berargumen bahwa penerimaan tersebut adalah terima kasih dari perusahaan karena selama ini bekerja sama dengan baik, dan bukan bagian dari kontrak atau tender apapun. Fakta menunjukkan bahwa pejabat tersebut beberapa kali memberikan informasi intern kepada perusahaan rekanan yang membantunya dalam proses tender. Sikap paling konsisten dengan prinsip integritas adalah...",
+    "options": [
+      "Membiarkan penerimaan tersebut karena tidak ada tender yang sedang berlangsung saat penerimaan dilakukan dan penerimaan adalah terima kasih atas kerja sama yang baik",
+      "Menyatakan menerima terima kasih dari rekanan sebagai gratifikasi terorganisir yang melanggar UU No 20 Tahun 2001 jo UU No 31 Tahun 1999 tentang Tindak Pidana Korupsi, yang mengharuskan pelaporan kepada KPK dalam waktu 30 hari atau pengembalian, serta mendokumentasikan semua interaksi dengan rekanan untuk keperluan audit independen",
+      "Menuntut pejabat tersebut secara pidana karena menerima sesuatu dari rekanan adalah bentuk suap meskipun tidak ada tender yang aktif",
+      "Meminta pejabat tersebut untuk mengembalikan penerimaan kepada perusahaan rekanan dan melanjutkan kerja sama seperti biasa karena tidak ada masalah hukum",
+      "Menutup kasus ini karena penerimaan bersifat pribadi dan tidak terkait dengan tugas kedinasan resmi pejabat"
+    ],
+    "answer": "C",
+    "explanation": "Opsi B paling tepat. Gratifikasi tidak memerlukan bukti bahwa penerima meminta atau bahwa tender sedang berlangsung: penerimaan saja sudah dapat dikategorikan sebagai tindak pidana jika tidak dilaporkan dalam 30 hari sesuai Pasal 12C UU 20/2001. Penerimaan yang terorganisir berulang kali semakin memperkuat indikasi pelanggaran. Dokumentasi untuk audit independen menciptakan paper trail yang melindungi proses. Opsi A adalah pengabaian hukum. Opsi C prematur tanpa investigasi penuh. Opsi D tidak memadai karena tetap menciptakan konflik kepentingan. Opsi E tidak akuntabel.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_027",
+    "category": "TWK",
+    "subcategory": "Bela Negara",
+    "questionText": "Perusahaan teknologi asing X secara sistematis menghindari pembayaran pajak melalui praktik transfer pricing yang legal secara formal namun merugikan negara triliunan rupiah setiap tahun. Perusahaan-perusahaan tersebut mengeksploitasi sumber daya alam Indonesia dan sebagian besar tenaga kerja impor dari negara asal. Di hadapan dilema antara kepatuhan formal dan kepatuhan materiil terhadap semangat pajak progresif, tindakan paling tepat adalah...",
+    "options": [
+      "Menutup kemungkinan karena regulasi Indonesia belum memadai untuk menghadapi praktik transfer pricing yang canggih",
+      "Mengusulkan kepada lembaga regulator untuk meningkatkan kapasitas dengan merekrut spesialis pajak dari dalam dan luar negeri, mengembangkan sistem informasi terintegrasi untuk mendeteksi anomali dalam laporan keuangan perusahaan, serta melakukan renegosiasi perjanjian pajak bilateral yang mengandung celah, sambil mengimplementasikan aturan pengimbang harga yang memungkinkan pengenaan pajak tambahan ketika ditemukan ketidakseimbangan tinggi dalam transaksi antar perusahaan",
+      "Membiarkan saja karena semua perusahaan tersebut sudah memiliki pendapat hukum yang menyatakan praktik mereka legal",
+      "Mengusulkan pemboikotan terhadap produk perusahaan-perusahaan tersebut secara kolektif",
+      "Mengusulkan peningkatan tarif pajak secara seragam untuk semua perusahaan asing tanpa memandang sektor"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B mencerminkan nasionalisme yang cerdas dan bertanggung jawab. Penyelesaian bukan dengan mendekati perusahaan secara individual tapi dengan memperkuat sistem regulasi dari dalam. Ini termasuk: peningkatan kapasitas kelembagaan, teknologi deteksi anomali, reform perjanjian, dan penerapan aturan pengimbang harga. Semangat Pasal 33 (kekayaan negara harus sebesar-besarnya untuk kemakmuran rakyat) diterapkan melalui mekanisme hukum yang sah.",
+    "difficulty": "hard"
+  },
+  {
+    "questionId": "twk2_028",
+    "category": "TWK",
+    "subcategory": "Pilar Negara",
+    "questionText": "Pasal 31 ayat 3 UUD 1945 menyatakan bahwa Pemerintah mengusahakan dan mengelola satu sistem pendidikan nasional yang meningkatkan keimanan dan ketakwaan serta akhlak mulia dalam diri setiap warga negara. Bagian yang dicetak miring mengandung kesalahan penulisan. Kesalahan tersebut adalah...",
+    "options": [
+      "Penggunaan kata mengusahakan yang seharusnya mengusahakan karena bentuk baku",
+      "Penggunaan kata satu yang seharusnya satu karena kata bilangan dalam teks konstitusi harus ditulis dengan angka",
+      "Penggunaan kata dan yang seharusnya sert sebagai penghubung antar unsur karena konteks formal",
+      "Penggunaan kata nasional yang seharusnya Nasional karena kata pertama dalam klausa",
+      "Penggunaan kata akhlak yang seharusnya akhlak karena bentuk baku sesuai PUEBI"
+    ],
+    "answer": "B",
+    "explanation": "Sesuai PUEBI, konjungsi koordinatif sert digunakan untuk menghubungkan unsur-unsur yang memiliki hubungan setara dalam konteks formal-legal, sedangkan dan digunakan untuk konteks yang lebih longgar. Dalam konteks konstitusional yang tinggi, sert lebih tepat untuk menghubungkan unsur-unsur tujuan pendidikan nasional. Opsi A tidak tepat karena mengusahakan sudah baku. Opsi C adalah jawaban yang benar.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "twk2_029",
+    "category": "TWK",
+    "subcategory": "Bahasa Indonesia",
+    "questionText": "Perhatikan kalimat berikut!\n\n1. Diplomasi Indonesia berhasil mendamaikan konflik perbatasan dengan negara tetangga.\n2. Komisi DPR akan melakukan pemeriksaan terhadap kebijakan imigran.\n3. Parlemen negara tersebut telah meloloskan undang-undang tentang hak asasi manusia.\n\nKesalahan penggunaan bahasa Indonesia baku dalam ke-a kalimat tersebut adalah penggunaan kata serapan yang seharusnya menggunakan padanan Indonesia yang benar. Dari ke-a kalimat tersebut, jumlah kesalahan secara keseluruhan adalah...",
+    "options": [
+      "Tiga yaitu komisi, pemeriksaan, undang-undang",
+      "Empat yaitu diplomasi, komisi, pemeriksaan, undang-undang",
+      "Lima yaitu diplomasi, komisi, pemeriksaan, parlemen, undang-undang",
+      "Enam yaitu diplomasi, komisi, pemeriksaan, parlemen, undang-undang, imigran",
+      "Dua yaitu parlemen dan undang-undang"
+    ],
+    "answer": "A",
+    "explanation": "Kesalahan pertama: 'diplomasi' seharusnya hubungan luar negeri atau diplomasi yang diserap menurut kaidah PUEBI. Kesalahan kedua: 'komisi' seharusnya komisi (sudah baku, bukan kesalahan). Kesalahan ketiga: 'pemeriksaan' seharusnya pemeriksaan (masih bisa diterima). Kesalahan keempat: 'undang-undang' seharusnya undang-undang (sudah baku, bukan kesalahan). Kata 'parlemen' merupakan kata serapan yang sudah baku menurut PUEBI (parlemen). Total empat kesalahan.",
+    "difficulty": "medium"
+  },
+  {
+    "questionId": "twk2_030",
+    "category": "TWK",
+    "subcategory": "Integritas",
+    "questionText": "Seorang Aparatur Sipil Negara yang bekerja di sebuah lembaga regulator menerima surat anonim bahwa atasannya secara rutin menerima amplop berisi uang dari perusahaan-perusahaan yang sedang dalam proses perizinan. Pengirim anonim tidak menyertakan bukti apapun namun menyebutkan detail yang sangat spesifik tentang waktu, tempat, dan nominal yang diduga diterima. Dalam keadaan normal, informasi tersebut tidak akan ditindaklanjuti karena tidak memiliki bukti yang kuat. Namun, pejabat tersebut memiliki integritas yang tinggi dan memahami bahwa menerima gratifikasi adalah pelanggaran hukum. Pilihan tindakan yang paling berintegritas adalah...",
+    "options": [
+      "Mengabaikan surat anonim karena tidak memiliki bukti dan dapat merugikan karir atasan yang mungkin tidak bersalah",
+      "Merekam semua informasi dari surat anonim, melakukan pengamatan independen terhadap pola perilaku atasannya, dan jika ditemukan konfirmasi independen, menyampaikan temuan kepada APIP atau atasan yang lebih tinggi dengan bukti yang cukup sambil menjaga kerahasiaan identitas pengirim anonim",
+      "Langsung melaporkan kepada KPK berdasarkan surat anonim karena lembaga anti-suap memiliki saluran pelaporan rahasia yang dilindungi undang-undang",
+      "Menghadapi atasan secara langsung dan memberitahu bahwa menerima amplop adalah tidak halal sambil mengancam akan melaporkan jika tidak dihentikan",
+      "Membocorkan surat anonim kepada media agar publik mengetahui adanya kemungkinan korupsi di lembaga regulator"
+    ],
+    "answer": "A",
+    "explanation": "Opsi B paling tepat karena menerapkan integritas tanpa mengorbankan prinsip due process. Surat anonim adalah titik awal, bukan bukti. Pengamatan independen memvalidasi informasi sebelum bertindak. Penyampaian kepada APIP adalah jalur yang tepat karena APIP memiliki kemampuan investigatif dan perlindungan hukum. Menjaga kerahasiaan pengirim mendorong budaya whistleblowing yang aman. Opsi A menghindari tanggung jawab. Opsi C prematur tanpa validasi. Opsi D konfrontatif dan tidak sistematis. Opsi E melanggar prinsip proses hukum.",
+    "difficulty": "hard"
+  }
+]

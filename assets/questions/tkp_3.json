@@ -1,0 +1,722 @@
+[
+  {
+    "id": "tkp3_001",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "question": "Anda adalah seorang pejabat pemerintah daerah yang menangani perizinan berusaha. Sebuah perusahaan besar milik investor asing mengajukan izin operasional di zona industri yang belum memiliki infrastruktur jalan akses memadai. Di satu sisi, izin tersebut berpotensi meningkatkan investasi daerah secara signifikan. Namun di sisi lain, jalanan akses yang rusak akan memperburuk keluhan warga sekitar yang sudah lama terabaikan, dan berpotensi menimbulkan konflik sosial. Sementara itu, atasan Anda meminta agar izin segera diproses demi target investasi triwulanan. Waktu Anda terbatas dan studi AMDAL belum sepenuhnya final. Posisi Anda adalah...",
+    "options": [
+      "Segera proses izin karena permintaan atasan bersifat instruksi hierarkis dan investor sudah memenuhi persyaratan administrasi dasar",
+      "Tunda izin sampai infrastruktur akses mendapat perbaikan minimum, namun sampaikan secara diplomatis kepada investor bahwa proses memerlukan waktu tambahan dengan alasan teknis kepastian berusaha",
+      "Berikan izin bersyarat yang mewajibkan perusahaan menyediakan dana CSR untuk perbaikan infrastruktur jalan sebagai bagian dari izin operasional mereka",
+      "Tolak izin dengan alasan infrastruktur belum memadai dan sampaikan bahwa penolakan demi kepentingan warga adalah keputusan yang tepat",
+      "Serahkan keputusan sepenuhnya kepada atasan karena Anda tidak memiliki wewenang untuk menunda proses yang sudah diperintahkan"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C merupakan pendekatan terintegrasi yang menyeimbangkan kepentingan investor, warga, dan pemerintah. Pendekatan ini bukan penundaan yang merugikan investasi, bukan penolakan tanpa dasar hukum yang jelas, bukan kepatuhan buta, dan bukan pelepasan tanggung jawab. Izin bersyarat merupakan instrumen hukum yang lazim digunakan dalam perizinan investasi.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_002",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "question": "Anda menjadi mediator dalam sengketa batas tanah antara dua desa yang sudah berlangsung selama 15 tahun. Kedua belah pihak memiliki dokumen kepemilikan yang saling bertentangan, masing-masing diterbitkan oleh instansi berbeda di era yang berbeda. Baru saja terungkap bahwa dokumen salah satu pihak kemungkinan besar dipalsukan oleh calo tanah yang sudah bertahun-tahun beroperasi di daerah tersebut. Namun bukti pemalsuan belum melalui proses forensik yang sah. Warga kedua desa sudah mulai kerumun dan situasi berpotensi ricuh. Anda harus...",
+    "options": [
+      "Segera umumkan bahwa dokumen yang dimungkinkan dipalsukan tersebut tidak sah dan putuskan berdasarkan dokumen pihak lain saja demi keamanan",
+      "Hentikan mediasi dan sampaikan kepada kedua belah pihak bahwa masalah ini harus diselesaikan melalui jalur pengadilan saja karena mediator tidak berwenang menangani sengketa dengan indikasi pemalsuan",
+      "Tunda mediasi dengan alasan memerlukan verifikasi forensik, namun tetapkan batas waktu maksimal 14 hari kerja dan libatkan pihak forensik ahli yang besok bisa dimulai, sambil memastikan kedua pihak tidak melakukan provokasi selama masa tunda",
+      "Ambil keputusan berdasarkan dokumen tertua karena dokumen yang lebih baru cenderung dimanipulasi oleh calo tanah yang sudah beroperasi lama",
+      "Sarankan kedua desa untuk membagi tanah secara merata sebagai jalan tengah agar situasi segera reda dan tidak ada pihak yang dirugikan berlebihan"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menjaga integritas proses mediasi dengan tidak memihak sebelum bukti valid, menetapkan tenggat waktu agar tidak menjadi penundaan tanpa akhir, melibatkan ahli forensik secara konkret, dan secara proaktif mencegah eskalasi konflik. Pendekatan ini berbeda dari opsi B yang melepaskan tanggung jawab, opsi A yang memihak tanpa bukti valid, opsi D yang mengambil keputusan berdasarkan asumsi, dan opsi E yang memberikan solusi ad-hoc tanpa dasar hukum.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_003",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "question": "Anda mengelola unit pelayanan publik di sebuah kelurahan. Seorang lansia datang setiap minggu selama tiga bulan terakhir untuk menanyakan status permohonan pembuatan KTP yang keluarganya mengajukan atas nama cucunya yang baru lahir. Staf loket Anda sudah berulang kali menjelaskan bahwa proses memerlukan waktu 14 hari kerja dan saat ini masih dalam tahap verifikasi data. Namun lansia tersebut terus datang dan mulai menuduh bahwa staf Anda sengaja memperlambat karena tidak suka dengan warga kampung sederhana. Tuduhan ini kemudian viral di grup WhatsApp warga. Posisi Anda adalah...",
+    "options": [
+      "Minta lansia tersebut membuat laporan resmi jika merasa ada ketidakadilan agar bisa diproses sesuai SOP, dan abaikan pesan WhatsApp karena tidak bersifat formal",
+      "Terima lansia dengan tenang, tunjukkan langsung progres permohonan di sistem, jelaskan tahap demi tahap dengan sabar, dan jika bersedia, dampingi lansia berbicara di grup WhatsApp warga untuk meluruskan informasi secara langsung",
+      "Hubungi keluarga lansia dan minta mereka menjauhkan lansia dari layanan publik agar tidak menimbulkan masalah lagi di kemudian hari",
+      "Jelaskan sekali lagi secara umum bahwa proses normal dan jika lansia tidak puas dengan waktu tunggu, sampaikan bahwa setiap permohonan diproses sama dan tidak ada istimewa bagi siapa pun",
+      "Laporkannya ke pihak berwajib atas penyebaran informasi yang bisa merusak nama institusi tanpa bukti yang memadai"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan empati tertinggi terhadap lansia sekaligus transparansi proaktif. Dengan menunjukkan langsung progres di sistem, lansia mendapat bukti konkret. Mendampingi di grup WhatsApp mengubah narasi dari tuduhan menjadi pendekatan humanis. Opsi A terlalu birokratis dan mengabaikan eskalasi di media sosial. Opsi C tidak etis dan diskriminatif. Opsi D terlalu defensif. Opsi E berlebihan dan kontraproduktif.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_004",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "question": "Anda kepala Bagian Keuangan di sebuah SKPD. Jelang akhir tahun anggaran, terdapat pemandangan klasik: anggaran yang tersisa sangat besar sementara banyak program belum terealisasi. Anda ditugasi atasan untuk mencairkan anggaran sisa semaksimal mungkin agar tidak dikembalikan ke kas negara, termasuk melalui beberapa program yang menurut analisis Anda kualitasnya dipertanyakan dan cenderung boros. Namun beberapa program tersebut sudah diagendakan oleh Dinas untuk kepentingan masyarakat, hanya saja waktu pelaksanaan yang tidak memungkinkan di sisa waktu. Sebagai kepala bagian, Anda akan...",
+    "options": [
+      "Laksanakan saja instruksi dari atas karena sebagai bawahan Anda hanya melaksanakan dan pertanggungjawaban ada pada atasan yang memerintahkan",
+      "Tolak pelaksanaan program yang menurut analisis Anda berkualitas rendah dan kembalikan anggaran sisa, karena menggunakan anggaran untuk program berkualitas rendah merupakan pelanggaran terhadap prinsip pengelolaan keuangan negara",
+      "Lakukan review mendetail terhadap seluruh program yang tersisa, identifikasi mana yang benar-benar benefit bagi masyarakat meskipun waktu sempit, dan sampaikan daftar prioritas kepada atasan dengan analisis risiko realizasi setiap program terhadap sisa waktu, sarankan percepatan jika memungkinkan",
+      "Sampaikan kepada atasan bahwa tidak ada program yang bisa dilaksanakan dengan sisa waktu sekecil ini dan biarkan anggaran kembali ke kas negara sebagai pelaksanaan anggaran yang wajar",
+      "Sarankan program-program baru yang lebih mudah terealisasi dalam waktu singkat meskipun tidak ada dalam rencana awal dan meskipun belum tentu dibutuhkan masyarakat"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan integritas dengan tidak melaksanakan program bermasalah, profesionalisme dengan memberikan analisis berbasis data, dan loyalty struktural dengan tetap menyampaikan temuan kepada atasan dalam bentuk rekomendasi. Pendekatan ini menjaga akuntabilitas pengelolaan keuangan negara. Bukan opsi A yang patuh buta, bukan opsi B yang menolak tanpa solusi, bukan opsi D yang pasif, bukan opsi E yang menciptakan program tidak perlu.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_005",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "question": "Anda diminta memimpin tim untuk menyusun rencana kerja tahun depan. Setelah melakukan riset lapangan, tim Anda mendapatkan data yang menunjukkan bahwa program prioritas yang selama ini diagendakan oleh kepala dinas ternyata tidak sesuai dengan kebutuhan riil di lapangan. Bahkan data menunjukkan program tersebut justru berpotensi merugikan kelompok rentan yang menjadi target. Namun kepala dinas sudah menyampaikan program tersebut dalam forum Musrenbangdes dan menjanjikan pelaksanaannya kepada warga. Jika Anda menyampaikan data lapangan apa adanya, kepala dinas akan kehilangan muka di forum. Jika Anda diam, masyarakat akan dirugikan.",
+    "options": [
+      "Sampaikan temuan lapangan secara jujur kepada kepala dinas secara tertutup terlebih dahulu, sertakan data dan analisis dampak terhadap kelompok rentan, dan minta arahan tentang cara penyajian yang tetap transparan namun menghargai posisi atasan",
+      "Ikut serta dalam musrenbangdes dan sampaikan program tersebut sesuai keinginan kepala dinas karena musrenbangdes sudah decided dan tidak etis untuk mengubah janji yang sudah disampaikan",
+      "Sampaikan semua temuan lapangan apa adanya di musrenbangdes tanpa filter apapun dan biarkan kepala dinas yang menanggung konsekuensinya karena kesalahan tidak boleh ditutup-tutupi",
+      "Hapus data yang merugikan dari laporan dan sampaikan program sesuai keinginan kepala dinas karena sebagai bawahan Anda harus melindungi atasan",
+      "Minta waktu tambahan untuk memverifikasi data lapangan sebelum musrenbangdes agar tidak menyampaikan informasi yang belum pasti"
+    ],
+    "answer": "A",
+    "explanation": "Opsi A menyeimbangkan antara integritas data, etika pejabat negara terhadap masyarakat, dan loyalty terhadap hierarki organisasi. Penyampaian tertutup terlebih dahulu memberikan ruang bagi kepala dinas untuk mempersiapkan respons dan menunjukkan niat baik. Pendekatan ini bukan pembangkangan, bukan kepatuhan buta, bukan manipulasi, dan bukan penundaan yang tidak bertanggung jawab.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_006",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "question": "Seorang ibu tunggal dengan tiga anak datang ke kantor Anda membawa bayi yang sedang demam tinggi. Ia memerlukan Surat Keterangan Tidak Mampu (SKTM) untuk berobat gratis di rumah sakit. Namun Adminduk di desa tempat ia ber-KTP sedang tidak berfungsi karena server rusak sudah dua minggu dan belum ada timeline perbaikan dari pusat. Ibu tersebut tidak memiliki KTP yang memadai untuk membuktikan domisili di wilayah Anda. Bayi semakin demam dan waktu sangat mendesak. Anda berada di...",
+    "options": [
+      "Berikan SKTM berdasarkan pernyataan lisan ibu tersebut karena kondisi darurat memerlukan keputusan manusiawi dan bayi tidak boleh menjadi korban dari kerusakan sistem",
+      "Jelaskan situasi dengan empati, bantu ibu menghubungi rumah sakit terdekat untuk mendapatkan perawatan darurat terlebih dahulu tanpa SKTM (karena UU Kesehatan memperbolehkan perawatan darurat tanpa identitas lengkap), kemudian bantu adminsitrasi desa agar server diperbaiki secepatnya",
+      "Tidak bisa memberikan SKTM karena tidak ada data yang valid untuk mendukung, sarankan ibu pergi ke rumah sakit umum dan menjelaskan situasinya di sana",
+      "Berikan SKTM tanpa dasar data yang memadai karena kasihan terhadap kondisi ibu dan bayi, prioritaskan aspek kemanusiaan di atas prosedur",
+      "Minta ibu menunggu sampai server berfungsi kembali karena prosedur harus tetap ditaati dan tidak ada pengecualian bagi siapapun"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan pemahaman mendalam terhadap regulasi, empati tanpa melanggar prosedur, dan inisiatif untuk menyelesaikan akar masalah. Pendekatan ini tidak memalsakan dokumen, tidak menolak tanpa solusi, dan tidak kaku secara mekanis. Ibu mendapat perawatan mendesak dan masalah sistemik ikut ditindaklanjuti.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_007",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "question": "Anda mengelola pengaduan masyarakat di sebuah instansi pemerintah. Dalam sebulan terakhir, muncul pola pengaduan yang sistematis dari beberapa akun media sosial berbeda yang semuanya mengarah ke isu yang sama: bahwa Anda sebagai pejabat telah melakukan diskriminasi layanan terhadap warga dari etnis tertentu. Investigation internal menunjukkan bahwa pengaduan tersebut kemungkinan besar bukan dari warga nyata melainkan dari akun terorganisir yang dibayar untuk sabotage. Namun beberapa warga yang benar-benar ada juga mulai mempertanyakan karena mereka melihat pengaduan di media sosial. Apa yang Anda lakukan?",
+    "options": [
+      "Abaikan semua pengaduan dari media sosial karena media sosial tidak bisa diverifikasi dan pengaduan resmi tidak ada, biarkan isu mereda sendiri karena tidak memiliki dasar",
+      "Lakukan investigation internal menyeluruh, jika ditemukan bukti coordinated attack, sampaikan temuan secara terbuka ke media dan warga bahwa pengaduan tidak berdasar dan merupakan serangan terorganisir, serta sampaikan data layanan riil yang menunjukkan tidak ada diskriminasi",
+      "Temui kelompok etnis yang dimaksud secara langsung, jelaskan bahwa tidak ada diskriminasi dan minta mereka membela Anda di media sosial",
+      "Laporkan semua akun media sosial ke police untuk cyber defamation karena pengaduan palsu yang terorganisir adalah tindak pidana",
+      "Segera keluarkan pernyataan resmi bahwa Anda tidak pernah melakukan diskriminasi dan mengancam akan bertindak hukum terhadap siapapun yang menyebarkan informasi palsu"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan respons yang berimbang: tetap profesional dengan melakukan investigation, bukan panik atau defensive berlebihan, dan merespons dengan data konkret saat ditemukan pola tidak legitimate. Pendekatan transparan ini membangun kepercayaan publik. Opsi A mengabaikan eskalasi. Opsi C tidak elegan. Opsi D prematur sebelum bukti kuat. Opsi E terlalu reaktif tanpa dasar.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_008",
+    "category": "TKP",
+    "subcategory": "Pelayanan Publik",
+    "question": "Sebuah badai besar akan melewati wilayah Anda dalam 48 jam. Anda sebagai kepala desa wajib menyusun rencana evakuasi. Data menunjukkan bahwa rumah-rumah di bantaran sungai memiliki risiko tinggi, namun sebagian penghuninya adalah lansia dan penyandang disabilitas yang menolak meninggalkan rumah mereka dengan alasan tidak ada yang menjaga ternak dan harta benda mereka. Beberapa warga yang lebih muda bahkan menghalang-halangi upaya evakuasi dengan alasan kepercayaan bahwa badai tidak akan separah prediksi. Di waktu bersamaan, Anda juga mendapat instruksi dari kecamatan untuk memastikan zero casualty. Anda harus...",
+    "options": [
+      "Paksa evakuasi semua warga dengan bantuan TNI/Polri karena instruksi dari kecamatan bersifat mengikat dan zero casualty adalah indikator yang tidak bisa dinegosiasikan",
+      "Lakukan pendekatan door-to-door dengan tim yang terdiri dari petugas kesehatan, tokoh agama, dan volunteers, pahami kekhawatiran masing-masing warga, sediakan logistik dan koordinasi dengan tetangga untuk menjaga ternak dan harta benda selama evakuasi, serta tegaskan risiko hukum bagi yang tetap menolak dengan menunjukkan regulasi yang berlaku",
+      "Evakuasi hanya warga yang mau pergi dan sampaikan kepada kecamatan bahwa sebagian warga menolak sehingga zero casualty indikator tidak mungkin dipenuhi",
+      "Percaya prediksi BMKG yang sering salah dan biarkan warga memilih sendiri karena evakuasi paksa adalah pelanggaran terhadap hak pribadi warga negara Indonesia",
+      "Tunda semua keputusan sampai badai benar-benar akan mendarat karena evakuasi dini akan menimbulkan kepanikan yang tidak perlu"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan kepemimpinan yang kompleks: menggabungkan empati, sinergi tim multidisiplin, pemecahan masalah konkret, komunikasi risiko yang jelas, dan tetap berpegang pada instruksi hierarki. Bukan pendekatan otoriter, bukan pembenaran kegagalan, bukan pembiaran, bukan penundaan berbahaya.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tkp3_009",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "question": "Anda seorang pejabat eselon III yang baru rotasi ke SKPD baru setelah 8 tahun di instansi sebelumnya. Di SKPD baru, Anda menemukan bahwa tim kerja Anda terbelah menjadi dua kubu: satu mendukung mantan pejabat sebelumnya yang sudah pensiun, dan satu lagi mendukung pejabat saingan internal yang masih aktif. Kedua kubu sama-sama mencoba mendapatkan dukungan Anda untuk kepentingan mereka. Kinerja SKPD jelas menurun karena energi terbuang untuk politik internal. Posisi Anda adalah...",
+    "options": [
+      "Dukung kubu mantan pejabat pensiun karena dialahmembawah Anda ke posisi ini dan loyalitas personal penting dalam birokrasi",
+      "Dukung pejabat yang masih aktif karena dia masih memiliki kekuasaan untuk mempengaruhi karier Anda ke depan",
+      "Netral secara politik, fokuskan seluruh energi pada penyelesaian backlog kerja dan bangun kepercayaan dari tim berdasarkan kinerja objektif, namun tetap terbuka berkomunikasi dengan semua pihak secara profesional tanpa menunjukkan pembelaan",
+      "Pilih pihak yang menurut analisis Anda memiliki program kerja yang paling sejalan dengan kepentingan masyarakat meskipun mereka saat ini kalah dalam pertarungan internal",
+      "Lapor ke inspektorat bahwa SKPD ini memiliki politik internal yang mengganggu kinerja sehingga perlu intervensi atasan"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan profesionalisme tinggi di lingkungan yang kompleks. Netralitas bukan ketidakpedulian tapi posisi strategis yang memungkinkan Anda bekerja efektif. Membangun kepercayaan berbasis kinerja menghindari kolusi dengan keduanya. Pendekatan ini melindungi integritas Anda dan melayani masyarakat.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tkp3_010",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "question": "Anda diundang ke sebuah forum internasional tentang good governance di mana Anda harus presentasi tentang inovasi pelayanan publik di daerah Anda. Namun saat menyusun materi, Anda sadar bahwa inovasi yang dipromosikan oleh daerah Anda sebenarnya merupakan adaptasi dari program sebuah daerah lain yang dulu pernah Anda lihat saat benchmarking, dengan sedikit modifikasi. Daerah Anda tidak pernah menuliskan sumber inspirasi tersebut. Presentasi besok dan Anda harus memutuskan...",
+    "options": [
+      "Presentasikan sebagaimana adanya karena semua daerah saling belajar dan tidak ada yang bisa mengklaim inovasi 100% asli, selama program ini benar-benar memberikan manfaat bagi warga",
+      "Sebutkan bahwa program merupakan pengembangan dari best practice daerah lain yang pernah menjadi referensi, namun sampaikan secara umum tanpa menyebut nama spesifik karena tidak ingin terkesan mengekspos referensi yang mungkin sudah out of date",
+      "Telusuri terlebih dahulu apakah program daerah asal sudah dilindungi secara kekayaan intelektual, jika tidak, proceed dengan menyebutkan sumber inspirasi secara terbuka",
+      "Ubah presentasi untuk menghapus semua elemen yang terlihat mirip dengan program daerah lain dan klaim sebagai hasil riset mandiri",
+      "Batalkan presentasi karena tidak ada cukup waktu untuk memverifikasi sumber inspirasi dan lebih baik tidak presentasi daripada mengklaim sesuatu yang belum pasti"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan integritas akademik dan profesional. Mengakui sumber inspirasi bukan kelemahan tapi demonstrasi kejujuran intelektual yang dihormati di forum internasional. Pendekatan ini riset-based, tidak memalsakan klaim, dan tetap memungkinkan presentasi berjalan.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tkp3_011",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "question": "Anda seorang kepala bidang yang memiliki relasi baik dengan sejumlah narasumber dari dunia usaha, akademisi, dan LSM. Dalam rangka menyusun kebijakan publik yang evidence-based, Anda bermaksud mengundang narasumber dari ketiga kelompok tersebut untuk memberikan pandangan. Namun Anda sadar bahwa narasumber dari dunia usaha cenderung memiliki kepentingan ekonomi yang mungkin bertentangan dengan kepentingan masyarakat kecil, narasumber akademisi mungkin terlalu teoritis tanpa mengenal realitas lapangan, dan narasumber dari LSM mungkin memiliki agenda partaisannya sendiri. Bagaimana menyeimbangkan...",
+    "options": [
+      "Ajak dirimu LSM dan akademisi karena dua kelompok ini memiliki integritas yang lebih tinggi daripada dunia usaha yang hanya mementingkan untung",
+      "Ajak semua narasumber tanpa diskriminasi, namun buat kerangka diskusi yang terstruktur dengan pertanyaan yang mengarahkan setiap kelompok untuk memberikan perspektif yang seimbang dan mewaspadai bias masing-masing",
+      "Lakukan semua perencanaan sendiri tanpa narasumber eksternal karena semua kelompok memiliki bias dan lebih baik mengandalkan penilaian internal yang netral",
+      "Ajak dirimu dunia usaha karena merekalah yang paling memahami ekonomi dan akan memberikan data paling aktual tentang kondisi riil",
+      "Serahkan sepenuhnya kepada narasumber untuk menentukan topik diskusi karena merekalah yang paling kompeten di bidangnya masing-masing"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan pendekatan pluralistis yang memperkaya kebijakan dengan beragam perspektif, sekaligus moderasi profesional untuk memitigasi bias. Fasilitator yang baik bukan menghilangkan perspektif tapi mengorganisir mereka menjadi dialog yang konstruktif.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tkp3_012",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "question": "Anda ditugaskan menyusun MoU dengan sebuah universitas ternama untuk program magang dan riset bersama. Proses negosiasi berjalan baik dan MoU hampir ditandatangani. Tiba-tiba Anda mendapat informasi bahwa salah satu profesor yang menjadi counterpart universitas ternyata memiliki reputasi yang bermasalah: beberapa publikasinya dianggap plagiarisme oleh komunitas akademik internasional, dan ada konflik kepentingan dengan perusahaan tempat professor juga menjadi konsultan. Informasi ini belum dipublikasikan secara resmi dan bersifat rahasia. Anda perlu memutuskan...",
+    "options": [
+      "Tetap proceeds dengan MoU karena informasi tersebut belum terbukti secara resmi dan hubungan institusional lebih penting dari reputasi individual professor",
+      "Tunda penandatanganan MoU dan sampaikan kepada pimpinan universitas bahwa ada informasi yang perlu diklarifikasi terkait konflik kepentingan professor counterpart, dengan tetap menjaga kerahasiaan sumber informasi",
+      "Batalkan semua negosiasi karena professor yang bermasalah akan merusak integritas seluruh institusi Anda",
+      "Lanjutkan MoU namun ganti counterpart professor dengan staff lain yang lebih bersih, namun jangan sampaikan alasan pergantian kepada universitas",
+      "Publikasikan informasi tentang plagiarisme professor di media agar transparansi terjaga dan masyarakat tahu bahwa Anda tidak tertipu"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan keseimbangan antara kehati-hatian institutional dan profesionalisme dalam hubungan antar institusi. Menunda bukan membatalkan, dan mengkomunikasikan ke pimpinan universitas menjaga hubungan baik sambil melindungi institusi dari risiko reputasi. Bukan opsi A yang mengabaikan risiko, bukan C yang terlalu reaktif, bukan D yang tidak jujur, bukan E yang prematur dan destruktif.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tkp3_013",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "question": "Anda seorang kepala bagian yang memiliki bawahan yang sangat kompeten namun memiliki reputasi tidak sedap di lingkungan internal: sering mengkritik kebijakan atasan secara terbuka di media sosial, menulis artikel opininya sendiri yang kadang mengkontroversikan posisi instansi, dan aktif di organisasi profesi yang kadang berseberangan dengan kebijakan pemerintah. Secara kinerja, ia adalah yang terbaik di tim Anda. Sebagai atasan, Anda perlu...",
+    "options": [
+      "Tetap biarkan karena performa bagus dan kebebasan berpendapat adalah hak karyawan selama tidak ada pelanggaran hukum yang terang",
+      "Panggil dan tegur secara tertutup dan minta agar tidak menulis atau bicara yang kontroversial yang bisa merusak citra instansi, ingatkan bahwa sebagai Aparatur Sipil Negara ada aturan tentang ekspresi publik",
+      "Berhentikan karena meskipun performanya bagus, perilakunya yang publik dan kontoversial sudah melampaui batas kesetiaan terhadap institusi",
+      "Pindahkan ke divisi lain yang lebih sesuai dengan karakter personalnya agar tidak mengganggu lingkungan kerja tim Anda",
+      "Apresiasi melalui kompensasi finansial yang lebih tinggi sebagai kompensasi atas ketidaknyamanan yang ditimbulkan perilakunya terhadap tim lainnya"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan kepemimpinan yang matur: menghargai kompetensi dan kebebasan berpendapat, namun mengingatkan batasan aturan kepegawaian ASN. Pendekatan tertutup (bukan publik) melindungi dignity bawahan sambil menegaskan batas profesional. Bukan opsi A yang membiarkan risiko, bukan C yang terlalu drastis, bukan D yang menghindari masalah, bukan E yang memberi reward tidak tepat.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tkp3_014",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "question": "Anda diminta menjadi narasumber dalam sebuah seminar nasional. Namun sehari sebelum seminar, Anda mengetahui bahwa moderator seminar tersebut memiliki affiliasi politis yang sangat keras dan seminar tersebut kemungkinan besar akan digunakan sebagai platform politik praktis. Anda sudah menyiapkan materi yang benar-benar berisi ilmu pengetahuan dan pengalaman praktis. Hadir berarti memberikan legitimasi pada acara yang bermuatan politis. Tidak hadir berarti mengecewakan harapan penyelenggara yang sudah mengundang Anda. Yang Anda putuskan adalah...",
+    "options": [
+      "Tetap hadir dan sampaikan materi sesuai persiapan karena kontribusi Anda pada publik lebih penting dari konteks politik seminar, dan selama materi Anda tidak politis maka tidak ada masalah",
+      "Batalkan kehadiran dengan alasan apapun karena memberikan legitimasi pada acara bermuatan politik praktis adalah pelanggaran terhadap netralitas ASN",
+      "Kontak moderator dan sampaikan bahwa Anda bersedia hadir asalkan moderator menjamin seminar berjalan ilmiah dan tidak digunakan untuk kampanye politik, dan jika moderator tidak bisa menjamin, batalkan kehadiran",
+      "Tetap hadir namun ubah materi untuk secara halus offset bias politik moderator sehingga seminar tetap balanced",
+      "Serahkan keputusan kepada pimpinan instansi karena sebagai ASN Anda tidak seharusnya membuat keputusan sendiri yang berpotensi menimbulkan masalah politik"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan profesionalisme yang aktif: tidak membatalkan secara prematur tapi memberikan kesempatan perbaikan, dan tidak hadir begitu saja tanpa filter. Pendekatan ini melindungi netralitas ASN sambil tetap memungkinkan kontribusi ilmiah jika kondisi memungkinkan. Bukan A yang pasif-legitimizing, bukan B yang prematur, bukan D yang tidak jujur, bukan E yang melepaskan tanggung jawab.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tkp3_015",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "question": "Anda mengelola sebuah unit kerja yang secara historis memiliki budaya kerja yang sangat hierarkis dan rigid. Pegawai muda cenderung pasif dan menunggu instruksi dari atas. Budaya ini sudah berjalan puluhan tahun dan hasilnya adalah unit Anda yang paling lambat responsnya di seluruh organisasi. Anda diminta untuk mengubah budaya ini dalam waktu satu tahun. Anda tahu perubahan budaya tidak bisa instan dan butuh proses yang panjang. Namun target satu tahun bersifat mengikat. Strategi Anda adalah...",
+    "options": [
+      "Terima saja bahwa target satu tahun tidak realistis dan sampaikan kepada atasan bahwa perubahan budaya butuh waktu minimal 3-5 tahun, bersiap dievaluasi karena kegagalan memenuhi target",
+      "Implementasi program perubahan radikal dengan memberi reward besar bagi yang inisiatif dan punishment bagi yang tetap pasif, pastikan semua tahu bahwa budaya lama tidak lagi diterima",
+      "Mulai dengan memperkenalkan sistem mentoring berpasangan antara pegawai senior yang punya pengalaman dengan pegawai junior yang punya energi, buat proyek pilot kecil yang menuntut inisiatif tanpa risiko besar, dan bangun narrative bahwa perubahan dimulai dari hal kecil yang konsisten",
+      "Buat kebijakan baru yang memaksa semua pegawai untuk menyampaikan ide minimal satu per bulan dan who tidak menyampaikan akan dikurangi tunjangan kinerja",
+      "Import praktisi dari luar organisasi yang sudah berhasil mengubah budaya di tempat lain dan mereka akan membawa metodologi yang sudah teruji"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan pemahaman mendalam bahwa perubahan budaya adalah proses organik, bukan dekret. Mentoring memanfaatkan pengalaman senior sekaligus memunculkan energi junior. Proyek pilot memberi ruang aman untuk eksperimen tanpa risiko besar. Pendekatan gradual tapi terstruktur membangun traction nyata. Bukan A yang pasif-accepting, bukan B yang terlalu disruptive tanpa fondasi, bukan D yang memaksa tanpa budaya pendukung, bukan E yang external-dependency.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_016",
+    "category": "TKP",
+    "subcategory": "Jejaring Kerja",
+    "question": "Anda diundang dalam sebuah forum lintas sektoral yang membahas kebijakan lingkungan hidup. Forum tersebut mempertemukan representantes dari pemerintah, industri, akademisi, dan komunitas adat. Anda mewakili pemerintah. Dalam forum tersebut, sebuah perusahaan besar melakukan presentasi yang mengklaim bahwa operational mereka sudah 100% ramah lingkungan, lengkap dengan sertifikat dari sebuah lembaga internasional. Namun Anda tahu bahwa laporan dari LSM lingkungan yang terbit dua bulan lalu menunjukkan bukti bahwa operational perusahaan tersebut justru merusak ekosistem sungai di dekat lokasi mereka. Sertifikat yang diklaim perusahaan tersebut juga sedang dalam proses contest di pengadilan. Apa yang Anda lakukan di forum tersebut?",
+    "options": [
+      "Biarkan saja karena perbedaan perspektif adalah wajar dan perusahaan punya hak untuk menyampaikan klaim mereka, Anda sebagai pemerintah bisa riset sendiri setelah forum",
+      "Tanyakan secara langsung di forum mengenai klaim 100% ramah lingkungan dan sertifikat yang sedang di contest, dengan tetap menjaga profesionalisme dan tidak menuduh tetapi memastikan fakta di meja",
+      "Interupsi presentasi dan sampaikan bahwa klaim perusahaan tidak sesuai dengan fakta berdasarkan laporan LSM yang kredibel",
+      "Interupsi presentasi dan sampaikan bahwa klaim perusahaan tidak sesuai dengan fakta berdasarkan laporan LSM yang kredibel",
+      "Minta waktu untuk melakukan klarifikasi sebelum memberikan komentar di forum, dan sampaikan bahwa sebagai pejabat pemerintah Anda tidak bisa memberikan pernyataan yang belum terverifikasi"
+    ],
+    "answer": "C",
+    "explanation": "Opsi B menunjukkan kehati-hatian dan profesionalisme: tidak diam saja, tidak menyerang, tapi juga tidak membiarkan klaim tidak diverifikasi di forum publik. Dengan bertanya secara langsung, pertanyaan Anda terekspos ke seluruh peserta forum dan perusahaan harus menjawab. Ini melindungi posisi pemerintah sebagai regulator tanpa konfrontasi frontal. Bukan A yang diam-diam saja, bukan C yang terlalu agresif, bukan D yang tidak transparan, bukan E yang terlalu pasif.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_017",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "question": "Anda kepala desa di daerah pedalaman yang memiliki tradisi adat yang sudah berlangsung selama ratusan tahun. Tradisi tersebut dipraktikkan oleh sebagian besar warga dan menjadi bagian integral dari identitas budaya mereka. Namun tradisi tersebut mengandung unsur yang menurut peraturan pemerintah pusat termasuk kekerasan terhadap anak, misalnya ritual inisiasi yang menyakiti fisik. Pemerintah pusat telah mengirim surat edaran untuk menghentikan praktik tersebut dan mengancam sanksi bagi kepala desa yang tidak menjalankannya. Sebagian besar warga Anda mendukung pelestarian tradisi ini dan menganggap pemerintah pusat tidak memahami budaya lokal. Anda berada di posisi yang sangat sulit: menjalankan perintah berarti kehilangan dukungan warga dan otoritas Anda sebagai kepala desa, namun tidak menjalankan perintah berarti melanggar aturan dan berisiko kehilangan posisi.",
+    "options": [
+      "Lakukan komunikasi intensif dengan warga, jelaskan regulasi pemerintah pusat dan risiko sanksi, namun sampaikan bahwa Anda akan berusaha mencari jalan tengah: modifikasi tradisi agar unsur kekerasan dihilangkan tapi core ritual tetap ada, dengan melibatkan tokoh adat dalam proses modifikasi",
+      "Tolakkan keinginan pemerintah pusat karena tradisi adat adalah kedaulatan desa dan Anda siap menanggung konsekuensi",
+      "Laporkan tradisi kekerasan ini ke pemerintah pusat karena sebagai kepala desa Anda tidak mungkin menjalankan tradisi yang melanggar hak anak",
+      "Ikuti perintah pemerintah pusat secara strict tanpa komunikasi dengan warga, tegakkan aturan karena hukum lebih tinggi dari tradisi",
+      "Minta waktu satu tahun untuk transisi dengan bukti bahwa Anda sedang berusaha melestarikan tradisi tanpa kekerasan, namun sampaikan kepada warga bahwa perubahan tidak bisa dihindari"
+    ],
+    "answer": "A",
+    "explanation": "Opsi A menunjukkan kepemimpinan transformasional yang rumit: memahami bahwa tradisi dan hukum bisa dikomposisikan melalui modifikasi yang melibatkan stakeholder kunci. Pendekatan ini bukan kepatuhan buta, bukan penolakan buta, tapi diplomasi berbasis solusi. Menghilangkan unsur kekerasan sambil mempertahankan core ritual menunjukkan penghormatan terhadap budaya sambil memenuhi regulasi.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_018",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "question": "Anda pejabat yang ditempatkan di daerah yang mengalami konflik historis antaretnis yang sudah berlangsung berminggu-minggu. Situasi panas dan korban sipil mulai muncul. Anda mendapat informasi bahwa kelompok A dan kelompok B sedang mempersiapkan balasan yang keduanya berpotensi memicu eskalasi kekerasan berskala besar. Kelompok A berbasis di wilayah Anda dan kelompok B berbasis di kabupaten tetangga. Anda tidak memiliki cukup aparat untuk menengahi kedua kelompok secara fisik. Namun Anda memiliki hubungan personal yang baik dengan beberapa tokoh kunci di kedua kelompok. Informasi yang Anda terima memperkirakan eskalasi akan terjadi dalam 48 jam. Anda harus...",
+    "options": [
+      "Segera minta reinforcements dari pusat karena situasinya di luar kapasitas Anda dan risiko eskalasi terlalu besar untuk ditangani sendiri",
+      "Gunakan hubungan personal dengan tokoh kunci di kedua kelompok secara simultan, sampaikan bahwa Anda memiliki informasi tentang rencana balasan dan minta mereka bergabung dalam pertemuan tertutup darurat di tempat netral, serta sampaikan konsekuensi hukum jika eskalasi terjadi",
+      "Hubungi hanya kelompok A karena mereka berbasis di wilayah Anda dan fokus pada de-eskalasi lokal saja, kelompok B adalah tanggung jawab kabupaten tetangga",
+      "Publikasikan peringatan bahwa eskalasi akan mengakibatkan intervensi militer sehingga kedua kelompok takut dan membatalkan rencana balasan",
+      "Lapor kepada pimpinan di pusat tentang potensi eskalasi namun tidak mengambil tindakan lain karena Anda tidak memiliki wewenang untuk mengambil keputusan yang sifatnya lintas kabupaten"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan kepemimpinan krisis yang efektif: memanfaatkan modal sosial yang sudah dibangun untuk tujuan de-eskalasi, melakukan pendekatan simultan untuk menghindari persepsi bias, menetapkan pertemuan tertutup sebagai ruang dialog, dan menyampaikan konsekuensi hukum sebagai deterrent. Bukan A yang hanya bergantung pada pusat, bukan C yang memecah tanggung jawab, bukan D yang bluffing, bukan E yang pasif.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_019",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "question": "Anda pejabat yang ditugaskan menjadi fasilitator dalam sebuah kegiatan rembug desa yang membahas rencana pembangunan jalan yang akan melewati area yang dianggap sakral oleh sebagian warga. Ada kelompok warga yang sangat menolak pembangunan karena area tersebut merupakan makam leluhur yang dikeramatkan, dan ada kelompok lain yang sangat mendukung pembangunan karena akses jalan akan membuka isolasi ekonomi desa selama puluhan tahun. Kedua kelompok memiliki argumentasi yang kuat. Anda sebagai fasilitator...",
+    "options": [
+      "Ajak warga yang menolak untuk memahami kebutuhan ekonomi desa dan minta mereka berkorban demi kemajuan bersama, karena pembangunan lebih penting dari kepercayaan",
+      "Ajak warga yang mendukung untuk memahami sensitivitas budaya dan minta mereka mencari alternatif rute jalan yang tidak melewati area sakral, meskipun biayanya lebih mahal",
+      "Facilitasi dialog yang terstruktur di mana kedua kelompok saling mempresentasikan argumentasi, lalu minta mereka bersama-sama mencari solusi kreatif: apakah mungkin akses jalan yang sama bisa dicapai melalui sedikit penyesuaian rute yang ada, atau apakah bisa ada pengakuan simbolik terhadap area sakral sebagai bagian dari pembangunan",
+      "Paksanakan saja keputusan Musrenbangdes yang sudah decided bahwa pembangunan jalan perlu dilakukan dan warga harus bisa menerima karena musrenbangdes adalah mekanisme demokratis",
+      "Sampaikan bahwa masalah ini harus dirujuk ke tingkat yang lebih tinggi karena sebagai fasilitator Anda tidak memiliki wewenang untuk mengambil keputusan yang sensitif secara budaya"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan fasilitasi yang matur: tidak memihak, tidak memaksakan solusi, tapi menciptakan ruang dialog di mana stakeholder menemukan solusi mereka sendiri. Pendekatan kreatif menunjukkan bahwa pembangunan dan pelestarian budaya tidak harus bertentangan. Fasilitator yang baik menghasilkan solusi yang ownership-nya ada pada masyarakat.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_020",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "question": "Anda seorang pejabat di sebuah kota besar yang menerima banyak buruh migrant dari daerah lain. Data menunjukkan bahwa budaya lokal mulai berubah karena adanya enclave-enclave budaya dari daerah asal buruh migrant yang terbentuk di lingkungan kota. Beberapa warga lokal merasa terancam dan mulai membentuk kelompok antigusuran yang menyalahkan buruh migrant atas perubahan budaya. Kondisi ini berpotensi menjadi konflik sosial jika tidak ditangani.",
+    "options": [
+      "Ajak semua pihak untuk bersama-sama merumuskan aturan tentang kehidupan bermasyarakat yang mengakomodasi diversity tanpa satu kelompok mendominasi yang lain, fasilitasi dialog lintas budaya secara berkala",
+      "Tegaskan bahwa tidak ada yang bisa mengubah budaya lokal karena kota adalah milik warga asli dan buruh migrant adalah tamu yang harus mengikuti aturan lokal",
+      "Ajak buruh migrant untuk assimilate sepenuhnya ke budaya lokal dan meninggalkan identitas budaya daerah asal mereka karena jika sudah memilih hidup di kota maka harus mengikuti budaya kota",
+      "Biarkan saja karena perubahan budaya adalah proses alami yang tidak bisa diintervensi oleh pemerintah dan konflik akan selesai sendiri seiring waktu",
+      "Ekspulsikan semua buruh migrant yang tinggal di enclave karena mereka berkontribusi pada fragmentasi sosial dan multicultural yang tidak terkontrol berbahaya bagi kohesi sosial"
+    ],
+    "answer": "C",
+    "explanation": "Opsi A menunjukkan pemahaman mendalam tentang multikulturalisme dan kohesi sosial: tidak ada kelompok yang harus dihapuskan atau dipaksakan, tapi semua menemukan ruang koeksistensi. Pendekatan inklusif ini mencegah both xenophobia dari warga lokal dan isolation dari migrant.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_021",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "question": "Anda ditugaskan melakukan assessment terhadap efektivitas program-program pemerintah yang dirancang untuk memberdayakan perempuan di pedesaan. Anda menemukan bahwa program-program tersebut secara keseluruhan telah memberikan peningkatan signifikan pada metrik perempuan. Namun Anda juga menemukan bahwa program tersebut justru memperkuat dinamika gender yang tidak diinginkan: di keluarga-keluarga miskin, peningkatan pendapatan istri justru menyebabkan peningkatan kekerasan domestik karena suami merasa tidak nyaman dengan perubahan hierarki dalam rumah tangga. Data Anda menunjukkan bahwa 40% perempuan penerima manfaat mengalami kekerasan domestik yang meningkat setelah program dijalankan. Apakah yang Anda lakukan?",
+    "options": [
+      "Buat laporan yang hanya memfokuskan pada metrik positif karena program pada dasarnya berhasil dan kekerasan domestik adalah masalah yang terpisah dari program",
+      "Buat laporan lengkap yang menyebutkan keberhasilan metrik dan konsekuensi negatif yang tidak diinginkan berupa peningkatan kekerasan domestik, beserta rekomendasi untuk penambahan komponen program yang mengatasi kekerasan dalam rumah tangga sebagai prerequisite atau concomitant dari pemberdayaan ekonomi",
+      "Sembunyikan data tentang kekerasan domestik karena dapat digunakan oleh pihak yang memprotes program pemberdayaan perempuan secara keseluruhan",
+      "Berhentikan semua program segera karena bukti menunjukkan program menyebabkan kekerasan domestik yang meningkat",
+      "Serahkan temuan kepada organisasi perempuan nasional dan biarkan mereka yang menentukan langkah selanjutnya karena ini di luar wewenang Anda"
+    ],
+    "answer": "C",
+    "explanation": "Opsi B menunjukkan integritas riset dan tanggung jawab policy-making: tidak menyembunyikan temuan yang tidak nyaman, tidak langsung membatalkan program yang secara umum berhasil, tapi memberikan analisis lengkap yang memungkinkan perbaikan program yang menyasar both pemberdayaan dan perlindungan. Pendekatan ini jujur, konstruktif, dan bertanggung jawab.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_022",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "question": "Anda mengelola program konservasi lingkungan di daerah yang memiliki populasi adat yang hidupnya bergantung pada hutan. Data menunjukkan bahwa hutan tersebut adalah habitat kritis bagi spesies yang terancam punah. Konservasi akan berarti mengusir populasi adat dari hutan mereka yang sudah mereka huni selama ratusan tahun. Namun tidak melakukan konservasi berarti spesies akan punah dan ekosistem akan rusak permanen. Kondisi ini juga diperumit oleh fakta bahwa populasi adat tersebut secara historis tidak memiliki kejelasan status hukum atas tanah yang mereka huni.",
+    "options": [
+      "Prioritaskan konservasi spesies yang terancam punah karena kepunahan bersifat irreversibel dan lebih tinggi nilainya daripada hak tinggal populasi adat yang bisa direlokasi dengan kompensasi yang memadai",
+      "Prioritaskan hak populasi adat karena mereka sudah menghuni hutan selama ratusan tahun dan memiliki hak tradisional yang tidak bisa diganggu gugat oleh konsiderasi spesies yang terancam punah",
+      "Cari solusi yang mungkin: zona non-core conservation untuk populasi adat, zona core conservation untuk spesies dengan akses terbatas dan monitoring ketat, berikan status hukum tanah yang jelas bagi populasi adat, dan libatkan mereka sebagai mitra stewardship dalam konservasi dengan insentif ekonomi yang sustainable",
+      "Serahkan keputusan kepada pengadilan karena ini adalah masalah hukum yang kompleks dan bukan wewenang Anda untuk membuat keputusan yang berdampak pada rights populasi adat dan kelangsungan spesies",
+      "Lakukan kajian lingkungan lengkap terlebih dahulu sebelum mengambil keputusan apapun, sementara itu tidak mengambil tindakan yang prejudge hasil kajian"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan pemikiran sistemik dan kreatif yang mencari solusi win-win: tidak ada pihak yang harus kehilangan segalanya. Pendekatan participatory conservation yang melibatkan populasi adat sebagai mitra stewardship telah terbukti efektif secara global karena populasi adat memiliki insentif untuk melestarikan hutan tempat mereka tinggal.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_023",
+    "category": "TKP",
+    "subcategory": "Sosial Budaya",
+    "question": "Anda pejabat yang menangani urusan agama di sebuah daerah yang memiliki tradisi pembacaan kitab suci secara bersama-sama yang dilakukan setiap tahun. Tradisi ini melibatkan ratusan warga dan sudah berlangsung selama puluhan tahun. Namun ada sebuah kelompok kecil namun vokal yang menganggap tradisi tersebut tidak sesuai dengan ajaran agama yang mereka anut karena dianggap mencampuradukkan dengan kepercayaan lokal. Kelompok tersebut mulai menekan Anda sebagai pejabat pemerintah untuk melarang tradisi tersebut dengan alasan bahwa pemerintah harus menjamin kebebasan beragama termasuk dari praktik yang dianggap tidak murni. Anda tahu bahwa sebagian besar warga sangat terikat dengan tradisi ini dan melarangnya akan menimbulkan konflik yang besar.",
+    "options": [
+      "Larang tradisi tersebut karena kebebasan beragama termasuk kebebasan untuk tidak berpartisipasi dalam praktik yang dianggap tidak murni, dan pemerintah harus melindungi hak minoritas untuk tidak dipaksa mengikuti tradisi yang tidak mereka setujui",
+      "Biarkan tradisi tersebut berjalan seperti biasa karena pemerintah tidak harus campur tangan dalam praktik agama selama tidak ada kekerasan atau eksploitasi, dan tradisi adalah hak warga",
+      "Facilitasi dialog antara kelompok yang mendukung dan yang menentang tradisi, cari pemahaman bersama apakah tradisi bisa dimodifikasi untuk mengakomodasi keberatan kelompok minoritas tanpa menghilangkan esensi tradisi, dan jika tidak menemukan jalan tengah, sampaikan bahwa keputusan final ada pada warga yang berpartisipasi",
+      "Larang tradisi tersebut karena pemerintah harus netral terhadap semua bentuk praktik agama yang tidak mainstream dan menghindari potensi radikalisasi",
+      "Serahkan keputusan ke pengadilan agama karena ini adalah masalah teologis yang di luar wewenang pemerintah sipil"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan pendekatan yang sangat nuanced: menjaga kebebasan beragama tanpa memilih salah satu interpretasi teologis sebagai yang benar, melibatkan semua pihak dalam dialog, dan akhirnya mengembalikan keputusan kepada masyarakat yang terdampak langsung. Pemerintah sebagai fasilitator, bukan arbiter teologis.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_024",
+    "category": "TKP",
+    "subcategory": "TIK",
+    "question": "Anda mengelola sistem informasi pelayanan publik yang menangani data sensitif warga (NIK, alamat, status ekonomi). Sistem tersebut terhubung dengan berbagai platform digital dan digunakan oleh ratusan petugas pelayanan. Dalam audit security bulan lalu, Anda menemukan vulnerability serius: beberapa akun petugas memiliki password yang sangat lemah dan tidak ada sistem two-factor authentication. Namun implementasi security upgrade memerlukan budget yang tidak ada di pos anggaran tahun ini dan waktu implementasi minimal 6 bulan. Di waktu bersamaan, terjadi beberapa insiden attempted breach oleh pihak yang tidak dikenal. Position Anda adalah...",
+    "options": [
+      "Lakukan upgrade security secepatnya dengan menggandengkan budget dari pos lain atau meminta tambahan budget khusus ke atasan, karena data sensitif warga tidak bisa ditunggu 6 bulan untuk diamankan",
+      "Tunda implementasi upgrade sampai anggaran tersedia karena proses procurement mengikuti aturan yang tidak bisa dilanggar, dan untuk sementara terapkan security measures tambahan pada level manually (monitoring access, rotating passwords lebih sering)",
+      "Segera nonaktifkan semua akun yang memiliki password lemah dan minta reset password dengan requirement yang lebih kuat, lakukan secara bertahap dalam 2 minggu, namun biarkan sistem tetap berjalan karena hanya sebagian kecil yang bermasalah",
+      "Pindahkan semua sistem ke cloud service provider yang sudah memiliki security compliance lengkap karena itu akan lebih murah dan lebih cepat daripada memperbaiki infrastruktur yang ada",
+      "Buat kebijakan baru yang mewajibkan password kuat, namun implementasinya mengandalkan sukarela petugas karena memaksa reset password secara masif akan mengganggu pelayanan"
+    ],
+    "answer": "C",
+    "explanation": "Opsi A menunjukkan sense of urgency terhadap risiko keamanan data sensitif. Dengan menggandengkan budget dari pos lain atau meminta budget khusus, tidak ada alasan untuk tidak mengambil langkah konkret. Bukan B yang pasif-passive waiting, bukan C yang terlalu reaktif tanpa rencana sistemik, bukan D yang migration tanpa assessment menyeluruh, bukan E yang kebijakan tanpa enforcement.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_025",
+    "category": "TKP",
+    "subcategory": "TIK",
+    "question": "Anda mengelola sistem e-government yang telah beroperasi selama 3 tahun. Sistem tersebut mulai mengalami degrade performance yang signifikan dan sering down. Vendor yang membuat sistem tersebut sudah tidak responsif terhadap maintenance request karena kontrak maintenance sudah berakhir dan mereka menolak untuk memperbarui karena negosiasi harga yang tidak mencapai mufakat. Pengguna sistem mulai mengeluh dan produktifitas menurun drastis. Anda perlu keputusan...",
+    "options": [
+      "Minta budget untuk meng-hire new vendor dan migrasi sistem ke platform baru karena vendor lama sudah tidak bisa dipercaya dan sistem yang ada sudah obsoleted",
+      "Coba negosiasi ulang dengan vendor lama dengan menawarkan harga yang lebih tinggi agar mereka mau melanjutkan maintenance, karena migration ke sistem baru akan memakan waktu dan biaya yang lebih besar",
+      "Audit internally untuk menentukan akar masalah performance degradation, lalu sampaikan findings ke vendor lama dengan ultimatum: perbaikan dalam 30 hari atau kontrak akan diakhiri dan akan dilakukan tender terbuka untuk vendor baru",
+      "Patch sistem sendiri dengan tim internal karena upgrade minor mungkin cukup dan tidak perlu melibatkan vendor eksternal",
+      "Biarkan sistem berjalan seperti sekarang karena semua sistem eventually down dan ini adalah normal, pengguna harus sabar"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan profesionalisme dalam management vendor: tidak langsung memutuskan hubungan tanpa dasar yang jelas (membutuhkan audit terlebih dahulu), memberikan kesempatan perbaikan dengan ultimatum yang jelas, dan memiliki exit strategy yang terencana (tender terbuka). Pendekatan ini melindungi kepentingan institusional sambil memberikan fair chance pada vendor lama. Bukan A yang premature switching, bukan B yang terlalu kompromitif, bukan D yang tidak realistis untuk sistem complex tanpa expertise vendor, bukan E yang pasif.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_026",
+    "category": "TKP",
+    "subcategory": "TIK",
+    "question": "Anda mengimplementasikan sistem digital baru untuk pelayanan publik. Sistem ini sudah berjalan 3 bulan dan secara teknis berfungsi dengan baik. Namun sebagian warga, terutama yang lebih tua dan kurang berpendidikan, sangat kesulitan menggunakan sistem tersebut dan mulai mengeluh bahwa pelayanan publik sekarang lebih sulit dijangkau. Di saat yang sama, beberapa petugas lapangan Anda juga tidak nyaman dengan sistem baru karena mereka sudah terbiasa dengan cara lama dan merasa sistem baru justru memperlambat kerja mereka. Anda tahu bahwa sistem digital adalah arah kebijakan pemerintah pusat, tapi kenyataan di lapangan menunjukkan bahwa ada segment masyarakat yang justru semakin tertinggal. Position Anda adalah...",
+    "options": [
+      "Lakukan evaluasi menyeluruh terhadap sistem digital, identifikasi pain points pengguna (warga dan petugas), lalu kembangkan jalur alternatif yang tetap bisa diakses (bantuan petugas di loket, dedicated helpers untuk warga lansia) sambil secara gradual meningkatkan literasi digital pengguna, dan sampaikan findings ke pusat sebagai rekomendasi kebijakan",
+      "Kembali ke sistem manual sepenuhnya karena sistem digital ternyata tidak cocok untuk semua kalangan dan lebih baik pelayanan yang bisa dijangkau semua orang daripada modernize yang alienate sebagian warga",
+      "Paksa semua warga dan petugas untuk menggunakan sistem digital sepenuhnya karena transisi digital adalah irreversibel dan siapa yang tidak adapt akan tertinggal, tidak ada pilihan selain adaptasi",
+      "Serahkan tanggung jawab literasi digital kepada warga sendiri karena pemerintah tidak bisa mengajarkan semua orang menggunakan teknologi, jika mereka tidak mau belajar ya pendapat sendiri yang menanggung",
+      "Pilih warga yang bisa menggunakan sistem dan hanya layani mereka secara digital, untuk yang tidak bisa, serahkan ke organisasi sosial untuk ditangani secara terpisah dari layanan pemerintah resmi"
+    ],
+    "answer": "A",
+    "explanation": "Opsi A menunjukkan pendekatan human-centered yang nuanced: tidak menolak digitalisasi tapi juga tidak memaksakan sistem yang tidak accessible secara universal. Dual-track approach (digital + assisted channel) memastikan nobody left behind sambil tetap mengarah ke digitalisasi. Evaluasi berbasis data dan rekomendasi ke pusat memastikan kebijakan future lebih inklusif. Bukan B yang regressive, bukan C yang too forced, bukan D yang abdication of responsibility, bukan E yang discriminative.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tkp3_027",
+    "category": "TKP",
+    "subcategory": "TIK",
+    "question": "Anda diminta menjadi panelis dalam sebuah forum tentang implementasi teknologi AI dalam pelayanan publik. Dalam persiapan, Anda riset dan menemukan bahwa sebagian besar implementasi AI di pemerintahan globally masih bersifat eksperimental dan banyak yang gagal memberikan hasil yang diharapkan, bahkan beberapa menimbulkan bias terhadap kelompok minoritas karena training data yang tidak representative. Namun di sisi lain, Anda juga tahu bahwa AI memiliki potensi besar untuk meningkatkan efisiensi dan akurasi pelayanan. Kondisi ini diperumum oleh interest kuat dari beberapavendor teknologi yang mendorong implementasi AI di institusi Anda. Position Anda dalam forum adalah...",
+    "options": [
+      "Sampaikan bahwa implementasi AI harus dilakukan secara bertahap dengan pilot projects yang ketat, evaluasi bias secara berkala, melibatkan komunitas yang terdampak dalam design process, dan tidak boleh menggantikan keputusan manusia yang bersifat krusial, sambil mengakui potensi AI namun juga tantangan nyata",
+      "Sampaikan bahwa AI dalam pelayanan publik pada dasarnya masalah karena government tidak memiliki keahlian dan infrastruktur untuk mengelola sistem AI yang kompleks, lebih baik tidak gunakan AI sama sekali dan fokus pada improvement sistem yang ada",
+      "Sampaikan bahwa AI adalah future dan harus diadopsi segera karena institusi yang tidak mengadopsi AI akan tertinggal, dan vendor yang ada sudah cukup qualified untuk implementasi",
+      "Sampaikan bahwa keputusan implementasi AI bukan domain Anda sebagai panelis dan serahkan sepenuhnya kepada decision makers yang memiliki information lebih lengkap",
+      "Sampaikan bahwa AI hanya boleh digunakan untuk tugas-tugas repetitif dan low-stakes, untuk keputusan yang berdampak pada kehidupan warga harus tetap menggunakan human judgment karena AI tidak bisa di-held accountable"
+    ],
+    "answer": "A",
+    "explanation": "Opsi A menunjukkan pemahaman balanced tentang AI implementation di sector publik: mengakui potensi, tidak naif tentang risiko, dan menekankan human-in-the-loop principle. Pendekatan pilot-based dengan evaluasi berkala adalah responsible innovation. Bukan B yang luddite, bukan C yang terlalu vendor-driven, bukan D yang tidak memberikan perspectives, bukan E yang terlalu simplistic (AI juga bisa digunakan untuk high-stakes decisions jika properly governed).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tkp3_028",
+    "category": "TKP",
+    "subcategory": "TIK",
+    "question": "Anda mengelola database critical infrastruktur daerah. Dalam audit security, Anda menemukan bahwa salah satu staff IT yang memiliki akses level tertinggi ke database tersebut ternyata adalah saudara kandung dari salah satukontraktor besar yang secara rutin memenangkan tender dari instansi Anda. Staff IT tersebut memiliki akses ke data procurement, perencanaan proyek, dan informasi sensitif lainnya. Anda tidak memiliki bukti bahwa dia menyalahgunakan akses tersebut, tapi ada konflik kepentingan yang jelas. Apa yang Anda lakukan?",
+    "options": [
+      "Segera nonaktifkan akses staff IT tersebut dan reassign ke posisi yang tidak memiliki akses ke data sensitif, karena konflik kepentingan sudah cukup grounds untuk tidak memberikan akses kritis, tanpa perlu membuktikan penyalahgunaan",
+      "Investigue lebih lanjut untuk memastikan apakah ada penyalahgunaan akses yang terjadi, dan selama investigation, kurangi level akses staff tersebut ke tingkat minimal yang diperlukan untuk tugas sehari-hari",
+      "Panggil staff tersebut dan sampaikan bahwa Anda mengetahui hubungan familinya dengan kontraktor dan minta dia membuat signed declaration bahwa dia tidak akan menggunakan aksesnya untuk kepentingan kontraktor, dengan konsekuensi pemecatan jika terbukti pelanggaran",
+      "Tidak mengambil tindakan apapun karena tidak ada bukti penyalahgunaan dan berdasarkan hukum ketenagakerjaan Anda tidak bisa melakukan discimination terhadap staff berdasarkan hubungan keluarga",
+      "Lapor ke inspektorat dan minta guidance karena ini adalah situasi yang complexe dan Anda tidak ingin mengambil keputusan yang bisa digunakan sebagai dasar untuk menggugat Anda kemudian"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan pendekatan berbasis bukti yang adil: tidak langsung menghukum tanpa bukti (seperti A), tapi juga tidak diam saja (seperti D). Pengurangan akses sementara adalah langkah prudent yang melindungi institusi sambil menghormati hak staff yang belum terbukti bersalah. Investigasi menyeluruh akan memberikan clarity. Bukan C yang terlalu trust-based tanpa mekanisme verification, bukan E yang melepaskan decision-making responsibility.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tkp3_029",
+    "category": "TKP",
+    "subcategory": "TIK",
+    "question": "Anda mengelola sistem informasi yang terintegrasi dengan sistem nasional. Baru saja Anda menemukan vulnerability yang bisa membahayakan data warga nasional jika dieksploitasi oleh pihak yang tidak authorized. Anda sudah memperbaikinya internally tapi ingin melaporkan ke BSSN (Badan Siber dan Sandi Negara) untuk coordination nasional. Namun Anda tahu bahwa melaporkan berarti Anda harus expose vulnerability yang ada di sistem Anda, dan ini bisa digunakan oleh pihak internal tertentu untuk menilai kinerja Anda secara negatif atau bahkan meminta Anda bertanggung jawab atas vulnerability yang terjadi. Di sisi lain, tidak melaporkan berarti Anda tidak berkontribusi pada keamanan siber nasional dan jika vulnerability yang sama dieksploitasi di tempat lain, Anda tidak bisa mengatakan bahwa Anda sudah aware.",
+    "options": [
+      "Laporkan vulnerability ke BSSN beserta steps yang sudah Anda ambil untuk perbaikan, karena keamanan siber nasional lebih penting dari concern personal tentang kinerja Anda, dan transparansi adalah tanggung jawab pejabat negara",
+      "Tidak perlu melaporkan karena Anda sudah fixing internally dan tidak ada exploitasi yang terjadi, laporan ke BSSN hanya akan menimbulkan masalah bagi Anda sendiri tanpa manfaat nyata",
+      "Laporkan ke BSSN tapi sembunyikan identity dari sistem Anda yang memiliki vulnerability, karena Anda tetap berkontribusi pada keamanan nasional tanpa mengorbankan posisi Anda sendiri",
+      "Konsultasi dulu dengan atasan langsung sebelum membuat keputusan apapun, karena ini adalah keputusan strategik yang harus melibatkan leadership",
+      "Buat anonymous report ke BSSN tanpa mencantumkan identity organisasi Anda, karena itu memungkinkan national coordination tanpa exposing vulnerability Anda secara institutional"
+    ],
+    "answer": "A",
+    "explanation": "Opsi A menunjukkan integritas terhadap tanggung jawab national security. Vulnerability yang sudah difix bukan kelemahan yang perlu disembunyikan tapi demonstraasi respons yang baik. Laporan ke BSSN justru menunjukkan profesionalisme karena Anda berkontribusi pada threat intelligence nasional. Concern tentang evaluasi kinerja tidak boleh lebih tinggi dari keamanan data warga. Bukan B yang selfish, bukan C yang compromise transparency, bukan D yang avoid taking responsibility, bukan E yang too secretive untuk koordinasi efektif.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tkp3_030",
+    "category": "TKP",
+    "subcategory": "TIK",
+    "question": "Anda diminta menyusun SOP baru untuk pengelolaan data dan informasi digital di instansi Anda. SOP tersebut harus mengatur hal-hal seperti classification data, access control, data retention, dan disposal procedure. Anda tahu bahwa SOP yang terlalu rigid akan menyulitkan workflow dan tidak akan dipatuhi. Tapi SOP yang terlalu loose akan meningkatkan risiko keamanan data. Anda juga tahu bahwa ada pressure dari berbagai unit untuk membuat SOP yang sesuai dengan kebutuhan masing-masing unit, yang bisa sangat berbeda satu sama lain.",
+    "options": [
+      "Buat SOP yang adaptif dengan principle-based framework yang menetapkan minimum standards yang harus dipenuhi oleh semua unit (classification minimum, access minimum, retention minimum), namun memberikan fleksibilitas kepada masing-masing unit untuk menambahkan controls tambahan sesuai kebutuhan spesifik mereka, dengan review berkala untuk memastikan kepatuhan",
+      "Buat SOP yang uniform dan strict yang berlaku sama untuk semua unit karena consistency adalah kunci security, dan unit yang merasa tidak cocok dengan SOP bisa menyampaikan complaint tapi SOP tetap berlaku",
+      "Serahkan ke masing-masing unit untuk membuat SOP mereka sendiri karena mereka paling tahu kebutuhan masing-masing, dan instansi hanya perlu mendapatkan copy dari SOP masing-masing unit untuk archive",
+      "Adopsi saja SOP dari instansi lain yang sudah terbukti berhasil, karena tidak perlu reinvent the wheel dan SOP proven sudah cukup untuk memastikan compliance",
+      "Buat SOP yang sangat detail dan lengthy yang mencakup setiap possible scenario agar tidak ada celah yang tidak terlindungi, karena comprehensive documentation adalah best practice"
+    ],
+    "answer": "A",
+    "explanation": "Opsi A menunjukkan pemahaman sophisticated tentang governance: minimum standards memastikan consistency dan protection baseline, sementara flexibility mengakomodasi variasi legitimate workflow. Principle-based approach lebih robust than rules-based karena tidak bisa di-game. Review berkala memastikan SOP tetap relevant dan dipatuhi. Bukan B yang too rigid, bukan C yang no governance, bukan D yang copy-paste tanpa contextual adaptation, bukan E yang over-engineered dan will collect dust.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tkp3_031",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "question": "Anda seorang auditor internal yang sedang melakukan audit terhadap kegiatan pengadaan barang dan jasa di instansi Anda. Dalam proses audit, Anda menemukan irregularities signifikan: beberapa proyek memiliki dokumentasi yang tidak lengkap tapi dana sudah dicairkan, dan ada indikasi bahwa salah satu pejabat tinggi yang Anda hormati mungkin terlibat. Pejabat tersebut memiliki reputasi bagus di organisasi dan merupakan salah satu mentor Anda dalam karier. Dokumentasi tidak lengkap tidak bisa langsung membuktikan KKN, tapi ada pola yang mengkhawatirkan. Anda harus...",
+    "options": [
+      "Selesaikan audit dengan tidak menyebutkan temuan irregularities karena tidak ada bukti kuat dan Anda tidak ingin menuduh seseorang yang Anda hormati tanpa dasar yang jelas",
+      "Sampaikan temuan irregularities kepada atasan auditor dengan language yang factual, tanpa spekulasi tentang keterlibatan pejabat tinggi, namun sarankan investigation lebih lanjut oleh pihak yang memiliki wewenang lebih tinggi (inspektorat/APH) karena pola dokumentasi tidak bisa diabaikan begitu saja",
+      "Langsung hubungi pejabat tersebut dan sampaikan temuan Anda secara pribadi, minta klarifikasi dan berikan kesempatan untuk menjelaskan sebelum audit report dibuat resmi",
+      "Eskalasi temuan ke APH (Attorney Umum / KPK) karena indikasi irregularities yang melibatkan pejabat tinggi harus segera ditindaklanjuti oleh lembaga yang berwenang",
+      "Buat audit report yang soft-pedal temuan irregularities karena Anda tidak ingin menjadi penyebab masalah bagi organisasi dan pejabat yang Anda hormati"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan integritas auditor yang matang: tidak menyembunyikan temuan, tidak langsung menuduh, tidak mem-bully, tapi juga tidak membiarkan pola mengkhawatirkan begitu saja. Penyampaian faktual dengan rekomendasi eskalasi kepada pihak yang berwenang melindungi both auditor (karena mengikuti SOP) dan organisasi (karena temuan ditindaklanjuti). Bukan A atau E yang tidak jujur, bukan C yang tidak follow proper chain of command, bukan D yang prematur tanpa audit internal terlebih dahulu.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tkp3_032",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "question": "Anda seorang pejabat yang ditugaskan mengevaluasi kinerja sebuah proyek yang didanai oleh dana conjugate yang cukup besar. Proyek tersebut secara umum berjalan sesuai timeline, tapi dalam assessment menyeluruh, Anda menemukan that proyek tersebut secara kualitas sangat questionnable: material yang digunakan tidak sesuai spesifikasi tapi masih within acceptable range, workmanship tidak mengikuti best practices tapi tidak ada failure yang immediate visible, dan progress report melebih-lebihkan pencapaian. Semua ini technically legal karena tidak ada pelanggaran regulasi yang explicit, tapi kualitas jangka panjang dipertanyakan. Position Anda adalah...",
+    "options": [
+      "Setujui proyek karena secara legal tidak ada pelanggaran dan semua metric formal terpenuhi, meskipun kualitas dipertanyakan itu adalah masalah future yang tidak bisa Anda tanggung saat ini",
+      "Tuliskan evaluation yang jujur bahwa proyek secara teknis comply tapi kualitas tidak optimal, dan sarankan perbaikan untuk tahap selanjutnya, tanpa menahan pembayaran karena legal obligation harus dipenuhi",
+      "Tolak pembayaran karena kualitas yang tidak sesuai best practice tidak layak mendapat approval dari pejabat yang memiliki tanggung jawab atas penggunaan dana conjugate",
+      "Minta inspection oleh pihak ketiga yang independen untuk validate kualitas proyek sebelum memberikan approval",
+      "Serahkan keputusan kepada atasan karena ini adalah keputusan yang kompleks dan menyangkut banyak pihak, Anda tidak ingin menanggung risiko decision sendiri"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan integritas yang pragmatis: tidak menyembunyikan kualitas suboptimal, tidak menahan pembayaran yang secara legal sudah seharusnya dibayarkan, tapi tetap menyampaikan truth ke atasan dan pengguna dana conjugate dalam bentuk rekomendasi perbaikan. Pendekatan ini menghormati both legal obligation dan tanggung jawab atas quality of public spending. Bukan A yang menutup mata, bukan C yang terlalu strict, bukan D yang too cautious untuk tahap yang technically sudah comply, bukan E yang melepaskan responsibility.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tkp3_033",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "question": "Anda diminta menjadi narasumber dalam sebuah rapat yang membahas rencana pengurangan personil di instansi Anda. Secara personal, Anda tidak setuju dengan pengurangan karena akan mengganggu pelayanan publik. Namun secara data, Anda melihat bahwa beban kerja unit kerja Anda tidak proporsional dengan jumlah staf dan ada unit lain yang justru overstaffed. Situasi diperumum oleh fact that beberapa staf di unit Anda sudah bekerja selama 20+ tahun dan memiliki loyalitas tinggi. Anda tahu bahwa pengurangan staff akan berdampak langsung pada kehidupan mereka dan keluarga mereka. Anda harus memutuskan posicion dalam rapat tersebut.",
+    "options": [
+      "Dukung pengurangan personil karena data menunjukkan there is overstaffing di beberapa unit dan efisiensi adalah kepentingan organisasi yang lebih besar, meskipun Anda pribadi sympathize dengan staf yang akan terdampak",
+      "Melawan pengurangan personil dengan alasan bahwa pengurangan akan menurunkan kualitas pelayanan publik dan mengorbankan staf senior yang sudah mengabdi lama",
+      "Sampaikan analisis data secara objektif, akui bahwa ada disparitas staffing, namun sarankan alternative approach: redistribusi personil dari unit overstaffed ke unit yang membutuhkan, bukan pemutusan hubungan kerja, dengan program reskilling untuk memastikan staf bisa berkontribusi di unit baru",
+      "Minta waktu untuk melakukan workload analysis lebih detail sebelum memberikan recommendation, karena decision based pada data yang tidak complete bisa merugikan banyak orang",
+      "Serahkan keputusan kepada HRD karena mereka paling memahami organizational needs dan Anda tidak memiliki expertise untuk menilai staffing requirement"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan profesionalisme yang kompleks: tidak memilih antara data-driven efficiency dan human-centered approach tapi mencari solusi yang keduanya bisa dipenuhi. Redistribusi + reskilling adalah win-win yang mempertahankan tenaga kerja sambil meningkatkan efisiensi organisasi. Pendekatan ini berbasis data tapi tetap menghormati kontribusi staf senior. Bukan A yang terlalu cold-data driven, bukan B yang terlalu emotional tanpa basis data, bukan D yang terlalu menunda keputusan yang dibutuhkan, bukan E yang melepaskan tanggung jawab profesional.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tkp3_034",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "question": "Anda seorang pejabat eselon II yang sedang menghadapi periode transisi kepemimpinan: atasan Anda akan pensiun dalam 3 bulan dan akan ada pejabat baru yang mengambil alih. Anda tahu bahwa pejabat baru tersebut memiliki gaya kepemimpinan yang berbeda dan mungkin memiliki priorities yang berbeda. Beberapa staff Anda mulai melakukan manuver untuk memposisikan diri themselves bagi pemimpin baru, termasuk beberapa staff yang mulai menunjukkan tidak loyal kepada Anda dan mulai bypass komunikasi hierarki. Kondisi ini mengganggu stabilitas tim. Anda dalam posisi yang...",
+    "options": [
+      "Biarkan saja karena transisi kepemimpinan adalah proses alami dan Anda tidak bisa mengontrol bagaimana staff merespons situasi, fokus pada pekerjaan Anda sampai masa transisi selesai",
+      "Adakan meeting tim dan sampaikan bahwa selama masa transisi, semua staff harus tetap berkomunikasi melalui hierarki yang berlaku dan tidak ada staff yang boleh bypass Anda dalam reporting, tegaskan consequences jika ada yang violate",
+      "Proaktif sampaikan kepada staff bahwa Anda mendukung mereka dan akan memberikan rekomendasi yang baik kepada pemimpin baru, gunakan posisi Anda sebagai atasan untuk membina loyalty melalui reward",
+      "Bicara secara personal dengan staff yang paling visible dalam melakukan manuver, pahami motivasi mereka dan sampaikan dampak dari perilaku mereka terhadap stabilitas tim dan professional reputation mereka",
+      "Lapor kepada siapapun yang datang sebagai pejabat baru bahwa Anda memiliki tim yang solid dan siap bekerja, dan Andaexpectation adalah bahwa Anda tidak akan diganggu selama transisi"
+    ],
+    "answer": "D",
+    "explanation": "Opsi D menunjukkan kepemimpinan yang mature dan empatik: tidak menggunakan authority secara top-down (seperti B atau E), tidak pasif (seperti A), tidak transaksional (seperti C). Pendekatan personal conversation mengakui bahwa staff mungkin memiliki concerns legitimate tentang masa depan mereka, tapi juga mengkomunikasikan impact dari perilaku yang tidak professional. Ini membangun trust dan respect. Bukan B yang authoritarian, bukan C yang terlalu transactional/manufactured loyalty, bukan E yang defensive-territorial.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tkp3_035",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "question": "Anda ditugaskan mengevaluasi kinerja seorang pejabat yang kemungkinan akan dipromosikan ke posisi yang lebih tinggi. Dalam evaluasi, Anda menemukan that kinerja pejabat tersebut pada metrics formal (target, laporan, kehadiran) sangat bagus, namun ada beberapa issue yang mengkhawatirkan: dia memiliki hubungan terlalu dekat dengan beberapa vendor yang berpotensi menimbulkan konflik kepentingan, dia sering membuat keputusan penting tanpa konsultasi dengan timnya, dan ada beberapa laporan bahwa dia telah mengambil credit untuk pekerjaan tim yang bukan dia yang mengerjakan. Semua ini tidak melanggar hukum secara explicit tapi mengindikasikan character issues yang bisa berbahaya di posisi yang lebih tinggi.",
+    "options": [
+      "Berikan evaluasi positif karena semua formal metrics terpenuhi dan Anda tidak memiliki bukti pelanggaran yang bisa digunakan untuk menahan promosi tersebut",
+      "Berikan evaluasi yang balanced: akui performance metrics yang positif tapi tambahkan catatan tentang character concerns yang Anda identifikasi, sampaikan bahwa dalam konteks promosi ke posisi yang lebih tinggi, character dan integrity sama pentingnya dengan performance, dan sarankan mentoring atau coaching sebelum promosi",
+      "Jangan berikan rekomendasi apapun karena Anda tidak ingin mempengaruhi karier seseorang berdasarkan impressions yang mungkin salah, biarkan decision-makers yang menilai",
+      "Buat evaluasi negative karena character issues yang Anda identifikasi lebih important daripada performance metrics dalam menentukan siapa yang layak promosi ke posisi leadership",
+      "Bicara langsung dengan pejabat tersebut tentang concerns Anda dan minta klarifikasi sebelum menuliskan evaluasi apapun"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan integritas evaluator yang responsible: tidak menyembunyikan concerns, tidak memblokir promosi dengan alasan soft, tapi memberikan picture lengkap yang memungkinkan decision-makers membuat informed decision. Menyampaikan bahwa character penting dalam leadership positions adalah truth yang penting untuk dikomunikasikan. Bukan A yang terlalu lenient, bukan C yang avoid responsibility, bukan D yang terlalu harsh tanpa constructive path forward, bukan E yang terlalu informal untuk proses evaluasi formal.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tkp3_036",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "question": "Anda seorang pejabat yang diminta memberikan konsultasi kepada sebuah organisasi pemerintah daerah yang mengalami masalah kinerja yang parah: layanan publik buruk, waktu kerja tidak dipatuhi, dan banyak keluhan dari warga. Organisasi ini tidak memiliki masalah budget tapi mengelola dana yang cukup besar secara tidak optimal. Anda tahu bahwa masalahnya adalah budaya organisasi yang buruk, yang memerlukan perubahan mendasar. Namun untuk membuat perubahan, Anda perlu cooperation dari para pejabat lokal yang mungkin merasa terancam oleh kedatangan Anda sebagai konsultan eksternal. Position Anda adalah...",
+    "options": [
+      "Segera identifikasi masalah utama dan sampaikan rekomendasi perubahan secara komprehensif dalam laporan tertulis, karena itu adalah tugas Anda dan Anda tidak punya waktu untuk bermain politique dengan pejabat lokal",
+      "Mulai dengan approach collaborative: listening sessions dengan berbagai stakeholder, identifikasi pain points dari within, bangun trust dan ownership terhadap perubahan dari dalam organisasi, baru kemudian ajukan interventions berbasis temuan lapangan",
+      "Batasi konsultasi pada technical aspects (SOP, workflow, metrics) karena budaya organisasi bukan domain yang bisa diubah oleh konsultan external, dan perubahan budaya harus dimulai dari within",
+      "Minta tambahan fee karena organisasi ini memerlukan intervensi berat yang akan memakan waktu dan usaha yang jauh lebih besar dari konsultasi standard",
+      "Tolak konsultasi karena organisasi ini memerlukan perubahan yang bukan bisa dicapai melalui konsultasi biasa, dan Anda tidak ingin dikaitkan dengan failure yang mungkin terjadi"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan consulting approach yang sophisticated: tidak langsung membenturkan recommendations tanpa memahami konteks, tidak underestimate kekuasaan resistensi, tapi membangun foundation perubahan melalui trust-building dan collaborative ownership. Pendekatan ini meningkatkan likelihood of success karena perubahan yang di-own oleh organisasi sendiri lebih sustainable. Bukan A yang terlalu top-down, bukan C yang terlalu limited dalam scope, bukan D yang terlalu transactional, bukan E yang terlalu risk-averse untuk peran yang Anda pilih.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tkp3_037",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "question": "Anda seorang pejabat yang sedang menghadapi situasi di mana Anda harus memutuskan apakah akan whistleblower tentang pelanggaran yang ditemukan di instansi Anda. Anda tahu bahwa pelanggaran tersebut adalah nyata dan serius, melibatkan beberapa pejabat senior termasuk seseorang yang merupakan mentor karier Anda. Jika Anda whistleblower, Anda akan menghancurkan hubungan dengan mentor dan kemungkinan akan menghadapi retaliation dari network pejabat senior tersebut. Jika Anda tidak whistleblower, Anda tidak menjalankan tanggung jawab integritas sebagai pejabat negara dan pelanggaran akan continue. Posisi Anda sangat sulit.",
+    "options": [
+      "Whistleblower melalui channel resmi (inspektorat/APIP) karena tanggung jawab integritas sebagai pejabat negara lebih penting dari hubungan personal atau fear of retaliation",
+      "Tidak whistleblower karena Anda tidak ingin merusak hubungan dengan mentor dan menghadapi retaliation dari pejabat senior yang powerful, biarkan pelanggaran continue tapi Anda selamat",
+      "Bicara langsung dengan mentor dan sampaikan bahwa Anda mengetahui pelanggaran dan Anda akan melakukan whistleblowing, beri kesempatan mentor untuk memperbaiki situasi sendiri sebelum Anda eskalasi",
+      "Whistleblower secara anonym untuk melindungi diri Anda sendiri sambil tetap menjalankan tanggung jawab integritas",
+      "Minta perlindungan hukum terlebih dahulu sebelum whistleblower karena Anda tahu retaliation akan terjadi dan Anda butuh perlindungan sebelum bertindak"
+    ],
+    "answer": "A",
+    "explanation": "Opsi A menunjukkan integritas tertinggi: tidak menggunakan alasan-alasan yang plausible untuk menghindari tanggung jawab (tidak memilih B, C, D, atau E yang semuanya memiliki element of self-protection di atas duty). Whistleblowing melalui channel resmi adalah mekanisme yang sudah ada untuk melindungi whistleblower sekaligus memastikan pelanggaran ditindaklanjuti. Mengorbankan mentor tidak enak tapi integritas tidak bisa dikompromikan. Bukan B yang abdikasi, bukan C yang memberi unfair advantage ke mentor untuk destroy evidence, bukan D yang effective tapi tidak mengikuti proper procedure, bukan E yang terlalu self-protective before doing right thing.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_038",
+    "category": "TKP",
+    "subcategory": "Profesionalisme",
+    "question": "Anda seorang pejabat eselon I yang diminta mengevaluasi apakah instansi Anda perlu melakukan organizational restructure. Data menunjukkan bahwa struktur saat ini tidak efisien: ada overlap responsibilities, duplikasi fungsi, dan communication bottleneck karena hierarki yang terlalu panjang. Namun restructure akan berarti bahwaa beberapa posisi eselon II yang sekarang occupied by people yang sudah mengabdi lama akan dihapus atau dirubah, termasuk beberapa sosok senior yang sangat respected di organisasi. Mereka semua sudah memberikan kontribusi besar, tapi dari perspektif struktural, posisi mereka sudah tidak efisien lagi. Anda harus memutuskan approach untuk restructure.",
+    "options": [
+      "Rekomendasikan restructure sesuai data karena efisiensi organisasi lebih penting dari sentiment terhadap individu, dan organisasi perlu dinamis untuk menyesuaikan diri dengan tantangan yang berubah",
+      "Tunda restructure karena mereorganisasi birokrasi dengan menghapus posisi pejabat senior yang sudah loyal adalah political minefield yang terlalu risky dan bisa merusak stabilitas organisasi",
+      "Rekomendasikan restructure namun dengan compassion: pastikan ada positions yang comparable atau early retirement package yang generous untuk pejabat senior yang terdampak, dengan timeline transisi yang manusiawi dan proses komunikasi yang transparan",
+      "Lakukan restrukturasi secara keseluruhan dan lihat saja apa yang terjadi karena organisasi perlu fresh start dan seniority tidak boleh menjadi alasan untuk mempertahankan inefficiency",
+      "Tidak ambil keputusan karena ini adalah keputusan level politik yang harus dibuat oleh elected officials atau political appointees, bukan oleh career bureaucrats seperti Anda"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan keseimbangan antara efisiensi organisasi dan penghormatan terhadap kontribusi pejabat senior. Tidak semua restructure harus bersifat brutal. Compassionate restructuring dengan package yang layak menunjukkan bahwa organisasi menghargai mereka yang sudah mengabdi. Ini juga mengurangi resistance terhadap perubahan dan modeled integrity organisasi. Bukan A yang terlalu cold, bukan B yang terlalu status quo protective, bukan D yang too disruptive, bukan E yang too avoidant of decision responsibility.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_039",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "question": "Anda seorang pejabat yang akan pensiun dalam 6 bulan. Sepanjang karier Anda, Anda dikenal sebagai pejabat yang bersih dan tidak pernah terlibat dalam KKN. Namun dalam bulan-bulan terakhir ini, Anda ditawari sebuah pekerjaan consulting oleh sebuah perusahaan yang selama ini merupakan mitra instansi Anda. Fee yang ditawarkan sangat besar dan Anda tahu bahwa tawaran ini diberikan karena perusahaan tersebut menghargai hubungan baik Anda dengan instansi dan berharap Anda bisa menggunakan koneksitas Anda setelah pensiun untuk melancarkan proses procurement mereka. Anda tidak diharuskan menggunakan koneksitas Anda secara eksplisit, tapi implikasinya jelas. Anda yang akan pensiun ini dalam posisi yang...",
+    "options": [
+      "Terima pekerjaan tersebut karena Anda sudah tidak menjabat lagi dan tidak ada conflict of interest karena Anda tidak menggunakan posisi official untuk kepentingan perusahaan",
+      "Terima pekerjaan tersebut tapi dengan tegas sampaikan kepada perusahaan bahwa Anda tidak akan menggunakan koneksitas Anda di instansi untuk kepentingan mereka, dan hubungan Anda setelah pensiun adalah murni profesional tanpa expectation khusus",
+      "Tolak pekerjaan tersebut karena meskipun Anda tidak secara eksplisit menggunakan positional authority, tawaran ini adalah bentuk gratitude lobbying yang exploitative terhadap hubungan institusional, dan sebagai pejabat yang bersih, Anda tidak ingin membuka preseden yang bisa merusak integritas sistem",
+      "Minta waktu untuk berpikir karena Anda perlu mempertimbangkan secara matang apakah ini adalah professional opportunity yang legitimate atau adalah cara untuk mendapatkan akses tidak legitimate",
+      "Diskusikan dengan atasan Anda tentang tawaran ini karena sebagai pejabat yang akan pensiun, Anda perlu guidance tentang batas antara kesempatan professional dan conflict of interest"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan integritas yang konsisten dan vision jangka panjang: tidak melihat pensiun sebagai free pass untuk behavior yang sebelumnya tidak dilakukan, memahami bahwa gratitude lobbying adalah bentuk corruption yang subtle tapi nyata, dan berkomitmen pada prinsip yang sama sebelum dan sesudah pensiun. Bukan A yang naif tentang implicit deals, bukan B yang terlalu trusting bahwa perusahaan akan honor verbal commitment, bukan D yang terlalu deliberative untuk situasi yang sudah jelas, bukan E yang off-loading decision responsibility.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_040",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "question": "Anda seorang pejabat yang dikenal memiliki integritas tinggi di organisasinya. Namun Anda juga memiliki keluarga dengan kebutuhan finansial yang tidak kecil: anak yang akan kuliah, orang tua yang sakit, dan rumah yang masih berutang. Anda ditawarkan sebuah pekerjaan sampingan sebagai konsultan dengan fee yang sangat menggiurkan oleh sebuah perusahaan yang berkali-kali memenangkan tender di instansi Anda. Anda tahu bahwa Anda secara hukum boleh memiliki pekerjaan sampingan selama tidak mengganggu tugas pokok. Namun Anda juga tahu bahwa hubungan Anda dengan perusahaan tersebut tidak bisa dilepaskan dari positional authority Anda sebagai pejabat. Position Anda adalah...",
+    "options": [
+      "Terima pekerjaan tersebut karena secara hukum diizinkan dan kebutuhan finansial keluarga adalah realitas yang tidak bisa diabaikan",
+      "Terima pekerjaan tersebut dengan syarat perusahaan adalah perusahaan yang kompeten dan Anda hanya memberikan konsultasi profesional based on expertise, bukan berdasarkan positional advantage",
+      "Tolak pekerjaan tersebut karena meskipun secara hukum diperbolehkan, hubungan Anda dengan perusahaan yang secara rutin memenangkan tender menciptakan conflict of interest yang tidak bisa diignore, dan integritas yang dibangun bertahun-tahun tidak boleh dikompromikan oleh kebutuhan finansial yang sementara",
+      "Minta izin tertulis kepada atasan sebelum menerima pekerjaan tersebut agar ada transparansi dan formal clearance yang melindungi Anda",
+      "Temukan perusahaan lain yang tidak ada hubungannya dengan instansi untuk pekerjaan sampingan agar tidak ada conflict of interest"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan integritas yang tidak situational: tidak membuat exception untuk convenience pribadi, memahami bahwa conflict of interest tidak hanya tentang legalitas tapi juga tentang persepsi dan precedent. Kebutuhan finansial keluarga, meskipun nyata, tidak membenarkan compromise yang bisa merusak credibility yang sudah dibangun bertahun-tahun. Bukan A yang terlalu legalistic tanpa ethical consideration, bukan B yang too trusting bahwa expertise vs positional advantage bisa cleanly separated, bukan D yang terlalu bureaucratic tanpa addressing underlying conflict, bukan E yang too transactional/complicated approach to a clear principle.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_041",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "question": "Anda seorang pejabat yang mengetahui bahwa salah satu rekan kerja Anda memiliki masalah serius dengan alkoholisme yang mulai mempengaruhi kinerjanya. Rekan kerja tersebut adalah seseorang yang dulu pernah membantu Anda saat Anda sedang dalam situasi sulit, dan Anda merasa memiliki utang moral kepada dia. Anda tahu bahwa jika Anda tidak melaporkan masalah ini, kinerja tim bisa terganggu dan keputusan yang dibuat di bawah pengaruh alkohol bisa berbahaya. Namun Anda juga tahu bahwa reporting akan berarti akhir dari karier rekan kerja Anda. Rekan kerja tersebut memiliki keluarga dan Anda tahu bahwa konsekuensi dari reporting akan sangat berat bagi keluarganya juga. Posisi Anda adalah...",
+    "options": [
+      "Tidak melaporkan karena Anda tidak ingin menjadi penyebab kehancuran karier dan keluarga rekan kerja Anda, dan mungkin masalahnya akan resolve sendiri seiring waktu",
+      "Laporkan masalah tersebut kepada atasan dengan informasi yang akurat dan komprehensif, karena keputusan tentang alkoholisme di tempat kerja adalah tanggung jawab yang harus ditindaklanjuti dan Anda tidak bisa menutup mata terhadap risiko yang ditimbulkan terhadap tim dan keputusan organisasi",
+      "Bicara langsung dengan rekan kerja terlebih dahulu: sampaikan bahwa Anda mengetahui masalahnya, berikan dia waktu dan kesempatan untuk memperbaiki sendiri, dan sampaikan bahwa jika dalam waktu tertentu tidak ada perbaikan, Anda akan perlu mengambil langkah lebih lanjut karena Anda tidak bisa mengabaikan risiko terhadap tim",
+      "Sarankan rekan kerja untuk mengambil cuti dan mencari bantuan profesional tanpa melibatkan organisasi karena itu adalah privacy matter yang harus diselesaikan antara dia dan keluarganya",
+      "Lapor ke HRD agar mereka menangani masalah ini secara confidential tanpa exposed identitas Anda"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan keseimbangan antara loyalty terhadap teman dan tanggung jawab terhadap tim dan organisasi: tidak langsung reporting yang akan langsung destroy karier seseorang tanpa memberikan kesempatan, tapi juga tidak diam yang mengabaikan risiko nyata. Pendekatan ini menghormati friendship sambil tetap holding to professional responsibility. Menyampaikan batas waktu memberikan urgency tanpa menjadi threat yang tidak konstruktif. Bukan A yang terlalu protective tanpa regard for team safety, bukan B yang terlalu blunt tanpa trying direct conversation first, bukan D yang terlalu passive/abdication, bukan E yang too bureaucratic.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_042",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "question": "Anda seorang pejabat yang diminta memberikan presentasi tentang anti-korupsi di sebuah acara yang disponai oleh sebuah perusahaan yang merupakan vendor utama di instansi Anda. Perusahaan tersebut memiliki reputasi yang tidak bagus: beberapa kali terlibat dalam kasus suap dan memiliki hubungan terlalu dekat dengan beberapa pejabat. Acara tersebut adalah program anti-korupsi yang disponai oleh mereka dan Anda diminta sebagai narasumber pemerintah. Hadir berarti memberikan legitimasi pada perusahaan yang memiliki track record korupsi. Tidak hadir berarti melewatkan kesempatan untuk menyampaikan pesan anti-korupsi ke audience yang lebih luas. Anda dalam posisi yang kompleks.",
+    "options": [
+      "Terima undangan karena pesan anti-korupsi harus disampaikan seluas mungkin dan siapa yang sponsori acara tidak mengubah substance dari pesan yang disampaikan",
+      "Tolak undangan karena menerima sponsor dari perusahaan dengan track record suap untuk acara anti-korupsi adalah hipokrisi yang akan merusak kredibilitas pesan anti-korupsi itu sendiri",
+      "Terima undangan dengan syarat bahwa Anda akan sampaikan dalam presentasi bahwa Anda hadir sebagai pemerintah yang independen dan tidak memberikan endorsement terhadap sponsor, dan Anda akan critique indirectly sponsor yang memiliki track record buruk dalam bicara anti-korupsi",
+      "Negosiasi dengan perusahaan untuk mengganti sponsor acara dengan entity yang lebih bersih dan netral sebelum Anda accept undangan",
+      "Terima undangan dan gunakan kesempatan ini untuk publicly expose track record korupsi perusahaan sponsor sebagai bagian dari presentasi anti-korupsi Anda"
+    ],
+    "answer": "C",
+    "explanation": "Opsi C menunjukkan sophisticated approach: tidak memboikot kesempatan menyampaikan pesan anti-korupsi, tidak juga memberikan legitimasi silenciosa kepada sponsor bermasalah. Dengan menyatakan independence secara eksplisit dan memberikan kritik, pesan anti-korupsi menjadi lebih powerful karena datang dengan contoh nyata darihypocrisy. Bukan A yang too naive, bukan B yang terlalu rigid tanpa regard for opportunity, bukan D yang tidak realistis untuk waktu singkat, bukan E yang terlalu confrontational dan tidak constructive.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_043",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "question": "Anda seorang pejabat eselon I yang selama 10 tahun terakhir memiliki track record sangat bersih dan dihormati oleh banyak pihak. Baru saja Anda mengetahui bahwa salah satu staf Anda yang memiliki akses ke sistem informasi telah menyebarkan informasi internal kepada pihak yang tidak berhak. Anda tidak memiliki bukti kuat tentang siapa yang menyebarkan informasi dan bagaimana informasinya digunakan. Namun Anda tahu bahwa jika Anda tidak mengambil tindakan, insiden ini akan terulang dan bisa berbahaya. Di waktu bersamaan, Anda juga tahu bahwa jika Anda mengambil tindakan yang terlalu agresif tanpa bukti yang kuat, Anda bisa menuduh orang yang tidak bersalah dan rusak reputasi Anda sendiri.",
+    "options": [
+      "Lakukan audit forensik terhadap sistem untuk melacak siapa yang mengakses dan menyebarkan informasi, dengan pendekatan yang confidential dan tidak menuduh siapapun sebelum bukti ditemukan",
+      "Segera nonaktifkan semua akses yang berpotensi spread informasi dan minta semua staf untuk reset credentials, karena pendekatan zero trust adalah satu-satunya cara untuk memastikan keamanan",
+      "Panggil semua staf yang memiliki akses dan minta mereka jujur karena Anda sudah mengetahui siapa pelakunya, meskipun sebenarnya Anda tidak tahu siapa",
+      "Lapor ke BSSN dan pihak berwajib karena penyebarluasan informasi internal adalah tindak pidana yang harus ditangani oleh pihak yang berwenang",
+      "Biarkan saja karena tidak ada bukti kuat dan investigate tanpa bukti hanya akan menciptakan ketidakpercayaan di antara staf"
+    ],
+    "answer": "A",
+    "explanation": "Opsi A menunjukkan profesionalisme dalam menghadapi security incident: tidak panik, tidak menuduh tanpa bukti, tapi juga tidak mengabaikan. Audit forensik berbasis data akan memberikan bukti yang dapat ditindaklanjuti dan melindungi both organisasi dan individu dari false accusation. Pendekatan confidential mengurangi disruption dan reputational risk. Bukan B yang terlalu disruptive tanpa basis evidence, bukan C yang bluffing yang tidak etis, bukan D yang prematur tanpa investigation internal terlebih dahulu, bukan E yang pasif tanpa mengambil langkah prevention.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_044",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "question": "Anda seorang pejabat yang mendapati bahwa salah satu kebijakan terbaru dari pemerintah pusat tentang reformasi birokrasi memiliki kelemahan fatal yang bisa menimbulkan negative unintended consequences yang besar bagi masyarakat. Anda sudah berpengalaman cukup lama untuk memahami bahwa kebijakan tersebut akan masalahjika diterapkan di lapangan. Namun kebijakan tersebut sudah disahkan dan semua pejabat diminta untuk implementasi. Anda tahu bahwa jika Anda sampaikan kritik, Anda bisa dianggap sebagai pembangkang yang tidak loyal terhadap kebijakan pemerintah. Tapi jika Anda diam dan implementasi berjalan, masyarakat akan merasakan dampak negatifnya.",
+    "options": [
+      "Diam karena Anda adalah bagian dari birokrasi dan sudah menjadi kewajiban untuk implementasi kebijakan yang sudah decided, masalah bisa diperbaiki dalam implementasi di level bawah",
+      "Sampaikan kritik melalui channel resmi (memo ke atasan, rekomendasi ke ministry) secara konstruktif dengan bukti empiris tentang potential problems dan solusi untuk perbaikan kebijakan sebelum implementasi dimulai, karena sampaikan melalui channel hierarchy adalah cara yang tepat dan konstruktif untuk influencing policy",
+      "Publikasikan kritik di media dan media sosial agar masyarakat tahu bahwa ada masalah dalam kebijakan ini dan pressure publik bisa mendorong perbaikan kebijakan",
+      "Ikut implementasi sambil sabotase secara diam-diam agar kebijakan gagal dan Anda bisa membuktikan bahwa kebijakan tersebut tidak bisa berhasil",
+      "Minta penugasan ke daerah lain saja sehingga Anda tidak perlu bertanggung jawab atas implementasi kebijakan yang Anda tidak setuju"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan patriotism yang konstruktif: tidak diam saja, tidak sabotase, tidak secara membangkang tapi juga tidak blindly obedient. Penyampaian melalui channel resmi menunjukkan loyalty terhadap sistem hierarki sambil tetap menjalankan tanggung jawab sebagai pejabat yang competent dan concerned tentang wellbeing masyarakat. Bukti empiris + solusi constructive adalah cara profesional untuk influencing policy from within. Bukan A yang terlalu passive, bukan C yang too public untuk kritik internal, bukan D yang sabotage adalah betrayal of duty, bukan E yang running away from responsibility.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tkp3_045",
+    "category": "TKP",
+    "subcategory": "Integritas Diri",
+    "question": "Anda seorang pejabat senior yang akan pensiun. Anda memiliki kesempatan untuk memberikan pesan dan nilai-nilai kepada generasi pejabat muda yang akan menggantikan Anda. Anda tahu bahwa sepanjang karier Anda, ada momen-momen di mana Anda membuat keputusan yang Anda sendiri tidak sepenuhnya puas: ada pilihan yang Anda tidak ambil karena terlalu afraid, ada kebenaran yang Anda tidak sampaikan karena terlalu political calculation, ada kesempatan yang Anda lewatkan untuk melakukan hal yang benar karena tidak nyaman. Sekarang Anda memiliki platform untuk meninggalkan pesan terakhir kepada pejabat muda.",
+    "options": [
+      "Sampaikan pesan bahwa dunia birokrasi adalah compromise dan pragmatism adalah kebutuhan, bahwa idealisme harus dikalibrasi dengan realitas politik dan sometimes you have to do what you have to do",
+      "Sampaikan pesan bahwa integritas harus dijaga dengan konsisten terlepasdari circumstances, bahwa tidak ada justifikasi untuk compromise principle, bahwa meskipun dunia birokrasi tidak perfect, setiap pejabat memiliki pilihan untuk menentukan batas yang tidak boleh dilanggar",
+      "Sampaikan pesan bahwa Anda tidak punya penyesalan karena semua keputusan yang Anda buat saat itu adalah yang terbaik yang Anda bisa dengan information yang tersedia pada saat itu",
+      "Sampaikan pesan bahwa karier adalah marathon, bukan sprint, dan bahwa keseimbangan antara keluarga dan pekerjaan, antara integritas dan sukses, adalah sesuatu yang harus terus dilemma throughout career",
+      "Sampaikan pesan bahwa pejabat muda harus membangun-network dan allies karena itu adalah kunci berhasil dalam birokrasi dan tanpa koneksii Anda tidak akan bisa berbuat banyak"
+    ],
+    "answer": "B",
+    "explanation": "Opsi B menunjukkan legacy integritas yang jujur dan aspirasional: mengakui bahwa dunia tidak perfect tapi tidak membuat itu sebagai justification untuk compromise, menyampaikan bahwa even dalam dunia politik yang kompleks, setiap individu memiliki agency untuk membuat pilihan ethical, dan meninggalkan pesan bahwa principle boundaries adalah personal responsibility yang tidak bisa didelegate atau di-negosiasi. Bukan A yang terlalu realistis-skeptis dan bisa menjadi self-fulfilling prophesy bagi pejabat muda, bukan C yang terlalu self-justifying tanpa acknowledging growth edge, bukan D yang too balanced tanpa clear principle, bukan E yang terlalu Machiavellian/network-driven.",
+    "difficulty": "hard"
+  }
+]
