@@ -38,7 +38,7 @@ class HomeScreen extends ConsumerWidget {
           child: Center(
             child: ConstrainedBox(
               constraints: BoxConstraints(
-                maxWidth: _isDesktop ? 1200 : (kIsWeb ? 800 : 600),
+                maxWidth: _isDesktop ? 1200 : 600,
               ),
               child: CustomScrollView(
             slivers: [
@@ -116,14 +116,14 @@ class HomeScreen extends ConsumerWidget {
                         ],
                       )
                     else ...[
-                      // Mobile/Web: stacked (lebih compact di web)
-                      _buildPassingGradeBanner(context, isWeb: kIsWeb),
-                      const SizedBox(height: kIsWeb ? 10 : 16),
+                      // Mobile: stacked
+                      _buildPassingGradeBanner(context),
+                      const SizedBox(height: 16),
                       statsAsync.when(
-                        data: (stats) => _buildStatsCard(context, stats, isWeb: kIsWeb),
-                        loading: () => _buildStatsSkeleton(context, isWeb: kIsWeb),
+                        data: (stats) => _buildStatsCard(context, stats),
+                        loading: () => _buildStatsSkeleton(context),
                         error: (_, __) =>
-                            _buildStatsCard(context, {'totalSessions': 0, 'streak': 0}, isWeb: kIsWeb),
+                            _buildStatsCard(context, {'totalSessions': 0, 'streak': 0}),
                       ),
                     ],
                     const SizedBox(height: 16),
@@ -140,14 +140,14 @@ class HomeScreen extends ConsumerWidget {
                     ),
                     const SizedBox(height: 10),
 
-                    // Grid Paket - Web lebih compact
+                    // Grid Paket - responsive
                     GridView.count(
                       shrinkWrap: true,
                       physics: const NeverScrollableScrollPhysics(),
-                      crossAxisCount: kIsWeb ? 4 : 2,
-                      mainAxisSpacing: kIsWeb ? 8 : 10,
-                      crossAxisSpacing: kIsWeb ? 8 : 10,
-                      childAspectRatio: kIsWeb ? 1.1 : 0.92,
+                      crossAxisCount: MediaQuery.of(context).size.width > 600 ? 4 : 2,
+                      mainAxisSpacing: 10,
+                      crossAxisSpacing: 10,
+                      childAspectRatio: MediaQuery.of(context).size.width > 600 ? 1.3 : 0.92,
                       children: [
                         PackageCard(
                           title: 'Try Out\nLengkap',
@@ -219,10 +219,10 @@ class HomeScreen extends ConsumerWidget {
     );
   }
 
-  Widget _buildPassingGradeBanner(BuildContext context, {bool isWeb = false}) {
+  Widget _buildPassingGradeBanner(BuildContext context) {
     return Container(
       width: double.infinity,
-      padding: EdgeInsets.symmetric(horizontal: 14, vertical: isWeb ? 10 : 12),
+      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
       decoration: BoxDecoration(
         gradient: const LinearGradient(
           colors: [AppTheme.primaryRed, AppTheme.primaryRedDark],
@@ -305,12 +305,12 @@ class HomeScreen extends ConsumerWidget {
     );
   }
 
-  Widget _buildStatsCard(BuildContext context, Map<String, dynamic> stats, {bool isWeb = false}) {
+  Widget _buildStatsCard(BuildContext context, Map<String, dynamic> stats) {
     final totalSessions = stats['totalSessions'] ?? 0;
     final streak = stats['streak'] ?? 0;
 
     return Container(
-      padding: EdgeInsets.symmetric(horizontal: 14, vertical: isWeb ? 10 : 12),
+      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
       decoration: BoxDecoration(
         color: Theme.of(context).cardColor,
         borderRadius: BorderRadius.circular(12),
@@ -387,10 +387,10 @@ class HomeScreen extends ConsumerWidget {
     );
   }
 
-  Widget _buildStatsSkeleton(BuildContext context, {bool isWeb = false}) {
+  Widget _buildStatsSkeleton(BuildContext context) {
     return Container(
-      height: isWeb ? 66 : 76,
-      padding: EdgeInsets.all(isWeb ? 12 : 16),
+      height: 76,
+      padding: const EdgeInsets.all(16),
       decoration: BoxDecoration(
         color: Theme.of(context).cardColor,
         borderRadius: BorderRadius.circular(16),

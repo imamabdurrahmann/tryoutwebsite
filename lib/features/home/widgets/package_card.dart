@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/foundation.dart' show kIsWeb;
 
 /// Paket kartu elegan dengan desain glassmorphism.
 /// Bersifat reusable untuk semua menu utama di aplikasi.
@@ -24,7 +23,6 @@ class PackageCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final isDark = Theme.of(context).brightness == Brightness.dark;
-    final isWeb = kIsWeb;
 
     return Card(
       elevation: 0,
@@ -36,7 +34,7 @@ class PackageCard extends StatelessWidget {
         highlightColor: color.withAlpha(12),
         child: Container(
           decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(isWeb ? 12 : 16),
+            borderRadius: BorderRadius.circular(16),
             gradient: LinearGradient(
               colors: isDark
                   ? [
